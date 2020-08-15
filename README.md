@@ -46,7 +46,11 @@ If you want to know more about me, follow me on Twitter!
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Why React Hooks?](https://teklinks.andrejnsimoes.com/2020/08/why-react-hooks.html)
+- [Different versions of your site can be running at the same time](https://teklinks.andrejnsimoes.com/2020/08/different-versions-of-your-site-can-be.html)
+- [Reflections on code quality. Confession of a CTO](https://teklinks.andrejnsimoes.com/2020/08/reflections-on-code-quality-confession.html)
+- [A Pattern for State Management in React Function Components](https://teklinks.andrejnsimoes.com/2020/08/a-pattern-for-state-management-in-react.html)
+- [You definitely should be using Suspense in React — code splitting and preloading](https://teklinks.andrejnsimoes.com/2020/08/you-definitely-should-be-using-suspense.html)
 <!-- BLOG-POST-LIST:END -->
 
 
