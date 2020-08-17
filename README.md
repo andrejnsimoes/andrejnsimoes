@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Vue 3 is coming - what to expect and how to prepare](https://teklinks.andrejnsimoes.com/2020/08/vue-3-is-coming-what-to-expect-and-how.html)
+- [Storybook 6.0](https://teklinks.andrejnsimoes.com/2020/08/storybook-60.html)
 - [Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit](https://teklinks.andrejnsimoes.com/2020/08/revolutionizing-micro-frontends-with.html)
 - [I Switched from LastPass to 1Password (and You Should, Too)](https://teklinks.andrejnsimoes.com/2020/08/i-switched-from-lastpass-to-1password.html)
 - [GitHub Repos That Should Be Starred by Every Web Developer](https://teklinks.andrejnsimoes.com/2020/08/github-repos-that-should-be-starred-by.html)
-- [Why React Hooks?](https://teklinks.andrejnsimoes.com/2020/08/why-react-hooks.html)
-- [Different versions of your site can be running at the same time](https://teklinks.andrejnsimoes.com/2020/08/different-versions-of-your-site-can-be.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
@@ -58,9 +58,6 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Junior Vs Senior Code - How To Write Better Code](https://www.youtube.com/watch?v=g2nMKzhkvxw)
 <!-- YOUTUBE:END -->
 
-### 📊 What I'm working on
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 [website]: https://teklinks.andrejnsimoes.com
 [twitter]: https://twitter.com/andrejnsimoes
