@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit](https://teklinks.andrejnsimoes.com/2020/08/revolutionizing-micro-frontends-with.html)
+- [I Switched from LastPass to 1Password (and You Should, Too)](https://teklinks.andrejnsimoes.com/2020/08/i-switched-from-lastpass-to-1password.html)
+- [GitHub Repos That Should Be Starred by Every Web Developer](https://teklinks.andrejnsimoes.com/2020/08/github-repos-that-should-be-starred-by.html)
 - [Why React Hooks?](https://teklinks.andrejnsimoes.com/2020/08/why-react-hooks.html)
 - [Different versions of your site can be running at the same time](https://teklinks.andrejnsimoes.com/2020/08/different-versions-of-your-site-can-be.html)
-- [Reflections on code quality. Confession of a CTO](https://teklinks.andrejnsimoes.com/2020/08/reflections-on-code-quality-confession.html)
-- [A Pattern for State Management in React Function Components](https://teklinks.andrejnsimoes.com/2020/08/a-pattern-for-state-management-in-react.html)
-- [You definitely should be using Suspense in React — code splitting and preloading](https://teklinks.andrejnsimoes.com/2020/08/you-definitely-should-be-using-suspense.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
