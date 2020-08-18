@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [LinkedIn e Shimmer Effect no ReactJS | UI Clone](https://www.youtube.com/watch?v=-ZV-_7vNRGw)
+- [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ)
 - [Guide to React's useRef Hook](https://www.youtube.com/watch?v=ZGL9XiveFHs)
 - [Live: Module Federation Into Production](https://www.youtube.com/watch?v=vtM0-uhYLxM)
 - [React Hooks Complete Tutorial - useState, useReducer, useEffect, Custom Hooks + Testing Hooks](https://www.youtube.com/watch?v=lHffUCSgR9w)
-- [How To Create A Video Chat App With WebRTC](https://www.youtube.com/watch?v=DvlyzDZDEq4)
-- [Junior Vs Senior Code - How To Write Better Code](https://www.youtube.com/watch?v=g2nMKzhkvxw)
 <!-- YOUTUBE:END -->
 
 
