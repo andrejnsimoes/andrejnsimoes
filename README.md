@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Practical Guide To Product Tours In React Apps](https://teklinks.andrejnsimoes.com/2020/08/a-practical-guide-to-product-tours-in.html)
+- [Using absolute (alias) imports in Javascript and VSCode](https://teklinks.andrejnsimoes.com/2020/08/using-absolute-alias-imports-in.html)
 - [Vue 3 is coming - what to expect and how to prepare](https://teklinks.andrejnsimoes.com/2020/08/vue-3-is-coming-what-to-expect-and-how.html)
 - [Storybook 6.0](https://teklinks.andrejnsimoes.com/2020/08/storybook-60.html)
 - [Revolutionizing Micro Frontends with Webpack 5, Module Federation and Bit](https://teklinks.andrejnsimoes.com/2020/08/revolutionizing-micro-frontends-with.html)
-- [I Switched from LastPass to 1Password (and You Should, Too)](https://teklinks.andrejnsimoes.com/2020/08/i-switched-from-lastpass-to-1password.html)
-- [GitHub Repos That Should Be Starred by Every Web Developer](https://teklinks.andrejnsimoes.com/2020/08/github-repos-that-should-be-starred-by.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
