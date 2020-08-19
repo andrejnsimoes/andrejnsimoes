@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Typescript with Module Federation ||  TypeScript Tutorial](https://www.youtube.com/watch?v=UbEx1v26kCs)
+- [THE ULTIMATE REACT-HOOK-FORM CHALLENGE - ALL THE FEATURES IN ONE FORM](https://www.youtube.com/watch?v=U-iz8b4RExA)
 - [LinkedIn e Shimmer Effect no ReactJS | UI Clone](https://www.youtube.com/watch?v=-ZV-_7vNRGw)
 - [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ)
 - [Guide to React's useRef Hook](https://www.youtube.com/watch?v=ZGL9XiveFHs)
-- [Live: Module Federation Into Production](https://www.youtube.com/watch?v=vtM0-uhYLxM)
-- [React Hooks Complete Tutorial - useState, useReducer, useEffect, Custom Hooks + Testing Hooks](https://www.youtube.com/watch?v=lHffUCSgR9w)
 <!-- YOUTUBE:END -->
 
 
