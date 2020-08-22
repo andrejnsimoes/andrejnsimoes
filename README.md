@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned by Fixing One Line of CSS in an Open Source Project](https://teklinks.andrejnsimoes.com/2020/08/what-i-learned-by-fixing-one-line-of.html)
+- [Up and running with Snowpack and Svelte in seconds](https://teklinks.andrejnsimoes.com/2020/08/up-and-running-with-snowpack-and-svelte.html)
+- [Design Patterns in TypeScript](https://teklinks.andrejnsimoes.com/2020/08/design-patterns-in-typescript.html)
 - [A Guide to Commonly Used React Component Libraries](https://teklinks.andrejnsimoes.com/2020/08/a-guide-to-commonly-used-react.html)
 - [9 Functional Programming Concepts Everyone Should Know](https://teklinks.andrejnsimoes.com/2020/08/9-functional-programming-concepts.html)
-- [ts-migrate: A Tool for Migrating to TypeScript at Scale](https://teklinks.andrejnsimoes.com/2020/08/ts-migrate-tool-for-migrating-to.html)
-- [A Practical Guide To Product Tours In React Apps](https://teklinks.andrejnsimoes.com/2020/08/a-practical-guide-to-product-tours-in.html)
-- [Using absolute (alias) imports in Javascript and VSCode](https://teklinks.andrejnsimoes.com/2020/08/using-absolute-alias-imports-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
