@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS S3 Pricing Explained: Tiered Storage Can Save You Money](https://teklinks.andrejnsimoes.com/2020/08/aws-s3-pricing-explained-tiered-storage.html)
+- [Creating a Flexible Sales Dashboard with Redash & Google Sheets](https://teklinks.andrejnsimoes.com/2020/08/creating-flexible-sales-dashboard-with.html)
+- [How to Customize the Apple CarPlay Screen](https://teklinks.andrejnsimoes.com/2020/08/how-to-customize-apple-carplay-screen.html)
 - [What I Learned by Fixing One Line of CSS in an Open Source Project](https://teklinks.andrejnsimoes.com/2020/08/what-i-learned-by-fixing-one-line-of.html)
 - [Up and running with Snowpack and Svelte in seconds](https://teklinks.andrejnsimoes.com/2020/08/up-and-running-with-snowpack-and-svelte.html)
-- [Design Patterns in TypeScript](https://teklinks.andrejnsimoes.com/2020/08/design-patterns-in-typescript.html)
-- [A Guide to Commonly Used React Component Libraries](https://teklinks.andrejnsimoes.com/2020/08/a-guide-to-commonly-used-react.html)
-- [9 Functional Programming Concepts Everyone Should Know](https://teklinks.andrejnsimoes.com/2020/08/9-functional-programming-concepts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
