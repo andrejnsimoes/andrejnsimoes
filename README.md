@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Postgres Full Text Search](https://teklinks.andrejnsimoes.com/2020/08/postgres-full-text-search.html)
+- [How to Get Started and Use tmux](https://teklinks.andrejnsimoes.com/2020/08/how-to-get-started-and-use-tmux.html)
+- [Webpack 5 Federation. A Game-changer to Javascript architecture.](https://teklinks.andrejnsimoes.com/2020/08/webpack-5-federation-game-changer-to.html)
 - [A tale of webpage speed, or throwing away React #](https://teklinks.andrejnsimoes.com/2020/08/a-tale-of-webpage-speed-or-throwing.html)
 - [What Does Webpack Do, and How Do I Use It for My Website?](https://teklinks.andrejnsimoes.com/2020/08/what-does-webpack-do-and-how-do-i-use.html)
-- [Docker best practices with Node.js](https://teklinks.andrejnsimoes.com/2020/08/docker-best-practices-with-nodejs.html)
-- [⚛️ 🚀 React Component Patterns](https://teklinks.andrejnsimoes.com/2020/08/react-component-patterns.html)
-- [Creating A Static Blog With Sapper And Strapi](https://teklinks.andrejnsimoes.com/2020/08/creating-static-blog-with-sapper-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
