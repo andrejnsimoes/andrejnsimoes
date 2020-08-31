@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Impossible Trivia With Nick White](https://www.youtube.com/watch?v=iQMSFaoJ2QM)
 - [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 - [Typescript with Module Federation ||  TypeScript Tutorial](https://www.youtube.com/watch?v=UbEx1v26kCs)
 - [THE ULTIMATE REACT-HOOK-FORM CHALLENGE - ALL THE FEATURES IN ONE FORM](https://www.youtube.com/watch?v=U-iz8b4RExA)
 - [LinkedIn e Shimmer Effect no ReactJS | UI Clone](https://www.youtube.com/watch?v=-ZV-_7vNRGw)
-- [Docker in 100 Seconds](https://www.youtube.com/watch?v=Gjnup-PuquQ)
 <!-- YOUTUBE:END -->
 
 
