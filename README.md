@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to establish a Git Team Workflow](https://teklinks.andrejnsimoes.com/2020/09/how-to-establish-git-team-workflow.html)
+- [Using environment variables in React](https://teklinks.andrejnsimoes.com/2020/09/using-environment-variables-inreact.html)
+- [Lazy Load Images in Angular with Two Lines of Code](https://teklinks.andrejnsimoes.com/2020/09/lazy-load-images-in-angular-with-two.html)
 - [Add Social Login to Ionic Apps](https://teklinks.andrejnsimoes.com/2020/08/add-social-login-to-ionic-apps.html)
 - [The Strong Game of Developer To Entrepreneur](https://teklinks.andrejnsimoes.com/2020/08/the-strong-game-of-developer-to.html)
-- [Postgres Full Text Search](https://teklinks.andrejnsimoes.com/2020/08/postgres-full-text-search.html)
-- [How to Get Started and Use tmux](https://teklinks.andrejnsimoes.com/2020/08/how-to-get-started-and-use-tmux.html)
-- [Webpack 5 Federation. A Game-changer to Javascript architecture.](https://teklinks.andrejnsimoes.com/2020/08/webpack-5-federation-game-changer-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
