@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Utilizando as refs no React de forma avançada | Code/Drops #52](https://www.youtube.com/watch?v=lA8o3kUl1TA)
 - [Why I’m Using Next.js in 2020](https://www.youtube.com/watch?v=rtgbaKBhdkk)
 - [Impossible Trivia With Nick White](https://www.youtube.com/watch?v=iQMSFaoJ2QM)
 - [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 - [Typescript with Module Federation ||  TypeScript Tutorial](https://www.youtube.com/watch?v=UbEx1v26kCs)
-- [THE ULTIMATE REACT-HOOK-FORM CHALLENGE - ALL THE FEATURES IN ONE FORM](https://www.youtube.com/watch?v=U-iz8b4RExA)
 <!-- YOUTUBE:END -->
 
 
