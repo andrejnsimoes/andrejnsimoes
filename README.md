@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building A Component Library With React And Emotion](https://teklinks.andrejnsimoes.com/2020/09/building-component-library-with-react.html)
+- [The Missing Introduction to React](https://teklinks.andrejnsimoes.com/2020/09/the-missing-introduction-to-react.html)
+- [7 Pitfalls to Avoid With OKR’s](https://teklinks.andrejnsimoes.com/2020/09/7-pitfalls-to-avoid-with-okrs.html)
 - [How to establish a Git Team Workflow](https://teklinks.andrejnsimoes.com/2020/09/how-to-establish-git-team-workflow.html)
 - [Using environment variables in React](https://teklinks.andrejnsimoes.com/2020/09/using-environment-variables-inreact.html)
-- [Lazy Load Images in Angular with Two Lines of Code](https://teklinks.andrejnsimoes.com/2020/09/lazy-load-images-in-angular-with-two.html)
-- [Add Social Login to Ionic Apps](https://teklinks.andrejnsimoes.com/2020/08/add-social-login-to-ionic-apps.html)
-- [The Strong Game of Developer To Entrepreneur](https://teklinks.andrejnsimoes.com/2020/08/the-strong-game-of-developer-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
