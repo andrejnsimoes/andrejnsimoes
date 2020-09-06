@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Designing a JavaScript Plugin System](https://teklinks.andrejnsimoes.com/2020/09/designing-javascript-plugin-system.html)
+- [Redux vs React's Context API](https://teklinks.andrejnsimoes.com/2020/09/redux-vs-reacts-context-api.html)
+- [A Basic Introduction to Webpack](https://teklinks.andrejnsimoes.com/2020/09/a-basic-introduction-to-webpack.html)
 - [Building A Component Library With React And Emotion](https://teklinks.andrejnsimoes.com/2020/09/building-component-library-with-react.html)
 - [The Missing Introduction to React](https://teklinks.andrejnsimoes.com/2020/09/the-missing-introduction-to-react.html)
-- [7 Pitfalls to Avoid With OKR’s](https://teklinks.andrejnsimoes.com/2020/09/7-pitfalls-to-avoid-with-okrs.html)
-- [How to establish a Git Team Workflow](https://teklinks.andrejnsimoes.com/2020/09/how-to-establish-git-team-workflow.html)
-- [Using environment variables in React](https://teklinks.andrejnsimoes.com/2020/09/using-environment-variables-inreact.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
