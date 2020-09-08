@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building React Apps With Storybook](https://teklinks.andrejnsimoes.com/2020/09/building-react-apps-with-storybook.html)
+- [⚛️ 🚀 React Component Patterns](https://teklinks.andrejnsimoes.com/2020/09/react-component-patterns.html)
+- [Use VSCode Like a Senior Developer](https://teklinks.andrejnsimoes.com/2020/09/use-vscode-like-senior-developer.html)
 - [10 lesser-known Web APIs you may want to use](https://teklinks.andrejnsimoes.com/2020/09/10-lesser-known-web-apis-you-may-want.html)
 - [Work-from-Home Fatigue? Change Things Up](https://teklinks.andrejnsimoes.com/2020/09/work-from-home-fatigue-change-things-up.html)
-- [Towards an understanding of technical debt](https://teklinks.andrejnsimoes.com/2020/09/towards-understanding-of-technical-debt.html)
-- [Designing a JavaScript Plugin System](https://teklinks.andrejnsimoes.com/2020/09/designing-javascript-plugin-system.html)
-- [Redux vs React's Context API](https://teklinks.andrejnsimoes.com/2020/09/redux-vs-reacts-context-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
