@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Ways to Make the Most of Your Remote Sprint Retrospective](https://teklinks.andrejnsimoes.com/2020/09/6-ways-to-make-most-of-your-remote.html)
+- [How to Run a Linux Program at Startup with systemd](https://teklinks.andrejnsimoes.com/2020/09/how-to-run-linux-program-at-startup.html)
+- [AVIF has landed](https://teklinks.andrejnsimoes.com/2020/09/avif-has-landed.html)
 - [4 Practical Ways to Build Micro Frontends](https://teklinks.andrejnsimoes.com/2020/09/4-practical-ways-to-build-micro.html)
 - [A Gentle Introduction to Code Splitting with React](https://teklinks.andrejnsimoes.com/2020/09/a-gentle-introduction-to-code-splitting.html)
-- [Beginners guide to Kafka](https://teklinks.andrejnsimoes.com/2020/09/beginners-guide-to-kafka.html)
-- [Building React Apps With Storybook](https://teklinks.andrejnsimoes.com/2020/09/building-react-apps-with-storybook.html)
-- [⚛️ 🚀 React Component Patterns](https://teklinks.andrejnsimoes.com/2020/09/react-component-patterns.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
