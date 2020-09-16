@@ -41,10 +41,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Performance tests in your CI Pipeline with Lighthouse CI](https://teklinks.andrejnsimoes.com/2020/09/performance-tests-in-your-ci-pipeline.html)
 - [Automate JavaScript project versioning with commitizen and standard-version](https://teklinks.andrejnsimoes.com/2020/09/automate-javascript-project-versioning.html)
 - [How 7 Lines of Code Turned Into a $36 Billion Empire](https://teklinks.andrejnsimoes.com/2020/09/how-7-lines-of-code-turned-into-36.html)
 - [What’s the Benefit of Statically Typed Programming Languages?](https://teklinks.andrejnsimoes.com/2020/09/whats-benefit-of-statically-typed.html)
-- [Performance tests in your CI Pipeline with Lighthouse CI](https://teklinks.andrejnsimoes.com/2020/09/performance-tests-in-your-ci-pipeline.html)
 - [6 Ways to Make the Most of Your Remote Sprint Retrospective](https://teklinks.andrejnsimoes.com/2020/09/6-ways-to-make-most-of-your-remote.html)
 <!-- BLOG-POST-LIST:END -->
 
