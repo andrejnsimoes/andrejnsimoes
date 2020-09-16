@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Utilizando as refs no React de forma avançada | Code/Drops #52](https://www.youtube.com/watch?v=lA8o3kUl1TA)
-- [Why I’m Using Next.js in 2020](https://www.youtube.com/watch?v=rtgbaKBhdkk)
-- [Impossible Trivia With Nick White](https://www.youtube.com/watch?v=iQMSFaoJ2QM)
-- [Fullstack React GraphQL TypeScript Tutorial](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
-- [Typescript with Module Federation ||  TypeScript Tutorial](https://www.youtube.com/watch?v=UbEx1v26kCs)
+- [hosers are tweeting about github contribution graphs again](https://www.youtube.com/watch?v=rLkgcm1UsiM)
+- [macOS Terminal (zsh) - The Beginners' Guide](https://www.youtube.com/watch?v=ogWoUU2DXBU)
+- [Zustand - New React State Manager](https://www.youtube.com/watch?v=_qCRuFrdhYw)
+- [Is Remote Work Right For You](https://www.youtube.com/watch?v=nETpUlOr1RQ)
+- [5 Design Patterns Every Engineer Should Know](https://www.youtube.com/watch?v=FLmBqI3IKMA)
 <!-- YOUTUBE:END -->
 
 
