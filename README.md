@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction To Running Lighthouse Programmatically](https://teklinks.andrejnsimoes.com/2020/09/an-introduction-to-running-lighthouse.html)
+- [Rewriting Facebook's "Recoil" React library from scratch in 100 lines](https://teklinks.andrejnsimoes.com/2020/09/rewriting-facebooks-recoil-react.html)
+- [The Ultimate Guide to React Localization with i18next](https://teklinks.andrejnsimoes.com/2020/09/the-ultimate-guide-to-react.html)
 - [Migrating from styled-components to Stitches](https://teklinks.andrejnsimoes.com/2020/09/migrating-from-styled-components-to.html)
 - [How to Use Rate Limiting on Nginx](https://teklinks.andrejnsimoes.com/2020/09/how-to-use-rate-limiting-on-nginx.html)
-- [React + TypeScript ❤️: The good parts ⚡](https://teklinks.andrejnsimoes.com/2020/09/react-typescript-good-parts.html)
-- [I Use These 4 Questions to Find Outstanding JavaScript Developers](https://teklinks.andrejnsimoes.com/2020/09/i-use-these-4-questions-to-find.html)
-- [GitHub Actions & Angular 10/9: Install Node.js, Angular CLI and Deploy your App to GitHub Pages](https://teklinks.andrejnsimoes.com/2020/09/github-actions-angular-109-install.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
