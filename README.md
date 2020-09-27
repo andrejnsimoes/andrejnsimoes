@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React is becoming a black box](https://teklinks.andrejnsimoes.com/2020/09/react-is-becoming-black-box.html)
+- [10 Tips to Improve Productivity using Chrome Dev Tools](https://teklinks.andrejnsimoes.com/2020/09/10-tips-to-improve-productivity-using.html)
+- [36 Hidden Google Search Games and Easter Eggs](https://teklinks.andrejnsimoes.com/2020/09/36-hidden-google-search-games-and.html)
 - [Vital Web Performance](https://teklinks.andrejnsimoes.com/2020/09/vital-web-performance.html)
 - [Most Common Security Vulnerabilities Using JavaScript](https://teklinks.andrejnsimoes.com/2020/09/most-common-security-vulnerabilities.html)
-- [VSCode Tips and Tricks for Power Users](https://teklinks.andrejnsimoes.com/2020/09/vscode-tips-and-tricks-for-power-users.html)
-- [An Introduction To Running Lighthouse Programmatically](https://teklinks.andrejnsimoes.com/2020/09/an-introduction-to-running-lighthouse.html)
-- [Rewriting Facebook's "Recoil" React library from scratch in 100 lines](https://teklinks.andrejnsimoes.com/2020/09/rewriting-facebooks-recoil-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
