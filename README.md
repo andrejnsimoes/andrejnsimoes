@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Build a Gym Website Using The Tailwind Starter Kit](https://www.youtube.com/watch?v=mO3aXUgjnIE)
 - [Introducing Jotai || React State Manager Tutorial](https://www.youtube.com/watch?v=x9usS4l1VD0)
 - [Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0)
 - [hosers are tweeting about github contribution graphs again](https://www.youtube.com/watch?v=rLkgcm1UsiM)
 - [macOS Terminal (zsh) - The Beginners' Guide](https://www.youtube.com/watch?v=ogWoUU2DXBU)
-- [Zustand - New React State Manager](https://www.youtube.com/watch?v=_qCRuFrdhYw)
 <!-- YOUTUBE:END -->
 
 
