@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [19 things I stole from great developers](https://teklinks.andrejnsimoes.com/2020/10/19-things-i-stole-from-great-developers.html)
+- [Jotai — Simple State Management for React](https://teklinks.andrejnsimoes.com/2020/10/jotaisimple-state-management-for-react.html)
+- [Micro Frontend Architecture: Import chunks from another Webpack bundle at runtime](https://teklinks.andrejnsimoes.com/2020/10/micro-frontend-architecture-import.html)
 - [TypeScript to WebAssembly: The What, The How And The Why](https://teklinks.andrejnsimoes.com/2020/10/typescript-to-webassembly-what-how-and.html)
 - [My favorite Tech RSS Feeds](https://teklinks.andrejnsimoes.com/2020/10/my-favorite-tech-rss-feeds.html)
-- [How to Replace Redux with React Hooks and the Context API](https://teklinks.andrejnsimoes.com/2020/10/how-to-replace-redux-with-react-hooks.html)
-- [A growing list of accessibility tools and resources](https://teklinks.andrejnsimoes.com/2020/09/a-growing-list-of-accessibility-tools.html)
-- [Tailwind CSS Resources you wish you had.](https://teklinks.andrejnsimoes.com/2020/09/tailwind-css-resources-you-wish-you-had_30.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
