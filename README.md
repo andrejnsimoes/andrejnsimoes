@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Tree-Shaking Problems with Component Libraries](https://teklinks.andrejnsimoes.com/2020/10/tree-shaking-problems-with-component.html)
+- [The Red Flags on Your Resume](https://teklinks.andrejnsimoes.com/2020/10/the-red-flags-on-your-resume.html)
+- [Announcing MobX 6](https://teklinks.andrejnsimoes.com/2020/10/announcing-mobx-6.html)
 - [How to Get Started with Github’s New Docker Container Registry](https://teklinks.andrejnsimoes.com/2020/10/how-to-get-started-with-githubs-new.html)
 - [15 React Interview Questions with Solutions](https://teklinks.andrejnsimoes.com/2020/10/15-react-interview-questions-with.html)
-- [GIT Tips and Tricks to Improve your GIT Workflow](https://teklinks.andrejnsimoes.com/2020/10/git-tips-and-tricks-to-improve-your-git.html)
-- [19 things I stole from great developers](https://teklinks.andrejnsimoes.com/2020/10/19-things-i-stole-from-great-developers.html)
-- [Jotai — Simple State Management for React](https://teklinks.andrejnsimoes.com/2020/10/jotaisimple-state-management-for-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
