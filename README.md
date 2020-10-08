@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k)
+- [Build a Blog With Next.js & Ghost](https://www.youtube.com/watch?v=1SYU1GorO6Y)
 - [Build a Gym Website Using The Tailwind Starter Kit](https://www.youtube.com/watch?v=mO3aXUgjnIE)
 - [Introducing Jotai || React State Manager Tutorial](https://www.youtube.com/watch?v=x9usS4l1VD0)
 - [Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0)
-- [hosers are tweeting about github contribution graphs again](https://www.youtube.com/watch?v=rLkgcm1UsiM)
 <!-- YOUTUBE:END -->
 
 
