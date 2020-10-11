@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Service Workers with React](https://teklinks.andrejnsimoes.com/2020/10/using-service-workers-with-react.html)
 - [1-on-1 Meetings: More Important than Ever](https://teklinks.andrejnsimoes.com/2020/10/1-on-1-meetings-more-important-than-ever.html)
 - [Epic React: Javascript You Need To Know For React](https://teklinks.andrejnsimoes.com/2020/10/epic-react-javascript-you-need-to-know.html)
 - [An introduction to Webpack Code-Splitting, Loadable/component, and Resource Hints](https://teklinks.andrejnsimoes.com/2020/10/an-introduction-to-webpack-code.html)
 - [Tree-Shaking Problems with Component Libraries](https://teklinks.andrejnsimoes.com/2020/10/tree-shaking-problems-with-component.html)
-- [The Red Flags on Your Resume](https://teklinks.andrejnsimoes.com/2020/10/the-red-flags-on-your-resume.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
