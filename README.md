@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Slashing layout cost with content-visibility - HTTP 203](https://www.youtube.com/watch?v=FFA-v-CIxJQ)
 - [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k)
+- [Fullstack Jamstack with Next.js (1) - Intro and Project Setup](https://www.youtube.com/watch?v=TNKzKtNTjls)
 - [Build a Blog With Next.js & Ghost](https://www.youtube.com/watch?v=1SYU1GorO6Y)
 - [Build a Gym Website Using The Tailwind Starter Kit](https://www.youtube.com/watch?v=mO3aXUgjnIE)
-- [Introducing Jotai || React State Manager Tutorial](https://www.youtube.com/watch?v=x9usS4l1VD0)
-- [Livestream with Kent: React Patterns](https://www.youtube.com/watch?v=WV0UUcSPk-0)
 <!-- YOUTUBE:END -->
 
 
