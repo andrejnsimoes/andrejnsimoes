@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Supercharge Testing React Applications With Wallaby.js](https://teklinks.andrejnsimoes.com/2020/10/supercharge-testing-react-applications.html)
+- [Frontend Architecture at Scale for Large Organizations](https://teklinks.andrejnsimoes.com/2020/10/frontend-architecture-at-scale-for.html)
+- [The Rise and Fall of a Senior Developer](https://teklinks.andrejnsimoes.com/2020/10/the-rise-and-fall-of-senior-developer.html)
 - [How I structure React apps](https://teklinks.andrejnsimoes.com/2020/10/how-i-structure-react-apps.html)
 - [Cumulative Layout Shift in Practice](https://teklinks.andrejnsimoes.com/2020/10/cumulative-layout-shift-in-practice.html)
-- [Review of Chakra UI](https://teklinks.andrejnsimoes.com/2020/10/review-of-chakra-ui.html)
-- [Using Service Workers with React](https://teklinks.andrejnsimoes.com/2020/10/using-service-workers-with-react.html)
-- [1-on-1 Meetings: More Important than Ever](https://teklinks.andrejnsimoes.com/2020/10/1-on-1-meetings-more-important-than-ever.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
