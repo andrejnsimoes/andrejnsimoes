@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [What Is The Jamstack?](https://www.youtube.com/watch?v=ySJGjo3_EX4)
+- [React-Query Tutorial - FORGET ABOUT useEffect](https://www.youtube.com/watch?v=GE-waX4jmdA)
 - [FaunaDB Basics - The Database of your Dreams](https://www.youtube.com/watch?v=2CipVwISumA)
+- [React JS Roadmap for Developers](https://www.youtube.com/watch?v=Ip_jOSpThSg)
 - [Converting to Typescript - Basic Types](https://www.youtube.com/watch?v=j92fxPpFaL8)
-- [Slashing layout cost with content-visibility - HTTP 203](https://www.youtube.com/watch?v=FFA-v-CIxJQ)
-- [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React](https://www.youtube.com/watch?v=0yzoAbrjV6k)
-- [Fullstack Jamstack with Next.js (1) - Intro and Project Setup](https://www.youtube.com/watch?v=TNKzKtNTjls)
 <!-- YOUTUBE:END -->
 
 
