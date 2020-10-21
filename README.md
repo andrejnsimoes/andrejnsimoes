@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The power of Strapi  - Building Web Application has never been easier](https://teklinks.andrejnsimoes.com/2020/10/the-power-of-strapi-building-web.html)
+- [How to Prevent Pasting into an Input](https://teklinks.andrejnsimoes.com/2020/10/how-to-prevent-pasting-into-input.html)
 - [Measuring Site Reliability](https://teklinks.andrejnsimoes.com/2020/10/measuring-site-reliability.html)
 - [Environment Based Dead Code Elimination in Angular](https://teklinks.andrejnsimoes.com/2020/10/environment-based-dead-code-elimination.html)
 - [🗃 Local Storage vs. Session Storage](https://teklinks.andrejnsimoes.com/2020/10/local-storage-vs-session-storage.html)
-- [Supercharge Testing React Applications With Wallaby.js](https://teklinks.andrejnsimoes.com/2020/10/supercharge-testing-react-applications.html)
-- [Frontend Architecture at Scale for Large Organizations](https://teklinks.andrejnsimoes.com/2020/10/frontend-architecture-at-scale-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
