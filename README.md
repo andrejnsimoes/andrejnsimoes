@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack](https://www.youtube.com/watch?v=5IG4UmULyoA)
 - [What Is The Jamstack?](https://www.youtube.com/watch?v=ySJGjo3_EX4)
 - [React-Query Tutorial - FORGET ABOUT useEffect](https://www.youtube.com/watch?v=GE-waX4jmdA)
 - [FaunaDB Basics - The Database of your Dreams](https://www.youtube.com/watch?v=2CipVwISumA)
 - [React JS Roadmap for Developers](https://www.youtube.com/watch?v=Ip_jOSpThSg)
-- [Converting to Typescript - Basic Types](https://www.youtube.com/watch?v=j92fxPpFaL8)
 <!-- YOUTUBE:END -->
 
 
