@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Business Operations - Tech Stack Details](https://teklinks.andrejnsimoes.com/2020/10/business-operations-tech-stack-details.html)
+- [Managing Long-Running Tasks In A React App With Web Workers](https://teklinks.andrejnsimoes.com/2020/10/managing-long-running-tasks-in-react.html)
+- [Micro frontends with Module Federation and Webpack 5](https://teklinks.andrejnsimoes.com/2020/10/micro-frontends-with-module-federation.html)
 - [How to Maximize Reusability for Your React Components](https://teklinks.andrejnsimoes.com/2020/10/how-to-maximize-reusability-for-your.html)
 - [Build an Authenticated JAMstack App with Next.js, Airtable, Tailwind CSS, and Auth0](https://teklinks.andrejnsimoes.com/2020/10/build-authenticated-jamstack-app-with.html)
-- [What’s New in Webpack 5](https://teklinks.andrejnsimoes.com/2020/10/whats-new-in-webpack-5.html)
-- [The power of Strapi  - Building Web Application has never been easier](https://teklinks.andrejnsimoes.com/2020/10/the-power-of-strapi-building-web.html)
-- [How to Prevent Pasting into an Input](https://teklinks.andrejnsimoes.com/2020/10/how-to-prevent-pasting-into-input.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
