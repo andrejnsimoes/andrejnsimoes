@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Trying Blazor](https://www.youtube.com/watch?v=S6Tu8oXyoRk)
 - [Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack](https://www.youtube.com/watch?v=5IG4UmULyoA)
 - [Git Tutorial for Beginners - The Basics](https://www.youtube.com/watch?v=ly4niPr9vUo)
 - [Remix Run Preview - Beta Launch October 28th](https://www.youtube.com/watch?v=cmh8mp8TUUE)
 - [Docker and Kubernetes - Full Course for Beginners](https://www.youtube.com/watch?v=Wf2eSG3owoA)
-- [What Is The Jamstack?](https://www.youtube.com/watch?v=ySJGjo3_EX4)
 <!-- YOUTUBE:END -->
 
 
