@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing: The Async Cookie Store API](https://teklinks.andrejnsimoes.com/2020/10/introducing-async-cookie-store-api.html)
+- [Optimized media loading using Web Workers](https://teklinks.andrejnsimoes.com/2020/10/optimized-media-loading-using-web.html)
+- [15 RxJS *Awesome* Tips from 15 Sentinels](https://teklinks.andrejnsimoes.com/2020/10/15-rxjs-awesome-tips-from-15-sentinels.html)
 - [Effective Code Reviews: A Primer](https://teklinks.andrejnsimoes.com/2020/10/effective-code-reviews-primer.html)
 - [Gzip to Brotli: Better Frontend Load Performance with Simple Changes](https://teklinks.andrejnsimoes.com/2020/10/gzip-to-brotli-better-frontend-load.html)
-- [An Easier Way to Generate Recoil Tests ft. Chromogen](https://teklinks.andrejnsimoes.com/2020/10/an-easier-way-to-generate-recoil-tests.html)
-- [Web Push Notifications, a Proof-of-Concept](https://teklinks.andrejnsimoes.com/2020/10/web-push-notifications-proof-of-concept.html)
-- [How to log user activities using the Beacon Web API?](https://teklinks.andrejnsimoes.com/2020/10/how-to-log-user-activities-using-beacon.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
