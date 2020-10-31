@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Comparing Static Site Generator Build Times](https://teklinks.andrejnsimoes.com/2020/10/comparing-static-site-generator-build.html)
+- [Making Sense of the JS Framework Benchmark](https://teklinks.andrejnsimoes.com/2020/10/making-sense-of-js-framework-benchmark.html)
+- [Code Isn't the Only Solution; and 8 Other Dev Lessons, 7 Years Later](https://teklinks.andrejnsimoes.com/2020/10/code-isnt-only-solution-and-8-other-dev.html)
 - [Introducing: The Async Cookie Store API](https://teklinks.andrejnsimoes.com/2020/10/introducing-async-cookie-store-api.html)
 - [Optimized media loading using Web Workers](https://teklinks.andrejnsimoes.com/2020/10/optimized-media-loading-using-web.html)
-- [15 RxJS *Awesome* Tips from 15 Sentinels](https://teklinks.andrejnsimoes.com/2020/10/15-rxjs-awesome-tips-from-15-sentinels.html)
-- [Effective Code Reviews: A Primer](https://teklinks.andrejnsimoes.com/2020/10/effective-code-reviews-primer.html)
-- [Gzip to Brotli: Better Frontend Load Performance with Simple Changes](https://teklinks.andrejnsimoes.com/2020/10/gzip-to-brotli-better-frontend-load.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
