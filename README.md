@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Study shows which messengers leak your data, drain your battery, and more](https://teklinks.andrejnsimoes.com/2020/11/study-shows-which-messengers-leak-your.html)
+- [How to deploy only changed packages in a Lerna Monorepo](https://teklinks.andrejnsimoes.com/2020/11/how-to-deploy-only-changed-packages-in.html)
+- [5 Reasons to Use TypeScript with React](https://teklinks.andrejnsimoes.com/2020/11/5-reasons-to-use-typescript-with-react.html)
 - [Protected routes and authentication with React Router v5](https://teklinks.andrejnsimoes.com/2020/11/protected-routes-and-authentication.html)
 - [Using heat-maps to track and improve your team’s engineering quality as a manager](https://teklinks.andrejnsimoes.com/2020/11/using-heat-maps-to-track-and-improve.html)
-- [The Raspberry Pi 400 is a $70 keyboard that's also a computer](https://teklinks.andrejnsimoes.com/2020/11/the-raspberry-pi-400-is-70-keyboard.html)
-- [A Primer on the Different Types of Browser Storage](https://teklinks.andrejnsimoes.com/2020/11/a-primer-on-different-types-of-browser.html)
-- [Angular Push Pipe, Tutorial, Usage, Performance, Zone Less](https://teklinks.andrejnsimoes.com/2020/11/angular-push-pipe-tutorial-usage.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
