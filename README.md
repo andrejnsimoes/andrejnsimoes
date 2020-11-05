@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [ES Modules In Depth](https://www.youtube.com/watch?v=7BQWndkI1mg)
 - [Recursos para um código autêntico, Clean Code, Context API substitui o Redux? Next.js | #PR 23](https://www.youtube.com/watch?v=I7CNRwMvi4w)
 - [Trying Blazor](https://www.youtube.com/watch?v=S6Tu8oXyoRk)
 - [Module Bundlers Explained... Webpack, Rollup, Parcel, and Snowpack](https://www.youtube.com/watch?v=5IG4UmULyoA)
 - [Git Tutorial for Beginners - The Basics](https://www.youtube.com/watch?v=ly4niPr9vUo)
-- [Remix Run Preview - Beta Launch October 28th](https://www.youtube.com/watch?v=cmh8mp8TUUE)
 <!-- YOUTUBE:END -->
 
 
