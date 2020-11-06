@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Tailwind versus BEM](https://teklinks.andrejnsimoes.com/2020/11/tailwind-versus-bem.html)
+- [Guidelines for choosing React Libraries](https://teklinks.andrejnsimoes.com/2020/11/guidelines-for-choosing-react-libraries.html)
+- [If not SPAs, What?](https://teklinks.andrejnsimoes.com/2020/11/if-not-spas-what.html)
 - [Study shows which messengers leak your data, drain your battery, and more](https://teklinks.andrejnsimoes.com/2020/11/study-shows-which-messengers-leak-your.html)
 - [How to deploy only changed packages in a Lerna Monorepo](https://teklinks.andrejnsimoes.com/2020/11/how-to-deploy-only-changed-packages-in.html)
-- [5 Reasons to Use TypeScript with React](https://teklinks.andrejnsimoes.com/2020/11/5-reasons-to-use-typescript-with-react.html)
-- [Protected routes and authentication with React Router v5](https://teklinks.andrejnsimoes.com/2020/11/protected-routes-and-authentication.html)
-- [Using heat-maps to track and improve your team’s engineering quality as a manager](https://teklinks.andrejnsimoes.com/2020/11/using-heat-maps-to-track-and-improve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
