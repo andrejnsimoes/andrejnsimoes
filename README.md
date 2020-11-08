@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Compare Multiple Projects With This GitHub Stats Tool](https://teklinks.andrejnsimoes.com/2020/11/compare-multiple-projects-with-this.html)
+- [Time-Traveling State With Reactime 6.0](https://teklinks.andrejnsimoes.com/2020/11/time-traveling-state-with-reactime60.html)
 - [Tailwind versus BEM](https://teklinks.andrejnsimoes.com/2020/11/tailwind-versus-bem.html)
 - [Guidelines for choosing React Libraries](https://teklinks.andrejnsimoes.com/2020/11/guidelines-for-choosing-react-libraries.html)
 - [If not SPAs, What?](https://teklinks.andrejnsimoes.com/2020/11/if-not-spas-what.html)
-- [Study shows which messengers leak your data, drain your battery, and more](https://teklinks.andrejnsimoes.com/2020/11/study-shows-which-messengers-leak-your.html)
-- [How to deploy only changed packages in a Lerna Monorepo](https://teklinks.andrejnsimoes.com/2020/11/how-to-deploy-only-changed-packages-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
