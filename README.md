@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Incremental Migrations](https://teklinks.andrejnsimoes.com/2020/11/incremental-migrations.html)
+- [Understanding Modules and Import and Export Statements in JavaScript](https://teklinks.andrejnsimoes.com/2020/11/understanding-modules-and-import-and.html)
+- [✨ React 17 and React Scripts 4 | A Walkthrough](https://teklinks.andrejnsimoes.com/2020/11/react-17-and-react-scripts-4-walkthrough.html)
 - [Compare Multiple Projects With This GitHub Stats Tool](https://teklinks.andrejnsimoes.com/2020/11/compare-multiple-projects-with-this.html)
 - [Time-Traveling State With Reactime 6.0](https://teklinks.andrejnsimoes.com/2020/11/time-traveling-state-with-reactime60.html)
-- [Tailwind versus BEM](https://teklinks.andrejnsimoes.com/2020/11/tailwind-versus-bem.html)
-- [Guidelines for choosing React Libraries](https://teklinks.andrejnsimoes.com/2020/11/guidelines-for-choosing-react-libraries.html)
-- [If not SPAs, What?](https://teklinks.andrejnsimoes.com/2020/11/if-not-spas-what.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
