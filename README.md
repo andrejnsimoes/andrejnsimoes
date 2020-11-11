@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Docker - Full Crash Course for Beginners [2021]](https://www.youtube.com/watch?v=d-PPOS-VsC8)
 - [How To Use Mapbox To Create A Google Maps Clone Quickly](https://www.youtube.com/watch?v=OySigNMXOZU)
 - [TLS Handshake Explained - Computerphile](https://www.youtube.com/watch?v=86cQJ0MMses)
 - [ES Modules In Depth](https://www.youtube.com/watch?v=7BQWndkI1mg)
 - [Recursos para um código autêntico, Clean Code, Context API substitui o Redux? Next.js | #PR 23](https://www.youtube.com/watch?v=I7CNRwMvi4w)
-- [Trying Blazor](https://www.youtube.com/watch?v=S6Tu8oXyoRk)
 <!-- YOUTUBE:END -->
 
 
