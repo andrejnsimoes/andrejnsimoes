@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Organize a Large React Application and Make It Scale](https://teklinks.andrejnsimoes.com/2020/11/how-to-organize-large-react-application.html)
 - [Memoization and React](https://teklinks.andrejnsimoes.com/2020/11/memoization-and-react.html)
 - [10 Insights from Adopting TypeScript at Scale](https://teklinks.andrejnsimoes.com/2020/11/10-insights-from-adopting-typescript-at.html)
 - [The Best 39 Development Tools](https://teklinks.andrejnsimoes.com/2020/11/the-best-39-development-tools.html)
 - [Creating a monorepo from separate repos (merging repositories)](https://teklinks.andrejnsimoes.com/2020/11/creating-monorepo-from-separate-repos.html)
-- [Service Workers in React](https://teklinks.andrejnsimoes.com/2020/11/service-workers-in-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
