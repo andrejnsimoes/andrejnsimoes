@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Version 11 of Angular Now Available](https://teklinks.andrejnsimoes.com/2020/11/version-11-of-angular-now-available.html)
+- [Youtube-dl Makes Their Case, Returns To GitHub](https://teklinks.andrejnsimoes.com/2020/11/youtube-dl-makes-their-case-returns-to.html)
+- [em, rem, and px](https://teklinks.andrejnsimoes.com/2020/11/em-rem-and-px.html)
 - [useEffect vs useLayoutEffect](https://teklinks.andrejnsimoes.com/2020/11/useeffect-vs-uselayouteffect.html)
 - [Useful Custom Hooks for Tired React Devs](https://teklinks.andrejnsimoes.com/2020/11/useful-custom-hooks-for-tired-react-devs.html)
-- [How to provide estimates as a Junior Developer?](https://teklinks.andrejnsimoes.com/2020/11/how-to-provide-estimates-as-junior.html)
-- [How to Organize a Large React Application and Make It Scale](https://teklinks.andrejnsimoes.com/2020/11/how-to-organize-large-react-application.html)
-- [Memoization and React](https://teklinks.andrejnsimoes.com/2020/11/memoization-and-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
