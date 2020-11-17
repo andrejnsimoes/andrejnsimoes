@@ -52,7 +52,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Two Factor Authentication | Node.js & Speakeasy](https://www.youtube.com/watch?v=KQya9i6czhM)
-- [Docker - Full Crash Course for Beginners [2021]](https://www.youtube.com/watch?v=d-PPOS-VsC8)
+- [Docker Tutorial For Beginners [Docker For Everyone In 2 Hours]](https://www.youtube.com/watch?v=d-PPOS-VsC8)
 - [Web animation gotchas - HTTP 203](https://www.youtube.com/watch?v=9-6CKCz58A8)
 - [How To Use Mapbox To Create A Google Maps Clone Quickly](https://www.youtube.com/watch?v=OySigNMXOZU)
 - [TLS Handshake Explained - Computerphile](https://www.youtube.com/watch?v=86cQJ0MMses)
