@@ -51,8 +51,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Why You Don't Want To Work In FANG](https://www.youtube.com/watch?v=twKrik7KY6Y)
 - [How to edit Git history - fix any mistake](https://www.youtube.com/watch?v=lYZeaQWjqSk)
+- [Why You Don't Want To Work In FANG](https://www.youtube.com/watch?v=twKrik7KY6Y)
 - [Two Factor Authentication | Node.js & Speakeasy](https://www.youtube.com/watch?v=KQya9i6czhM)
 - [Docker - Complete Tutorial  [Docker For Everyone In 2 Hours]](https://www.youtube.com/watch?v=d-PPOS-VsC8)
 - [Web animation gotchas - HTTP 203](https://www.youtube.com/watch?v=9-6CKCz58A8)
