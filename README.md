@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Trending TypeScript Projects on GitHub](https://teklinks.andrejnsimoes.com/2020/11/7-trending-typescript-projects-on-github.html)
+- [Story of how I built my Portfolio and Blog using DEV.to and NextJS](https://teklinks.andrejnsimoes.com/2020/11/story-of-how-i-built-my-portfolio-and.html)
+- [Stadia cloud gaming service by Google will arrive on iOS via Safari](https://teklinks.andrejnsimoes.com/2020/11/stadia-cloud-gaming-service-by-google.html)
 - [10 React security best practices](https://teklinks.andrejnsimoes.com/2020/11/10-react-security-best-practices.html)
 - [Improve your CSS with these 5 principles](https://teklinks.andrejnsimoes.com/2020/11/improve-your-css-with-these-5-principles.html)
-- [The Morning After: We reviewed the new M1-powered MacBook Air](https://teklinks.andrejnsimoes.com/2020/11/the-morning-after-we-reviewed-new-m1.html)
-- [How to Turn your Raspberry Pi into a Crypto Trading Bot](https://teklinks.andrejnsimoes.com/2020/11/how-to-turn-your-raspberry-pi-into.html)
-- [All Technical Debt is Credit Card Debt](https://teklinks.andrejnsimoes.com/2020/11/all-technical-debt-is-credit-card-debt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
