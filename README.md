@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing TypeScript 4.1](https://teklinks.andrejnsimoes.com/2020/11/announcing-typescript-41.html)
+- [Keeping Node.js Fast: Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://teklinks.andrejnsimoes.com/2020/11/keeping-nodejs-fast-tools-techniques.html)
+- [We rendered a million web pages to learn how the web breaks](https://teklinks.andrejnsimoes.com/2020/11/we-rendered-million-web-pages-to-learn.html)
 - [Handling Static Forms, Auth & Serverless Functions with Gatsby on Netlify](https://teklinks.andrejnsimoes.com/2020/11/handling-static-forms-auth-serverless.html)
 - [Writing custom TypeScript ESLint rules: How I learned to love the AST](https://teklinks.andrejnsimoes.com/2020/11/writing-custom-typescript-eslint-rules.html)
-- [Squash multiple commits together: Learn the Git Interactive Rebase! 💻](https://teklinks.andrejnsimoes.com/2020/11/squash-multiple-commits-together-learn.html)
-- [7 Trending TypeScript Projects on GitHub](https://teklinks.andrejnsimoes.com/2020/11/7-trending-typescript-projects-on-github.html)
-- [Story of how I built my Portfolio and Blog using DEV.to and NextJS](https://teklinks.andrejnsimoes.com/2020/11/story-of-how-i-built-my-portfolio-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
