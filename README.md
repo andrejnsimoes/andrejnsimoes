@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [TypeScript in 100 Seconds](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
+- [Common JavaScript Interview Challenges Solved!](https://www.youtube.com/watch?v=sG-SM3VoPo0)
+- [Top 20 VS Code Shortcuts](https://www.youtube.com/watch?v=4xA5JePvCJc)
 - [Build a Wildfire Tracker With React & NASA API](https://www.youtube.com/watch?v=ontX4zfVqK8)
 - [Introducing Valtio - Short Subject](https://www.youtube.com/watch?v=XnlECbwcJZ0)
-- [How to edit Git history - fix any mistake](https://www.youtube.com/watch?v=lYZeaQWjqSk)
-- [Why You Don't Want To Work In FANG](https://www.youtube.com/watch?v=twKrik7KY6Y)
-- [Two Factor Authentication | Node.js & Speakeasy](https://www.youtube.com/watch?v=KQya9i6czhM)
 <!-- YOUTUBE:END -->
 
 
