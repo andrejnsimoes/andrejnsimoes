@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Our Journey to a High-Performance Node.js Library](https://teklinks.andrejnsimoes.com/2020/11/our-journey-to-high-performance-nodejs.html)
+- [Create & Auto-deploy a Website with Create React App, Github, and Netlify](https://teklinks.andrejnsimoes.com/2020/11/create-auto-deploy-website-with-create_29.html)
+- [The Ultimate Guide to Electron with React](https://teklinks.andrejnsimoes.com/2020/11/the-ultimate-guide-to-electron-with.html)
 - [React Router with a single config file](https://teklinks.andrejnsimoes.com/2020/11/react-router-with-single-config-file.html)
 - [Rush vs Nx: A Comparison of TypeScript Monorepo Management Tools](https://teklinks.andrejnsimoes.com/2020/11/rush-vs-nx-comparison-of-typescript.html)
-- [Semantic versioning in npm](https://teklinks.andrejnsimoes.com/2020/11/semantic-versioning-in-npm.html)
-- [Tools, Techniques, And Tips For Making High-Performance Node.js Servers](https://teklinks.andrejnsimoes.com/2020/11/keeping-nodejs-fast-tools-techniques.html)
-- [Announcing TypeScript 4.1](https://teklinks.andrejnsimoes.com/2020/11/announcing-typescript-41.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
