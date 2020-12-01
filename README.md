@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Svelte Static Website with Smooth Page Transitions](https://teklinks.andrejnsimoes.com/2020/12/building-svelte-static-website-with.html)
+- [Learn How To Use Webhooks By Connecting NodeJS, IFTTT and Twitter](https://teklinks.andrejnsimoes.com/2020/12/learn-how-to-use-webhooks-by-connecting.html)
+- [Case study: An app that teaches you to brew beer](https://teklinks.andrejnsimoes.com/2020/12/case-study-app-that-teaches-you-to-brew.html)
 - [Our Journey to a High-Performance Node.js Library](https://teklinks.andrejnsimoes.com/2020/11/our-journey-to-high-performance-nodejs.html)
 - [Create & Auto-deploy a Website with Create React App, Github, and Netlify](https://teklinks.andrejnsimoes.com/2020/11/create-auto-deploy-website-with-create_29.html)
-- [The Ultimate Guide to Electron with React](https://teklinks.andrejnsimoes.com/2020/11/the-ultimate-guide-to-electron-with.html)
-- [React Router with a single config file](https://teklinks.andrejnsimoes.com/2020/11/react-router-with-single-config-file.html)
-- [Rush vs Nx: A Comparison of TypeScript Monorepo Management Tools](https://teklinks.andrejnsimoes.com/2020/11/rush-vs-nx-comparison-of-typescript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
