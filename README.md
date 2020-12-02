@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Valtio — The Most Minimal Proxy State Possible in React](https://teklinks.andrejnsimoes.com/2020/12/valtiothe-most-minimal-proxy-state.html)
+- [How DeepMind’s protein-folding breakthrough could transform drug development](https://teklinks.andrejnsimoes.com/2020/12/how-deepminds-protein-folding.html)
+- [GitHub Package Registry: Is it Worth Trying Out?](https://teklinks.andrejnsimoes.com/2020/12/github-package-registry-is-it-worth.html)
 - [Building a Svelte Static Website with Smooth Page Transitions](https://teklinks.andrejnsimoes.com/2020/12/building-svelte-static-website-with.html)
 - [Learn How To Use Webhooks By Connecting NodeJS, IFTTT and Twitter](https://teklinks.andrejnsimoes.com/2020/12/learn-how-to-use-webhooks-by-connecting.html)
-- [Case study: An app that teaches you to brew beer](https://teklinks.andrejnsimoes.com/2020/12/case-study-app-that-teaches-you-to-brew.html)
-- [Our Journey to a High-Performance Node.js Library](https://teklinks.andrejnsimoes.com/2020/11/our-journey-to-high-performance-nodejs.html)
-- [Create & Auto-deploy a Website with Create React App, Github, and Netlify](https://teklinks.andrejnsimoes.com/2020/11/create-auto-deploy-website-with-create_29.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
