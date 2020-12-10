@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Running Lighthouse in GitHub Actions](https://teklinks.andrejnsimoes.com/2020/12/running-lighthouse-in-github-actions.html)
+- [React is slow, what now?](https://teklinks.andrejnsimoes.com/2020/12/react-is-slow-what-now.html)
+- [DataHub: Popular metadata architectures explained](https://teklinks.andrejnsimoes.com/2020/12/datahub-popular-metadata-architectures.html)
 - [11 Tools To Build a Monorepo In 2021](https://teklinks.andrejnsimoes.com/2020/12/11-tools-to-build-monorepo-in-2021.html)
 - [How to build trust during onboarding](https://teklinks.andrejnsimoes.com/2020/12/how-to-build-trust-during-onboarding.html)
-- [Why Is Apple’s M1 Chip So Fast?](https://teklinks.andrejnsimoes.com/2020/12/why-is-apples-m1-chip-so-fast.html)
-- [How to Make Your Code Reviewer Fall in Love with You](https://teklinks.andrejnsimoes.com/2020/12/how-to-make-your-code-reviewer-fall-in.html)
-- [Dynamic Import, Code-Splitting, Lazy Loading, and Error Boundaries](https://teklinks.andrejnsimoes.com/2020/12/dynamic-import-code-splitting-lazy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
