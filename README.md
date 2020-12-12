@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Live! Introduction to React #13 | Zustand](https://www.youtube.com/watch?v=mPU9cFn7SmI)
 - [2021 Tech Trends & Predictions for Developers](https://www.youtube.com/watch?v=oHtR5YSPLjo)
 - [TypeScript in 100 Seconds](https://www.youtube.com/watch?v=zQnBQ4tB3ZA)
 - [Common JavaScript Interview Challenges Solved!](https://www.youtube.com/watch?v=sG-SM3VoPo0)
 - [Top 20 VS Code Shortcuts](https://www.youtube.com/watch?v=4xA5JePvCJc)
-- [Build a Wildfire Tracker With React & NASA API](https://www.youtube.com/watch?v=ontX4zfVqK8)
 <!-- YOUTUBE:END -->
 
 
