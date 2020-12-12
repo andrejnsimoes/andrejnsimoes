@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://teklinks.andrejnsimoes.com/2020/12/feedback-ladders-how-we-encode-code.html)
+- [The Import On Interaction Pattern](https://teklinks.andrejnsimoes.com/2020/12/the-import-on-interaction-pattern.html)
+- [Publish, ship, and install modern JavaScript for faster applications](https://teklinks.andrejnsimoes.com/2020/12/publish-ship-and-install-modern.html)
 - [Running Lighthouse in GitHub Actions](https://teklinks.andrejnsimoes.com/2020/12/running-lighthouse-in-github-actions.html)
 - [React is slow, what now?](https://teklinks.andrejnsimoes.com/2020/12/react-is-slow-what-now.html)
-- [DataHub: Popular metadata architectures explained](https://teklinks.andrejnsimoes.com/2020/12/datahub-popular-metadata-architectures.html)
-- [11 Tools To Build a Monorepo In 2021](https://teklinks.andrejnsimoes.com/2020/12/11-tools-to-build-monorepo-in-2021.html)
-- [How to build trust during onboarding](https://teklinks.andrejnsimoes.com/2020/12/how-to-build-trust-during-onboarding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
