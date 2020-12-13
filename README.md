@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain & Ethereum: Welcome to the Decentralized Internet](https://teklinks.andrejnsimoes.com/2020/12/blockchain-ethereum-welcome-to.html)
+- [5 Ways Service Workers Reshape Modern Web Apps](https://teklinks.andrejnsimoes.com/2020/12/5-ways-service-workers-reshape-modern.html)
 - [Feedback Ladders: How We Encode Code Reviews at Netlify](https://teklinks.andrejnsimoes.com/2020/12/feedback-ladders-how-we-encode-code.html)
 - [The Import On Interaction Pattern](https://teklinks.andrejnsimoes.com/2020/12/the-import-on-interaction-pattern.html)
 - [Publish, ship, and install modern JavaScript for faster applications](https://teklinks.andrejnsimoes.com/2020/12/publish-ship-and-install-modern.html)
-- [Running Lighthouse in GitHub Actions](https://teklinks.andrejnsimoes.com/2020/12/running-lighthouse-in-github-actions.html)
-- [React is slow, what now?](https://teklinks.andrejnsimoes.com/2020/12/react-is-slow-what-now.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
