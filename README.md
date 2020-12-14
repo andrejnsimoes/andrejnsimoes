@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Love Tailwind](https://teklinks.andrejnsimoes.com/2020/12/why-i-love-tailwind.html)
+- [Configuring Mock Service Worker (MSW)](https://teklinks.andrejnsimoes.com/2020/12/configuring-mock-service-worker-msw.html)
+- [Life of a Netflix Partner Engineer — The case of extra 40 ms](https://teklinks.andrejnsimoes.com/2020/12/life-of-netflix-partner-engineerthe.html)
 - [Blockchain & Ethereum: Welcome to the Decentralized Internet](https://teklinks.andrejnsimoes.com/2020/12/blockchain-ethereum-welcome-to.html)
 - [5 Ways Service Workers Reshape Modern Web Apps](https://teklinks.andrejnsimoes.com/2020/12/5-ways-service-workers-reshape-modern.html)
-- [Feedback Ladders: How We Encode Code Reviews at Netlify](https://teklinks.andrejnsimoes.com/2020/12/feedback-ladders-how-we-encode-code.html)
-- [The Import On Interaction Pattern](https://teklinks.andrejnsimoes.com/2020/12/the-import-on-interaction-pattern.html)
-- [Publish, ship, and install modern JavaScript for faster applications](https://teklinks.andrejnsimoes.com/2020/12/publish-ship-and-install-modern.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
