@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Libraries in 2020](https://teklinks.andrejnsimoes.com/2020/12/react-libraries-in-2020.html)
 - [Introducing Yarn 2 ! 🧶🌟](https://teklinks.andrejnsimoes.com/2020/12/introducing-yarn-2.html)
 - [Are Websites Adding To Consumer’s Health Issues?](https://teklinks.andrejnsimoes.com/2020/12/are-websites-adding-to-consumers-health.html)
 - [8 Key Factors When Deciding Between Building In-House and Buying a UI Component Library](https://teklinks.andrejnsimoes.com/2020/12/8-key-factors-when-deciding-between.html)
 - [Recoil Project Structure Best Practices](https://teklinks.andrejnsimoes.com/2020/12/recoil-project-structure-best-practices.html)
-- [Why I Love Tailwind](https://teklinks.andrejnsimoes.com/2020/12/why-i-love-tailwind.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
