@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Web Vitals + DIY Chrome Extension = Performance Insight](https://www.youtube.com/watch?v=8B8LUn6XEkA)
+- [Twin Macro and React 17](https://www.youtube.com/watch?v=ks0Fsn6Csa4)
 - [Live! - Conquering Regular Expressions - Part I](https://www.youtube.com/watch?v=FmGYLJlhXco)
 - [Real-Time Tweets & Socket.io Project | Twitter Streaming API](https://www.youtube.com/watch?v=PjjjhGW4ceM)
 - [CLOUDFLARE PAGES: First look at Cloudflare's JAMstack deployment platform](https://www.youtube.com/watch?v=IeHC4NwkEfc)
-- [Exploring the future of Core Web Vitals](https://www.youtube.com/watch?v=iNfz9tg-wyg)
-- [Live! Introduction to React #13 | Zustand](https://www.youtube.com/watch?v=mPU9cFn7SmI)
 <!-- YOUTUBE:END -->
 
 
