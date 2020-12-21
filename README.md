@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Redux Reducers Work](https://teklinks.andrejnsimoes.com/2020/12/how-redux-reducers-work.html)
+- [Analyzing Web Vitals with WebPageTest](https://teklinks.andrejnsimoes.com/2020/12/analyzing-web-vitals-with-webpagetest.html)
+- [Introducing Zero-Bundle-Size React Server Components](https://teklinks.andrejnsimoes.com/2020/12/introducing-zero-bundle-size-react.html)
 - [Five common mistakes writing react components (with hooks) in 2020](https://teklinks.andrejnsimoes.com/2020/12/five-common-mistakes-writing-react.html)
 - [Running SonarQube Inside a Docker Container](https://teklinks.andrejnsimoes.com/2020/12/running-sonarqube-inside-docker.html)
-- [Redux-Free State Management with Jotai](https://teklinks.andrejnsimoes.com/2020/12/redux-free-state-management-with-jotai.html)
-- [React Libraries in 2020](https://teklinks.andrejnsimoes.com/2020/12/react-libraries-in-2020.html)
-- [Introducing Yarn 2 ! 🧶🌟](https://teklinks.andrejnsimoes.com/2020/12/introducing-yarn-2.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
