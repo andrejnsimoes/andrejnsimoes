@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Agile Best Practices for Remote Work Excellence](https://teklinks.andrejnsimoes.com/2020/12/agile-best-practices-for-remote-work.html)
+- [GitHub Actions to securely publish npm packages](https://teklinks.andrejnsimoes.com/2020/12/github-actions-to-securely-publish-npm.html)
+- [Best Practices in Using IFrames with React](https://teklinks.andrejnsimoes.com/2020/12/best-practices-in-using-iframes-with.html)
 - [How to Use TypeORM with Webpack](https://teklinks.andrejnsimoes.com/2020/12/how-to-use-typeorm-with-webpack.html)
 - [The Complete Microservice Tutorial: Introduction [Part 1]](https://teklinks.andrejnsimoes.com/2020/12/the-complete-microservice-tutorial.html)
-- [5 Free JavaScript Spreadsheet Libraries in 2021](https://teklinks.andrejnsimoes.com/2020/12/5-free-javascript-spreadsheet-libraries.html)
-- [How Redux Reducers Work](https://teklinks.andrejnsimoes.com/2020/12/how-redux-reducers-work.html)
-- [Analyzing Web Vitals with WebPageTest](https://teklinks.andrejnsimoes.com/2020/12/analyzing-web-vitals-with-webpagetest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
