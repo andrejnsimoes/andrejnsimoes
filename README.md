@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimize Performance & Render Website Superfast in ReactJS](https://teklinks.andrejnsimoes.com/2020/12/optimize-performance-render-website.html)
+- [Google bought CloudReady, the largest ChromiumOS distribution](https://teklinks.andrejnsimoes.com/2020/12/google-bought-cloudready-largest.html)
+- [Migrate to typescript - the advance guide](https://teklinks.andrejnsimoes.com/2020/12/migrate-to-typescript-advance-guide.html)
 - [Agile Best Practices for Remote Work Excellence](https://teklinks.andrejnsimoes.com/2020/12/agile-best-practices-for-remote-work.html)
 - [GitHub Actions to securely publish npm packages](https://teklinks.andrejnsimoes.com/2020/12/github-actions-to-securely-publish-npm.html)
-- [Best Practices in Using IFrames with React](https://teklinks.andrejnsimoes.com/2020/12/best-practices-in-using-iframes-with.html)
-- [How to Use TypeORM with Webpack](https://teklinks.andrejnsimoes.com/2020/12/how-to-use-typeorm-with-webpack.html)
-- [The Complete Microservice Tutorial: Introduction [Part 1]](https://teklinks.andrejnsimoes.com/2020/12/the-complete-microservice-tutorial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
