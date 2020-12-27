@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Zombie Scrum Resistance](https://teklinks.andrejnsimoes.com/2020/12/zombie-scrum-resistance.html)
+- [Notion as CMS for Blogs](https://teklinks.andrejnsimoes.com/2020/12/notion-as-cms-for-blogs.html)
+- [Create React App: import modules using aliases with Webpack and Typescript](https://teklinks.andrejnsimoes.com/2020/12/create-react-app-import-modules-using.html)
 - [Optimize Performance & Render Website Superfast in ReactJS](https://teklinks.andrejnsimoes.com/2020/12/optimize-performance-render-website.html)
 - [Google bought CloudReady, the largest ChromiumOS distribution](https://teklinks.andrejnsimoes.com/2020/12/google-bought-cloudready-largest.html)
-- [Migrate to typescript - the advance guide](https://teklinks.andrejnsimoes.com/2020/12/migrate-to-typescript-advance-guide.html)
-- [Agile Best Practices for Remote Work Excellence](https://teklinks.andrejnsimoes.com/2020/12/agile-best-practices-for-remote-work.html)
-- [GitHub Actions to securely publish npm packages](https://teklinks.andrejnsimoes.com/2020/12/github-actions-to-securely-publish-npm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
