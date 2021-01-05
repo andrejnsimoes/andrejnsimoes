@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Webpack 4 Tutorial: from 0 Conf to Production Mode](https://teklinks.andrejnsimoes.com/2021/01/webpack-4-tutorial-from-0-conf-to.html)
+- [JavaScript Performance in the Wild 2020](https://teklinks.andrejnsimoes.com/2021/01/javascript-performance-in-wild-2020.html)
+- [State of the Metaverse 2021](https://teklinks.andrejnsimoes.com/2021/01/state-of-metaverse-2021.html)
 - [Introducing Handsfree.js - Integrate hand, face, and pose gestures to your frontend](https://teklinks.andrejnsimoes.com/2021/01/introducing-handsfreejs-integrate-hand.html)
 - [JavaScript Utility Libraries](https://teklinks.andrejnsimoes.com/2021/01/javascript-utility-libraries.html)
-- [Top JavaScript Frameworks and Tech Trends for 2021](https://teklinks.andrejnsimoes.com/2021/01/top-javascript-frameworks-and-tech.html)
-- [Creativity In A World Of Technology: Does It Exist?](https://teklinks.andrejnsimoes.com/2021/01/creativity-in-world-of-technology-does.html)
-- [50 free tools and resources you're gonna love](https://teklinks.andrejnsimoes.com/2021/01/50-free-tools-and-resources-youre-gonna.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
