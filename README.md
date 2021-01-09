@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [7 Web Features You Didn’t Know Existed](https://www.youtube.com/watch?v=ppwagkhrZJs)
+- [How to cache an API endpoint with redis in Node.js](https://www.youtube.com/watch?v=z80MUl2pGjs)
 - [Web Development In 2021 - A Practical Guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 - [Web Vitals + DIY Chrome Extension = Performance Insight](https://www.youtube.com/watch?v=8B8LUn6XEkA)
 - [Twin Macro and React 17](https://www.youtube.com/watch?v=ks0Fsn6Csa4)
-- [Live! - Conquering Regular Expressions - Part I](https://www.youtube.com/watch?v=FmGYLJlhXco)
-- [Real-Time Tweets & Socket.io Project | Twitter Streaming API](https://www.youtube.com/watch?v=PjjjhGW4ceM)
 <!-- YOUTUBE:END -->
 
 
