@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Front-End Performance Checklist 2021](https://teklinks.andrejnsimoes.com/2021/01/front-end-performance-checklist-2021.html)
+- [6 Questions that Keep Your Team Engaged During Remote Meetings](https://teklinks.andrejnsimoes.com/2021/01/6-questions-that-keep-your-team-engaged.html)
+- [How To Decouple Data from UI in React](https://teklinks.andrejnsimoes.com/2021/01/how-to-decouple-data-from-ui-in-react.html)
 - [How to Create Luck](https://teklinks.andrejnsimoes.com/2021/01/how-to-create-luck.html)
 - [Building a JavaScript Monorepo with Lerna](https://teklinks.andrejnsimoes.com/2021/01/building-javascript-monorepo-with-lerna.html)
-- [Designing a URL Shortener in Deno](https://teklinks.andrejnsimoes.com/2021/01/designing-url-shortener-in-deno.html)
-- [Make Your Own Tools](https://teklinks.andrejnsimoes.com/2021/01/make-your-own-tools.html)
-- [Reducing JavaScript Bundle Size](https://teklinks.andrejnsimoes.com/2021/01/reducing-javascript-bundle-size.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
