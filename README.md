@@ -53,9 +53,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [Fixing useContext with react-tracked](https://www.youtube.com/watch?v=6yBv-_COJkk)
 - [Raspberry Pi versus AWS // How to host your website on the RPi4](https://www.youtube.com/watch?v=QdHvS0D1zAI)
+- [Windows 10X - Official Release Demo](https://www.youtube.com/watch?v=EPirgHua2sE)
 - [7 Web Features You Didn’t Know Existed](https://www.youtube.com/watch?v=ppwagkhrZJs)
 - [How to cache an API endpoint with redis in Node.js](https://www.youtube.com/watch?v=z80MUl2pGjs)
-- [Web Development In 2021 - A Practical Guide](https://www.youtube.com/watch?v=VfGW0Qiy2I0)
 <!-- YOUTUBE:END -->
 
 
