@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Vitals Optimizations: Advanced Dynamic Import Patterns](https://teklinks.andrejnsimoes.com/2021/01/web-vitals-optimizations-advanced.html)
+- [10 Tech Talks To Watch – Learn New Software Development Concepts in 2021](https://teklinks.andrejnsimoes.com/2021/01/10-tech-talks-to-watch-learn-new.html)
 - [Minimal React: getting started with the frontend library](https://teklinks.andrejnsimoes.com/2021/01/minimal-react-getting-started-with.html)
 - [9 Months into Working from Home, These 6 Things Are Helping Us Endure](https://teklinks.andrejnsimoes.com/2021/01/9-months-into-working-from-home-these-6.html)
 - [Front-end predictions for 2021](https://teklinks.andrejnsimoes.com/2021/01/front-end-predictions-for-2021.html)
-- [How to Implement Lazy Loading in React with Intersection Observer](https://teklinks.andrejnsimoes.com/2021/01/how-to-implement-lazy-loading-in-react.html)
-- [How to Get Started With Portainer, a Web UI for Docker](https://teklinks.andrejnsimoes.com/2021/01/how-to-get-started-with-portainer-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
