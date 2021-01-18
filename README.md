@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Transitioning to Modern JavaScript (Better Value and Performance Per Byte)](https://www.youtube.com/watch?v=0zuBZY3o4Io)
+- [How To Test React Query Components](https://www.youtube.com/watch?v=ZfvOHRX-FDM)
 - [Fixing useContext with react-tracked](https://www.youtube.com/watch?v=6yBv-_COJkk)
 - [Raspberry Pi versus AWS // How to host your website on the RPi4](https://www.youtube.com/watch?v=QdHvS0D1zAI)
 - [Windows 10X - Official Release Demo](https://www.youtube.com/watch?v=EPirgHua2sE)
-- [7 Web Features You Didn’t Know Existed](https://www.youtube.com/watch?v=ppwagkhrZJs)
-- [How to cache an API endpoint with redis in Node.js](https://www.youtube.com/watch?v=z80MUl2pGjs)
 <!-- YOUTUBE:END -->
 
 
