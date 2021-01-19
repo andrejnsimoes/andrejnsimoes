@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Hacking Amazon's Undocumented React UI Toolkit](https://www.youtube.com/watch?v=VBbkLd-_dPU)
 - [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 - [10 React Hooks Explained // Plus Build your own from Scratch](https://www.youtube.com/watch?v=TNhaISOUy6Q)
 - [Transitioning to Modern JavaScript (Better Value and Performance Per Byte)](https://www.youtube.com/watch?v=0zuBZY3o4Io)
 - [How To Test React Query Components](https://www.youtube.com/watch?v=ZfvOHRX-FDM)
-- [Fixing useContext with react-tracked](https://www.youtube.com/watch?v=6yBv-_COJkk)
 <!-- YOUTUBE:END -->
 
 
