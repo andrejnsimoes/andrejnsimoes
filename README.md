@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The JavaScript Skills You Need For React (+ Practical Examples)](https://teklinks.andrejnsimoes.com/2021/01/the-javascript-skills-you-need-for.html)
+- [Three Major Improvements in HTTP/3 Compared to HTTP/2](https://teklinks.andrejnsimoes.com/2021/01/three-major-improvements-in-http3.html)
+- [Developing and publishing a TypeScript NPM package](https://teklinks.andrejnsimoes.com/2021/01/developing-and-publishing-typescript.html)
 - [Web Vitals Optimizations: Advanced Dynamic Import Patterns](https://teklinks.andrejnsimoes.com/2021/01/web-vitals-optimizations-advanced.html)
 - [10 Tech Talks To Watch – Learn New Software Development Concepts in 2021](https://teklinks.andrejnsimoes.com/2021/01/10-tech-talks-to-watch-learn-new.html)
-- [Minimal React: getting started with the frontend library](https://teklinks.andrejnsimoes.com/2021/01/minimal-react-getting-started-with.html)
-- [9 Months into Working from Home, These 6 Things Are Helping Us Endure](https://teklinks.andrejnsimoes.com/2021/01/9-months-into-working-from-home-these-6.html)
-- [Front-end predictions for 2021](https://teklinks.andrejnsimoes.com/2021/01/front-end-predictions-for-2021.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
