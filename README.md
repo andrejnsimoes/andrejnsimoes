@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [E-Commerce in 25 days](https://teklinks.andrejnsimoes.com/2021/01/e-commerce-in-25-days.html)
+- [Difference Between Working Tree And Index In Git](https://teklinks.andrejnsimoes.com/2021/01/difference-between-working-tree-and.html)
+- [Incident Management in 2021: from Basics to Best Practices](https://teklinks.andrejnsimoes.com/2021/01/incident-management-in-2021-from-basics.html)
 - [What’s the technology behind a five-minute charge battery?](https://teklinks.andrejnsimoes.com/2021/01/whats-technology-behind-five-minute.html)
 - [Tail-kit : 200+ free Tailwind components / templates](https://teklinks.andrejnsimoes.com/2021/01/tail-kit-200-free-tailwind-components.html)
-- [How We Improved SmashingMag Performance](https://teklinks.andrejnsimoes.com/2021/01/how-we-improved-smashingmag-performance.html)
-- [React Query — An Underrated State Management Tool](https://teklinks.andrejnsimoes.com/2021/01/react-queryan-underrated-state.html)
-- [Mithril.js – The Smallest, Fastest SPA Framework You’ve Never Used](https://teklinks.andrejnsimoes.com/2021/01/mithriljs-smallest-fastest-spa.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
