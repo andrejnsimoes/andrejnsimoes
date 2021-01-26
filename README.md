@@ -53,9 +53,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 - [How To Build A Google Drive Clone With Firebase](https://www.youtube.com/watch?v=6XTRElVAZ9Y)
+- [Live with Kent: Cypress Automation](https://www.youtube.com/watch?v=xD5ArlskA1w)
 - [Fork you ElasticSearch! How Open Source Works](https://www.youtube.com/watch?v=tzq4asJegKY)
 - [Hacking Amazon's Undocumented React UI Toolkit](https://www.youtube.com/watch?v=VBbkLd-_dPU)
-- [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 <!-- YOUTUBE:END -->
 
 
