@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison](https://teklinks.andrejnsimoes.com/2021/01/cypress-vs-selenium-vs-playwright-vs.html)
+- [Tao of React - Software Design, Architecture & Best Practices](https://teklinks.andrejnsimoes.com/2021/01/tao-of-react-software-design.html)
+- [I Almost Got Fired for Choosing React in Our Enterprise App](https://teklinks.andrejnsimoes.com/2021/01/i-almost-got-fired-for-choosing-react.html)
 - [Making Remote Work Work: Useful Tools And Resources](https://teklinks.andrejnsimoes.com/2021/01/making-remote-work-work-useful-tools.html)
 - [JavaScript Wake Lock API](https://teklinks.andrejnsimoes.com/2021/01/javascript-wake-lock-api.html)
-- [How to Use useCallback to Write Better React Code](https://teklinks.andrejnsimoes.com/2021/01/how-to-use-usecallback-to-write-better.html)
-- [E-Commerce in 25 days](https://teklinks.andrejnsimoes.com/2021/01/e-commerce-in-25-days.html)
-- [Difference Between Working Tree And Index In Git](https://teklinks.andrejnsimoes.com/2021/01/difference-between-working-tree-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
