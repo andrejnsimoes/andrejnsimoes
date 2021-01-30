@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Rebasing Merges With Git](https://teklinks.andrejnsimoes.com/2021/01/rebasing-merges-with-git.html)
+- [What Are Multi-Stage Docker Builds?](https://teklinks.andrejnsimoes.com/2021/01/what-are-multi-stage-docker-builds.html)
+- [Creating a React app with TypeScript and ESLint with Webpack 5](https://teklinks.andrejnsimoes.com/2021/01/creating-react-app-with-typescript-and.html)
 - [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison](https://teklinks.andrejnsimoes.com/2021/01/cypress-vs-selenium-vs-playwright-vs.html)
 - [Tao of React - Software Design, Architecture & Best Practices](https://teklinks.andrejnsimoes.com/2021/01/tao-of-react-software-design.html)
-- [I Almost Got Fired for Choosing React in Our Enterprise App](https://teklinks.andrejnsimoes.com/2021/01/i-almost-got-fired-for-choosing-react.html)
-- [Making Remote Work Work: Useful Tools And Resources](https://teklinks.andrejnsimoes.com/2021/01/making-remote-work-work-useful-tools.html)
-- [JavaScript Wake Lock API](https://teklinks.andrejnsimoes.com/2021/01/javascript-wake-lock-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
