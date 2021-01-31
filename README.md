@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Bash Process Termination Hacks](https://teklinks.andrejnsimoes.com/2021/01/bash-process-termination-hacks.html)
+- [Scaling Applications Using Micro-Frontends](https://teklinks.andrejnsimoes.com/2021/01/scaling-applications-using-micro.html)
+- [Introducing TotalRecoilJS: A new developer tool for visualizing your Recoil state](https://teklinks.andrejnsimoes.com/2021/01/introducing-totalrecoiljs-new-developer.html)
 - [Rebasing Merges With Git](https://teklinks.andrejnsimoes.com/2021/01/rebasing-merges-with-git.html)
 - [What Are Multi-Stage Docker Builds?](https://teklinks.andrejnsimoes.com/2021/01/what-are-multi-stage-docker-builds.html)
-- [Creating a React app with TypeScript and ESLint with Webpack 5](https://teklinks.andrejnsimoes.com/2021/01/creating-react-app-with-typescript-and.html)
-- [Cypress vs Selenium vs Playwright vs Puppeteer speed comparison](https://teklinks.andrejnsimoes.com/2021/01/cypress-vs-selenium-vs-playwright-vs.html)
-- [Tao of React - Software Design, Architecture & Best Practices](https://teklinks.andrejnsimoes.com/2021/01/tao-of-react-software-design.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
