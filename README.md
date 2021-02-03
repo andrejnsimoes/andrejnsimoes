@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [7 code smells in your React components](https://teklinks.andrejnsimoes.com/2021/02/7-code-smells-in-your-react-components.html)
+- [The styled-components happy path](https://teklinks.andrejnsimoes.com/2021/02/the-styled-components-happy-path.html)
+- [React Learning Roadmap For 2021](https://teklinks.andrejnsimoes.com/2021/02/react-learning-roadmap-for-2021.html)
 - [WebRTC becomes an official W3C and IETF standard](https://teklinks.andrejnsimoes.com/2021/01/webrtc-becomes-official-w3c-and-ietf.html)
 - [Jenkins vs Travis vs Bamboo vs TeamCity: Clash Of The Titans](https://teklinks.andrejnsimoes.com/2021/01/jenkins-vs-travis-vs-bamboo-vs-teamcity.html)
-- [Bash Process Termination Hacks](https://teklinks.andrejnsimoes.com/2021/01/bash-process-termination-hacks.html)
-- [Scaling Applications Using Micro-Frontends](https://teklinks.andrejnsimoes.com/2021/01/scaling-applications-using-micro.html)
-- [Introducing TotalRecoilJS: A new developer tool for visualizing your Recoil state](https://teklinks.andrejnsimoes.com/2021/01/introducing-totalrecoiljs-new-developer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
