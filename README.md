@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do Compilers Work](https://teklinks.andrejnsimoes.com/2021/02/how-do-compilers-work.html)
+- [The Top 100+ Developer Tools 2020](https://teklinks.andrejnsimoes.com/2021/02/the-top-100-developer-tools-2020.html)
+- [The Soft Skills Are the Hard Skills of Today](https://teklinks.andrejnsimoes.com/2021/02/the-soft-skills-are-hard-skills-of-today.html)
 - [Best Practices for Setting SLOs and SLIs For Modern, Complex Systems](https://teklinks.andrejnsimoes.com/2021/02/best-practices-for-setting-slos-and.html)
 - [undefined vs. null revisited](https://teklinks.andrejnsimoes.com/2021/02/undefined-vs-null-revisited.html)
-- [Webpack 5.0 for a working website](https://teklinks.andrejnsimoes.com/2021/02/webpack-50-for-working-website.html)
-- [7 code smells in your React components](https://teklinks.andrejnsimoes.com/2021/02/7-code-smells-in-your-react-components.html)
-- [The styled-components happy path](https://teklinks.andrejnsimoes.com/2021/02/the-styled-components-happy-path.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
