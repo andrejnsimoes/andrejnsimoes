@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Static Typing In TypeScript](https://teklinks.andrejnsimoes.com/2021/02/dynamic-static-typing-in-typescript.html)
+- [Mac utility Homebrew finally gets native Apple Silicon and M1 support](https://teklinks.andrejnsimoes.com/2021/02/mac-utility-homebrew-finally-gets.html)
+- [20 Essential Parts Of Any Large Scale React App](https://teklinks.andrejnsimoes.com/2021/02/20-essential-parts-of-any-large-scale.html)
 - [How Do Compilers Work](https://teklinks.andrejnsimoes.com/2021/02/how-do-compilers-work.html)
 - [The Top 100+ Developer Tools 2020](https://teklinks.andrejnsimoes.com/2021/02/the-top-100-developer-tools-2020.html)
-- [The Soft Skills Are the Hard Skills of Today](https://teklinks.andrejnsimoes.com/2021/02/the-soft-skills-are-hard-skills-of-today.html)
-- [Best Practices for Setting SLOs and SLIs For Modern, Complex Systems](https://teklinks.andrejnsimoes.com/2021/02/best-practices-for-setting-slos-and.html)
-- [undefined vs. null revisited](https://teklinks.andrejnsimoes.com/2021/02/undefined-vs-null-revisited.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
