@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Plugins for React Apps - No Really!](https://www.youtube.com/watch?v=87hg99a9cjE)
+- [How To Become A Web Developer In 2021](https://www.youtube.com/watch?v=AWeWihbC0YU)
 - [Mastering Typescript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
 - [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0)
 - [How To Build A Google Drive Clone With Firebase](https://www.youtube.com/watch?v=6XTRElVAZ9Y)
-- [Live with Kent: Cypress Automation](https://www.youtube.com/watch?v=xD5ArlskA1w)
 <!-- YOUTUBE:END -->
 
 
