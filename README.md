@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
+- [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez (Spanish langauaje)](https://www.youtube.com/watch?v=qAzL3QmmtVg)
 - [Plugins for React Apps - No Really!](https://www.youtube.com/watch?v=87hg99a9cjE)
 - [How To Become A Web Developer In 2021](https://www.youtube.com/watch?v=AWeWihbC0YU)
 - [Mastering Typescript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
-- [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0)
-- [How To Build A Google Drive Clone With Firebase](https://www.youtube.com/watch?v=6XTRElVAZ9Y)
 <!-- YOUTUBE:END -->
 
 
