@@ -55,7 +55,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez (Spanish langauaje)](https://www.youtube.com/watch?v=qAzL3QmmtVg)
 - [Plugins for React Apps - No Really!](https://www.youtube.com/watch?v=87hg99a9cjE)
 - [How To Become A Web Developer In 2021](https://www.youtube.com/watch?v=AWeWihbC0YU)
-- [Mastering Typescript for React Components](https://www.youtube.com/watch?v=z8lDwLKthr8)
+- [All the Ways to Generate a Next.js Site | 1-Hour Tech Talk | DigitalOcean](https://www.youtube.com/watch?v=-ffooJCx37c)
 <!-- YOUTUBE:END -->
 
 
