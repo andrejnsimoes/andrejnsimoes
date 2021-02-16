@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [How To Create And Deploy A VSCode Extension](https://www.youtube.com/watch?v=q5V4T3o3CXE)
+- [Fixing Module Federation Versioning](https://www.youtube.com/watch?v=ZFNxTy3fOO0)
+- [MUST USE Websites & Tools for Web Developers](https://www.youtube.com/watch?v=9CEW3Tmx2tg)
 - [From beginner to expert in web performance  - Tracy Lee](https://www.youtube.com/watch?v=l1A1ImFkNvA)
 - [Micro Frontends, or how to evolve to an extensible frontend - Benjamín Martínez (Spanish langauaje)](https://www.youtube.com/watch?v=qAzL3QmmtVg)
-- [Plugins for React Apps - No Really!](https://www.youtube.com/watch?v=87hg99a9cjE)
-- [How To Become A Web Developer In 2021](https://www.youtube.com/watch?v=AWeWihbC0YU)
 <!-- YOUTUBE:END -->
 
 
