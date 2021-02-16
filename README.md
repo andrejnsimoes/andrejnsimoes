@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Caching in Node.js using Redis](https://teklinks.andrejnsimoes.com/2021/02/implementing-caching-in-nodejs-using.html)
+- [How to Install a NPM Module from GitHub Branch](https://teklinks.andrejnsimoes.com/2021/02/how-to-install-npm-module-from-github.html)
+- [Building Micro Frontends with Components](https://teklinks.andrejnsimoes.com/2021/02/building-micro-frontends-with-components.html)
 - [Technical Debt Affects Everyone](https://teklinks.andrejnsimoes.com/2021/02/technical-debt-affects-everyone.html)
 - [Atomic Habits](https://teklinks.andrejnsimoes.com/2021/02/atomic-habits.html)
-- [Vite vs. Snowpack: A comparison of frontend build tools](https://teklinks.andrejnsimoes.com/2021/02/vite-vs-snowpack-comparison-of-frontend.html)
-- [Building A Web App With React, Redux And Sanity.io](https://teklinks.andrejnsimoes.com/2021/02/building-web-app-with-react-redux-and.html)
-- [Top 8 React meetup videos in 2020](https://teklinks.andrejnsimoes.com/2021/02/top-8-react-meetup-videos-in-2020.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
