@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Video For Size And Quality](https://teklinks.andrejnsimoes.com/2021/02/optimizing-video-for-size-and-quality.html)
+- [🏄‍♂️ Introducing Github.surf](https://teklinks.andrejnsimoes.com/2021/02/introducing-githubsurf.html)
+- [Progressive Web Apps in 2021](https://teklinks.andrejnsimoes.com/2021/02/progressive-web-apps-in-2021.html)
+- [The Never-Ending Job of Selling Design Systems](https://teklinks.andrejnsimoes.com/2021/02/the-never-ending-job-of-selling-design.html)
 - [Implementing Caching in Node.js using Redis](https://teklinks.andrejnsimoes.com/2021/02/implementing-caching-in-nodejs-using.html)
-- [How to Install a NPM Module from GitHub Branch](https://teklinks.andrejnsimoes.com/2021/02/how-to-install-npm-module-from-github.html)
-- [Building Micro Frontends with Components](https://teklinks.andrejnsimoes.com/2021/02/building-micro-frontends-with-components.html)
-- [Technical Debt Affects Everyone](https://teklinks.andrejnsimoes.com/2021/02/technical-debt-affects-everyone.html)
-- [Atomic Habits](https://teklinks.andrejnsimoes.com/2021/02/atomic-habits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
