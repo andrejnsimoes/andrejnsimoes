@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Scrum](https://teklinks.andrejnsimoes.com/2021/02/scrum.html)
+- [It's 2021, and You Should Switch to Yarn 2, Already!](https://teklinks.andrejnsimoes.com/2021/02/its-2021-and-you-should-switch-to-yarn.html)
+- [New browser-tracking hack works even when you flush caches or go incognito](https://teklinks.andrejnsimoes.com/2021/02/new-browser-tracking-hack-works-even.html)
 - [Optimizing Video For Size And Quality](https://teklinks.andrejnsimoes.com/2021/02/optimizing-video-for-size-and-quality.html)
 - [🏄‍♂️ Introducing Github.surf](https://teklinks.andrejnsimoes.com/2021/02/introducing-githubsurf.html)
-- [Progressive Web Apps in 2021](https://teklinks.andrejnsimoes.com/2021/02/progressive-web-apps-in-2021.html)
-- [The Never-Ending Job of Selling Design Systems](https://teklinks.andrejnsimoes.com/2021/02/the-never-ending-job-of-selling-design.html)
-- [Implementing Caching in Node.js using Redis](https://teklinks.andrejnsimoes.com/2021/02/implementing-caching-in-nodejs-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
