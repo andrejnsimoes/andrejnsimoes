@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Things to Consider when Adding a New Project Dependency](https://teklinks.andrejnsimoes.com/2021/02/6-things-to-consider-when-adding-new.html)
+- [60fps in a Web App](https://teklinks.andrejnsimoes.com/2021/02/60fps-in-web-app.html)
+- [Basic Recipes for React Testing Library](https://teklinks.andrejnsimoes.com/2021/02/basic-recipes-for-react-testing-library.html)
 - [Double Your React Coding Speed With This Simple Trick](https://teklinks.andrejnsimoes.com/2021/02/double-your-react-coding-speed-with.html)
 - [Top 5 React Component UI Libraries](https://teklinks.andrejnsimoes.com/2021/02/top-5-react-component-ui-libraries.html)
-- [With Best Practices from the Start](https://teklinks.andrejnsimoes.com/2021/02/with-best-practices-from-start.html)
-- [Scrum](https://teklinks.andrejnsimoes.com/2021/02/scrum.html)
-- [It's 2021, and You Should Switch to Yarn 2, Already!](https://teklinks.andrejnsimoes.com/2021/02/its-2021-and-you-should-switch-to-yarn.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
