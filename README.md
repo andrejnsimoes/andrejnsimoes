@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Rendering in React ♻ ⚛️](https://teklinks.andrejnsimoes.com/2021/02/understanding-rendering-in-react.html)
+- [Automating Getting an Authentication Token with Postman](https://teklinks.andrejnsimoes.com/2021/02/automating-getting-authentication-token.html)
+- [10 All-Time Favorite Programming Books – Must Read in 2021!](https://teklinks.andrejnsimoes.com/2021/02/10-all-time-favorite-programming-books.html)
 - [Free Tailwind CSS resources](https://teklinks.andrejnsimoes.com/2021/02/free-tailwind-css-resources.html)
 - [Before You memo()](https://teklinks.andrejnsimoes.com/2021/02/before-you-memo.html)
-- [Homebrew for Apple Silicon M1 Macs is now available](https://teklinks.andrejnsimoes.com/2021/02/homebrew-for-apple-silicon-m1-macs-is.html)
-- [Chakra UI is the Only React Component Library You Need](https://teklinks.andrejnsimoes.com/2021/02/chakra-ui-is-only-react-component.html)
-- [6 Things to Consider when Adding a New Project Dependency](https://teklinks.andrejnsimoes.com/2021/02/6-things-to-consider-when-adding-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
