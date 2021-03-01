@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The easiest way to check all your npm dependency licenses ✅](https://teklinks.andrejnsimoes.com/2021/03/the-easiest-way-to-check-all-your-npm.html)
+- [How to Persist Your Redux Store](https://teklinks.andrejnsimoes.com/2021/03/how-to-persist-your-redux-store.html)
+- [Understand the Concept of JWT — JSON Web Tokens](https://teklinks.andrejnsimoes.com/2021/03/understand-concept-of-jwtjson-web-tokens.html)
 - [Understanding Rendering in React ♻ ⚛️](https://teklinks.andrejnsimoes.com/2021/02/understanding-rendering-in-react.html)
 - [Automating Getting an Authentication Token with Postman](https://teklinks.andrejnsimoes.com/2021/02/automating-getting-authentication-token.html)
-- [10 All-Time Favorite Programming Books – Must Read in 2021!](https://teklinks.andrejnsimoes.com/2021/02/10-all-time-favorite-programming-books.html)
-- [Free Tailwind CSS resources](https://teklinks.andrejnsimoes.com/2021/02/free-tailwind-css-resources.html)
-- [Before You memo()](https://teklinks.andrejnsimoes.com/2021/02/before-you-memo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
