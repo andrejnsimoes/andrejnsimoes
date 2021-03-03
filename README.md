@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Instagram Clone - React Tutorial - Tailwind CSS - Firebase - React Testing Library - Cypress](https://www.youtube.com/watch?v=AKeaaa8yAAk)
 - [How DogeHouse will Scale to the Moon 🚀](https://www.youtube.com/watch?v=8YJqB4pNNgs)
 - [Invite Only! Use FOMO to grow your app // Exclusive Phone SignIn Tutorial](https://www.youtube.com/watch?v=yJ5agkia4o8)
 - [Mastering Typescript State using Zustand](https://www.youtube.com/watch?v=sqTPGMipjHk)
 - [Introduction to React #16 | SSR](https://www.youtube.com/watch?v=xrbuvD5HBq4)
-- [How To Create And Deploy A VSCode Extension](https://www.youtube.com/watch?v=q5V4T3o3CXE)
 <!-- YOUTUBE:END -->
 
 
