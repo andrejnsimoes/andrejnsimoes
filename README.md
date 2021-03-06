@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Elegant Frontend Architecture](https://teklinks.andrejnsimoes.com/2021/03/elegant-frontend-architecture.html)
+- [Let’s Create a Custom Audio Player](https://teklinks.andrejnsimoes.com/2021/03/lets-create-custom-audio-player.html)
+- [Not all developers want to be leaders — but here’s how to help the ones that do](https://teklinks.andrejnsimoes.com/2021/03/not-all-developers-want-to-be-leaders.html)
 - [Manage technical quality](https://teklinks.andrejnsimoes.com/2021/03/manage-technical-quality.html)
 - [Bitwarden Is the Best Free Alternative to LastPass](https://teklinks.andrejnsimoes.com/2021/03/bitwarden-is-best-free-alternative-to.html)
-- [The New React 17 JSX Transform](https://teklinks.andrejnsimoes.com/2021/03/the-new-react-17-jsx-transform.html)
-- [Better git diffs with FZF](https://teklinks.andrejnsimoes.com/2021/03/better-git-diffs-with-fzf.html)
-- [React and TensorFlow.js](https://teklinks.andrejnsimoes.com/2021/03/react-and-tensorflowjs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
