@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Ways to Combat Project Burnout](https://teklinks.andrejnsimoes.com/2021/03/10-ways-to-combat-project-burnout.html)
+- [The 6 levels of autonomous driving, explained as fast as possible](https://teklinks.andrejnsimoes.com/2021/03/the-6-levels-of-autonomous-driving.html)
 - [SmolCSS](https://teklinks.andrejnsimoes.com/2021/03/smolcss.html)
 - [NFTs are a dangerous trap](https://teklinks.andrejnsimoes.com/2021/03/nfts-are-dangerous-trap.html)
 - [3 Tips for Handing Off a Large Project](https://teklinks.andrejnsimoes.com/2021/03/3-tips-for-handing-off-large-project.html)
-- [REST vs GraphQL: Making the Right Choice](https://teklinks.andrejnsimoes.com/2021/03/rest-vs-graphql-making-right-choice.html)
-- [React Testing Library – Tutorial with JavaScript Code Examples](https://teklinks.andrejnsimoes.com/2021/03/react-testing-library-tutorial-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
