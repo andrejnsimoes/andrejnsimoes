@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Estimating Software Budgets – Don’t Confuse Precision with Accuracy](https://teklinks.andrejnsimoes.com/2021/03/estimating-software-budgets-dont.html)
+- [How to Build React Forms the Easy Way with react-hook-form](https://teklinks.andrejnsimoes.com/2021/03/how-to-build-react-forms-easy-way-with.html)
+- [The New King of Bundlers Is Here: All Bow Before Vitejs](https://teklinks.andrejnsimoes.com/2021/03/the-new-king-of-bundlers-is-here-all.html)
+- [How to Use Breakout Rooms in a Zoom Meeting](https://teklinks.andrejnsimoes.com/2021/03/how-to-use-breakout-rooms-in-zoom.html)
 - [10 Ways to Combat Project Burnout](https://teklinks.andrejnsimoes.com/2021/03/10-ways-to-combat-project-burnout.html)
-- [The 6 levels of autonomous driving, explained as fast as possible](https://teklinks.andrejnsimoes.com/2021/03/the-6-levels-of-autonomous-driving.html)
-- [SmolCSS](https://teklinks.andrejnsimoes.com/2021/03/smolcss.html)
-- [NFTs are a dangerous trap](https://teklinks.andrejnsimoes.com/2021/03/nfts-are-dangerous-trap.html)
-- [3 Tips for Handing Off a Large Project](https://teklinks.andrejnsimoes.com/2021/03/3-tips-for-handing-off-large-project.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
