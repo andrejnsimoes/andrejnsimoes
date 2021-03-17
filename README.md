@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Handling User Permissions in JavaScript](https://teklinks.andrejnsimoes.com/2021/03/handling-user-permissions-in-javascript.html)
+- [Communicating Effectively with Your Business Partners](https://teklinks.andrejnsimoes.com/2021/03/communicating-effectively-with-your.html)
 - [Unit Testing Components in React Navigation 5](https://teklinks.andrejnsimoes.com/2021/03/unit-testing-components-in-react.html)
 - [Micro Frontends Using Webpack 5 Module Federation](https://teklinks.andrejnsimoes.com/2021/03/micro-frontends-using-webpack-5-module.html)
 - [How We Use Golden Paths to Solve Fragmentation in Our Software Ecosystem](https://teklinks.andrejnsimoes.com/2021/03/how-we-use-golden-paths-to-solve.html)
-- [Multi-Tenant Architecture](https://teklinks.andrejnsimoes.com/2021/03/multi-tenant-architecture.html)
-- [Through the pipeline: An exploration of front-end bundlers](https://teklinks.andrejnsimoes.com/2021/03/through-pipeline-exploration-of-front.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
