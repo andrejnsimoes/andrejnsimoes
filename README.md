@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [23 Node.js Best Practices For Automation Testing](https://teklinks.andrejnsimoes.com/2021/03/23-nodejs-best-practices-for-automation.html)
 - [Canvas vs SVG: Choosing the Right Tool for the Job](https://teklinks.andrejnsimoes.com/2021/03/canvas-vs-svg-choosing-right-tool-for.html)
 - [The State of User Research 2021 Report](https://teklinks.andrejnsimoes.com/2021/03/the-state-of-user-research-2021-report.html)
 - [How to Screen Record on Your Chromebook](https://teklinks.andrejnsimoes.com/2021/03/how-to-screen-record-on-your-chromebook.html)
 - [Awesome Git Aliases](https://teklinks.andrejnsimoes.com/2021/03/awesome-git-aliases.html)
-- [Smart Optimization Techniques: Lazy Loading with React](https://teklinks.andrejnsimoes.com/2021/03/smart-optimization-techniques-lazy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
