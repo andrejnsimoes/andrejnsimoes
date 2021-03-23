@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Why I Don't Use Else When Programming](https://www.youtube.com/watch?v=EumXak7TyQ0)
+- [4 Steps to Become a Developer #Shorts](https://www.youtube.com/watch?v=nvlizC6koSc)
+- [Why so many distros? The Weird History of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw)
+- [Best Laptops for Programming in 2021](https://www.youtube.com/watch?v=ZGADxPLGyHE)
 - [Five Essential Design Patterns in Typescript](https://www.youtube.com/watch?v=JBu2ZTPgiKI)
-- [Typescript for React and Effector From Beginners to Masters](https://www.youtube.com/watch?v=_m2XfYzBV2c)
-- [Quokka | The JavaScript Scratchpad](https://www.youtube.com/watch?v=f_sEWa5hA0Q)
-- [Instagram Clone - React Tutorial - Tailwind CSS - Firebase - React Testing Library - Cypress](https://www.youtube.com/watch?v=AKeaaa8yAAk)
-- [How DogeHouse will Scale to the Moon 🚀](https://www.youtube.com/watch?v=8YJqB4pNNgs)
 <!-- YOUTUBE:END -->
 
 
