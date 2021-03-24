@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Libraries: JavaScript Edition](https://teklinks.andrejnsimoes.com/2021/03/debugging-libraries-javascript-edition.html)
+- [React API evolution](https://teklinks.andrejnsimoes.com/2021/03/react-api-evolution.html)
+- [Handling Text Over Images in CSS](https://teklinks.andrejnsimoes.com/2021/03/handling-text-over-images-in-css.html)
 - [CSS Auditing Tools](https://teklinks.andrejnsimoes.com/2021/03/css-auditing-tools.html)
 - [Just-In-Time: The Next Generation of Tailwind CSS](https://teklinks.andrejnsimoes.com/2021/03/just-in-time-next-generation-of.html)
-- [Use Logpoints!](https://teklinks.andrejnsimoes.com/2021/03/use-logpoints.html)
-- [23 Node.js Best Practices For Automation Testing](https://teklinks.andrejnsimoes.com/2021/03/23-nodejs-best-practices-for-automation.html)
-- [Canvas vs SVG: Choosing the Right Tool for the Job](https://teklinks.andrejnsimoes.com/2021/03/canvas-vs-svg-choosing-right-tool-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
