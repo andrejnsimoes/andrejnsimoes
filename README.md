@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase](https://teklinks.andrejnsimoes.com/2021/03/from-semantic-css-to-tailwind.html)
+- [Why Agile Transformation Fails | AgileIndy 2021](https://teklinks.andrejnsimoes.com/2021/03/why-agile-transformation-fails.html)
+- [Tips and Tricks for Giving Talks](https://teklinks.andrejnsimoes.com/2021/03/tips-and-tricks-for-giving-talks.html)
 - [Debugging Libraries: JavaScript Edition](https://teklinks.andrejnsimoes.com/2021/03/debugging-libraries-javascript-edition.html)
 - [React API evolution](https://teklinks.andrejnsimoes.com/2021/03/react-api-evolution.html)
-- [Handling Text Over Images in CSS](https://teklinks.andrejnsimoes.com/2021/03/handling-text-over-images-in-css.html)
-- [CSS Auditing Tools](https://teklinks.andrejnsimoes.com/2021/03/css-auditing-tools.html)
-- [Just-In-Time: The Next Generation of Tailwind CSS](https://teklinks.andrejnsimoes.com/2021/03/just-in-time-next-generation-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
