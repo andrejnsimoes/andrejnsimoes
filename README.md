@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple tips for writing clean React components](https://teklinks.andrejnsimoes.com/2021/03/simple-tips-for-writing-clean-react.html)
+- [5 Different Tools for Frontend Monitoring](https://teklinks.andrejnsimoes.com/2021/03/5-different-tools-for-frontend.html)
+- [Cypress Web Automation](https://teklinks.andrejnsimoes.com/2021/03/cypress-web-automation.html)
 - [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase](https://teklinks.andrejnsimoes.com/2021/03/from-semantic-css-to-tailwind.html)
 - [Why Agile Transformation Fails | AgileIndy 2021](https://teklinks.andrejnsimoes.com/2021/03/why-agile-transformation-fails.html)
-- [Tips and Tricks for Giving Talks](https://teklinks.andrejnsimoes.com/2021/03/tips-and-tricks-for-giving-talks.html)
-- [Debugging Libraries: JavaScript Edition](https://teklinks.andrejnsimoes.com/2021/03/debugging-libraries-javascript-edition.html)
-- [React API evolution](https://teklinks.andrejnsimoes.com/2021/03/react-api-evolution.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
