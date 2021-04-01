@@ -55,7 +55,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Common React Mistakes: useEffect](https://www.youtube.com/watch?v=lStfMBiWROQ)
 - [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
 - [Docker Tutorial for Beginners [2021]](https://www.youtube.com/watch?v=pTFZFxd4hOI)
-- [Why I Don't Use Else When Programming](https://www.youtube.com/watch?v=EumXak7TyQ0)
+- [How Netflix Scales Its API with GraphQL Federation](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
 <!-- YOUTUBE:END -->
 
 
