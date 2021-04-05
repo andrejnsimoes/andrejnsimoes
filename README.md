@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Measuring network service performance](https://teklinks.andrejnsimoes.com/2021/04/measuring-network-service-performance.html)
+- [React State Management Libraries and How to Choose](https://teklinks.andrejnsimoes.com/2021/04/react-state-management-libraries-and.html)
+- [Writing VS Code extensions in JavaScript](https://teklinks.andrejnsimoes.com/2021/04/writing-vs-code-extensions-in-javascript.html)
 - [From Mixins to Custom Hooks: History of Sharing in React](https://teklinks.andrejnsimoes.com/2021/04/from-mixins-to-custom-hooks-history-of.html)
 - [20 Best Places To Learn Programming For Free](https://teklinks.andrejnsimoes.com/2021/04/20-best-places-to-learn-programming-for.html)
-- [From semantic CSS to Tailwind - Refactoring the Netlify UI codebase](https://teklinks.andrejnsimoes.com/2021/04/from-semantic-css-to-tailwind.html)
-- [How GitHub Actions renders large-scale logs](https://teklinks.andrejnsimoes.com/2021/04/how-github-actions-renders-large-scale.html)
-- [How to Use React Context Effectively](https://teklinks.andrejnsimoes.com/2021/04/how-to-use-react-context-effectively.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
