@@ -52,7 +52,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://www.youtube.com/watch?v=sZif1kuAjcY)
-- [Common React Mistakes: useEffect](https://www.youtube.com/watch?v=lStfMBiWROQ)
+- [Common React Mistakes: useEffect - Part 1](https://www.youtube.com/watch?v=lStfMBiWROQ)
 - [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
 - [Docker Tutorial for Beginners [2021]](https://www.youtube.com/watch?v=pTFZFxd4hOI)
 - [How Netflix Scales Its API with GraphQL Federation](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
