@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [15 DevTool Secrets for JavaScript Developers](https://teklinks.andrejnsimoes.com/2021/04/15-devtool-secrets-for-javascript.html)
+- [12 Resources To Improve Your CSS Skills And Speed Up CSS Development](https://teklinks.andrejnsimoes.com/2021/04/12-resources-to-improve-your-css-skills.html)
+- [Comparing the New Generation of Build Tools](https://teklinks.andrejnsimoes.com/2021/04/comparing-new-generation-of-build-tools.html)
 - [10 Freelance Tools for Project Management and Planning](https://teklinks.andrejnsimoes.com/2021/04/10-freelance-tools-for-project.html)
 - [React 17 removes event pooling in the modern browsers](https://teklinks.andrejnsimoes.com/2021/04/react-17-removes-event-pooling-in.html)
-- [The Engineer’s Complete Guide to Improving Velocity](https://teklinks.andrejnsimoes.com/2021/04/the-engineers-complete-guide-to.html)
-- [Tools for Auditing CSS](https://teklinks.andrejnsimoes.com/2021/04/tools-for-auditing-css.html)
-- [Chakra UI: React library built for speed](https://teklinks.andrejnsimoes.com/2021/04/chakra-ui-react-library-built-for-speed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
