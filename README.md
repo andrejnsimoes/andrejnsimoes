@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [React Video Chat App Tutorial - Build and Deploy a WebRTC Video Chat Zoom Clone | Tabnine](https://www.youtube.com/watch?v=oxFr7we3LC8)
 - [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://www.youtube.com/watch?v=sZif1kuAjcY)
 - [Common React Mistakes: useEffect - Part 1](https://www.youtube.com/watch?v=lStfMBiWROQ)
 - [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
 - [Docker Tutorial for Beginners [2021]](https://www.youtube.com/watch?v=pTFZFxd4hOI)
-- [How Netflix Scales Its API with GraphQL Federation](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
 <!-- YOUTUBE:END -->
 
 
