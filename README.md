@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Healing Power of JavaScript](https://teklinks.andrejnsimoes.com/2021/04/the-healing-power-of-javascript.html)
+- [Quitting is good, actually](https://teklinks.andrejnsimoes.com/2021/04/quitting-is-good-actually.html)
+- [Bitcoin Hitting $100,000 Doesn’t Matter. Many People Have Missed the Point.](https://teklinks.andrejnsimoes.com/2021/04/bitcoin-hitting-100000-doesnt-matter.html)
 - [Standalone application with Electron, React, and SQLite stack.](https://teklinks.andrejnsimoes.com/2021/04/standalone-application-with-electron.html)
 - [React Recoil 0.1.2](https://teklinks.andrejnsimoes.com/2021/04/react-recoil-012.html)
-- [Revisiting the Raspberry Pi Zero WiFi Hacking Gadget](https://teklinks.andrejnsimoes.com/2021/04/revisiting-raspberry-pi-zero-wifi.html)
-- [When asked to fix something, we don’t even think of removing parts](https://teklinks.andrejnsimoes.com/2021/04/when-asked-to-fix-something-we-dont.html)
-- [Play Deploying packages with GitHub Actions](https://teklinks.andrejnsimoes.com/2021/04/play-deploying-packages-with-github.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
