@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Maintaining Open Source Projects With Eddie Jaoude](https://www.youtube.com/watch?v=4RVemVhnytI)
+- [Svelte in 100 Seconds](https://www.youtube.com/watch?v=rv3Yq-B8qp4)
+- [5 More Must Know CSS Tricks That Almost Nobody Knows](https://www.youtube.com/watch?v=pKO1ktPQByk)
+- [10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
 - [React Video Chat App Tutorial - Build and Deploy a WebRTC Video Chat Zoom Clone | Tabnine](https://www.youtube.com/watch?v=oxFr7we3LC8)
-- [Get Paid with Crypto in your App // Coinbase Commerce Tutorial](https://www.youtube.com/watch?v=sZif1kuAjcY)
-- [Common React Mistakes: useEffect - Part 1](https://www.youtube.com/watch?v=lStfMBiWROQ)
-- [React to Solid - Stream With Ryan Carniato](https://www.youtube.com/watch?v=p8e9ta269x8)
-- [Docker Tutorial for Beginners [2021]](https://www.youtube.com/watch?v=pTFZFxd4hOI)
 <!-- YOUTUBE:END -->
 
 
