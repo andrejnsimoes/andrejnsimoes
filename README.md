@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [React SSR with Suspense and lazy in ViteJS - Is This a Dumb Idea?](https://www.youtube.com/watch?v=Sc0yFWSA8BU)
 - [Maintaining Open Source Projects With Eddie Jaoude](https://www.youtube.com/watch?v=4RVemVhnytI)
 - [Svelte in 100 Seconds](https://www.youtube.com/watch?v=rv3Yq-B8qp4)
 - [5 More Must Know CSS Tricks That Almost Nobody Knows](https://www.youtube.com/watch?v=pKO1ktPQByk)
 - [Introduction To React #17 | Static Site Generation (SSG)](https://www.youtube.com/watch?v=YzPDzWM_k_8)
-- [10 CSS Pro Tips - Code this, NOT that!](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
 <!-- YOUTUBE:END -->
 
 
