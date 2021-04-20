@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Vanilla JavaScript Code Snippets](https://teklinks.andrejnsimoes.com/2021/04/vanilla-javascript-code-snippets.html)
+- [Build Self-healing applications that scale automatically using Kubernetes](https://teklinks.andrejnsimoes.com/2021/04/build-self-healing-applications-that.html)
+- [How to Practice Your Presentations with PowerPoint’s Presenter Coach](https://teklinks.andrejnsimoes.com/2021/04/how-to-practice-your-presentations-with.html)
 - [The Complete Guide to Full Stack Ethereum Development](https://teklinks.andrejnsimoes.com/2021/04/the-complete-guide-to-full-stack.html)
 - [How to actually test UIs](https://teklinks.andrejnsimoes.com/2021/04/how-to-actually-test-uis.html)
-- [Modern CSS Upgrades To Improve Accessibility](https://teklinks.andrejnsimoes.com/2021/04/modern-css-upgrades-to-improve.html)
-- [The Healing Power of JavaScript](https://teklinks.andrejnsimoes.com/2021/04/the-healing-power-of-javascript.html)
-- [Quitting is good, actually](https://teklinks.andrejnsimoes.com/2021/04/quitting-is-good-actually.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
