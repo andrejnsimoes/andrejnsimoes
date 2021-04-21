@@ -51,7 +51,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Interviewing for developers - HTTP 203](https://www.youtube.com/watch?v=hFyQn5F5pc0)
+- [Conducting tech interviews - HTTP 203](https://www.youtube.com/watch?v=hFyQn5F5pc0)
 - [How To Build A Google Docs Clone With React, Socket.io, and MongoDB](https://www.youtube.com/watch?v=iRaelG7v0OU)
 - [Ethical Hacking in 100 Seconds // And why do we need CORS?](https://www.youtube.com/watch?v=v969_M6cWk0)
 - [Federated Unit Tests?!](https://www.youtube.com/watch?v=Ak2Rms-CFmM)
