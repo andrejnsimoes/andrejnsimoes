@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Tools for making remote kickoffs and virtual workhops successful](https://teklinks.andrejnsimoes.com/2021/04/tools-for-making-remote-kickoffs-and.html)
+- [Work with GitHub Actions in your terminal with GitHub CLI](https://teklinks.andrejnsimoes.com/2021/04/work-with-github-actions-in-your.html)
+- [Code Quality Control And Why You Need It](https://teklinks.andrejnsimoes.com/2021/04/code-quality-control-and-why-you-need-it.html)
 - [How to Make Writing Performance Tests Easy With Cypress](https://teklinks.andrejnsimoes.com/2021/04/how-to-make-writing-performance-tests.html)
 - [Career Ladders](https://teklinks.andrejnsimoes.com/2021/04/career-ladders.html)
-- [An In-Depth Guide To Measuring Core Web Vitals](https://teklinks.andrejnsimoes.com/2021/04/an-in-depth-guide-to-measuring-core-web.html)
-- [Vanilla JavaScript Code Snippets](https://teklinks.andrejnsimoes.com/2021/04/vanilla-javascript-code-snippets.html)
-- [Build Self-healing applications that scale automatically using Kubernetes](https://teklinks.andrejnsimoes.com/2021/04/build-self-healing-applications-that.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
