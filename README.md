@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [9 Best Practices for Effective Code Review from Leobit’s Experts](https://teklinks.andrejnsimoes.com/2021/04/9-best-practices-for-effective-code.html)
+- [Styled Components Best Practices](https://teklinks.andrejnsimoes.com/2021/04/styled-components-best-practices.html)
+- [Mind the platform execution gap](https://teklinks.andrejnsimoes.com/2021/04/mind-platform-execution-gap.html)
 - [Prepare Your Software for Growth: Create Boundaries](https://teklinks.andrejnsimoes.com/2021/04/prepare-your-software-for-growth-create.html)
 - [How to Download and Install Multiple Apps Quickly on Mac](https://teklinks.andrejnsimoes.com/2021/04/how-to-download-and-install-multiple.html)
-- [21 Best Practices for a Clean React Project](https://teklinks.andrejnsimoes.com/2021/04/21-best-practices-for-clean-react.html)
-- [Tools for making remote kickoffs and virtual workhops successful](https://teklinks.andrejnsimoes.com/2021/04/tools-for-making-remote-kickoffs-and.html)
-- [Work with GitHub Actions in your terminal with GitHub CLI](https://teklinks.andrejnsimoes.com/2021/04/work-with-github-actions-in-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
