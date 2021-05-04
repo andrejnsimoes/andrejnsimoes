@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What Is Google’s FLoC, and How Will It Track You Online?](https://teklinks.andrejnsimoes.com/2021/05/what-is-googles-floc-and-how-will-it.html)
+- [The Evolution Of Jamstack](https://teklinks.andrejnsimoes.com/2021/05/the-evolution-of-jamstack.html)
+- [Understand Dom Rendering With Angular](https://teklinks.andrejnsimoes.com/2021/05/understand-dom-rendering-with-angular.html)
 - [What Engineering Teams Need From Leaders Right Now](https://teklinks.andrejnsimoes.com/2021/05/what-engineering-teams-need-from.html)
 - [The Complete Guide to Google's Core Web Vitals Performance Metrics](https://teklinks.andrejnsimoes.com/2021/05/the-complete-guide-to-googles-core-web.html)
-- [Our recommended Chrome flags to test on your Chromebook](https://teklinks.andrejnsimoes.com/2021/05/our-recommended-chrome-flags-to-test-on.html)
-- [9 Best Practices for Effective Code Review from Leobit’s Experts](https://teklinks.andrejnsimoes.com/2021/04/9-best-practices-for-effective-code.html)
-- [Styled Components Best Practices](https://teklinks.andrejnsimoes.com/2021/04/styled-components-best-practices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
