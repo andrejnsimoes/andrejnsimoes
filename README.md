@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Testing React Applications - Radio Maksim](https://www.youtube.com/watch?v=fZN_Wpz1ja8)
 - [The 10 Types of Software Developers, Ranked](https://www.youtube.com/watch?v=-AAA68uZuWU)
 - [Is Supabase Legit? Firebase Alternative Breakdown](https://www.youtube.com/watch?v=WiwfiVdfRIc)
 - [Upgrading from react-query v2 to v3](https://www.youtube.com/watch?v=umJqHUcOaUo)
 - [Are you a Grifter? Content Creation Traps](https://www.youtube.com/watch?v=sL_uefhT51g)
-- [Ask the Expert: DevOps with GitHub](https://www.youtube.com/watch?v=OKltfpqpCmY)
 <!-- YOUTUBE:END -->
 
 
