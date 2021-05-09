@@ -54,8 +54,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [How I Setup And Customize VSCode](https://www.youtube.com/watch?v=VknMxAIbJj4)
 - [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 - [Pokemon Page with React, Fower and Custom Hooks](https://www.youtube.com/watch?v=xdJQ1GtUQCg)
+- [Create and publish packages to npm - React Component Library using tsdx](https://www.youtube.com/watch?v=aVFasPXkyRE)
 - [Testing React Applications - Radio Maksim](https://www.youtube.com/watch?v=fZN_Wpz1ja8)
-- [The 10 Types of Software Developers, Ranked](https://www.youtube.com/watch?v=-AAA68uZuWU)
 <!-- YOUTUBE:END -->
 
 
