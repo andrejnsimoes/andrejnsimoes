@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide To Undoing Mistakes With Git](https://teklinks.andrejnsimoes.com/2021/05/a-guide-to-undoing-mistakes-with-git.html)
+- [The Architecture Behind A One-Person Tech Startup](https://teklinks.andrejnsimoes.com/2021/05/the-architecture-behind-one-person-tech.html)
+- [Useful Tools for Parsing and Annotating PDFs in Node](https://teklinks.andrejnsimoes.com/2021/05/useful-tools-for-parsing-and-annotating.html)
 - [How I Built My Blog](https://teklinks.andrejnsimoes.com/2021/05/how-i-built-my-blog.html)
 - [Understanding Amazon’s Front-End Engineering Interview](https://teklinks.andrejnsimoes.com/2021/05/understanding-amazons-front-end.html)
-- [Why React Hooks?](https://teklinks.andrejnsimoes.com/2021/05/why-react-hooks.html)
-- [What Is Google’s FLoC, and How Will It Track You Online?](https://teklinks.andrejnsimoes.com/2021/05/what-is-googles-floc-and-how-will-it.html)
-- [The Evolution Of Jamstack](https://teklinks.andrejnsimoes.com/2021/05/the-evolution-of-jamstack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
