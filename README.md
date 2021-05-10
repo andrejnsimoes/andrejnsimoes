@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Keep Code Quality Under Control In 7 Steps](https://teklinks.andrejnsimoes.com/2021/05/how-to-keep-code-quality-under-control.html)
+- [The definitive guide to profiling React applications](https://teklinks.andrejnsimoes.com/2021/05/the-definitive-guide-to-profiling-react.html)
+- [Generate dynamic og:images just like GitHub](https://teklinks.andrejnsimoes.com/2021/05/generate-dynamic-ogimages-just-like.html)
 - [A Guide To Undoing Mistakes With Git](https://teklinks.andrejnsimoes.com/2021/05/a-guide-to-undoing-mistakes-with-git.html)
 - [The Architecture Behind A One-Person Tech Startup](https://teklinks.andrejnsimoes.com/2021/05/the-architecture-behind-one-person-tech.html)
-- [Useful Tools for Parsing and Annotating PDFs in Node](https://teklinks.andrejnsimoes.com/2021/05/useful-tools-for-parsing-and-annotating.html)
-- [How I Built My Blog](https://teklinks.andrejnsimoes.com/2021/05/how-i-built-my-blog.html)
-- [Understanding Amazon’s Front-End Engineering Interview](https://teklinks.andrejnsimoes.com/2021/05/understanding-amazons-front-end.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
