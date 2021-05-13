@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Frustrating Design Patterns That Need Fixing: Birthday Picker](https://teklinks.andrejnsimoes.com/2021/05/frustrating-design-patterns-that-need.html)
+- [WebRTC app development: challenges, use cases, and the future](https://teklinks.andrejnsimoes.com/2021/05/webrtc-app-development-challenges-use.html)
+- [How we sped up Chrome DevTools stack traces by 10x](https://teklinks.andrejnsimoes.com/2021/05/how-we-sped-up-chrome-devtools-stack.html)
 - [3 Useful TypeScript Patterns to Keep in Your Back Pocket](https://teklinks.andrejnsimoes.com/2021/05/3-useful-typescript-patterns-to-keep-in.html)
 - [Remaining Technical as an Engineering Leader](https://teklinks.andrejnsimoes.com/2021/05/remaining-technical-as-engineering.html)
-- [Monolith to Microservices + Event-Driven Architecture](https://teklinks.andrejnsimoes.com/2021/05/monolith-to-microservices-event-driven.html)
-- [How To Keep Code Quality Under Control In 7 Steps](https://teklinks.andrejnsimoes.com/2021/05/how-to-keep-code-quality-under-control.html)
-- [The definitive guide to profiling React applications](https://teklinks.andrejnsimoes.com/2021/05/the-definitive-guide-to-profiling-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
