@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [API Design for a React Tree Table](https://teklinks.andrejnsimoes.com/2021/05/api-design-for-react-tree-table.html)
+- [Best VS Code themes](https://teklinks.andrejnsimoes.com/2021/05/best-vs-code-themes.html)
+- [Don't Solve Problems, Eliminate Them](https://teklinks.andrejnsimoes.com/2021/05/dont-solve-problems-eliminate-them.html)
 - [Finding What Matters to You](https://teklinks.andrejnsimoes.com/2021/05/finding-what-matters-to-you.html)
 - [Using Typescript Types Generated from OpenAPI Schemas](https://teklinks.andrejnsimoes.com/2021/05/using-typescript-types-generated-from.html)
-- [Top 5 Hardest Coding Questions From Recent FAANG Interviews](https://teklinks.andrejnsimoes.com/2021/05/top-5-hardest-coding-questions-from.html)
-- [Frustrating Design Patterns That Need Fixing: Birthday Picker](https://teklinks.andrejnsimoes.com/2021/05/frustrating-design-patterns-that-need.html)
-- [WebRTC app development: challenges, use cases, and the future](https://teklinks.andrejnsimoes.com/2021/05/webrtc-app-development-challenges-use.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
