@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cryptocurrency Guide on Hashing](https://teklinks.andrejnsimoes.com/2021/05/the-cryptocurrency-guide-on-hashing.html)
+- [Zustand’s Guide to Simple State Management](https://teklinks.andrejnsimoes.com/2021/05/zustands-guide-to-simple-state.html)
 - [Tree-Shaking: A Reference Guide](https://teklinks.andrejnsimoes.com/2021/05/tree-shaking-reference-guide.html)
 - [Testing Rxjs Observable With Marble Testing](https://teklinks.andrejnsimoes.com/2021/05/testing-rxjs-observable-with-marble.html)
 - [Redis vs. Memcached – 2021 Comparison](https://teklinks.andrejnsimoes.com/2021/05/redis-vs-memcached-2021-comparison.html)
-- [API Design for a React Tree Table](https://teklinks.andrejnsimoes.com/2021/05/api-design-for-react-tree-table.html)
-- [Best VS Code themes](https://teklinks.andrejnsimoes.com/2021/05/best-vs-code-themes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
