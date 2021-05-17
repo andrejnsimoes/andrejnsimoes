@@ -42,8 +42,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- BLOG-POST-LIST:START -->
 - [A Primer On CSS Container Queries](https://teklinks.andrejnsimoes.com/2021/05/a-primer-on-css-container-queries.html)
+- [Modern Javascript: Everything you missed over the last 10 years](https://teklinks.andrejnsimoes.com/2021/05/modern-javascript-everything-you-missed.html)
 - [Microservices Architecture: Breaking The Monolith](https://teklinks.andrejnsimoes.com/2021/05/microservices-architecture-breaking.html)
-- [Modern Javascript: Everything you missed over the last 10 years (ECMAScript 2020)](https://teklinks.andrejnsimoes.com/2021/05/modern-javascript-everything-you-missed.html)
 - [The Cryptocurrency Guide on Hashing](https://teklinks.andrejnsimoes.com/2021/05/the-cryptocurrency-guide-on-hashing.html)
 - [Zustand’s Guide to Simple State Management](https://teklinks.andrejnsimoes.com/2021/05/zustands-guide-to-simple-state.html)
 <!-- BLOG-POST-LIST:END -->
