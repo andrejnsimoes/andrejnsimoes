@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Firefox’s new Site Isolation Security Architecture](https://teklinks.andrejnsimoes.com/2021/05/introducing-firefoxs-new-site-isolation.html)
+- [A new era of DevOps, powered by machine learning](https://teklinks.andrejnsimoes.com/2021/05/a-new-era-of-devops-powered-by-machine.html)
+- [Amazing new stuff!! In React Router v6](https://teklinks.andrejnsimoes.com/2021/05/amazing-new-stuff-in-react-router-v6.html)
 - [Optimizing Web Vitals using Lighthouse](https://teklinks.andrejnsimoes.com/2021/05/optimizing-web-vitals-using-lighthouse.html)
 - [Security headers quick reference](https://teklinks.andrejnsimoes.com/2021/05/security-headers-quick-reference.html)
-- [A Primer On CSS Container Queries](https://teklinks.andrejnsimoes.com/2021/05/a-primer-on-css-container-queries.html)
-- [Modern Javascript: Everything you missed over the last 10 years](https://teklinks.andrejnsimoes.com/2021/05/modern-javascript-everything-you-missed.html)
-- [Microservices Architecture: Breaking The Monolith](https://teklinks.andrejnsimoes.com/2021/05/microservices-architecture-breaking.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
