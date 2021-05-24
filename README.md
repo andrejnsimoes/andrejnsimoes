@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Software Testing Explained in 100 Seconds](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
 - [Mastering React Hooks with Typescript](https://www.youtube.com/watch?v=2vjrk2LHcJQ)
 - [Thinking on ways to solve a MEDIA SCROLLER](https://www.youtube.com/watch?v=jmLdZY_Lo1k)
 - [Fully automated npm publish using GitHub Actions and Semantic Release](https://www.youtube.com/watch?v=QZdY4XYbqLI)
 - [How I Setup And Customize VSCode](https://www.youtube.com/watch?v=VknMxAIbJj4)
-- [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8)
 <!-- YOUTUBE:END -->
 
 
