@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned from Pair Programming in My First Job](https://teklinks.andrejnsimoes.com/2021/05/what-i-learned-from-pair-programming-in.html)
+- [Code Quality Metrics](https://teklinks.andrejnsimoes.com/2021/05/code-quality-metrics.html)
+- [Vulnerabilities in billions of Wi-Fi devices let hackers bypass firewalls](https://teklinks.andrejnsimoes.com/2021/05/vulnerabilities-in-billions-of-wi-fi.html)
 - [How To Implement Authentication In Next.js With Auth0](https://teklinks.andrejnsimoes.com/2021/05/how-to-implement-authentication-in.html)
 - [How Architects make decisions](https://teklinks.andrejnsimoes.com/2021/05/how-architects-make-decisions.html)
-- [The Tech Debt Playbook](https://teklinks.andrejnsimoes.com/2021/05/the-tech-debt-playbook.html)
-- [Why We Switched From Webpack To Vite](https://teklinks.andrejnsimoes.com/2021/05/why-we-switched-from-webpack-to-vite.html)
-- [Notion API](https://teklinks.andrejnsimoes.com/2021/05/notion-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
