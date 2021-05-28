@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [purpose of aegis](https://www.youtube.com/watch?v=RkSZ1QJZQtk)
 - [Rocketseat - 4 anos rumo ao infinito | Em busca de um legado](https://www.youtube.com/watch?v=osSrh3nuB5Y)
 - [Fullstack Development Iceberg #Shorts](https://www.youtube.com/watch?v=JMWNYfPIF2U)
 - [Software Testing Explained in 100 Seconds](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
 - [Mastering React Hooks with Typescript](https://www.youtube.com/watch?v=2vjrk2LHcJQ)
-- [Thinking on ways to solve a MEDIA SCROLLER](https://www.youtube.com/watch?v=jmLdZY_Lo1k)
 <!-- YOUTUBE:END -->
 
 
