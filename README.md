@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [purpose of aegis](https://www.youtube.com/watch?v=RkSZ1QJZQtk)
+- [hot deployment on AWS from GitHub](https://www.youtube.com/watch?v=WqRlSnBxLYw)
 - [Rocketseat - 4 anos rumo ao infinito | Em busca de um legado](https://www.youtube.com/watch?v=osSrh3nuB5Y)
 - [Fullstack Development Iceberg #Shorts](https://www.youtube.com/watch?v=JMWNYfPIF2U)
 - [Software Testing Explained in 100 Seconds](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
-- [Build a Mindblowing 3D Portfolio Website // Three.js Beginner’s Tutorial](https://www.youtube.com/watch?v=Q7AOvWpIVHU)
 <!-- YOUTUBE:END -->
 
 
