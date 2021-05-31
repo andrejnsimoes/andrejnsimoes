@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Advanced React Patterns](https://teklinks.andrejnsimoes.com/2021/05/5-advanced-react-patterns.html)
+- [The Architecture of Uber’s API gateway](https://teklinks.andrejnsimoes.com/2021/05/the-architecture-of-ubers-api-gateway.html)
+- [11 Libraries to Take Your React App Up a Notch](https://teklinks.andrejnsimoes.com/2021/05/11-libraries-to-take-your-react-app-up.html)
 - [Using MobX for large-scale enterprise state management](https://teklinks.andrejnsimoes.com/2021/05/using-mobx-for-large-scale-enterprise.html)
 - [How to Use Docker Scan to Find Vulnerabilities in Your Images](https://teklinks.andrejnsimoes.com/2021/05/how-to-use-docker-scan-to-find.html)
-- [A New JavaScript Compiler Aims to Improve Chrome’s Overall Speed](https://teklinks.andrejnsimoes.com/2021/05/a-new-javascript-compiler-aims-to.html)
-- [Building A Video Streaming App With Nuxt.js, Node And Express](https://teklinks.andrejnsimoes.com/2021/05/building-video-streaming-app-with.html)
-- [How to Send Tweets With a JavaScript GitHub Action](https://teklinks.andrejnsimoes.com/2021/05/how-to-send-tweets-with-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
