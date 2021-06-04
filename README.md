@@ -51,7 +51,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [purpose of aegis](https://www.youtube.com/watch?v=RkSZ1QJZQtk)
+- [What are Federated Microservices? What is the purpose of Aegis?](https://www.youtube.com/watch?v=RkSZ1QJZQtk)
 - [hot deployment on AWS from GitHub](https://www.youtube.com/watch?v=WqRlSnBxLYw)
 - [Rocketseat - 4 anos rumo ao infinito | Em busca de um legado](https://www.youtube.com/watch?v=osSrh3nuB5Y)
 - [Fullstack Development Iceberg #Shorts](https://www.youtube.com/watch?v=JMWNYfPIF2U)
