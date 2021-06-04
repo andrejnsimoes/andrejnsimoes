@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a React Component Library](https://teklinks.andrejnsimoes.com/2021/06/building-react-component-library.html)
+- [A Thorough Analysis of CSS-in-JS](https://teklinks.andrejnsimoes.com/2021/06/a-thorough-analysis-of-css-in-js.html)
+- [On the Diverse And Fantastical Shapes of Testing](https://teklinks.andrejnsimoes.com/2021/06/on-diverse-and-fantastical-shapes-of.html)
 - [Useful VS Code Extensions For Front-End Developers](https://teklinks.andrejnsimoes.com/2021/06/useful-vs-code-extensions-for-front-end.html)
 - [Remote Pair Programming with IntelliJ, Eclipse and VS Code](https://teklinks.andrejnsimoes.com/2021/06/remote-pair-programming-with-intellij.html)
-- [Software Testing in 2021: Which Way is the Industry Headed?](https://teklinks.andrejnsimoes.com/2021/06/software-testing-in-2021-which-way-is.html)
-- [5 Advanced React Patterns](https://teklinks.andrejnsimoes.com/2021/05/5-advanced-react-patterns.html)
-- [The Architecture of Uber’s API gateway](https://teklinks.andrejnsimoes.com/2021/05/the-architecture-of-ubers-api-gateway.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
