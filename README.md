@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Test-Driven Development // Fun TDD Introduction with JavaScript](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
 - [What are Federated Microservices? What is the purpose of Aegis?](https://www.youtube.com/watch?v=RkSZ1QJZQtk)
 - [hot deployment on AWS from GitHub](https://www.youtube.com/watch?v=WqRlSnBxLYw)
 - [Rocketseat - 4 anos rumo ao infinito | Em busca de um legado](https://www.youtube.com/watch?v=osSrh3nuB5Y)
 - [Fullstack Development Iceberg #Shorts](https://www.youtube.com/watch?v=JMWNYfPIF2U)
-- [Software Testing Explained in 100 Seconds](https://www.youtube.com/watch?v=u6QfIXgjwGQ)
 <!-- YOUTUBE:END -->
 
 
