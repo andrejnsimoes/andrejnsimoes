@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Design Patterns in JavaScript](https://teklinks.andrejnsimoes.com/2021/06/design-patterns-in-javascript.html)
+- [Automate formatting and fixing JavaScript code with Prettier and ESLint](https://teklinks.andrejnsimoes.com/2021/06/automate-formatting-and-fixing.html)
 - [Using WebSockets with React Query](https://teklinks.andrejnsimoes.com/2021/06/using-websockets-with-react-query.html)
 - [Multi-Region Database Deployments](https://teklinks.andrejnsimoes.com/2021/06/multi-region-database-deployments.html)
 - [Are These Six Software Anti-patterns Killing Your Delivery?](https://teklinks.andrejnsimoes.com/2021/06/are-these-six-software-anti-patterns.html)
-- [11 Popular Penetration Testing Tools for Web, Mobile and Network](https://teklinks.andrejnsimoes.com/2021/06/11-popular-penetration-testing-tools.html)
-- [How (and why) to sign Git commits](https://teklinks.andrejnsimoes.com/2021/06/how-and-why-to-sign-git-commits.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
