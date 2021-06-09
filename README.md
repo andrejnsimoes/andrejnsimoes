@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Async Await try-catch hell](https://www.youtube.com/watch?v=ITogH7lJTyE)
+- [From nothin’ to gzip - HTTP 203](https://www.youtube.com/watch?v=PZryHH8roIY)
+- [Background Jobs com NestJS - Code/drops #75](https://www.youtube.com/watch?v=cpLBaVBMg2Y)
+- [XSS Attack - Is your Application Vulnerable? - npm packages can make you vulnerable!!!](https://www.youtube.com/watch?v=HfxYlrOR26k)
 - [Level-Up Your DevOps with GitHub Actions and Kubernetes](https://www.youtube.com/watch?v=qtgA5ocPI8E)
-- [Test-Driven Development // Fun TDD Introduction with JavaScript](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
-- [What are Federated Microservices? What is the purpose of Aegis?](https://www.youtube.com/watch?v=RkSZ1QJZQtk)
-- [hot deployment on AWS from GitHub](https://www.youtube.com/watch?v=WqRlSnBxLYw)
-- [Rocketseat - 4 anos rumo ao infinito | Em busca de um legado](https://www.youtube.com/watch?v=osSrh3nuB5Y)
 <!-- YOUTUBE:END -->
 
 
