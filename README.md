@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why (and how) GitHub is adopting OpenTelemetry](https://teklinks.andrejnsimoes.com/2021/06/why-and-how-github-is-adopting.html)
+- [Be Smart About Your SMART Goals (And When Not to Use Them)](https://teklinks.andrejnsimoes.com/2021/06/be-smart-about-your-smart-goals-and.html)
+- [Journey of Improving React App Performance by 10x](https://teklinks.andrejnsimoes.com/2021/06/journey-of-improving-react-app.html)
 - [Using Docker Containers for Integration Testing in GitLab](https://teklinks.andrejnsimoes.com/2021/06/using-docker-containers-for-integration.html)
 - [Serverless Functions: The Secret to Ultra-Productive Front-End Teams](https://teklinks.andrejnsimoes.com/2021/06/serverless-functions-secret-to-ultra.html)
-- [7 Steps to Modernize and Optimize Your React App](https://teklinks.andrejnsimoes.com/2021/06/7-steps-to-modernize-and-optimize-your.html)
-- [Design Patterns in JavaScript](https://teklinks.andrejnsimoes.com/2021/06/design-patterns-in-javascript.html)
-- [Automate formatting and fixing JavaScript code with Prettier and ESLint](https://teklinks.andrejnsimoes.com/2021/06/automate-formatting-and-fixing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
