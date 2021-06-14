@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Criando CRUD com NestJS + deploy no Heroku em 30 minutos - Code/drops #80](https://www.youtube.com/watch?v=cBIUOL6MFXw)
 - [VueConf US 2021 | The Vue 3 Composition API by Natalia Tepluhina](https://www.youtube.com/watch?v=l12xx0N46KY)
 - [Hasura in 100 Seconds](https://www.youtube.com/watch?v=xiZ61BkMKo8)
 - [Async Await try-catch hell](https://www.youtube.com/watch?v=ITogH7lJTyE)
 - [From nothin’ to gzip - HTTP 203](https://www.youtube.com/watch?v=PZryHH8roIY)
-- [Background Jobs com NestJS - Code/drops #75](https://www.youtube.com/watch?v=cpLBaVBMg2Y)
 <!-- YOUTUBE:END -->
 
 
