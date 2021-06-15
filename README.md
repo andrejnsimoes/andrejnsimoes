@@ -41,9 +41,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Discord for Work? Yes!](https://teklinks.andrejnsimoes.com/2021/06/discord-for-work-yes.html)
 - [High Fidelity Pose Tracking with MediaPipe BlazePose and TensorFlow.js](https://teklinks.andrejnsimoes.com/2021/06/high-fidelity-pose-tracking-with.html)
 - [Top Node.js Development Trends in 2021](https://teklinks.andrejnsimoes.com/2021/06/top-nodejs-development-trends-in-2021.html)
-- [Discord for Work? Yes!](https://teklinks.andrejnsimoes.com/2021/06/discord-for-work-yes.html)
 - [Be Smart About Your SMART Goals (And When Not to Use Them)](https://teklinks.andrejnsimoes.com/2021/06/be-smart-about-your-smart-goals-and.html)
 - [Why (and how) GitHub is adopting OpenTelemetry](https://teklinks.andrejnsimoes.com/2021/06/why-and-how-github-is-adopting.html)
 <!-- BLOG-POST-LIST:END -->
