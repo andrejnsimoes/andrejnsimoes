@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Up and Coming Standards in JavaScript Modules](https://www.youtube.com/watch?v=oiBOxs2QJB0)
 - [Criando CRUD com NestJS + deploy no Heroku em 30 minutos - Code/drops #80](https://www.youtube.com/watch?v=cBIUOL6MFXw)
 - [React - Migrando projeto CRA para Next.js - Code/drops #79](https://www.youtube.com/watch?v=epII7UIu2vU)
 - [VueConf US 2021 | The Vue 3 Composition API by Natalia Tepluhina](https://www.youtube.com/watch?v=l12xx0N46KY)
 - [Hasura in 100 Seconds](https://www.youtube.com/watch?v=xiZ61BkMKo8)
-- [Async Await try-catch hell](https://www.youtube.com/watch?v=ITogH7lJTyE)
 <!-- YOUTUBE:END -->
 
 
