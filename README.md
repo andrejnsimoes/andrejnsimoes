@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [An Alternative Voice UI To Voice Assistants](https://teklinks.andrejnsimoes.com/2021/06/an-alternative-voice-ui-to-voice.html)
+- [Create and Deploy a React Dapp to an Ethereum Test Network](https://teklinks.andrejnsimoes.com/2021/06/create-and-deploy-react-dapp-to.html)
+- [An End-to-End Guide to Load Testing](https://teklinks.andrejnsimoes.com/2021/06/an-end-to-end-guide-to-load-testing.html)
 - [How to Use the Socratic Method in Pair Programming](https://teklinks.andrejnsimoes.com/2021/06/how-to-use-socratic-method-in-pair.html)
 - [Google Web Vitals best practices for single-page apps](https://teklinks.andrejnsimoes.com/2021/06/google-web-vitals-best-practices-for.html)
-- [Adding Voice Search to a React Application](https://teklinks.andrejnsimoes.com/2021/06/adding-voice-search-to-react-application.html)
-- [Discord for Work? Yes!](https://teklinks.andrejnsimoes.com/2021/06/discord-for-work-yes.html)
-- [High Fidelity Pose Tracking with MediaPipe BlazePose and TensorFlow.js](https://teklinks.andrejnsimoes.com/2021/06/high-fidelity-pose-tracking-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
