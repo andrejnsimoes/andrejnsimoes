@@ -55,7 +55,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Sustainable Angular Architecture | Manfred Steyer | EnterpriseNG 2020 #ngconf](https://www.youtube.com/watch?v=hVHqGT5U5rA)
 - [Manage React state like a boss with MobX Local Observables](https://www.youtube.com/watch?v=Azb5lNbbFqo)
 - [React - Guia definitivo de performance - Code/drops #82](https://www.youtube.com/watch?v=NmU2nNehNNY)
-- [Closures Explained in 100 Seconds // Tricky JavaScript Interview Prep](https://www.youtube.com/watch?v=vKJpN5FAeF4)
+- [Chega de MomentJS e datefs! Conheça a Temporal a nova API para datetime no JavaScript](https://www.youtube.com/watch?v=rgG50MHnijE)
 <!-- YOUTUBE:END -->
 
 
