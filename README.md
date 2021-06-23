@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Software Engineering Principles To Live By](https://teklinks.andrejnsimoes.com/2021/06/software-engineering-principles-to-live.html)
+- [Impressions of the LeadDev Together Series From a Junior Dev](https://teklinks.andrejnsimoes.com/2021/06/impressions-of-leaddev-together-series.html)
+- [21 Handy Chrome Extensions for Google Calendar](https://teklinks.andrejnsimoes.com/2021/06/21-handy-chrome-extensions-for-google.html)
 - [An Alternative Voice UI To Voice Assistants](https://teklinks.andrejnsimoes.com/2021/06/an-alternative-voice-ui-to-voice.html)
 - [Create and Deploy a React Dapp to an Ethereum Test Network](https://teklinks.andrejnsimoes.com/2021/06/create-and-deploy-react-dapp-to.html)
-- [An End-to-End Guide to Load Testing](https://teklinks.andrejnsimoes.com/2021/06/an-end-to-end-guide-to-load-testing.html)
-- [How to Use the Socratic Method in Pair Programming](https://teklinks.andrejnsimoes.com/2021/06/how-to-use-socratic-method-in-pair.html)
-- [Google Web Vitals best practices for single-page apps](https://teklinks.andrejnsimoes.com/2021/06/google-web-vitals-best-practices-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
