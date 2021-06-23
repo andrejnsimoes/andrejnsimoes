@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Google Sheets… Your Next Database?](https://www.youtube.com/watch?v=K6Vcfm7TA5U)
 - [177 - Persistência + Clean Architecture: Repository, ORM, Active Record? | theWiseDev Clean Arch](https://www.youtube.com/watch?v=g0soNCYaLN8)
 - [Sustainable Angular Architecture | Manfred Steyer | EnterpriseNG 2020 #ngconf](https://www.youtube.com/watch?v=hVHqGT5U5rA)
 - [Manage React state like a boss with MobX Local Observables](https://www.youtube.com/watch?v=Azb5lNbbFqo)
 - [React - Guia definitivo de performance - Code/drops #82](https://www.youtube.com/watch?v=NmU2nNehNNY)
-- [Chega de MomentJS e datefns! Conheça a Temporal a nova API para datetime no JavaScript](https://www.youtube.com/watch?v=rgG50MHnijE)
 <!-- YOUTUBE:END -->
 
 
