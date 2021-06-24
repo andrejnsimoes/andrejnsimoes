@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Image To Text Conversion With React And Tesseract.js (OCR)](https://teklinks.andrejnsimoes.com/2021/06/image-to-text-conversion-with-react-and.html)
+- [Using Docker as a Dev Environment with VS Code: Part 1](https://teklinks.andrejnsimoes.com/2021/06/using-docker-as-dev-environment-with-vs.html)
+- [Using Docker as a Dev Environment with VS Code: Part 2](https://teklinks.andrejnsimoes.com/2021/06/using-docker-as-dev-environment-with-vs_24.html)
 - [Software Engineering Principles To Live By](https://teklinks.andrejnsimoes.com/2021/06/software-engineering-principles-to-live.html)
 - [Impressions of the LeadDev Together Series From a Junior Dev](https://teklinks.andrejnsimoes.com/2021/06/impressions-of-leaddev-together-series.html)
-- [21 Handy Chrome Extensions for Google Calendar](https://teklinks.andrejnsimoes.com/2021/06/21-handy-chrome-extensions-for-google.html)
-- [An Alternative Voice UI To Voice Assistants](https://teklinks.andrejnsimoes.com/2021/06/an-alternative-voice-ui-to-voice.html)
-- [Create and Deploy a React Dapp to an Ethereum Test Network](https://teklinks.andrejnsimoes.com/2021/06/create-and-deploy-react-dapp-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
