@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Partial and Pick for Testing in TypeScript](https://teklinks.andrejnsimoes.com/2021/06/using-partial-and-pick-for-testing-in.html)
+- [Feature Flag, What? Why? How?](https://teklinks.andrejnsimoes.com/2021/06/feature-flag-what-why-how.html)
 - [Image To Text Conversion With React And Tesseract.js (OCR)](https://teklinks.andrejnsimoes.com/2021/06/image-to-text-conversion-with-react-and.html)
 - [Using Docker as a Dev Environment with VS Code: Part 1](https://teklinks.andrejnsimoes.com/2021/06/using-docker-as-dev-environment-with-vs.html)
 - [Using Docker as a Dev Environment with VS Code: Part 2](https://teklinks.andrejnsimoes.com/2021/06/using-docker-as-dev-environment-with-vs_24.html)
-- [Software Engineering Principles To Live By](https://teklinks.andrejnsimoes.com/2021/06/software-engineering-principles-to-live.html)
-- [Impressions of the LeadDev Together Series From a Junior Dev](https://teklinks.andrejnsimoes.com/2021/06/impressions-of-leaddev-together-series.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
