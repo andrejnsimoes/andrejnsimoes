@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [The Truth about Github Copilot // AI Programming First Look](https://www.youtube.com/watch?v=4duqI8WyfqE)
-- [Common React Mistakes: useEffect, useCallback and useMemo Hooks](https://www.youtube.com/watch?v=UQkTu-PQ5gQ)
-- [Google Sheets… Your Next Database?](https://www.youtube.com/watch?v=K6Vcfm7TA5U)
-- [177 - Persistência + Clean Architecture: Repository, ORM, Active Record? | theWiseDev Clean Arch](https://www.youtube.com/watch?v=g0soNCYaLN8)
-- [Sustainable Angular Architecture | Manfred Steyer | EnterpriseNG 2020 #ngconf](https://www.youtube.com/watch?v=hVHqGT5U5rA)
+- [Deno Deploy: Crazy Fast Cloud Functions - Architecture Speedun](https://www.youtube.com/watch?v=yZDvE0mP4Y4)
+- [TypeScript is Literal Magic](https://www.youtube.com/watch?v=5JqzCjg4YRU)
+- [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to)
+- [Three Patterns To Scale Your Microservices](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 <!-- YOUTUBE:END -->
 
 
