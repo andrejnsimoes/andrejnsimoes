@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Trying Out GitHub Copilot. It's Really Magic!](https://teklinks.andrejnsimoes.com/2021/07/trying-out-github-copilot-its-really.html)
+- [Multi-team Architecture Meetings](https://teklinks.andrejnsimoes.com/2021/07/multi-team-architecture-meetings.html)
+- [How we monitor the health of our applications and infrastructure](https://teklinks.andrejnsimoes.com/2021/07/how-we-monitor-health-of-our.html)
 - [Useful Front-End Boilerplates And Starter Kits](https://teklinks.andrejnsimoes.com/2021/06/useful-front-end-boilerplates-and.html)
 - [Mocks, Stubs, or Spies? What's the Difference and When Do I Use Them?](https://teklinks.andrejnsimoes.com/2021/06/mocks-stubs-or-spies-whats-difference.html)
-- [Temporal: getting started with JavaScript’s new date time API](https://teklinks.andrejnsimoes.com/2021/06/temporal-getting-started-with.html)
-- [The 6 Levels of UX Maturity](https://teklinks.andrejnsimoes.com/2021/06/the-6-levels-of-ux-maturity.html)
-- [When it comes to career development, what's your habitat?](https://teklinks.andrejnsimoes.com/2021/06/when-it-comes-to-career-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
