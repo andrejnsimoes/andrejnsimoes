@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Architecture: How to Structure and Organize a React Application](https://teklinks.andrejnsimoes.com/2021/07/react-architecture-how-to-structure-and.html)
+- [Three Tips for Writing Meaningful Software Development Stories](https://teklinks.andrejnsimoes.com/2021/07/three-tips-for-writing-meaningful.html)
+- [Front-End Testing is For Everyone](https://teklinks.andrejnsimoes.com/2021/07/front-end-testing-is-for-everyone.html)
 - [Trying Out GitHub Copilot. It's Really Magic!](https://teklinks.andrejnsimoes.com/2021/07/trying-out-github-copilot-its-really.html)
 - [Multi-team Architecture Meetings](https://teklinks.andrejnsimoes.com/2021/07/multi-team-architecture-meetings.html)
-- [How we monitor the health of our applications and infrastructure](https://teklinks.andrejnsimoes.com/2021/07/how-we-monitor-health-of-our.html)
-- [Useful Front-End Boilerplates And Starter Kits](https://teklinks.andrejnsimoes.com/2021/06/useful-front-end-boilerplates-and.html)
-- [Mocks, Stubs, or Spies? What's the Difference and When Do I Use Them?](https://teklinks.andrejnsimoes.com/2021/06/mocks-stubs-or-spies-whats-difference.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
