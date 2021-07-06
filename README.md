@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Evaluating Remote-First Practices in a Hybrid Work Model](https://teklinks.andrejnsimoes.com/2021/07/evaluating-remote-first-practices-in.html)
+- [What's new in ES2021](https://teklinks.andrejnsimoes.com/2021/07/whats-new-in-es2021.html)
+- [Parallelizing Cypress with Jenkins, AWS, and Sorry-Cypress](https://teklinks.andrejnsimoes.com/2021/07/parallelizing-cypress-with-jenkins-aws.html)
 - [React Architecture: How to Structure and Organize a React Application](https://teklinks.andrejnsimoes.com/2021/07/react-architecture-how-to-structure-and.html)
 - [Three Tips for Writing Meaningful Software Development Stories](https://teklinks.andrejnsimoes.com/2021/07/three-tips-for-writing-meaningful.html)
-- [Front-End Testing is For Everyone](https://teklinks.andrejnsimoes.com/2021/07/front-end-testing-is-for-everyone.html)
-- [Trying Out GitHub Copilot. It's Really Magic!](https://teklinks.andrejnsimoes.com/2021/07/trying-out-github-copilot-its-really.html)
-- [Multi-team Architecture Meetings](https://teklinks.andrejnsimoes.com/2021/07/multi-team-architecture-meetings.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
