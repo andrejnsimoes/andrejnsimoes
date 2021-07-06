@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Are You Using Null And Undefined Wrong?](https://www.youtube.com/watch?v=7bpQUVK9Gn4)
+- [DNS Explained in 100 Seconds](https://www.youtube.com/watch?v=UVR9lhUGAyU)
 - [Introduction to Modern React (2 Hour Course)](https://www.youtube.com/watch?v=Siy-pU8Wzcs)
 - [The Truth about Github Copilot // AI Programming First Look](https://www.youtube.com/watch?v=4duqI8WyfqE)
 - [Deno Deploy: Crazy Fast Cloud Functions - Architecture Speedun](https://www.youtube.com/watch?v=yZDvE0mP4Y4)
-- [TypeScript is Literal Magic](https://www.youtube.com/watch?v=5JqzCjg4YRU)
-- [Top 50+ AWS Services Explained in 10 Minutes](https://www.youtube.com/watch?v=JIbIYCM48to)
 <!-- YOUTUBE:END -->
 
 
