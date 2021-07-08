@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What is Observability and Why Does It Matter?](https://teklinks.andrejnsimoes.com/2021/07/what-is-observability-and-why-does-it.html)
+- [The magic of react-query and supabase](https://teklinks.andrejnsimoes.com/2021/07/the-magic-of-react-query-and-supabase.html)
+- [The unexpected benefits of mentoring others](https://teklinks.andrejnsimoes.com/2021/07/the-unexpected-benefits-of-mentoring.html)
 - [Evaluating Remote-First Practices in a Hybrid Work Model](https://teklinks.andrejnsimoes.com/2021/07/evaluating-remote-first-practices-in.html)
 - [What's new in ES2021](https://teklinks.andrejnsimoes.com/2021/07/whats-new-in-es2021.html)
-- [Parallelizing Cypress with Jenkins, AWS, and Sorry-Cypress](https://teklinks.andrejnsimoes.com/2021/07/parallelizing-cypress-with-jenkins-aws.html)
-- [React Architecture: How to Structure and Organize a React Application](https://teklinks.andrejnsimoes.com/2021/07/react-architecture-how-to-structure-and.html)
-- [Three Tips for Writing Meaningful Software Development Stories](https://teklinks.andrejnsimoes.com/2021/07/three-tips-for-writing-meaningful.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
