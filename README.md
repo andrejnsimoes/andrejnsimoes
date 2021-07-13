@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenTelemetry: A Way to Achieve Observability](https://teklinks.andrejnsimoes.com/2021/07/opentelemetry-way-to-achieve.html)
+- [Turn Your iPhone into a Webcam with Shortcuts and Camo](https://teklinks.andrejnsimoes.com/2021/07/turn-your-iphone-into-webcam-with.html)
+- [Micro Frontends in Angular using Nx and Module Federation](https://teklinks.andrejnsimoes.com/2021/07/micro-frontends-in-angular-using-nx-and.html)
 - [Improving the Deployment Experience of a Ten-Year Old Application](https://teklinks.andrejnsimoes.com/2021/07/improving-deployment-experience-of-ten.html)
 - [3 Simple But Powerful Truths Of Software Projects](https://teklinks.andrejnsimoes.com/2021/07/3-simple-but-powerful-truths-of.html)
-- [Micro frontends — a path to cleaner code and faster development](https://teklinks.andrejnsimoes.com/2021/07/micro-frontendsa-path-to-cleaner-code.html)
-- [What is Observability and Why Does It Matter?](https://teklinks.andrejnsimoes.com/2021/07/what-is-observability-and-why-does-it.html)
-- [The magic of react-query and supabase](https://teklinks.andrejnsimoes.com/2021/07/the-magic-of-react-query-and-supabase.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
