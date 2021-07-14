@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=56_OUG-0wgI)
 - [Learn Dynamic Module Imports In 11 Minutes](https://www.youtube.com/watch?v=ddVm53j80vc)
 - [What's new in Angular 11 | Mark Thompson | EnterpriseNG 2020 #ngconf](https://www.youtube.com/watch?v=eDFVmesC8mk)
 - [Is your memory leaking?](https://www.youtube.com/watch?v=XQMVOoPZLYs)
 - [Coding the Next Discord - 32 days in](https://www.youtube.com/watch?v=7FQls0Grqbc)
-- [Are You Using Null And Undefined Wrong?](https://www.youtube.com/watch?v=7bpQUVK9Gn4)
 <!-- YOUTUBE:END -->
 
 
