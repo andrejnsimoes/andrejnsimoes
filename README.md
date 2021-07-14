@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Practical Examples of Concurrent React](https://teklinks.andrejnsimoes.com/2021/07/three-practical-examples-of-concurrent.html)
+- [How To Use Axios With React: The Definitive Guide (2021)](https://teklinks.andrejnsimoes.com/2021/07/how-to-use-axios-with-react-definitive.html)
+- [Freelance React Developer Checklist](https://teklinks.andrejnsimoes.com/2021/07/freelance-react-developer-checklist.html)
 - [OpenTelemetry: A Way to Achieve Observability](https://teklinks.andrejnsimoes.com/2021/07/opentelemetry-way-to-achieve.html)
 - [Turn Your iPhone into a Webcam with Shortcuts and Camo](https://teklinks.andrejnsimoes.com/2021/07/turn-your-iphone-into-webcam-with.html)
-- [Micro Frontends in Angular using Nx and Module Federation](https://teklinks.andrejnsimoes.com/2021/07/micro-frontends-in-angular-using-nx-and.html)
-- [Improving the Deployment Experience of a Ten-Year Old Application](https://teklinks.andrejnsimoes.com/2021/07/improving-deployment-experience-of-ten.html)
-- [3 Simple But Powerful Truths Of Software Projects](https://teklinks.andrejnsimoes.com/2021/07/3-simple-but-powerful-truths-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
