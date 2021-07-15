@@ -42,8 +42,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- BLOG-POST-LIST:START -->
 - [Those “Pesky” Pull Requests are Totally Worth It](https://teklinks.andrejnsimoes.com/2021/07/those-pesky-pull-requests-are-totally.html)
-- [Dockerize your React app](https://teklinks.andrejnsimoes.com/2021/07/dockerize-your-react-app.html)
 - [Engineering Career Framework](https://teklinks.andrejnsimoes.com/2021/07/engineering-career-framework.html)
+- [Dockerize your React app](https://teklinks.andrejnsimoes.com/2021/07/dockerize-your-react-app.html)
 - [Three Practical Examples of Concurrent React](https://teklinks.andrejnsimoes.com/2021/07/three-practical-examples-of-concurrent.html)
 - [How To Use Axios With React: The Definitive Guide (2021)](https://teklinks.andrejnsimoes.com/2021/07/how-to-use-axios-with-react-definitive.html)
 <!-- BLOG-POST-LIST:END -->
