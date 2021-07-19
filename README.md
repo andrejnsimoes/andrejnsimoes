@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Maintaining End-To-End Quality With Visual Testing](https://teklinks.andrejnsimoes.com/2021/07/maintaining-end-to-end-quality-with.html)
+- [Look at Your Workplace Culture, Not Its Remote Work Policy](https://teklinks.andrejnsimoes.com/2021/07/look-at-your-workplace-culture-not-its.html)
+- [What Is Memoization and Why Does It Matter?](https://teklinks.andrejnsimoes.com/2021/07/what-is-memoization-and-why-does-it.html)
 - [Angular is Costing Companies Billions](https://teklinks.andrejnsimoes.com/2021/07/angular-is-costing-companies-billions.html)
 - [Here’s why Richard Branson’s flight matters—and, yes, it really matters](https://teklinks.andrejnsimoes.com/2021/07/heres-why-richard-bransons-flight.html)
-- [Job Crafting: The Cure for Career FOMO?](https://teklinks.andrejnsimoes.com/2021/07/job-crafting-cure-for-career-fomo.html)
-- [Those “Pesky” Pull Requests are Totally Worth It](https://teklinks.andrejnsimoes.com/2021/07/those-pesky-pull-requests-are-totally.html)
-- [Engineering Career Framework](https://teklinks.andrejnsimoes.com/2021/07/engineering-career-framework.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
