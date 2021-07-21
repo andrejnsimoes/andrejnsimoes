@@ -55,7 +55,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [5 Things I Like In Svelte More Than React](https://www.youtube.com/watch?v=3fLwkhkYdHM)
 - [You're Doing React Hooks Wrong, Probably](https://www.youtube.com/watch?v=56_OUG-0wgI)
 - [Learn Dynamic Module Imports In 11 Minutes](https://www.youtube.com/watch?v=ddVm53j80vc)
-- [What's new in Angular 11 | Mark Thompson | EnterpriseNG 2020 #ngconf](https://www.youtube.com/watch?v=eDFVmesC8mk)
+- [How to setup and Deploy React 18 Alpha using Snowpack and Vercel](https://www.youtube.com/watch?v=enqRAjGox2Q)
 <!-- YOUTUBE:END -->
 
 
