@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Asynchronous Event Handling Using Microservices and Kafka](https://www.youtube.com/watch?v=AwJItZbCAv4)
 - [CSS Flexbox Crash Course](https://www.youtube.com/watch?v=tXIhdp5R7sc)
 - [Supabase Crash Course](https://www.youtube.com/watch?v=7uKQBl9uZ00)
 - [How To Manage Technical Debt](https://www.youtube.com/watch?v=nXMYHrERh80)
 - [Deploying Node, Postgres, and Redis to multiple regions](https://www.youtube.com/watch?v=VMeLmee4AUg)
-- [5 Things I Like In Svelte More Than React](https://www.youtube.com/watch?v=3fLwkhkYdHM)
 <!-- YOUTUBE:END -->
 
 
