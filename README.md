@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What are Data Structures?🤔](https://teklinks.andrejnsimoes.com/2021/07/what-are-data-structures.html)
+- [Scaling monorepo — to infinity and beyond!](https://teklinks.andrejnsimoes.com/2021/07/scaling-monorepoto-infinity-and-beyond.html)
+- [My 2021 New Mac Setup](https://teklinks.andrejnsimoes.com/2021/07/my-2021-new-mac-setup.html)
 - [Building a Great Engineering Culture and Being a Genuinely Purpose Driven Organisation](https://teklinks.andrejnsimoes.com/2021/07/building-great-engineering-culture-and.html)
 - [How to Build an AI App: Key Considerations, Tech Stack, & Opportunities](https://teklinks.andrejnsimoes.com/2021/07/how-to-build-ai-app-key-considerations.html)
-- [BEM: A Class Naming Convention](https://teklinks.andrejnsimoes.com/2021/07/bem-class-naming-convention.html)
-- [NestJS Roadmap for Beginners](https://teklinks.andrejnsimoes.com/2021/07/nestjs-roadmap-for-beginners.html)
-- [Why You Should Shake Up The Interview Process (And How)](https://teklinks.andrejnsimoes.com/2021/07/why-you-should-shake-up-interview.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
