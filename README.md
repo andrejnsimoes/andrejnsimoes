@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an API Gateway Using NodeJS and Express](https://teklinks.andrejnsimoes.com/2021/07/create-api-gateway-using-nodejs-and.html)
+- [A Beginner's Guide to Lighthouse](https://teklinks.andrejnsimoes.com/2021/07/a-beginners-guide-to-lighthouse.html)
+- [Automate Sending Emails with Google Sheets & Scripts](https://teklinks.andrejnsimoes.com/2021/07/automate-sending-emails-with-google.html)
 - [What are Data Structures?🤔](https://teklinks.andrejnsimoes.com/2021/07/what-are-data-structures.html)
 - [Scaling monorepo — to infinity and beyond!](https://teklinks.andrejnsimoes.com/2021/07/scaling-monorepoto-infinity-and-beyond.html)
-- [My 2021 New Mac Setup](https://teklinks.andrejnsimoes.com/2021/07/my-2021-new-mac-setup.html)
-- [Building a Great Engineering Culture and Being a Genuinely Purpose Driven Organisation](https://teklinks.andrejnsimoes.com/2021/07/building-great-engineering-culture-and.html)
-- [How to Build an AI App: Key Considerations, Tech Stack, & Opportunities](https://teklinks.andrejnsimoes.com/2021/07/how-to-build-ai-app-key-considerations.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
