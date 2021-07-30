@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [NestJS in 100 Seconds](https://www.youtube.com/watch?v=0M8AYU_hPas)
 - [Terraform in 100 Seconds](https://www.youtube.com/watch?v=tomUWcQ0P3k)
 - [Will Github Copilot Take Your Job?](https://www.youtube.com/watch?v=7I-CY1a-Jpk)
 - [Hottest React competitor is having a major release - Stream With Ryan Carniato about SolidJS](https://www.youtube.com/watch?v=StLjM0Ki6iA)
 - [Asynchronous Event Handling Using Microservices and Kafka](https://www.youtube.com/watch?v=AwJItZbCAv4)
-- [CSS Flexbox Crash Course](https://www.youtube.com/watch?v=tXIhdp5R7sc)
 <!-- YOUTUBE:END -->
 
 
