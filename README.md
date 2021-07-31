@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Time To Your Schedule As A Professional](https://teklinks.andrejnsimoes.com/2021/07/adding-time-to-your-schedule-as.html)
+- [Tools to Track and Manage Technical Debt](https://teklinks.andrejnsimoes.com/2021/07/tools-to-track-and-manage-technical-debt.html)
+- [10 Ways to Host Your React App For Free](https://teklinks.andrejnsimoes.com/2021/07/10-ways-to-host-your-react-app-for-free.html)
 - [GitHub’s Journey From Monolith to Microservices](https://teklinks.andrejnsimoes.com/2021/07/githubs-journey-from-monolith-to.html)
 - [Challenging Ideas in a Non-challenging Way](https://teklinks.andrejnsimoes.com/2021/07/challenging-ideas-in-non-challenging-way.html)
-- [A Visual Guide to React Rendering - It Always Re-renders](https://teklinks.andrejnsimoes.com/2021/07/a-visual-guide-to-react-rendering-it.html)
-- [Create an API Gateway Using NodeJS and Express](https://teklinks.andrejnsimoes.com/2021/07/create-api-gateway-using-nodejs-and.html)
-- [A Beginner's Guide to Lighthouse](https://teklinks.andrejnsimoes.com/2021/07/a-beginners-guide-to-lighthouse.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
