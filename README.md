@@ -52,7 +52,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Atomic Design e Typescript no React Native - Code/drops #95](https://www.youtube.com/watch?v=su_xOZMiPKo)
-- [Async Testing using React Testing Library for Beginners: React.js Testing Tutorial #4](https://www.youtube.com/watch?v=uemxzfs_uqA)
+- [React Async Testing using React Testing Library for Beginners: React.js Testing Tutorial #4](https://www.youtube.com/watch?v=uemxzfs_uqA)
 - [Maksim Ivanov complaining about frontend development for almost 7 minutes](https://www.youtube.com/watch?v=DUHP7ozmmW0)
 - [NestJS in 100 Seconds](https://www.youtube.com/watch?v=0M8AYU_hPas)
 - [Terraform in 100 Seconds](https://www.youtube.com/watch?v=tomUWcQ0P3k)
