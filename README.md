@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [GitHub Copilot | Transactions com TypeORM | Autenticação com Next.js - #PR 47](https://www.youtube.com/watch?v=3gtOm4yHthY)
 - [Future Proof Web Apps with Angular and TensorFlowJS](https://www.youtube.com/watch?v=C83yjcwEH10)
 - [The Decline of Firebase (bundle sizes) // New JavaScript SDK First Look](https://www.youtube.com/watch?v=zd6ffqoK_EU)
 - [Why Typescript?](https://www.youtube.com/watch?v=sf355K1iNjE)
 - [Debugging memory leaks - HTTP 203](https://www.youtube.com/watch?v=YDU_3WdfkxA)
-- [Atomic Design e Typescript no React Native - Code/drops #95](https://www.youtube.com/watch?v=su_xOZMiPKo)
 <!-- YOUTUBE:END -->
 
 
