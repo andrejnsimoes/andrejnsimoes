@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build Resilient JavaScript UIs](https://teklinks.andrejnsimoes.com/2021/08/how-to-build-resilient-javascript-uis.html)
+- [Work-Life Balance: Separate Your Tools](https://teklinks.andrejnsimoes.com/2021/08/work-life-balance-separate-your-tools.html)
+- [Tailwind CSS from Zero to Hero - Dark Mode, JIT & More!](https://teklinks.andrejnsimoes.com/2021/08/tailwind-css-from-zero-to-hero-dark.html)
 - [Elements of JavaScript Style](https://teklinks.andrejnsimoes.com/2021/08/elements-of-javascript-style.html)
 - [3 Practices to Reduce Unpredictability in Cypress Tests](https://teklinks.andrejnsimoes.com/2021/08/3-practices-to-reduce-unpredictability.html)
-- [How to Create a Component Library](https://teklinks.andrejnsimoes.com/2021/08/how-to-create-component-library.html)
-- [How to use the Google Meet Whiteboard in a meeting](https://teklinks.andrejnsimoes.com/2021/08/how-to-use-google-meet-whiteboard-in.html)
-- [Write Errors That Don't Make Me Think](https://teklinks.andrejnsimoes.com/2021/08/write-errors-that-dont-make-me-think.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
