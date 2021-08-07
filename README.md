@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React state validation hook using Yup](https://teklinks.andrejnsimoes.com/2021/08/react-state-validation-hook-using-yup.html)
+- [5 Characteristics of A Positive Work Environment](https://teklinks.andrejnsimoes.com/2021/08/5-characteristics-of-positive-work.html)
+- [WTF Is the Metaverse?](https://teklinks.andrejnsimoes.com/2021/08/wtf-is-metaverse.html)
 - [How To Build Resilient JavaScript UIs](https://teklinks.andrejnsimoes.com/2021/08/how-to-build-resilient-javascript-uis.html)
 - [Work-Life Balance: Separate Your Tools](https://teklinks.andrejnsimoes.com/2021/08/work-life-balance-separate-your-tools.html)
-- [Tailwind CSS from Zero to Hero - Dark Mode, JIT & More!](https://teklinks.andrejnsimoes.com/2021/08/tailwind-css-from-zero-to-hero-dark.html)
-- [Elements of JavaScript Style](https://teklinks.andrejnsimoes.com/2021/08/elements-of-javascript-style.html)
-- [3 Practices to Reduce Unpredictability in Cypress Tests](https://teklinks.andrejnsimoes.com/2021/08/3-practices-to-reduce-unpredictability.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
