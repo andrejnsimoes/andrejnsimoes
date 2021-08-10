@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Critical Software Development Skill](https://teklinks.andrejnsimoes.com/2021/08/critical-software-development-skill.html)
+- [Best React Developer Tools 2021](https://teklinks.andrejnsimoes.com/2021/08/best-react-developer-tools-2021.html)
+- [Looking for a job as a Principal Engineer during a pandemic [2020]](https://teklinks.andrejnsimoes.com/2021/08/looking-for-job-as-principal-engineer.html)
 - [React state validation hook using Yup](https://teklinks.andrejnsimoes.com/2021/08/react-state-validation-hook-using-yup.html)
 - [5 Characteristics of A Positive Work Environment](https://teklinks.andrejnsimoes.com/2021/08/5-characteristics-of-positive-work.html)
-- [WTF Is the Metaverse?](https://teklinks.andrejnsimoes.com/2021/08/wtf-is-metaverse.html)
-- [How To Build Resilient JavaScript UIs](https://teklinks.andrejnsimoes.com/2021/08/how-to-build-resilient-javascript-uis.html)
-- [Work-Life Balance: Separate Your Tools](https://teklinks.andrejnsimoes.com/2021/08/work-life-balance-separate-your-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
