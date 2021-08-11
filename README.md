@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+- [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
 - [Build and Deploy a Google Maps Travel Companion Application | React.js](https://www.youtube.com/watch?v=UKdQjQX1Pko)
 - [GitHub Copilot | Transactions com TypeORM | Autenticação com Next.js - #PR 47](https://www.youtube.com/watch?v=3gtOm4yHthY)
 - [Future Proof Web Apps with Angular and TensorFlowJS](https://www.youtube.com/watch?v=C83yjcwEH10)
-- [The Decline of Firebase (bundle sizes) // New JavaScript SDK First Look](https://www.youtube.com/watch?v=zd6ffqoK_EU)
-- [Why Typescript?](https://www.youtube.com/watch?v=sf355K1iNjE)
 <!-- YOUTUBE:END -->
 
 
