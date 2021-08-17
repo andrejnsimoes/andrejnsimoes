@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [When Should I Refactor Code and How to Get Buy-in for Refactoring?](https://teklinks.andrejnsimoes.com/2021/08/when-should-i-refactor-code-and-how-to.html)
+- [Cleaner data fetching with react-query](https://teklinks.andrejnsimoes.com/2021/08/cleaner-data-fetching-with-react-query.html)
+- [An Overview of 3 Years of Projects as a Software Consultant](https://teklinks.andrejnsimoes.com/2021/08/an-overview-of-3-years-of-projects-as.html)
 - [Organizing TypeScript code using namespaces](https://teklinks.andrejnsimoes.com/2021/08/organizing-typescript-code-using.html)
 - [I Built A SaaS Startup In 2 Months, Here's What I Learned.](https://teklinks.andrejnsimoes.com/2021/08/i-built-saas-startup-in-2-months-heres.html)
-- [GitHub’s Engineering Team has moved to Codespaces](https://teklinks.andrejnsimoes.com/2021/08/githubs-engineering-team-has-moved-to.html)
-- [There Is No Benefit/Incentive for Developers to Create Quality Code on Software Projects](https://teklinks.andrejnsimoes.com/2021/08/there-is-no-benefit-or-incentive-for.html)
-- [Using Material UI with React Hook Form](https://teklinks.andrejnsimoes.com/2021/08/using-material-ui-with-react-hook-form.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
