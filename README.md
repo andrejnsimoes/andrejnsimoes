@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Fancy Wavy Backgrounds with CSS and SVG // Beginner HTML Tutorial](https://www.youtube.com/watch?v=lPJVi797Uy0)
 - [ESBuild and SWC: Worth your time?](https://www.youtube.com/watch?v=EXI9v6i7bAo)
+- [Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
+- [Live with Kent: Writing an ESLint plugin](https://www.youtube.com/watch?v=vUEqjtWANF4)
 - [I built the same app 10 times // Which JS Framework is best?](https://www.youtube.com/watch?v=cuHDQhDhvPE)
-- [React vs SolidJS, Fight!](https://www.youtube.com/watch?v=OqcHoLWyyIw)
-- [Build and Deploy a Google Maps Travel Companion Application | React.js](https://www.youtube.com/watch?v=UKdQjQX1Pko)
-- [GitHub Copilot | Transactions com TypeORM | Autenticação com Next.js - #PR 47](https://www.youtube.com/watch?v=3gtOm4yHthY)
 <!-- YOUTUBE:END -->
 
 
