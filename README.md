@@ -51,7 +51,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Fancy Wavy Backgrounds with CSS and SVG // Beginner HTML Tutorial](https://www.youtube.com/watch?v=lPJVi797Uy0)
+- [Build a Curvaceous Homepage // Wavy Background Tutorial with SVG & CSS](https://www.youtube.com/watch?v=lPJVi797Uy0)
 - [ESBuild and SWC: Worth your time?](https://www.youtube.com/watch?v=EXI9v6i7bAo)
 - [Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
 - [Live with Kent: Writing an ESLint plugin](https://www.youtube.com/watch?v=vUEqjtWANF4)
