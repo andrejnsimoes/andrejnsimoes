@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Build a Curvaceous Homepage // Wavy Background Tutorial with SVG & CSS](https://www.youtube.com/watch?v=lPJVi797Uy0)
+- [Testcontainers – From Zero to Hero](https://www.youtube.com/watch?v=v3eQCIWLYOw)
+- [TypeScript Crash Course 2021](https://www.youtube.com/watch?v=BCg4U1FzODs)
 - [ESBuild and SWC: Worth your time?](https://www.youtube.com/watch?v=EXI9v6i7bAo)
 - [The Tesla Model S Plaid Is the World’s Fastest (and Coolest) Sedan](https://www.youtube.com/watch?v=qen0ZlZM0ZA)
-- [Reacting to Controversial Opinions of Software Engineers](https://www.youtube.com/watch?v=goy4lZfDtCE)
-- [Live with Kent: Writing an ESLint plugin](https://www.youtube.com/watch?v=vUEqjtWANF4)
 <!-- YOUTUBE:END -->
 
 
