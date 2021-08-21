@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Build An Ethical User Research Practice At Any Organization](https://teklinks.andrejnsimoes.com/2021/08/how-to-build-ethical-user-research.html)
+- [How to Evaluate Compensation in a Software Development Job Offer](https://teklinks.andrejnsimoes.com/2021/08/how-to-evaluate-compensation-in.html)
+- [10 UI Libraries to Make Your React App Development Faster](https://teklinks.andrejnsimoes.com/2021/08/10-ui-libraries-to-make-your-react-app.html)
 - [Shut up, old man…](https://teklinks.andrejnsimoes.com/2021/08/shut-up-old-man.html)
 - [6 new TypeScript features for writing clean code](https://teklinks.andrejnsimoes.com/2021/08/6-new-typescript-features-for-writing.html)
-- [Why WebAssembly Frameworks Are the Future of the Web](https://teklinks.andrejnsimoes.com/2021/08/why-webassembly-frameworks-are-future.html)
-- [When Should I Refactor Code and How to Get Buy-in for Refactoring?](https://teklinks.andrejnsimoes.com/2021/08/when-should-i-refactor-code-and-how-to.html)
-- [Cleaner data fetching with react-query](https://teklinks.andrejnsimoes.com/2021/08/cleaner-data-fetching-with-react-query.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
