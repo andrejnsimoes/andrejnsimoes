@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP/3: Performance Improvements (Part 2)](https://teklinks.andrejnsimoes.com/2021/08/http3-performance-improvements-part-2.html)
+- [Make NodeJs handle 5x request with 99.9% uptime adding 10 lines of code](https://teklinks.andrejnsimoes.com/2021/08/make-nodejs-handle-5x-request-with-999.html)
+- [Distributed Logging in Federated Applications, with Sentry](https://teklinks.andrejnsimoes.com/2021/08/distributed-logging-in-federated.html)
 - [Why You Should be the Worst Player in the Room](https://teklinks.andrejnsimoes.com/2021/08/why-you-should-be-worst-player-in-room.html)
 - [Material-UI 5 is Coming: Here’s What I’m Excited About](https://teklinks.andrejnsimoes.com/2021/08/material-ui-5-is-coming-heres-what-im.html)
-- [Optimistic UI With React Query](https://teklinks.andrejnsimoes.com/2021/08/optimistic-ui-with-react-query.html)
-- [How To Build An Ethical User Research Practice At Any Organization](https://teklinks.andrejnsimoes.com/2021/08/how-to-build-ethical-user-research.html)
-- [How to Evaluate Compensation in a Software Development Job Offer](https://teklinks.andrejnsimoes.com/2021/08/how-to-evaluate-compensation-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
