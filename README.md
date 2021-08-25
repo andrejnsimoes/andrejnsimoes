@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Level up your CSS linting using Stylelint](https://teklinks.andrejnsimoes.com/2021/08/level-up-your-css-linting-using.html)
+- [Decoding AVIF: Deep dive with cats and imgproxy](https://teklinks.andrejnsimoes.com/2021/08/decoding-avif-deep-dive-with-cats.html)
+- [Time To Call It AI Again](https://teklinks.andrejnsimoes.com/2021/08/time-to-call-it-ai-again.html)
 - [HTTP/3: Performance Improvements (Part 2)](https://teklinks.andrejnsimoes.com/2021/08/http3-performance-improvements-part-2.html)
 - [Make NodeJs handle 5x request with 99.9% uptime adding 10 lines of code](https://teklinks.andrejnsimoes.com/2021/08/make-nodejs-handle-5x-request-with-999.html)
-- [Distributed Logging in Federated Applications, with Sentry](https://teklinks.andrejnsimoes.com/2021/08/distributed-logging-in-federated.html)
-- [Why You Should be the Worst Player in the Room](https://teklinks.andrejnsimoes.com/2021/08/why-you-should-be-worst-player-in-room.html)
-- [Material-UI 5 is Coming: Here’s What I’m Excited About](https://teklinks.andrejnsimoes.com/2021/08/material-ui-5-is-coming-heres-what-im.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
