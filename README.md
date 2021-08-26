@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Tailwind in 100 Seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook)
 - [Five ways to beat burnout](https://www.youtube.com/watch?v=5m7Al81Um88)
 - [How To Create Skeleton Loading Animation With CSS](https://www.youtube.com/watch?v=ZVug65gW-fc)
 - [How To Accept Payments With PayPal](https://www.youtube.com/watch?v=DNM9FdFrI1k)
 - [React Security Crash Course 2021](https://www.youtube.com/watch?v=ibKXoU1I3cE)
-- [Build a Curvaceous Homepage // Wavy Background Tutorial with SVG & CSS](https://www.youtube.com/watch?v=lPJVi797Uy0)
 <!-- YOUTUBE:END -->
 
 
