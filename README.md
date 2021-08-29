@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a desktop application using Electron and Create React App](https://teklinks.andrejnsimoes.com/2021/08/building-desktop-application-using.html)
+- [Understanding the Interviewer’s Mindset](https://teklinks.andrejnsimoes.com/2021/08/understanding-interviewers-mindset.html)
+- [Monte Carlo Cost Estimates: Engineers Throwing Dice](https://teklinks.andrejnsimoes.com/2021/08/monte-carlo-cost-estimates-engineers.html)
 - [How To Automate Documentation Workflow For Developers](https://teklinks.andrejnsimoes.com/2021/08/how-to-automate-documentation-workflow.html)
 - [Evergreen Companies Provide an Unmatched Work Experience](https://teklinks.andrejnsimoes.com/2021/08/evergreen-companies-provide-unmatched.html)
-- [TypeScript 4.4: The Good, The Bad and The Not So Bad](https://teklinks.andrejnsimoes.com/2021/08/typescript-44-good-bad-and-not-so-bad.html)
-- [Level up your CSS linting using Stylelint](https://teklinks.andrejnsimoes.com/2021/08/level-up-your-css-linting-using.html)
-- [Decoding AVIF: Deep dive with cats and imgproxy](https://teklinks.andrejnsimoes.com/2021/08/decoding-avif-deep-dive-with-cats.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
