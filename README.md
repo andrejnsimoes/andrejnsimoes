@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Monolithic to Microservices Architecture with Patterns & Best Practices](https://teklinks.andrejnsimoes.com/2021/08/monolithic-to-microservices.html)
+- [Would you like architects with your architecture?](https://teklinks.andrejnsimoes.com/2021/08/would-you-like-architects-with-your.html)
+- [Enabling Seamless Kafka Async Queuing with Consumer Proxy](https://teklinks.andrejnsimoes.com/2021/08/enabling-seamless-kafka-async-queuing.html)
 - [Building a desktop application using Electron and Create React App](https://teklinks.andrejnsimoes.com/2021/08/building-desktop-application-using.html)
 - [Understanding the Interviewer’s Mindset](https://teklinks.andrejnsimoes.com/2021/08/understanding-interviewers-mindset.html)
-- [Monte Carlo Cost Estimates: Engineers Throwing Dice](https://teklinks.andrejnsimoes.com/2021/08/monte-carlo-cost-estimates-engineers.html)
-- [How To Automate Documentation Workflow For Developers](https://teklinks.andrejnsimoes.com/2021/08/how-to-automate-documentation-workflow.html)
-- [Evergreen Companies Provide an Unmatched Work Experience](https://teklinks.andrejnsimoes.com/2021/08/evergreen-companies-provide-unmatched.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
