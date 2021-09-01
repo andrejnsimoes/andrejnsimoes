@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Mastering async code with Typescript and Javascript](https://www.youtube.com/watch?v=VcOMq3LQtBU)
+- [I built a decentralized chat dapp // GUN web3 Tutorial](https://www.youtube.com/watch?v=J5x3OMXjgMc)
 - [Learning Supabase By Building a Project](https://www.youtube.com/watch?v=_U0c4G5TCWQ)
 - [Tailwind in 100 Seconds](https://www.youtube.com/watch?v=mr15Xzb1Ook)
 - [Five ways to beat burnout](https://www.youtube.com/watch?v=5m7Al81Um88)
-- [How To Create Skeleton Loading Animation With CSS](https://www.youtube.com/watch?v=ZVug65gW-fc)
-- [How To Accept Payments With PayPal](https://www.youtube.com/watch?v=DNM9FdFrI1k)
 <!-- YOUTUBE:END -->
 
 
