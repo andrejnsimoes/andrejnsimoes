@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Using React Grid System for Responsive Web Apps](https://teklinks.andrejnsimoes.com/2021/09/using-react-grid-system-for-responsive.html)
+- [Design for Safety, An Excerpt](https://teklinks.andrejnsimoes.com/2021/09/design-for-safety-excerpt.html)
+- [What I Wish I Knew About CSS When Starting Out As A Frontender](https://teklinks.andrejnsimoes.com/2021/09/what-i-wish-i-knew-about-css-when.html)
 - [Thinking in React isn’t enough](https://teklinks.andrejnsimoes.com/2021/09/thinking-in-react-isnt-enough.html)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://teklinks.andrejnsimoes.com/2021/08/monolithic-to-microservices.html)
-- [Would you like architects with your architecture?](https://teklinks.andrejnsimoes.com/2021/08/would-you-like-architects-with-your.html)
-- [Enabling Seamless Kafka Async Queuing with Consumer Proxy](https://teklinks.andrejnsimoes.com/2021/08/enabling-seamless-kafka-async-queuing.html)
-- [Building a desktop application using Electron and Create React App](https://teklinks.andrejnsimoes.com/2021/08/building-desktop-application-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
