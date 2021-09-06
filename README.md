@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Architecting Database Systems for the Microservices World](https://teklinks.andrejnsimoes.com/2021/09/architecting-database-systems-for.html)
+- [ES2022 feature: class static initialization blocks](https://teklinks.andrejnsimoes.com/2021/09/es2022-feature-class-static.html)
+- [The Three Stages of Engineering Teams 📊](https://teklinks.andrejnsimoes.com/2021/09/the-three-stages-of-engineering-teams.html)
 - [Measuring Value Realization Through Testing in Production](https://teklinks.andrejnsimoes.com/2021/09/measuring-value-realization-through.html)
 - [Clean Architecture on Frontend](https://teklinks.andrejnsimoes.com/2021/09/clean-architecture-on-frontend.html)
-- [Customize TailwindCSS to give your sites a unique look](https://teklinks.andrejnsimoes.com/2021/09/customize-tailwindcss-to-give-your.html)
-- [Design for Safety, An Excerpt](https://teklinks.andrejnsimoes.com/2021/09/design-for-safety-excerpt.html)
-- [What I Wish I Knew About CSS When Starting Out As A Frontender](https://teklinks.andrejnsimoes.com/2021/09/what-i-wish-i-knew-about-css-when.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
