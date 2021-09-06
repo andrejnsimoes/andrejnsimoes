@@ -41,9 +41,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Database Systems for the Microservices World](https://teklinks.andrejnsimoes.com/2021/09/architecting-database-systems-for.html)
-- [ES2022 feature: class static initialization blocks](https://teklinks.andrejnsimoes.com/2021/09/es2022-feature-class-static.html)
 - [The Three Stages of Engineering Teams 📊](https://teklinks.andrejnsimoes.com/2021/09/the-three-stages-of-engineering-teams.html)
+- [ES2022 feature: class static initialization blocks](https://teklinks.andrejnsimoes.com/2021/09/es2022-feature-class-static.html)
+- [Architecting Database Systems for the Microservices World](https://teklinks.andrejnsimoes.com/2021/09/architecting-database-systems-for.html)
 - [Measuring Value Realization Through Testing in Production](https://teklinks.andrejnsimoes.com/2021/09/measuring-value-realization-through.html)
 - [Clean Architecture on Frontend](https://teklinks.andrejnsimoes.com/2021/09/clean-architecture-on-frontend.html)
 <!-- BLOG-POST-LIST:END -->
