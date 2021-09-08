@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Interactive Learning Tools For Front-End Developers](https://teklinks.andrejnsimoes.com/2021/09/interactive-learning-tools-for-front.html)
+- [Microservices Architecture From A to Z](https://teklinks.andrejnsimoes.com/2021/09/microservices-architecture-from-to-z.html)
+- [Ship / Show / Ask](https://teklinks.andrejnsimoes.com/2021/09/ship-show-ask.html)
 - [HTTP/3 From A To Z: Core Concepts (Part 1)](https://teklinks.andrejnsimoes.com/2021/09/http3-from-to-z-core-concepts-part-1.html)
 - [Reimagining Agility with Diversity, Equity and Inclusion](https://teklinks.andrejnsimoes.com/2021/09/reimagining-agility-with-diversity.html)
-- [How I structure my React projects](https://teklinks.andrejnsimoes.com/2021/09/how-i-structure-my-react-projects.html)
-- [The Three Stages of Engineering Teams 📊](https://teklinks.andrejnsimoes.com/2021/09/the-three-stages-of-engineering-teams.html)
-- [ES2022 feature: class static initialization blocks](https://teklinks.andrejnsimoes.com/2021/09/es2022-feature-class-static.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
