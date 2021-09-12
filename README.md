@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Compound Components In React](https://teklinks.andrejnsimoes.com/2021/09/compound-components-in-react.html)
+- [Project Management Skills to Succeed at Work](https://teklinks.andrejnsimoes.com/2021/09/project-management-skills-to-succeed-at.html)
+- [Mitigating Breaks in Workflow in Complex Application Design](https://teklinks.andrejnsimoes.com/2021/09/designing-for-long-waits-and.html)
 - [How to Handle Web Push Notifications in Websites and PWAs](https://teklinks.andrejnsimoes.com/2021/09/how-to-handle-web-push-notifications-in.html)
 - [Bitcoin Uses More Electricity Than Many Countries. How Is That Possible?](https://teklinks.andrejnsimoes.com/2021/09/bitcoin-uses-more-electricity-than-many.html)
-- [9 Best Practices for Optimizing Frontend Loading Time](https://teklinks.andrejnsimoes.com/2021/09/9-best-practices-for-optimizing.html)
-- [Interactive Learning Tools For Front-End Developers](https://teklinks.andrejnsimoes.com/2021/09/interactive-learning-tools-for-front.html)
-- [Microservices Architecture From A to Z](https://teklinks.andrejnsimoes.com/2021/09/microservices-architecture-from-to-z.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
