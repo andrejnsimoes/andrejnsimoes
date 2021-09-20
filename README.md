@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Content Platforms Explained in 100 Seconds // Build your own with Sanity](https://www.youtube.com/watch?v=c_8cplBi_gE)
 - [React Storybook Crash Course](https://www.youtube.com/watch?v=FUKpWgRyPlU)
 - [Avoid Bad Job Fits with Five Interviewer Questions](https://www.youtube.com/watch?v=HxyaftP6hJ8)
 - [Machine Learning Explained in 100 Seconds](https://www.youtube.com/watch?v=PeMlggyqz0Y)
 - [Fixing TypeScript's Blindspot: Runtime Typechecking](https://www.youtube.com/watch?v=rY_XqfSHock)
-- [React Hooks SWR: Test components that useSWR - Mock Service Worker - React.js Testing Tutorial #7](https://www.youtube.com/watch?v=FggwAN76lM0)
 <!-- YOUTUBE:END -->
 
 
