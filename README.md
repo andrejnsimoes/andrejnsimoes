@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [New in Chrome 94: Color management for canvas, WebCodecs, WebGPU, and more!](https://www.youtube.com/watch?v=c5XIDt90VgY)
+- [This One Technique Is How I Build Projects Without Getting Stuck](https://www.youtube.com/watch?v=Qvmp4F-hOKA)
+- [Styled Components Crash Course & Project](https://www.youtube.com/watch?v=02zO0hZmwnw)
 - [Content Platforms Explained in 100 Seconds // Build your own with Sanity](https://www.youtube.com/watch?v=c_8cplBi_gE)
-- [React Storybook Crash Course](https://www.youtube.com/watch?v=FUKpWgRyPlU)
-- [Avoid Bad Job Fits with Five Interviewer Questions](https://www.youtube.com/watch?v=HxyaftP6hJ8)
-- [Machine Learning Explained in 100 Seconds](https://www.youtube.com/watch?v=PeMlggyqz0Y)
-- [Fixing TypeScript's Blindspot: Runtime Typechecking](https://www.youtube.com/watch?v=rY_XqfSHock)
+- [Ponicode: AI-driven unit testing](https://www.youtube.com/watch?v=tmfvqLFeR10)
 <!-- YOUTUBE:END -->
 
 
