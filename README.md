@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Vector? Raster? Why Not Both!—zachleat.com](https://teklinks.andrejnsimoes.com/2021/09/vector-raster-why-not-bothzachleatcom.html)
 - [Converting a Large Create React App Project from JavaScript to TypeScript](https://teklinks.andrejnsimoes.com/2021/09/converting-large-create-react-app.html)
 - [Different Monorepo Solutions in 2021](https://teklinks.andrejnsimoes.com/2021/09/different-monorepo-solutions-in-2021.html)
 - [React antipatterns to avoid](https://teklinks.andrejnsimoes.com/2021/09/react-antipatterns-to-avoid.html)
 - [25 Hand-Picked React Libraries You Probably Didn’t Know Existed](https://teklinks.andrejnsimoes.com/2021/09/25-hand-picked-react-libraries-you.html)
-- [React Readability Analysis Of Implementing Custom Hooks](https://teklinks.andrejnsimoes.com/2021/09/react-readability-analysis-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
