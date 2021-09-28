@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Let’s Dive Into Cypress For End-to-End Testing](https://teklinks.andrejnsimoes.com/2021/09/lets-dive-into-cypress-for-end-to-end.html)
+- [Web Vitals patterns](https://teklinks.andrejnsimoes.com/2021/09/web-vitals-patterns.html)
+- [Some Vulnerabilities of React.js Security-Guide for 2021](https://teklinks.andrejnsimoes.com/2021/09/some-vulnerabilities-of-reactjs.html)
 - [Lessons Learned Rebuilding A Large E-Commerce Website With Next.js (Case Study)](https://teklinks.andrejnsimoes.com/2021/09/lessons-learned-rebuilding-large-e.html)
 - [Infrastructure overview](https://teklinks.andrejnsimoes.com/2021/09/infrastructure-overview.html)
-- [Video optimization for the web simplified with ImageKit](https://teklinks.andrejnsimoes.com/2021/09/video-optimization-for-web-simplified.html)
-- [Replacing Docker Desktop with hyperkit + minikube](https://teklinks.andrejnsimoes.com/2021/09/replacing-docker-desktop-with-hyperkit.html)
-- [Vector? Raster? Why Not Both!—zachleat.com](https://teklinks.andrejnsimoes.com/2021/09/vector-raster-why-not-bothzachleatcom.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
