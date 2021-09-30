@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Guidelines for choosing a Node.js framework](https://teklinks.andrejnsimoes.com/2021/09/guidelines-for-choosing-nodejs-framework.html)
+- [Testing Nested Components Reliably with Cypress](https://teklinks.andrejnsimoes.com/2021/09/testing-nested-components-reliably-with.html)
+- [Introduction to Rome — An All-in-One JavaScript Toolchain](https://teklinks.andrejnsimoes.com/2021/09/introduction-to-romean-all-in-one.html)
 - [How I Run Builds and Tests & Other Operations in VSCode Efficiently](https://teklinks.andrejnsimoes.com/2021/09/how-i-run-builds-and-tests-other.html)
 - [Graceful error handling using Error Boundaries in React.js](https://teklinks.andrejnsimoes.com/2021/09/graceful-error-handling-using-error.html)
-- [Let’s Dive Into Cypress For End-to-End Testing](https://teklinks.andrejnsimoes.com/2021/09/lets-dive-into-cypress-for-end-to-end.html)
-- [Web Vitals patterns](https://teklinks.andrejnsimoes.com/2021/09/web-vitals-patterns.html)
-- [Some Vulnerabilities of React.js Security-Guide for 2021](https://teklinks.andrejnsimoes.com/2021/09/some-vulnerabilities-of-reactjs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
