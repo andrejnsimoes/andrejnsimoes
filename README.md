@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Make React Easy With These 5 Custom React Hooks](https://www.youtube.com/watch?v=Ix_xeCuS4XA)
+- [TypeScript Pub/Sub Patterns (No BS TS Series 2 Episode 2)](https://www.youtube.com/watch?v=f3Cn0CGytSQ)
 - [FlowBite - Tailwind CSS components library | Walkthrough](https://www.youtube.com/watch?v=4bnJG2UDr9A)
 - [How to OVER Engineer a Website // What is a Tech Stack?](https://www.youtube.com/watch?v=Sxxw3qtb3_g)
 - [TypeScript/React Testing: Components, Hooks, Custom Hooks, Redux and Zustand](https://www.youtube.com/watch?v=bvdHVxqjv80)
-- [New in Chrome 94: Color management for canvas, WebCodecs, WebGPU, and more!](https://www.youtube.com/watch?v=c5XIDt90VgY)
-- [This One Technique Is How I Build Projects Without Getting Stuck](https://www.youtube.com/watch?v=Qvmp4F-hOKA)
 <!-- YOUTUBE:END -->
 
 
