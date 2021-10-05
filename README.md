@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How We Build Micro Frontends With Lattice](https://teklinks.andrejnsimoes.com/2021/10/how-we-build-micro-frontends-with.html)
+- [How to handle Time Zones in JavaScript](https://teklinks.andrejnsimoes.com/2021/10/how-to-handle-time-zones-in-javascript.html)
+- [Burnout in Software Development - Survey Results 2021](https://teklinks.andrejnsimoes.com/2021/10/burnout-in-software-development-survey.html)
 - [Automated Window Blinds Using MQTT And Home Assistant](https://teklinks.andrejnsimoes.com/2021/10/automated-window-blinds-using-mqtt-and.html)
 - [50 React Interview Questions You Must Prepare In 2021](https://teklinks.andrejnsimoes.com/2021/10/50-react-interview-questions-you-must.html)
-- [React Error Handling and Logging Best Practices](https://teklinks.andrejnsimoes.com/2021/10/react-error-handling-and-logging-best.html)
-- [Guidelines for choosing a Node.js framework](https://teklinks.andrejnsimoes.com/2021/09/guidelines-for-choosing-nodejs-framework.html)
-- [Testing Nested Components Reliably with Cypress](https://teklinks.andrejnsimoes.com/2021/09/testing-nested-components-reliably-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
