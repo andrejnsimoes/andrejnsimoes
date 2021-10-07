@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Redux Sagas vs Redux Toolkit Query](https://www.youtube.com/watch?v=0W4SdogReDg)
+- [Why Did Facebook Go Down? - Computerphile](https://www.youtube.com/watch?v=Bie32IZlMtY)
 - [Visitor and Iterator Patterns in TypeScript (No BS TS Series 2 Episode 3)](https://www.youtube.com/watch?v=SZ2kAkMdAZE)
 - [React Native vs Flutter - I built the same chat app with both](https://www.youtube.com/watch?v=X8ipUgXH6jw)
 - [Cache com Redis em Node.js - Code/drops #104](https://www.youtube.com/watch?v=hf3EHCXsRYM)
-- [Testing React Forms - React Testing Library - React.js Testing Tutorial #8](https://www.youtube.com/watch?v=MhFSuOjU624)
-- [Make React Easy With These 5 Custom React Hooks](https://www.youtube.com/watch?v=Ix_xeCuS4XA)
 <!-- YOUTUBE:END -->
 
 
