@@ -41,9 +41,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why You May Want Runtime Config for Your SPA's Frontend](https://teklinks.andrejnsimoes.com/2021/10/why-you-may-want-runtime-config-for.html)
 - [Are You Dealing with Imposter Syndrome? Lean Into It](https://teklinks.andrejnsimoes.com/2021/10/are-you-dealing-with-imposter-syndrome.html)
 - [Penetration and Security in JavaScript](https://teklinks.andrejnsimoes.com/2021/10/penetration-and-security-in-javascript.html)
-- [Why You May Want Runtime Config for Your SPA's Frontend](https://teklinks.andrejnsimoes.com/2021/10/why-you-may-want-runtime-config-for.html)
 - [How We Build Micro Frontends With Lattice](https://teklinks.andrejnsimoes.com/2021/10/how-we-build-micro-frontends-with.html)
 - [How to handle Time Zones in JavaScript](https://teklinks.andrejnsimoes.com/2021/10/how-to-handle-time-zones-in-javascript.html)
 <!-- BLOG-POST-LIST:END -->
