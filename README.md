@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Micro-Frontends in Just 10 Minutes](https://www.youtube.com/watch?v=s_Fs4AXsTnA)
 - [Svelte Crash Course 2021](https://www.youtube.com/watch?v=3TVy6GdtNuQ)
 - [Redux Sagas vs Redux Toolkit Query](https://www.youtube.com/watch?v=0W4SdogReDg)
 - [Why Did Facebook Go Down? - Computerphile](https://www.youtube.com/watch?v=Bie32IZlMtY)
 - [Visitor and Iterator Patterns in TypeScript (No BS TS Series 2 Episode 3)](https://www.youtube.com/watch?v=SZ2kAkMdAZE)
-- [React Native vs Flutter - I built the same chat app with both](https://www.youtube.com/watch?v=X8ipUgXH6jw)
 <!-- YOUTUBE:END -->
 
 
