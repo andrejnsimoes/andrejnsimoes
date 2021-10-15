@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [A Programmer's Guide to Saving, Investing, and Retiring Early](https://www.youtube.com/watch?v=ECa_MgZ0LrM)
 - [Micro-Frontends in Just 10 Minutes](https://www.youtube.com/watch?v=s_Fs4AXsTnA)
 - [Svelte Crash Course 2021](https://www.youtube.com/watch?v=3TVy6GdtNuQ)
 - [Redux Sagas vs Redux Toolkit Query](https://www.youtube.com/watch?v=0W4SdogReDg)
 - [Why Did Facebook Go Down? - Computerphile](https://www.youtube.com/watch?v=Bie32IZlMtY)
-- [Visitor and Iterator Patterns in TypeScript (No BS TS Series 2 Episode 3)](https://www.youtube.com/watch?v=SZ2kAkMdAZE)
 <!-- YOUTUBE:END -->
 
 
