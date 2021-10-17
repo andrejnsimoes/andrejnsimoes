@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache warming: Agility for a stateful service](https://teklinks.andrejnsimoes.com/2021/10/cache-warming-agility-for-stateful.html)
+- [Writing Clean JavaScript —  ES6 Edition](https://teklinks.andrejnsimoes.com/2021/10/writing-clean-javascript-es6-edition.html)
 - [A VS Code Extension For Traversing Your React Component Hierarchy](https://teklinks.andrejnsimoes.com/2021/10/introducing-sapling-vs-code-extension.html)
 - [Groot: eBay’s Event-graph-based Approach for Root Cause Analysis](https://teklinks.andrejnsimoes.com/2021/10/groot-ebays-event-graph-based-approach.html)
 - [Applications Instead of Libraries (Part 1)](https://teklinks.andrejnsimoes.com/2021/10/applications-instead-of-libraries-part-1.html)
-- [Should engineering managers be technical?](https://teklinks.andrejnsimoes.com/2021/10/should-engineering-managers-be-technical.html)
-- [Scalable logging for microservices](https://teklinks.andrejnsimoes.com/2021/10/scalable-logging-for-microservices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
