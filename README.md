@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Top Audio Processing Libraries for JavaScript](https://teklinks.andrejnsimoes.com/2021/10/4-top-audio-processing-libraries-for.html)
+- [5 React performance optimization techniques](https://teklinks.andrejnsimoes.com/2021/10/5-react-performance-optimization.html)
+- [Cypress Running in a Docker Container & Viewable with a VNC Client](https://teklinks.andrejnsimoes.com/2021/10/cypress-running-in-docker-container.html)
 - [Cache warming: Agility for a stateful service](https://teklinks.andrejnsimoes.com/2021/10/cache-warming-agility-for-stateful.html)
 - [Writing Clean JavaScript —  ES6 Edition](https://teklinks.andrejnsimoes.com/2021/10/writing-clean-javascript-es6-edition.html)
-- [A VS Code Extension For Traversing Your React Component Hierarchy](https://teklinks.andrejnsimoes.com/2021/10/introducing-sapling-vs-code-extension.html)
-- [Groot: eBay’s Event-graph-based Approach for Root Cause Analysis](https://teklinks.andrejnsimoes.com/2021/10/groot-ebays-event-graph-based-approach.html)
-- [Applications Instead of Libraries (Part 1)](https://teklinks.andrejnsimoes.com/2021/10/applications-instead-of-libraries-part-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
