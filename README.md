@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [My “Now, Soon, Future” Framework for Recommendations](https://teklinks.andrejnsimoes.com/2021/10/my-now-soon-future-framework-for.html)
+- [Essential Engineering Skills For Every Software Architect](https://teklinks.andrejnsimoes.com/2021/10/essential-engineering-skills-for-every.html)
+- [What’s new in Web Payments](https://teklinks.andrejnsimoes.com/2021/10/whats-new-in-web-payments.html)
 - [5 React performance optimization techniques](https://teklinks.andrejnsimoes.com/2021/10/5-react-performance-optimization.html)
 - [Cypress Running in a Docker Container & Viewable with a VNC Client](https://teklinks.andrejnsimoes.com/2021/10/cypress-running-in-docker-container.html)
-- [4 Top Audio Processing Libraries for JavaScript](https://teklinks.andrejnsimoes.com/2021/10/4-top-audio-processing-libraries-for.html)
-- [Cache warming: Agility for a stateful service](https://teklinks.andrejnsimoes.com/2021/10/cache-warming-agility-for-stateful.html)
-- [Writing Clean JavaScript —  ES6 Edition](https://teklinks.andrejnsimoes.com/2021/10/writing-clean-javascript-es6-edition.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
