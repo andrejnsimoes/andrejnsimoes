@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich](https://teklinks.andrejnsimoes.com/2021/10/building-ssg-ive-always-wanted-11ty.html)
+- [A Definitive Guide To Migrating A Monolithic Application to Microservices](https://teklinks.andrejnsimoes.com/2021/10/a-definitive-guide-to-migrating.html)
+- [Adding End to End Cypress to a Web Project Part 1: Setting up the Infrastructure](https://teklinks.andrejnsimoes.com/2021/10/adding-end-to-end-cypress-to-web.html)
 - [Write Professional Emails the Right Way](https://teklinks.andrejnsimoes.com/2021/10/write-professional-emails-right-way.html)
 - [Automating Data Protection at Scale, Part 1](https://teklinks.andrejnsimoes.com/2021/10/automating-data-protection-at-scale.html)
-- [Incident Review and Postmortem Best Practices](https://teklinks.andrejnsimoes.com/2021/10/incident-review-and-postmortem-best.html)
-- [My “Now, Soon, Future” Framework for Recommendations](https://teklinks.andrejnsimoes.com/2021/10/my-now-soon-future-framework-for.html)
-- [Essential Engineering Skills For Every Software Architect](https://teklinks.andrejnsimoes.com/2021/10/essential-engineering-skills-for-every.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
