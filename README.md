@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [GraphQL at PayPal: An Adoption Story](https://teklinks.andrejnsimoes.com/2021/10/graphql-at-paypal-adoption-story.html)
+- [Automating Data Protection at Scale, Part 2](https://teklinks.andrejnsimoes.com/2021/10/automating-data-protection-at-scale_27.html)
+- [Next.js 12](https://teklinks.andrejnsimoes.com/2021/10/nextjs-12.html)
 - [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://teklinks.andrejnsimoes.com/2021/10/how-big-tech-runs-tech-projects-and.html)
 - [Engineering Principles ⭐](https://teklinks.andrejnsimoes.com/2021/10/engineering-principles.html)
-- [SRE Doesn’t Scale](https://teklinks.andrejnsimoes.com/2021/10/sre-doesnt-scale.html)
-- [Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich](https://teklinks.andrejnsimoes.com/2021/10/building-ssg-ive-always-wanted-11ty.html)
-- [A Definitive Guide To Migrating A Monolithic Application to Microservices](https://teklinks.andrejnsimoes.com/2021/10/a-definitive-guide-to-migrating.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
