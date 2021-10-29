@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Who is a frontend architect and how to become one. Interview with Kir Belevich](https://www.youtube.com/watch?v=Aam2hcvrYEs)
 - [Next.js 12 is a Beast](https://www.youtube.com/watch?v=lRQ5z7i7pxE)
 - [Senior Developer Workflow For Stress-Free Coding](https://www.youtube.com/watch?v=eAfUfKYcvBo)
 - [10 Must Know Git Commands That Almost Nobody Knows](https://www.youtube.com/watch?v=mnmYwRoSisg)
 - [Ultimate Tailwind CSS Tutorial // Build a Discord-inspired Animated Navbar](https://www.youtube.com/watch?v=pfaSUYaSgRo)
-- [Auth0 in 100 Seconds // And beyond with a Next.js Authentication Tutorial](https://www.youtube.com/watch?v=yufqeJLP1rI)
 <!-- YOUTUBE:END -->
 
 
