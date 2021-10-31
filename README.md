@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Non-Technical Skills I Look for When Interviewing a Developer Candidate](https://teklinks.andrejnsimoes.com/2021/10/non-technical-skills-i-look-for-when.html)
+- [Adding End to End Cypress to a Web Project Part 2: Seeding the Test Data](https://teklinks.andrejnsimoes.com/2021/10/adding-end-to-end-cypress-to-web_31.html)
+- [Comparing top Node.js frameworks for frontend developers](https://teklinks.andrejnsimoes.com/2021/10/comparing-top-nodejs-frameworks-for.html)
 - [Next.js 12](https://teklinks.andrejnsimoes.com/2021/10/nextjs-12.html)
 - [GraphQL at PayPal: An Adoption Story](https://teklinks.andrejnsimoes.com/2021/10/graphql-at-paypal-adoption-story.html)
-- [Automating Data Protection at Scale, Part 2](https://teklinks.andrejnsimoes.com/2021/10/automating-data-protection-at-scale_27.html)
-- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://teklinks.andrejnsimoes.com/2021/10/how-big-tech-runs-tech-projects-and.html)
-- [Engineering Principles ⭐](https://teklinks.andrejnsimoes.com/2021/10/engineering-principles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
