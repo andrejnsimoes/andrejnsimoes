@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
+- [Test Driven Development: The best way to code that I almost never use](https://www.youtube.com/watch?v=EH9Suo_J4Ks)
 - [Who is a frontend architect and how to become one. Interview with Kir Belevich](https://www.youtube.com/watch?v=Aam2hcvrYEs)
 - [Next.js 12 is a Beast](https://www.youtube.com/watch?v=lRQ5z7i7pxE)
 - [Senior Developer Workflow For Stress-Free Coding](https://www.youtube.com/watch?v=eAfUfKYcvBo)
-- [10 Must Know Git Commands That Almost Nobody Knows](https://www.youtube.com/watch?v=mnmYwRoSisg)
 <!-- YOUTUBE:END -->
 
 
