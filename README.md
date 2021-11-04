@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [5 diagrams that show how context switching can sap your productivity](https://teklinks.andrejnsimoes.com/2021/11/5-diagrams-that-show-how-context.html)
+- [How to Customize Styles in Material UI Components](https://teklinks.andrejnsimoes.com/2021/11/how-to-customize-styles-in-material-ui.html)
+- [Why SOLID principles are still the foundation for modern software architecture](https://teklinks.andrejnsimoes.com/2021/11/why-solid-principles-are-still.html)
 - [How to Use Empathy When Reading Others' Code](https://teklinks.andrejnsimoes.com/2021/11/how-to-use-empathy-when-reading-others.html)
 - [5 Methods to Reduce JavaScript Bundle Size](https://teklinks.andrejnsimoes.com/2021/11/5-methods-to-reduce-javascript-bundle.html)
-- [How to Create a Stocks Watchlist on Google Finance](https://teklinks.andrejnsimoes.com/2021/11/how-to-create-stocks-watchlist-on.html)
-- [Non-Technical Skills I Look for When Interviewing a Developer Candidate](https://teklinks.andrejnsimoes.com/2021/10/non-technical-skills-i-look-for-when.html)
-- [Adding End to End Cypress to a Web Project Part 2: Seeding the Test Data](https://teklinks.andrejnsimoes.com/2021/10/adding-end-to-end-cypress-to-web_31.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
