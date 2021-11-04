@@ -41,9 +41,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [5 diagrams that show how context switching can sap your productivity](https://teklinks.andrejnsimoes.com/2021/11/5-diagrams-that-show-how-context.html)
-- [How to Customize Styles in Material UI Components](https://teklinks.andrejnsimoes.com/2021/11/how-to-customize-styles-in-material-ui.html)
 - [Why SOLID principles are still the foundation for modern software architecture](https://teklinks.andrejnsimoes.com/2021/11/why-solid-principles-are-still.html)
+- [How to Customize Styles in Material UI Components](https://teklinks.andrejnsimoes.com/2021/11/how-to-customize-styles-in-material-ui.html)
+- [5 diagrams that show how context switching can sap your productivity](https://teklinks.andrejnsimoes.com/2021/11/5-diagrams-that-show-how-context.html)
 - [How to Use Empathy When Reading Others' Code](https://teklinks.andrejnsimoes.com/2021/11/how-to-use-empathy-when-reading-others.html)
 - [5 Methods to Reduce JavaScript Bundle Size](https://teklinks.andrejnsimoes.com/2021/11/5-methods-to-reduce-javascript-bundle.html)
 <!-- BLOG-POST-LIST:END -->
