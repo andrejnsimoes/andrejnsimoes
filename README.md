@@ -41,7 +41,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [What's new in PageSpeed Insights](https://teklinks.andrejnsimoes.com/2021/11/whats-new-in-pagespeed-insights.html)
+- [What&#39;s new in PageSpeed Insights](https://teklinks.andrejnsimoes.com/2021/11/whats-new-in-pagespeed-insights.html)
 - [Comparing Three-Layered and Clean Architecture for Web Development](https://teklinks.andrejnsimoes.com/2021/11/comparing-three-layered-and-clean.html)
 - [Angular v13 is now Available](https://teklinks.andrejnsimoes.com/2021/11/angular-v13-is-now-available.html)
 - [10 GitHub Actions resources to bookmark from the basics to CI/CD](https://teklinks.andrejnsimoes.com/2021/11/10-github-actions-resources-to-bookmark.html)
