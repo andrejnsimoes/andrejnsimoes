@@ -41,9 +41,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Concrete Tips That Will Make Your React Pull Requests Easier To Review](https://teklinks.andrejnsimoes.com/2021/11/6-concrete-tips-that-will-make-your.html)
 - [We&#39;ve been lied to: JavaScript is very fast](https://teklinks.andrejnsimoes.com/2021/11/weve-been-lied-to-javascript-is-very.html)
 - [Why Tailwind CSS](https://teklinks.andrejnsimoes.com/2021/11/why-tailwind-css.html)
-- [6 Concrete Tips That Will Make Your React Pull Requests Easier To Review](https://teklinks.andrejnsimoes.com/2021/11/6-concrete-tips-that-will-make-your.html)
 - [What&#39;s new in PageSpeed Insights](https://teklinks.andrejnsimoes.com/2021/11/whats-new-in-pagespeed-insights.html)
 - [Comparing Three-Layered and Clean Architecture for Web Development](https://teklinks.andrejnsimoes.com/2021/11/comparing-three-layered-and-clean.html)
 <!-- BLOG-POST-LIST:END -->
