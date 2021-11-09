@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Shopify built a JS Framework // Hydrogen First Look](https://www.youtube.com/watch?v=mAsM9c2sGjA)
+- [Build a Website Accessibility Tester With JavaScript &amp; Pa11y](https://www.youtube.com/watch?v=MO4vEAu3hKE)
+- [Cleaning Up Copilot Code &lpar;Human vs AI&rpar; - maxChar](https://www.youtube.com/watch?v=yo87SLp4jOo)
 - [React Router 6 - What Changed &amp; Upgrading Guide](https://www.youtube.com/watch?v=zEQiNFAwDGo)
 - [Five Module Federation/Micro-Frontend Mistakes](https://www.youtube.com/watch?v=0WIFW3s2fDM)
-- [7 Cryptography Concepts EVERY Developer Should Know](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
-- [Test Driven Development: The best way to code that I almost never use](https://www.youtube.com/watch?v=EH9Suo_J4Ks)
-- [Who is a frontend architect and how to become one. Interview with Kir Belevich](https://www.youtube.com/watch?v=Aam2hcvrYEs)
 <!-- YOUTUBE:END -->
 
 
