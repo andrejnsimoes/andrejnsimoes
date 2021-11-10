@@ -41,9 +41,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Next.js Applications With Nx](https://teklinks.andrejnsimoes.com/2021/11/optimizing-nextjs-applications-with-nx.html)
 - [When Small Teams Are the Right Choice for a Software Project](https://teklinks.andrejnsimoes.com/2021/11/when-small-teams-are-right-choice-for.html)
 - [A Guide to Progressive Web Applications](https://teklinks.andrejnsimoes.com/2021/11/a-guide-to-progressive-web-applications.html)
-- [Optimizing Next.js Applications With Nx](https://teklinks.andrejnsimoes.com/2021/11/optimizing-nextjs-applications-with-nx.html)
 - [6 Concrete Tips That Will Make Your React Pull Requests Easier To Review](https://teklinks.andrejnsimoes.com/2021/11/6-concrete-tips-that-will-make-your.html)
 - [We&#39;ve been lied to: JavaScript is very fast](https://teklinks.andrejnsimoes.com/2021/11/weve-been-lied-to-javascript-is-very.html)
 <!-- BLOG-POST-LIST:END -->
