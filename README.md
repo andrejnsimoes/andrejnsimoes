@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed up your TypeScript monorepo with esbuild](https://teklinks.andrejnsimoes.com/2021/11/speed-up-your-typescript-monorepo-with.html)
+- [The strong and weak forces of architecture](https://teklinks.andrejnsimoes.com/2021/11/the-strong-and-weak-forces-of.html)
+- [Understanding Webpack’s Code Splitting Feature](https://teklinks.andrejnsimoes.com/2021/11/understanding-webpacks-code-splitting.html)
 - [Get Started With Apollo Server In Typescript](https://teklinks.andrejnsimoes.com/2021/11/get-started-with-apollo-server-in.html)
 - [Improving Pull Request Confidence for the Netflix TV App](https://teklinks.andrejnsimoes.com/2021/11/improving-pull-request-confidence-for.html)
-- [Building the Next Evolution of Cloud Networks at Slack – A Retrospective](https://teklinks.andrejnsimoes.com/2021/11/building-next-evolution-of-cloud.html)
-- [Optimizing Next.js Applications With Nx](https://teklinks.andrejnsimoes.com/2021/11/optimizing-nextjs-applications-with-nx.html)
-- [When Small Teams Are the Right Choice for a Software Project](https://teklinks.andrejnsimoes.com/2021/11/when-small-teams-are-right-choice-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
