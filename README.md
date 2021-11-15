@@ -55,7 +55,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Code Reviews: From Bottleneck to Superpower &lpar;Code Reviews Best Practices&rpar;](https://www.youtube.com/watch?v=8XsBX-V_fgI)
 - [Shopify built a JS Framework // Hydrogen First Look](https://www.youtube.com/watch?v=mAsM9c2sGjA)
 - [Build a Website Accessibility Tester With JavaScript &amp; Pa11y](https://www.youtube.com/watch?v=MO4vEAu3hKE)
-- [Cleaning Up Copilot Code &lpar;Human vs AI&rpar; - maxChar](https://www.youtube.com/watch?v=yo87SLp4jOo)
+- [Fixing Bad Copilot Code - maxChar](https://www.youtube.com/watch?v=yo87SLp4jOo)
 <!-- YOUTUBE:END -->
 
 
