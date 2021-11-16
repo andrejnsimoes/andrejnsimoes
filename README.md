@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [You can use React Query for slow computation, not just API](https://teklinks.andrejnsimoes.com/2021/11/you-can-use-react-query-for-slow.html)
+- [Open-sourcing of protein-structure software is already paying off](https://teklinks.andrejnsimoes.com/2021/11/open-sourcing-of-protein-structure.html)
+- [&quot;bulletproof-react&quot; is a hidden treasure of React best practices!](https://teklinks.andrejnsimoes.com/2021/11/bulletproof-react-is-hidden-treasure-of.html)
 - [Common React Hooks Mistakes You Should Avoid](https://teklinks.andrejnsimoes.com/2021/11/common-react-hooks-mistakes-you-should.html)
 - [GitHub Copilot: Intro, Benefits and Examples](https://teklinks.andrejnsimoes.com/2021/11/github-copilot-intro-benefits-and.html)
-- [A Simple But Effective Mental Health Routine For Programmers](https://teklinks.andrejnsimoes.com/2021/11/a-simple-but-effective-mental-health.html)
-- [Speed up your TypeScript monorepo with esbuild](https://teklinks.andrejnsimoes.com/2021/11/speed-up-your-typescript-monorepo-with.html)
-- [The strong and weak forces of architecture](https://teklinks.andrejnsimoes.com/2021/11/the-strong-and-weak-forces-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
