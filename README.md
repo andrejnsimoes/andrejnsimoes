@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Should You Replace Old Custom Software with New Custom Software?](https://teklinks.andrejnsimoes.com/2021/11/should-you-replace-old-custom-software.html)
+- [React Testing Techniques](https://teklinks.andrejnsimoes.com/2021/11/react-testing-techniques.html)
+- [Announcing TypeScript 4.5](https://teklinks.andrejnsimoes.com/2021/11/announcing-typescript-45.html)
 - [This Is My 10 Questions React Code Reviewing Routine](https://teklinks.andrejnsimoes.com/2021/11/this-is-my-10-questions-react-code.html)
 - [React Router 6 Tutorial](https://teklinks.andrejnsimoes.com/2021/11/react-router-6-tutorial.html)
-- [Code Quality Automation: What’s Around the Corner?](https://teklinks.andrejnsimoes.com/2021/11/code-quality-automation-whats-around.html)
-- [Useful React Hooks That You Can Use In Your Projects](https://teklinks.andrejnsimoes.com/2021/11/useful-react-hooks-that-you-can-use-in.html)
-- [Code Review: A Comprehensive Checklist](https://teklinks.andrejnsimoes.com/2021/11/code-review-comprehensive-checklist.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
