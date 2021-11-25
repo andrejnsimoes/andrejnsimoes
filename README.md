@@ -53,9 +53,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [Remix Run Speedrun - Pokemon](https://www.youtube.com/watch?v=rgZkd-RAYfE)
 - [Remix is a NEW JavaScript framework you MUST try](https://www.youtube.com/watch?v=r4B69HAOXnA)
+- [Introducing Remix v1 💿](https://www.youtube.com/watch?v=wsJaUjd1rUo)
 - [Javascript Arrays Made Simple: Iterators &lpar;Part 1&rpar;](https://www.youtube.com/watch?v=NaJI7RkSPx8)
 - [Short: Github co-pilot is amazing](https://www.youtube.com/watch?v=lu3icwOFv84)
-- [Code Reviews: From Bottleneck to Superpower &lpar;Code Reviews Best Practices&rpar;](https://www.youtube.com/watch?v=8XsBX-V_fgI)
 <!-- YOUTUBE:END -->
 
 
