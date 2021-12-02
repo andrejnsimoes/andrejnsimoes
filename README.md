@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Review Code Submissions for Developer Applicants](https://teklinks.andrejnsimoes.com/2021/12/how-i-review-code-submissions-for.html)
+- [Why I Love Remix](https://teklinks.andrejnsimoes.com/2021/12/why-i-love-remix.html)
+- [How to Create and Publish a React Component Library](https://teklinks.andrejnsimoes.com/2021/12/how-to-create-and-publish-react.html)
 - [Web 3.0: A Developer Roadmap, Guide, and Resources to Get Started](https://teklinks.andrejnsimoes.com/2021/11/web-30-developer-roadmap-guide-and.html)
 - [Welcome to Fleet!](https://teklinks.andrejnsimoes.com/2021/11/welcome-to-fleet.html)
-- [Are You Ready for a Leadership Position?](https://teklinks.andrejnsimoes.com/2021/11/are-you-ready-for-leadership-position.html)
-- [Reframing tech debt](https://teklinks.andrejnsimoes.com/2021/11/reframing-tech-debt.html)
-- [Using Next.js and Auth0 with Supabase](https://teklinks.andrejnsimoes.com/2021/11/using-nextjs-and-auth0-with-supabase.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
