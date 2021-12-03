@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Faster DevTools navigation with shortcuts and settings - DevTools Tips](https://www.youtube.com/watch?v=xHusjrb_34A)
 - [Bringing bounce and elastic easing to CSS | HTTP 203](https://www.youtube.com/watch?v=8FuafvJLDpM)
 - [SSH vs TLS vs SSL](https://www.youtube.com/watch?v=k3rFFLmQCuY)
 - [Remix Run Speedrun - Pokemon](https://www.youtube.com/watch?v=rgZkd-RAYfE)
 - [Remix is a NEW JavaScript framework you MUST try](https://www.youtube.com/watch?v=r4B69HAOXnA)
-- [Introducing Remix v1 💿](https://www.youtube.com/watch?v=wsJaUjd1rUo)
 <!-- YOUTUBE:END -->
 
 
