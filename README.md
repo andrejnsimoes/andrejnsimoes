@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Document Your Process to Teach and Learn a New Task Well](https://teklinks.andrejnsimoes.com/2021/12/document-your-process-to-teach-and.html)
+- [Winston Logger With Typescript](https://teklinks.andrejnsimoes.com/2021/12/winston-logger-with-typescript.html)
+- [Front-end monitoring with Sentry.io and React](https://teklinks.andrejnsimoes.com/2021/12/front-end-monitoring-with-sentryio-and.html)
 - [Advanced Javascript Design Patterns](https://teklinks.andrejnsimoes.com/2021/12/advanced-javascript-design-patterns.html)
 - [7 Signs of a Senior Developer](https://teklinks.andrejnsimoes.com/2021/12/7-signs-of-senior-developer.html)
-- [How to Tell Your Boss You&#39;re Quitting](https://teklinks.andrejnsimoes.com/2021/12/how-to-tell-your-boss-youre-quitting.html)
-- [How I Review Code Submissions for Developer Applicants](https://teklinks.andrejnsimoes.com/2021/12/how-i-review-code-submissions-for.html)
-- [Why I Love Remix](https://teklinks.andrejnsimoes.com/2021/12/why-i-love-remix.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
