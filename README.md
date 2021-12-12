@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Can You Refactor JavaScript Safely Without Test Coverage?](https://teklinks.andrejnsimoes.com/2021/12/can-you-refactor-javascript-safely.html)
 - [Developer Burnout — Signs, Impact, and Prevention](https://teklinks.andrejnsimoes.com/2021/12/developer-burnout-signs-impact-and.html)
 - [Building a web3 frontend with React](https://teklinks.andrejnsimoes.com/2021/12/building-web3-frontend-with-react.html)
 - [React Server Components and Remix](https://teklinks.andrejnsimoes.com/2021/12/react-server-components-and-remix.html)
 - [Securely Erase Hard Drives in 6 Easy Steps with nwipe](https://teklinks.andrejnsimoes.com/2021/12/securely-erase-hard-drives-in-6-easy.html)
-- [In Defense of Clean Code: 100+ pieces of timeless advice from Uncle Bob](https://teklinks.andrejnsimoes.com/2021/12/in-defense-of-cleancode-100-pieces-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
