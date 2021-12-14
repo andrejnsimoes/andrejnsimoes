@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to implement Singleton in TypeScript](https://teklinks.andrejnsimoes.com/2021/12/how-to-implement-singleton-in-typescript.html)
+- [Facade Pattern in TypeScript](https://teklinks.andrejnsimoes.com/2021/12/facade-pattern-in-typescript.html)
+- [Search Params with React Router 6](https://teklinks.andrejnsimoes.com/2021/12/search-params-with-react-router-6.html)
 - [Do I really need a skilled Software Architect? Guide for CTOs](https://teklinks.andrejnsimoes.com/2021/12/do-i-really-need-skilled-software.html)
 - [Can You Refactor JavaScript Safely Without Test Coverage?](https://teklinks.andrejnsimoes.com/2021/12/can-you-refactor-javascript-safely.html)
-- [Developer Burnout — Signs, Impact, and Prevention](https://teklinks.andrejnsimoes.com/2021/12/developer-burnout-signs-impact-and.html)
-- [Building a web3 frontend with React](https://teklinks.andrejnsimoes.com/2021/12/building-web3-frontend-with-react.html)
-- [React Server Components and Remix](https://teklinks.andrejnsimoes.com/2021/12/react-server-components-and-remix.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
