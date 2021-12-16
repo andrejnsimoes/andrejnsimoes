@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain, Cryptocurrency, NFTs, DAOs, and the Metaverse](https://teklinks.andrejnsimoes.com/2021/12/the-best-web3-resourcesblockchain.html)
 - [Dependency injection in React](https://teklinks.andrejnsimoes.com/2021/12/dependency-injection-in-react.html)
 - [Deploying Next Gen Serverless Functions with WebAssembly and Module Federation](https://teklinks.andrejnsimoes.com/2021/12/deploying-next-gen-serverless-functions.html)
 - [How to implement Singleton in TypeScript](https://teklinks.andrejnsimoes.com/2021/12/how-to-implement-singleton-in-typescript.html)
 - [Facade Pattern in TypeScript](https://teklinks.andrejnsimoes.com/2021/12/facade-pattern-in-typescript.html)
-- [Search Params with React Router 6](https://teklinks.andrejnsimoes.com/2021/12/search-params-with-react-router-6.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
