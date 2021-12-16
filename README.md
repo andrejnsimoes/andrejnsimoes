@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Dark Mode Using CSS](https://www.youtube.com/watch?v=-3Xabm9yewk)
 - [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://www.youtube.com/watch?v=9iU_IE6vnJ8)
 - [Top Tech Trends For Web Developers in 2022](https://www.youtube.com/watch?v=bk5JvHGFv3A)
 - [Is Web3 all Hype? Top 10 Web 3.0 Questions &amp; Answers](https://www.youtube.com/watch?v=wHTcrmhskto)
 - [React Router v6 Major Changes](https://www.youtube.com/watch?v=k2Zk5cbiZhg)
-- [Faster DevTools navigation with shortcuts and settings - DevTools Tips](https://www.youtube.com/watch?v=xHusjrb_34A)
 <!-- YOUTUBE:END -->
 
 
