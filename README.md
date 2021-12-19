@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Rehabilitate an Old React Webapp Built with Redux](https://teklinks.andrejnsimoes.com/2021/12/how-to-rehabilitate-old-react-webapp.html)
+- [A powerful technique for making animations in React](https://teklinks.andrejnsimoes.com/2021/12/a-powerful-technique-for-making.html)
 - [Monolith to Event-Driven Microservices with Apache Kafka](https://teklinks.andrejnsimoes.com/2021/12/monolith-to-event-driven-microservices.html)
 - [Blockchain, Cryptocurrency, NFTs, DAOs, and the Metaverse](https://teklinks.andrejnsimoes.com/2021/12/the-best-web3-resourcesblockchain.html)
 - [Dependency injection in React](https://teklinks.andrejnsimoes.com/2021/12/dependency-injection-in-react.html)
-- [Deploying Next Gen Serverless Functions with WebAssembly and Module Federation](https://teklinks.andrejnsimoes.com/2021/12/deploying-next-gen-serverless-functions.html)
-- [How to implement Singleton in TypeScript](https://teklinks.andrejnsimoes.com/2021/12/how-to-implement-singleton-in-typescript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
