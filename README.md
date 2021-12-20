@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Identify and Overcome Mental Blocks: 6 Ways](https://teklinks.andrejnsimoes.com/2021/12/how-to-identify-and-overcome-mental.html)
+- [5 automations every developer should be running](https://teklinks.andrejnsimoes.com/2021/12/5-automations-every-developer-should-be.html)
+- [The True Meaning of Technical Debt 💸](https://teklinks.andrejnsimoes.com/2021/12/the-true-meaning-of-technical-debt.html)
 - [How to Rehabilitate an Old React Webapp Built with Redux](https://teklinks.andrejnsimoes.com/2021/12/how-to-rehabilitate-old-react-webapp.html)
 - [A powerful technique for making animations in React](https://teklinks.andrejnsimoes.com/2021/12/a-powerful-technique-for-making.html)
-- [Monolith to Event-Driven Microservices with Apache Kafka](https://teklinks.andrejnsimoes.com/2021/12/monolith-to-event-driven-microservices.html)
-- [Blockchain, Cryptocurrency, NFTs, DAOs, and the Metaverse](https://teklinks.andrejnsimoes.com/2021/12/the-best-web3-resourcesblockchain.html)
-- [Dependency injection in React](https://teklinks.andrejnsimoes.com/2021/12/dependency-injection-in-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
