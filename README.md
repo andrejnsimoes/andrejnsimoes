@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [HTTP/3 From A To Z: Core Concepts &lpar;Part 1&rpar;](https://teklinks.andrejnsimoes.com/2021/12/http3-from-to-z-core-concepts-part-1.html)
 - [Running End to End Cypress in a Google Cloud Build Pipeline](https://teklinks.andrejnsimoes.com/2021/12/running-end-to-end-cypress-in-google.html)
 - [How to leverage security frameworks and libraries for secure code](https://teklinks.andrejnsimoes.com/2021/12/how-to-leverage-security-frameworks-and.html)
 - [The 100 Most Transparent Tech Companies of 2021](https://teklinks.andrejnsimoes.com/2021/12/the-100-most-transparent-tech-companies.html)
 - [Improving Core Web Vitals, A Smashing Magazine Case Study](https://teklinks.andrejnsimoes.com/2021/12/improving-core-web-vitals-smashing.html)
-- [How to Identify and Overcome Mental Blocks: 6 Ways](https://teklinks.andrejnsimoes.com/2021/12/how-to-identify-and-overcome-mental.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
