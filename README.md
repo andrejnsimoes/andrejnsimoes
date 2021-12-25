@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
+- [Cryptopia | AWARD WINNING DOC | Cryptocurrencies | Web 3.0 | Blockchains | Bitcoin](https://www.youtube.com/watch?v=l5TqlnD1ZSI)
 - [Programming Is The Least Important Part Of Your Project - Career Fair Dev Log 1](https://www.youtube.com/watch?v=DeFY5F3pWPs)
 - [Dark Mode Using CSS](https://www.youtube.com/watch?v=-3Xabm9yewk)
 - [Monorepos - How the Pros Scale Huge Software Projects // Turborepo vs Nx](https://www.youtube.com/watch?v=9iU_IE6vnJ8)
-- [Top Tech Trends For Web Developers in 2022](https://www.youtube.com/watch?v=bk5JvHGFv3A)
 <!-- YOUTUBE:END -->
 
 
