@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Handle Hypergrowth in a Remote World](https://teklinks.andrejnsimoes.com/2021/12/how-to-handle-hypergrowth-in-remote.html)
+- [26 GitHub Open Sources For Learning Programming](https://teklinks.andrejnsimoes.com/2021/12/26-github-open-sources-for-learning.html)
 - [Build a DApp on Avalanche: A complete guide](https://teklinks.andrejnsimoes.com/2021/12/build-dapp-on-avalanche-complete-guide.html)
 - [40 Tips on How to Run a Productive Virtual Meeting](https://teklinks.andrejnsimoes.com/2021/12/40-tips-on-how-to-run-productive.html)
 - [Code Reviews 🔍](https://teklinks.andrejnsimoes.com/2021/12/code-reviews.html)
-- [Build a component library with React and TypeScript](https://teklinks.andrejnsimoes.com/2021/12/build-component-library-with-react-and.html)
-- [Writing clean JavaScript tests with the BASIC principles](https://teklinks.andrejnsimoes.com/2021/12/writing-clean-javascript-tests-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
