@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [State Management for Module Federation Four Ways](https://www.youtube.com/watch?v=njXeMeAu4Sg)
 - [Que tecnologia estudar em 2022? - PR #64](https://www.youtube.com/watch?v=7Xy2fP_BlUs)
 - [Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
 - [Rethinking GraphQL with Wundergraph](https://www.youtube.com/watch?v=m3YrZav5-CU)
 - [Cryptopia | AWARD WINNING DOC | Cryptocurrencies | Web 3.0 | Blockchains | Bitcoin](https://www.youtube.com/watch?v=l5TqlnD1ZSI)
-- [Programming Is The Least Important Part Of Your Project - Career Fair Dev Log 1](https://www.youtube.com/watch?v=DeFY5F3pWPs)
 <!-- YOUTUBE:END -->
 
 
