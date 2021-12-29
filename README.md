@@ -43,7 +43,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- BLOG-POST-LIST:START -->
 - [What Is Prometheus and Why Is It So Popular?](https://teklinks.andrejnsimoes.com/2021/12/what-is-prometheus-and-why-is-it-so.html)
 - [50 Cognitive Biases in the Modern World](https://teklinks.andrejnsimoes.com/2021/12/50-cognitive-biases-in-modern-world.html)
-- [Learn Responsive Web Design by Building 20 Projects – a Major freeCodeCamp Curriculum Update](https://teklinks.andrejnsimoes.com/2021/12/learn-responsive-web-design-by-building.html)
+- [Learn Responsive Web Design by Building 20 Projects](https://teklinks.andrejnsimoes.com/2021/12/learn-responsive-web-design-by-building.html)
 - [Billing Management For Your Next SaaS Idea Using Stripe And Azure Functions](https://teklinks.andrejnsimoes.com/2021/12/billing-management-for-your-next-saas.html)
 - [9 Popular React UI Component Libraries for Beginners in 2022](https://teklinks.andrejnsimoes.com/2021/12/9-popular-react-ui-component-libraries.html)
 <!-- BLOG-POST-LIST:END -->
