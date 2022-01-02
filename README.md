@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Double Your React Coding Speed With This Simple Trick](https://teklinks.andrejnsimoes.com/2022/01/double-your-react-coding-speed-with.html)
+- [How To Price Projects And Manage Scope Screep](https://teklinks.andrejnsimoes.com/2022/01/how-to-price-projects-and-manage-scope.html)
+- [8 Employer Red Flags to Look for Before Accepting a Job Offer](https://teklinks.andrejnsimoes.com/2022/01/8-employer-red-flags-to-look-for-before.html)
 - [Career Evaluation: Taking Stock of Your Life and Work at Year’s End](https://teklinks.andrejnsimoes.com/2022/01/career-evaluation-taking-stock-of-your.html)
 - [Netlify vs. Cloudflare Pages](https://teklinks.andrejnsimoes.com/2022/01/netlify-vs-cloudflare-pages.html)
-- [Choose Boring Technology](https://teklinks.andrejnsimoes.com/2022/01/choose-boring-technology.html)
-- [7 things you may not know about useState](https://teklinks.andrejnsimoes.com/2021/12/7-things-you-may-not-know-about-usestate.html)
-- [What Is Prometheus and Why Is It So Popular?](https://teklinks.andrejnsimoes.com/2021/12/what-is-prometheus-and-why-is-it-so.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
