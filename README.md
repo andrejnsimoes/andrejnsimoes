@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Chrome 97 - What’s New in DevTools](https://www.youtube.com/watch?v=cGotLGL1-Ko)
 - [Picking From 20 React State Managers](https://www.youtube.com/watch?v=P95DuIBwnqw)
 - [State Management for Module Federation Four Ways](https://www.youtube.com/watch?v=njXeMeAu4Sg)
 - [Que tecnologia estudar em 2022? - PR #64](https://www.youtube.com/watch?v=7Xy2fP_BlUs)
 - [Learn Intersection Observer In 15 Minutes](https://www.youtube.com/watch?v=2IbRtjez6ag)
-- [Rethinking GraphQL with Wundergraph](https://www.youtube.com/watch?v=m3YrZav5-CU)
 <!-- YOUTUBE:END -->
 
 
