@@ -54,8 +54,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [New in Chrome 97: Web Transport, Script type Detection, and more!](https://www.youtube.com/watch?v=eXaog4gUIXI)
 - [This Is Unbelievably Powerful](https://www.youtube.com/watch?v=Mi4EF9K87aM)
 - [Technologies I&#39;m Learning in 2022](https://www.youtube.com/watch?v=qQzrGffpIGI)
+- [Binary Explained in 01100100 Seconds](https://www.youtube.com/watch?v=zDNaUi2cjv4)
 - [Chrome 97 - What’s New in DevTools](https://www.youtube.com/watch?v=cGotLGL1-Ko)
-- [Picking From 20 React State Managers](https://www.youtube.com/watch?v=P95DuIBwnqw)
 <!-- YOUTUBE:END -->
 
 
