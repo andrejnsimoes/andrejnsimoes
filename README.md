@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Choose the Best GraphQL Server for Your Next Project](https://teklinks.andrejnsimoes.com/2022/01/how-to-choose-best-graphql-server-for.html)
+- [Real-Life Use-Cases for useCallback and useMemo React Hooks](https://teklinks.andrejnsimoes.com/2022/01/real-life-use-cases-for-usecallback-and.html)
+- [7 Essential Books for Every Software Architect](https://teklinks.andrejnsimoes.com/2022/01/7-essential-books-for-every-software.html)
 - [JS Self-Profiling API In Practice](https://teklinks.andrejnsimoes.com/2022/01/js-self-profiling-api-in-practice.html)
 - [Quality Engineer Learning Roadmap](https://teklinks.andrejnsimoes.com/2022/01/quality-engineer-learning-roadmap.html)
-- [Is It Time for the JavaScript Temporal API?](https://teklinks.andrejnsimoes.com/2022/01/is-it-time-for-javascript-temporal-api.html)
-- [Double Your React Coding Speed With This Simple Trick](https://teklinks.andrejnsimoes.com/2022/01/double-your-react-coding-speed-with.html)
-- [How To Price Projects And Manage Scope Screep](https://teklinks.andrejnsimoes.com/2022/01/how-to-price-projects-and-manage-scope.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
