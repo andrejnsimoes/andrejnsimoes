@@ -52,7 +52,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Coding with Kent: Remix Examples](https://www.youtube.com/watch?v=mM1GKDqgTV4)
-- [REFACTOR: The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=R6S-b_k-ZKY)
+- [The Dark Side of Open Source // What really happened to Faker.js?](https://www.youtube.com/watch?v=R6S-b_k-ZKY)
 - [New in Chrome 97: Web Transport, Script type Detection, and more!](https://www.youtube.com/watch?v=eXaog4gUIXI)
 - [This Is Unbelievably Powerful](https://www.youtube.com/watch?v=Mi4EF9K87aM)
 - [Technologies I&#39;m Learning in 2022](https://www.youtube.com/watch?v=qQzrGffpIGI)
