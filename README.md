@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Resignation is here. What does that mean for developers?](https://teklinks.andrejnsimoes.com/2022/01/the-great-resignation-is-here-what-does.html)
 - [Becoming a Better Tech Leader with Coaching](https://teklinks.andrejnsimoes.com/2022/01/becoming-better-tech-leader-with.html)
 - [Changing A Tire On A Moving Car &lpar;Or How To Improve Product Roadmaps&rpar;](https://teklinks.andrejnsimoes.com/2022/01/changing-tire-on-moving-car-or-how-to.html)
 - [Let’s Build Micro Frontends with NextJS and Module Federation!](https://teklinks.andrejnsimoes.com/2022/01/lets-build-micro-frontends-with-nextjs.html)
 - [How to Choose the Best GraphQL Server for Your Next Project](https://teklinks.andrejnsimoes.com/2022/01/how-to-choose-best-graphql-server-for.html)
-- [Real-Life Use-Cases for useCallback and useMemo React Hooks](https://teklinks.andrejnsimoes.com/2022/01/real-life-use-cases-for-usecallback-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
