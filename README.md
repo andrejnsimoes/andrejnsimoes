@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [2021 JavaScript Rising Stars](https://teklinks.andrejnsimoes.com/2022/01/2021-javascript-rising-stars.html)
+- [Feature Flags: A Gentle Introduction](https://teklinks.andrejnsimoes.com/2022/01/feature-flags-gentle-introduction.html)
+- [Speed-Review API Specifications with Insomnia](https://teklinks.andrejnsimoes.com/2022/01/speed-review-api-specifications-with.html)
 - [3 Ways to Establish Your Role on a Software Team](https://teklinks.andrejnsimoes.com/2022/01/3-ways-to-establish-your-role-on.html)
 - [Introduction To Metamask](https://teklinks.andrejnsimoes.com/2022/01/introduction-to-metamask.html)
-- [Top 10 Features Introduced In Tailwind CSS v3.0](https://teklinks.andrejnsimoes.com/2022/01/top-10-features-introduced-in-tailwind.html)
-- [How not to learn TypeScript](https://teklinks.andrejnsimoes.com/2022/01/how-not-to-learn-typescript.html)
-- [Software Engineering Culture Metrics](https://teklinks.andrejnsimoes.com/2022/01/software-engineering-culture-metrics.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
