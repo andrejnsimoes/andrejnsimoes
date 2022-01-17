@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Who is Better? Human vs Copilot AI for React Code](https://www.youtube.com/watch?v=zA6EDTErWUg)
 - [CSS Will Never Be The Same](https://www.youtube.com/watch?v=sPbpElWAJ68)
 - [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
 - [The New Vue by Evan You](https://www.youtube.com/watch?v=2KBHvaAWJOA)
 - [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js &amp; Redis](https://www.youtube.com/watch?v=DOIWQddRD5M)
-- [Code Splitting Made Simple](https://www.youtube.com/watch?v=7kNLXE0hixM)
 <!-- YOUTUBE:END -->
 
 
