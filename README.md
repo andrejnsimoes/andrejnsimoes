@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Turning a GitHub page into a Progressive Web App](https://teklinks.andrejnsimoes.com/2022/01/turning-github-page-into-progressive.html)
+- [Remix vs Next.js](https://teklinks.andrejnsimoes.com/2022/01/remix-vs-nextjs.html)
 - [How we migrated 541 components from Styled Components to Emotion with zero bugs](https://teklinks.andrejnsimoes.com/2022/01/how-we-migrated-541-components-from.html)
 - [10 real-world stories of how we’ve compromised CI/CD pipelines](https://teklinks.andrejnsimoes.com/2022/01/10-real-world-stories-of-how-weve.html)
 - [Top 8 Recommended Books To Become a Better Programmer](https://teklinks.andrejnsimoes.com/2022/01/top-8-recommended-books-to-become.html)
-- [Your Open Source Project Needs a devcontainer - Here&#39;s Why](https://teklinks.andrejnsimoes.com/2022/01/your-open-source-project-needs.html)
-- [My first impressions of web3](https://teklinks.andrejnsimoes.com/2022/01/my-first-impressions-of-web3.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
