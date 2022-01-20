@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How to Land a 100K/yr Tech Job - 10 Strategies](https://www.youtube.com/watch?v=Xg9ihH15Uto)
 - [gQuery 101](https://www.youtube.com/watch?v=sjPJLwIA7SY)
 - [Build a WEB3 app to mint unlimited NFTs… But should you?](https://www.youtube.com/watch?v=meTpMP0J5E8)
 - [Who is Better? Human vs Copilot AI for React Code](https://www.youtube.com/watch?v=zA6EDTErWUg)
 - [CSS Will Never Be The Same](https://www.youtube.com/watch?v=sPbpElWAJ68)
-- [JavaScript in 100 Seconds](https://www.youtube.com/watch?v=DHjqpvDnNGE)
 <!-- YOUTUBE:END -->
 
 
