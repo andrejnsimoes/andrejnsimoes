@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building The Real App With React Query](https://teklinks.andrejnsimoes.com/2022/01/building-real-app-with-react-query.html)
+- [Microservices Testing: Key Strategies and Tools](https://teklinks.andrejnsimoes.com/2022/01/microservices-testing-key-strategies.html)
+- [4 Tips for Facilitating a Discussion and Keeping Your Team Engaged](https://teklinks.andrejnsimoes.com/2022/01/4-tips-for-facilitating-discussion-and.html)
 - [Organizing your Express.js project structure for better productivity](https://teklinks.andrejnsimoes.com/2022/01/organizing-your-expressjs-project.html)
 - [How to Challenge and Move Past Negative Self-Talk](https://teklinks.andrejnsimoes.com/2022/01/how-to-challenge-and-move-past-negative.html)
-- [Turning a GitHub page into a Progressive Web App](https://teklinks.andrejnsimoes.com/2022/01/turning-github-page-into-progressive.html)
-- [Remix vs Next.js](https://teklinks.andrejnsimoes.com/2022/01/remix-vs-nextjs.html)
-- [How we migrated 541 components from Styled Components to Emotion with zero bugs](https://teklinks.andrejnsimoes.com/2022/01/how-we-migrated-541-components-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
