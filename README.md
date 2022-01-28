@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Coding with Kent: Remix Docs Site and Examples](https://www.youtube.com/watch?v=EU_fLOiUMoc)
 - [Chrome 98 - What’s New in DevTools](https://www.youtube.com/watch?v=YqkIS88VulM)
 - [Remix Single: Optimistic UI](https://www.youtube.com/watch?v=EdB_nj01C80)
 - [COMEÇANDO NO REACT.JS EM 2022](https://www.youtube.com/watch?v=pDbcC-xSat4)
 - [How to buy Stocks with JavaScript // Algo Trading Tutorial for Dummies](https://www.youtube.com/watch?v=BrcugNqRwUs)
-- [Mastering React&#39;s useEffect](https://www.youtube.com/watch?v=dH6i3GurZW8)
 <!-- YOUTUBE:END -->
 
 
