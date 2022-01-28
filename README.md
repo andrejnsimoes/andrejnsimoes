@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Fear, Uncertainty, Doubt, and Anger: Resolving FUDA at Work](https://teklinks.andrejnsimoes.com/2022/01/fear-uncertainty-doubt-and-anger.html)
+- [Compound Component Design Pattern in React](https://teklinks.andrejnsimoes.com/2022/01/compound-component-design-pattern-in.html)
+- [Exploring React 18’s three new APIs](https://teklinks.andrejnsimoes.com/2022/01/exploring-react-18s-three-new-apis.html)
 - [The Power of Code Refactoring: How to Measure Refactoring Success](https://teklinks.andrejnsimoes.com/2022/01/the-power-of-code-refactoring-how-to.html)
 - [The Top 7 Negotiation Skills You Need to Land a Great Job Offer](https://teklinks.andrejnsimoes.com/2022/01/the-top-7-negotiation-skills-you-need.html)
-- [Is Remix the Next Framework You Have to Learn?](https://teklinks.andrejnsimoes.com/2022/01/is-remix-next-framework-you-have-to.html)
-- [Microservices Testing: Key Strategies and Tools](https://teklinks.andrejnsimoes.com/2022/01/microservices-testing-key-strategies.html)
-- [Building The Real App With React Query](https://teklinks.andrejnsimoes.com/2022/01/building-real-app-with-react-query.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
