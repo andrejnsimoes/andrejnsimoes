@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Mastering React Batch Updating](https://www.youtube.com/watch?v=MlDTHzK1vKI)
 - [Coding with Kent: Remix Docs Site and Examples](https://www.youtube.com/watch?v=EU_fLOiUMoc)
 - [Chrome 98 - What’s New in DevTools](https://www.youtube.com/watch?v=YqkIS88VulM)
 - [I created a Command Line Game for you // 5-Minute Node.js CLI Project](https://www.youtube.com/watch?v=_oHByo8tiEY)
 - [Remix Single: Optimistic UI](https://www.youtube.com/watch?v=EdB_nj01C80)
-- [What Is Remix? - What Is Web Development](https://www.youtube.com/watch?v=4SDrih4OWz4)
 <!-- YOUTUBE:END -->
 
 
