@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [From Chaos To System In Design Teams](https://teklinks.andrejnsimoes.com/2022/01/from-chaos-to-system-in-design-teams.html)
+- [6 Ways to Stay Motivated at Work](https://teklinks.andrejnsimoes.com/2022/01/6-ways-to-stay-motivated-at-work.html)
+- [ECMAScript proposal: grouping Arrays via .groupBy&lpar;&rpar; and .groupByToMap&lpar;&rpar;](https://teklinks.andrejnsimoes.com/2022/01/ecmascript-proposal-grouping-arrays-via.html)
+- [How to Use GitLab’s Built-In Sentry Error Tracking Service](https://teklinks.andrejnsimoes.com/2022/01/how-to-use-gitlabs-built-in-sentry.html)
 - [Fear, Uncertainty, Doubt, and Anger: Resolving FUDA at Work](https://teklinks.andrejnsimoes.com/2022/01/fear-uncertainty-doubt-and-anger.html)
-- [Compound Component Design Pattern in React](https://teklinks.andrejnsimoes.com/2022/01/compound-component-design-pattern-in.html)
-- [Exploring React 18’s three new APIs](https://teklinks.andrejnsimoes.com/2022/01/exploring-react-18s-three-new-apis.html)
-- [The Power of Code Refactoring: How to Measure Refactoring Success](https://teklinks.andrejnsimoes.com/2022/01/the-power-of-code-refactoring-how-to.html)
-- [The Top 7 Negotiation Skills You Need to Land a Great Job Offer](https://teklinks.andrejnsimoes.com/2022/01/the-top-7-negotiation-skills-you-need.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
