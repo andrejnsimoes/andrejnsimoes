@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s New In DevTools?](https://teklinks.andrejnsimoes.com/2022/02/whats-new-in-devtools.html)
+- [5 Steps You Can Take to Prepare for a Successful Virtual Demo](https://teklinks.andrejnsimoes.com/2022/02/5-steps-you-can-take-to-prepare-for.html)
 - [Adventures in Minimum Viable Product: A Backpack](https://teklinks.andrejnsimoes.com/2022/02/adventures-in-minimum-viable-product.html)
 - [A pipe operator for JavaScript: introduction and use cases](https://teklinks.andrejnsimoes.com/2022/02/a-pipe-operator-for-javascript.html)
 - [30 Javascript animation libraries for 2022](https://teklinks.andrejnsimoes.com/2022/02/30-javascript-animation-libraries-for.html)
-- [From Chaos To System In Design Teams](https://teklinks.andrejnsimoes.com/2022/01/from-chaos-to-system-in-design-teams.html)
-- [6 Ways to Stay Motivated at Work](https://teklinks.andrejnsimoes.com/2022/01/6-ways-to-stay-motivated-at-work.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
