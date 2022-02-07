@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What Makes a Good Job? Feeling Invested in the Company’s Success](https://teklinks.andrejnsimoes.com/2022/02/what-makes-good-job-feeling-invested-in.html)
+- [Reducing flaky builds by 18x](https://teklinks.andrejnsimoes.com/2022/02/reducing-flaky-builds-by-18x.html)
+- [Improving JavaScript Bundle Performance With Code-Splitting](https://teklinks.andrejnsimoes.com/2022/02/improving-javascript-bundle-performance.html)
 - [The Swyx.io 2022 Rewrite](https://teklinks.andrejnsimoes.com/2022/02/the-swyxio-2022-rewrite.html)
 - [How to Respond to a Bad Performance Review](https://teklinks.andrejnsimoes.com/2022/02/how-to-respond-to-bad-performance-review.html)
-- [React Best Practices – Tips for Writing Better React Code in 2022](https://teklinks.andrejnsimoes.com/2022/02/react-best-practices-tips-for-writing.html)
-- [What’s New In DevTools?](https://teklinks.andrejnsimoes.com/2022/02/whats-new-in-devtools.html)
-- [5 Steps You Can Take to Prepare for a Successful Virtual Demo](https://teklinks.andrejnsimoes.com/2022/02/5-steps-you-can-take-to-prepare-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
