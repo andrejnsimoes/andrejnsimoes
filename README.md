@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Mastering React Memo](https://www.youtube.com/watch?v=DEPwA3mv_R8)
+- [Learn The MERN Stack - Express &amp; MongoDB Rest API](https://www.youtube.com/watch?v=-0exw-9YJBo)
 - [BIG new feature lands in Node.js // The Code Report](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 - [useLayoutEffect Vs useEffect - Which Is Better?](https://www.youtube.com/watch?v=sRDUOd1IkS8)
 - [The Story of React](https://www.youtube.com/watch?v=Wm_xI7KntDs)
-- [Mastering React Batch Updating](https://www.youtube.com/watch?v=MlDTHzK1vKI)
-- [Coding with Kent: Remix Docs Site and Examples](https://www.youtube.com/watch?v=EU_fLOiUMoc)
 <!-- YOUTUBE:END -->
 
 
