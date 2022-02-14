@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Push Notifications, WebXR, and better PWA support coming to iOS](https://teklinks.andrejnsimoes.com/2022/02/push-notifications-webxr-and-better-pwa.html)
+- [Principles of technical documentation](https://teklinks.andrejnsimoes.com/2022/02/principles-of-technical-documentation.html)
+- [Mastering the art of forms in React](https://teklinks.andrejnsimoes.com/2022/02/mastering-art-of-forms-in-react.html)
 - [Building Infrastructure Platforms](https://teklinks.andrejnsimoes.com/2022/02/building-infrastructure-platforms.html)
 - [Why You Need An API Gateway To Manage Access To Your APIs](https://teklinks.andrejnsimoes.com/2022/02/why-you-need-api-gateway-to-manage.html)
-- [Psychological safety is critical for high-performing teams](https://teklinks.andrejnsimoes.com/2022/02/psychological-safety-is-critical-for.html)
-- [Introducing Svelte, and Comparing Svelte with React and Vue](https://teklinks.andrejnsimoes.com/2022/02/introducing-svelte-and-comparing-svelte.html)
-- [Lessons from a Tech Lead: Roles, responsibilities, and words of advice](https://teklinks.andrejnsimoes.com/2022/02/lessons-from-tech-lead-roles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
