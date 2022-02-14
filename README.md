@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Mastering React Context: Do you NEED a state manager?](https://www.youtube.com/watch?v=MpdFj8MEuJA)
 - [Queue Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=mDCi1lXd9hc)
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
 - [Mastering React Memo](https://www.youtube.com/watch?v=DEPwA3mv_R8)
 - [Learn The MERN Stack - Express &amp; MongoDB Rest API](https://www.youtube.com/watch?v=-0exw-9YJBo)
-- [BIG new feature lands in Node.js // The Code Report](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 <!-- YOUTUBE:END -->
 
 
