@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Should I Stay or Should I Go? A Compass for Difficult Decisions](https://teklinks.andrejnsimoes.com/2022/02/should-i-stay-or-should-i-go-compass.html)
+- [Top 10 web hacking techniques of 2021](https://teklinks.andrejnsimoes.com/2022/02/top-10-web-hacking-techniques-of-2021.html)
+- [Move over JavaScript: Back-end languages are coming to the front-end](https://teklinks.andrejnsimoes.com/2022/02/move-over-javascript-back-end-languages.html)
 - [How to Solve Software Bugs with the Scientific Method](https://teklinks.andrejnsimoes.com/2022/02/how-to-solve-software-bugs-with.html)
 - [Pure Functions in JS: Avoiding Unwanted Problems](https://teklinks.andrejnsimoes.com/2022/02/pure-functions-in-js-avoiding-unwanted.html)
-- [How React server components work: an in-depth guide](https://teklinks.andrejnsimoes.com/2022/02/how-react-server-components-work-in.html)
-- [Push Notifications, WebXR, and better PWA support coming to iOS](https://teklinks.andrejnsimoes.com/2022/02/push-notifications-webxr-and-better-pwa.html)
-- [Principles of technical documentation](https://teklinks.andrejnsimoes.com/2022/02/principles-of-technical-documentation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
