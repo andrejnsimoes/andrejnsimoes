@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
+- [33 Concepts JavaScript Developers &quot;SHOULD Know&quot; &lpar;I don&#39;t know all of them...&rpar;](https://www.youtube.com/watch?v=2alCBdPcadM)
 - [Mastering React Context: Do you NEED a state manager?](https://www.youtube.com/watch?v=MpdFj8MEuJA)
 - [Queue Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=mDCi1lXd9hc)
 - [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
-- [Mastering React Memo](https://www.youtube.com/watch?v=DEPwA3mv_R8)
 <!-- YOUTUBE:END -->
 
 
