@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Deep dive into React Native’s New Architecture](https://teklinks.andrejnsimoes.com/2022/02/deep-dive-into-react-natives-new.html)
 - [The React Beginner&#39;s Guide for 2022](https://teklinks.andrejnsimoes.com/2022/02/the-react-beginners-guide-for-2022.html)
 - [3 Ways to Build Goodwill With Your Software Client](https://teklinks.andrejnsimoes.com/2022/02/3-ways-to-build-goodwill-with-your.html)
 - [Remix vs. Next.js: A Detailed Comparison](https://teklinks.andrejnsimoes.com/2022/02/remix-vs-nextjs-detailed-comparison.html)
 - [The Best Audio Player Library for React Native Apps](https://teklinks.andrejnsimoes.com/2022/02/the-best-audio-player-library-for-react.html)
-- [Should I Stay or Should I Go? A Compass for Difficult Decisions](https://teklinks.andrejnsimoes.com/2022/02/should-i-stay-or-should-i-go-compass.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
