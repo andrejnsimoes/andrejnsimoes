@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [NestJs Course for Beginners - Create a REST API](https://www.youtube.com/watch?v=GHTA143_b-s)
 - [The Story of Asynchronous JavaScript](https://www.youtube.com/watch?v=rivBfgaEyWQ)
 - [The Programming Language Guide](https://www.youtube.com/watch?v=2lVDktWK-pc)
 - [Hash Table Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=jalSiaIi8j4)
 - [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
-- [33 Concepts JavaScript Developers &quot;SHOULD Know&quot; &lpar;I don&#39;t know all of them...&rpar;](https://www.youtube.com/watch?v=2alCBdPcadM)
 <!-- YOUTUBE:END -->
 
 
