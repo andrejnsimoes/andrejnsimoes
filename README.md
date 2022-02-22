@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The Story of Asynchronous JavaScript](https://www.youtube.com/watch?v=rivBfgaEyWQ)
+- [The Programming Language Guide | NOT a Top 10 List](https://www.youtube.com/watch?v=2lVDktWK-pc)
+- [Hash Table Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=jalSiaIi8j4)
 - [7 ways to deal with CSS](https://www.youtube.com/watch?v=ouncVBiye_M)
 - [33 Concepts JavaScript Developers &quot;SHOULD Know&quot; &lpar;I don&#39;t know all of them...&rpar;](https://www.youtube.com/watch?v=2alCBdPcadM)
-- [Mastering React Context: Do you NEED a state manager?](https://www.youtube.com/watch?v=MpdFj8MEuJA)
-- [Queue Data Structure | Illustrated Data Structures](https://www.youtube.com/watch?v=mDCi1lXd9hc)
-- [Inside the Hidden Git Folder - Computerphile](https://www.youtube.com/watch?v=bSA91XTzeuA)
 <!-- YOUTUBE:END -->
 
 
