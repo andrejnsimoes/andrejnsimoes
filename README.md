@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [macOS Tools and Apps for Development in 2022](https://teklinks.andrejnsimoes.com/2022/02/macos-tools-and-apps-for-development-in.html)
+- [Deploy React App on GitHub Pages Automatically](https://teklinks.andrejnsimoes.com/2022/02/deploy-react-app-on-github-pages.html)
+- [Work estimates must account for friction](https://teklinks.andrejnsimoes.com/2022/02/work-estimates-must-account-for-friction.html)
+- [JavaScript to Know for React](https://teklinks.andrejnsimoes.com/2022/02/javascript-to-know-for-react.html)
 - [Bring it, Beginners! How to Embrace Being New at Anything](https://teklinks.andrejnsimoes.com/2022/02/bring-it-beginners-how-to-embrace-being.html)
-- [Choosing the right component library for your design system: MUI vs Chakra](https://teklinks.andrejnsimoes.com/2022/02/choosing-right-component-library-for.html)
-- [Google turns old Macs, PCs into Chromebooks with Chrome OS Flex](https://teklinks.andrejnsimoes.com/2022/02/google-turns-old-macs-pcs-into.html)
-- [Inside look at modern web browser &lpar;part 1&rpar;](https://teklinks.andrejnsimoes.com/2022/02/inside-look-at-modern-web-browser-part-1.html)
-- [Deep dive into React Native’s New Architecture](https://teklinks.andrejnsimoes.com/2022/02/deep-dive-into-react-natives-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
