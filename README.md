@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Benchmark And Improve Web Vitals With Real User Metrics](https://teklinks.andrejnsimoes.com/2022/02/how-to-benchmark-and-improve-web-vitals.html)
+- [Use Github’s Saved Replies to Supercharge Your Code Reviews](https://teklinks.andrejnsimoes.com/2022/02/use-githubs-saved-replies-to.html)
+- [How to Run Chrome OS Flex on Your PC or Mac](https://teklinks.andrejnsimoes.com/2022/02/how-to-run-chrome-os-flex-on-your-pc-or.html)
 - [macOS Tools and Apps for Development in 2022](https://teklinks.andrejnsimoes.com/2022/02/macos-tools-and-apps-for-development-in.html)
 - [Deploy React App on GitHub Pages Automatically](https://teklinks.andrejnsimoes.com/2022/02/deploy-react-app-on-github-pages.html)
-- [Work estimates must account for friction](https://teklinks.andrejnsimoes.com/2022/02/work-estimates-must-account-for-friction.html)
-- [JavaScript to Know for React](https://teklinks.andrejnsimoes.com/2022/02/javascript-to-know-for-react.html)
-- [Bring it, Beginners! How to Embrace Being New at Anything](https://teklinks.andrejnsimoes.com/2022/02/bring-it-beginners-how-to-embrace-being.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
