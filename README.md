@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [tRPC: Smart and Easy APIs](https://www.youtube.com/watch?v=Lam0cYOEst8)
 - [REFATOREI UM CÓDIGO REACT USANDO CLEAN CODE](https://www.youtube.com/watch?v=qcIhUoBZaHg)
 - [Vite in 100 Seconds](https://www.youtube.com/watch?v=KCrXgy8qtjM)
 - [NestJs Course for Beginners - Create a REST API](https://www.youtube.com/watch?v=GHTA143_b-s)
 - [The Story of Asynchronous JavaScript](https://www.youtube.com/watch?v=rivBfgaEyWQ)
-- [The Programming Language Guide](https://www.youtube.com/watch?v=2lVDktWK-pc)
 <!-- YOUTUBE:END -->
 
 
