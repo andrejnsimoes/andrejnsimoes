@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Power Editing: Keep Your Hands on the Keyboard](https://teklinks.andrejnsimoes.com/2022/03/power-editing-keep-your-hands-on.html)
+- [Screaming Architecture - Evolution of a React folder structure](https://teklinks.andrejnsimoes.com/2022/03/screaming-architecture-evolution-of.html)
+- [You Can Master Async/Await with 7 Diagrams](https://teklinks.andrejnsimoes.com/2022/03/you-can-master-asyncawait-with-7.html)
 - [Testing Pipeline 101 For Frontend Testing](https://teklinks.andrejnsimoes.com/2022/03/testing-pipeline-101-for-frontend.html)
 - [10 Books Every Engineering Leader Should Read](https://teklinks.andrejnsimoes.com/2022/03/10-books-every-engineering-leader.html)
-- [Building ⚛️ React Micro Frontends Monorepo with NX in 5 min](https://teklinks.andrejnsimoes.com/2022/03/building-react-micro-frontends-monorepo.html)
-- [How To Benchmark And Improve Web Vitals With Real User Metrics](https://teklinks.andrejnsimoes.com/2022/02/how-to-benchmark-and-improve-web-vitals.html)
-- [Use Github’s Saved Replies to Supercharge Your Code Reviews](https://teklinks.andrejnsimoes.com/2022/02/use-githubs-saved-replies-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
