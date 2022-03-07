@@ -41,8 +41,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-stack app tutorial with NestJS and React](https://teklinks.andrejnsimoes.com/2022/03/full-stack-app-tutorial-with-nestjs-and.html)
 - [How to Organize Your TypeScript Project with Workspaces](https://teklinks.andrejnsimoes.com/2022/03/how-to-organize-your-typescript-project.html)
+- [Full-stack app tutorial with NestJS and React](https://teklinks.andrejnsimoes.com/2022/03/full-stack-app-tutorial-with-nestjs-and.html)
 - [Modern Web Development with TypeScript, Babel and WebPack](https://teklinks.andrejnsimoes.com/2022/03/modern-web-development-with-typescript.html)
 - [How to Clean a Laptop Screen](https://teklinks.andrejnsimoes.com/2022/03/how-to-clean-laptop-screen.html)
 - [Learn 5 Options for Technologist and Developer Careers](https://teklinks.andrejnsimoes.com/2022/03/learn-5-options-for-technologist-and.html)
