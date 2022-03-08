@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [NextJS 12.1 SSR &amp; SSG: Everything you need to know](https://www.youtube.com/watch?v=kdXKz1UWc3E)
 - [This video was made with code. But how?](https://www.youtube.com/watch?v=deg8bOoziaE)
 - [10 React Antipatterns to Avoid - Code This, Not That!](https://www.youtube.com/watch?v=b0IZo2Aho9Y)
 - [Tips and Tricks for Debugging JavaScript](https://www.youtube.com/watch?v=_QtUGdaCb1c)
 - [tRPC: Smart and Easy APIs](https://www.youtube.com/watch?v=Lam0cYOEst8)
-- [REFATOREI UM CÓDIGO REACT USANDO CLEAN CODE](https://www.youtube.com/watch?v=qcIhUoBZaHg)
 <!-- YOUTUBE:END -->
 
 
