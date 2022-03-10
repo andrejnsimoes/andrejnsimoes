@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [A melhor stack para MVPs: React + Next + Prisma | Decode #017](https://www.youtube.com/watch?v=AuR2tHgy1Y4)
 - [What Is Vitest? - What is Web Development?](https://www.youtube.com/watch?v=5ddeTxyfgcE)
 - [React Query in 100 Seconds](https://www.youtube.com/watch?v=novnyCaa7To)
 - [Tame TODOs in VSCode - VSCode Pro Tips](https://www.youtube.com/watch?v=V4e8YqnA4zM)
 - [NextJS 12.1 SSR &amp; SSG: Everything you need to know](https://www.youtube.com/watch?v=kdXKz1UWc3E)
-- [This video was made with code. But how?](https://www.youtube.com/watch?v=deg8bOoziaE)
 <!-- YOUTUBE:END -->
 
 
