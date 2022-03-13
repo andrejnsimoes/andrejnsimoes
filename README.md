@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Fetch API is finally coming to Node.js](https://teklinks.andrejnsimoes.com/2022/03/the-fetch-api-is-finally-coming-to.html)
+- [How to receive feedback](https://teklinks.andrejnsimoes.com/2022/03/how-to-receive-feedback.html)
+- [Changing Team Habits is Hard: Get Them Right the First Time](https://teklinks.andrejnsimoes.com/2022/03/changing-team-habits-is-hard-get-them.html)
 - [How to Upgrade to the React 18 Release Candidate](https://teklinks.andrejnsimoes.com/2022/03/how-to-upgrade-to-react-18-release.html)
 - [Communicating the Importance of Engineering Work in Business Terms](https://teklinks.andrejnsimoes.com/2022/03/talking-like-suit-communicating.html)
-- [Design Patterns and Principles That Support Large Scale Systems](https://teklinks.andrejnsimoes.com/2022/03/design-patterns-and-principles-that.html)
-- [How to Organize Your TypeScript Project with Workspaces](https://teklinks.andrejnsimoes.com/2022/03/how-to-organize-your-typescript-project.html)
-- [Full-stack app tutorial with NestJS and React](https://teklinks.andrejnsimoes.com/2022/03/full-stack-app-tutorial-with-nestjs-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
