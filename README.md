@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Fractal Architecture](https://teklinks.andrejnsimoes.com/2022/03/fractal-architecture.html)
+- [3 Big Benefits for Your Team](https://teklinks.andrejnsimoes.com/2022/03/3-big-benefits-for-your-team.html)
+- [The 10 commandments of navigating code reviews](https://teklinks.andrejnsimoes.com/2022/03/the-10-commandments-of-navigating-code.html)
 - [Improving The CI/CD Flow For Your Application](https://teklinks.andrejnsimoes.com/2022/03/improving-cicd-flow-for-your-application.html)
 - [Scrum Master Success: How Do You Identify a Successful Scrum Master?](https://teklinks.andrejnsimoes.com/2022/03/scrum-master-success-how-do-you.html)
-- [The Fetch API is finally coming to Node.js](https://teklinks.andrejnsimoes.com/2022/03/the-fetch-api-is-finally-coming-to.html)
-- [How to receive feedback](https://teklinks.andrejnsimoes.com/2022/03/how-to-receive-feedback.html)
-- [Changing Team Habits is Hard: Get Them Right the First Time](https://teklinks.andrejnsimoes.com/2022/03/changing-team-habits-is-hard-get-them.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
