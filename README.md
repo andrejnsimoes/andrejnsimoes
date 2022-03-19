@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Learn Temporal API In 17 Minutes](https://www.youtube.com/watch?v=oOK3UzLJ_Cs)
 - [Time… a programmer&#39;s worst enemy // The Code Report](https://www.youtube.com/watch?v=iMVgvkVJuDI)
 - [What Is the Temporal API - What Is Web Development?](https://www.youtube.com/watch?v=VdxWO3BHkCs)
 - [10 Design Patterns Explained in 10 Minutes](https://www.youtube.com/watch?v=tv-_1er1mWI)
 - [How To Get Started With VSCode](https://www.youtube.com/watch?v=DKxS3IkduWQ)
-- [A melhor stack para MVPs: React + Next + Prisma | Decode #017](https://www.youtube.com/watch?v=AuR2tHgy1Y4)
 <!-- YOUTUBE:END -->
 
 
