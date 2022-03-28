@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Tao of Node - Design, Architecture &amp; Best Practices](https://teklinks.andrejnsimoes.com/2022/03/tao-of-node-design-architecture-best.html)
+- [Refactor → Organisation](https://teklinks.andrejnsimoes.com/2022/03/refactor-organisation.html)
+- [What I Learned After Interviewing More Than 100 Software Engineers](https://teklinks.andrejnsimoes.com/2022/03/what-i-learned-after-interviewing-more.html)
 - [New data: What makes developers happy at work](https://teklinks.andrejnsimoes.com/2022/03/new-data-what-makes-developers-happy-at.html)
 - [Something new is brewing](https://teklinks.andrejnsimoes.com/2022/03/something-new-is-brewing.html)
-- [An update on the New Architecture Rollout](https://teklinks.andrejnsimoes.com/2022/03/an-update-on-new-architecture-rollout.html)
-- [The 10 REST Commandments](https://teklinks.andrejnsimoes.com/2022/03/the-10-rest-commandments.html)
-- [How sharding a database can make it faster](https://teklinks.andrejnsimoes.com/2022/03/how-sharding-database-can-make-it-faster.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
