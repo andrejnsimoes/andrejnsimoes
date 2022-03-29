@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [useTransition&lpar;&rpar; vs useDeferredValue | React 18](https://www.youtube.com/watch?v=lDukIAymutM)
+- [React 18 - What&#39;s New, What Changed &amp; Upgrade Guide](https://www.youtube.com/watch?v=N0DhCV_-Qbg)
+- [New in Chrome 100: User Agent string updates, Multi-screen window placement API, and more!](https://www.youtube.com/watch?v=VK7oR5vLluk)
+- [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo)
 - [The Story of Next.js](https://www.youtube.com/watch?v=BILxV_vrZO0)
-- [10 very promising Open Source Projects you haven’t heard of](https://www.youtube.com/watch?v=qXUl3VsbA6o)
-- [5 Software Job Secrets From A Senior Developer](https://www.youtube.com/watch?v=bLyl4VDNPyY)
-- [Learn Temporal API In 17 Minutes](https://www.youtube.com/watch?v=oOK3UzLJ_Cs)
-- [Time… a programmer&#39;s worst enemy // The Code Report](https://www.youtube.com/watch?v=iMVgvkVJuDI)
 <!-- YOUTUBE:END -->
 
 
