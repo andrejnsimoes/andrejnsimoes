@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [cool web moments](https://teklinks.andrejnsimoes.com/2022/04/cool-web-moments.html)
+- [Server-sent events vs. WebSockets](https://teklinks.andrejnsimoes.com/2022/04/server-sent-events-vs-websockets.html)
+- [Emerging Architectures for Modern Data Infrastructure](https://teklinks.andrejnsimoes.com/2022/04/emerging-architectures-for-modern-data.html)
 - [How to Deal with Optional Things and &quot;Undefined&quot; in TypeScript](https://teklinks.andrejnsimoes.com/2022/03/how-to-deal-with-optional-things-and.html)
 - [Memory Anxiety? Your Brain is a Cache, Not a Database](https://teklinks.andrejnsimoes.com/2022/03/memory-anxiety-your-brain-is-cache-not.html)
-- [Remixing React Router](https://teklinks.andrejnsimoes.com/2022/03/remixing-react-router.html)
-- [Quitting Your Software Consulting Job? Tips for Leaving](https://teklinks.andrejnsimoes.com/2022/03/quitting-your-software-consulting-job.html)
-- [Understanding Layout Algorithms](https://teklinks.andrejnsimoes.com/2022/03/understanding-layout-algorithms.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
