@@ -41,7 +41,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [React Libraries in 2020](https://teklinks.andrejnsimoes.com/2022/04/react-libraries-in-2020.html)
+- [React Libraries in 2022](https://teklinks.andrejnsimoes.com/2022/04/react-libraries-in-2020.html)
 - [How to Survive the Software Product Roadmap Writing Experience](https://teklinks.andrejnsimoes.com/2022/04/how-to-survive-software-product-roadmap.html)
 - [Solid.js feels like what I always wanted React to be](https://teklinks.andrejnsimoes.com/2022/04/solidjs-feels-like-what-i-always-wanted.html)
 - [Sustainable architectures in a world of Agile, DevOps, and cloud](https://teklinks.andrejnsimoes.com/2022/04/sustainable-architectures-in-world-of.html)
