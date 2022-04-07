@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What you should have paid attention to in the Spotify Engineering Culture videos that…](https://teklinks.andrejnsimoes.com/2022/04/the-top-3-points-you-should-have-paid.html)
+- [The Best Developer Conferences of 2022](https://teklinks.andrejnsimoes.com/2022/04/the-best-developer-conferences-of-2022.html)
+- [From the Great Resignation to Lying Flat, Workers Are Opting Out](https://teklinks.andrejnsimoes.com/2022/04/from-great-resignation-to-lying-flat.html)
 - [React Libraries in 2022](https://teklinks.andrejnsimoes.com/2022/04/react-libraries-in-2020.html)
 - [How to Survive the Software Product Roadmap Writing Experience](https://teklinks.andrejnsimoes.com/2022/04/how-to-survive-software-product-roadmap.html)
-- [Solid.js feels like what I always wanted React to be](https://teklinks.andrejnsimoes.com/2022/04/solidjs-feels-like-what-i-always-wanted.html)
-- [Sustainable architectures in a world of Agile, DevOps, and cloud](https://teklinks.andrejnsimoes.com/2022/04/sustainable-architectures-in-world-of.html)
-- [Getting to Know the Broadcast Channel API in JavaScript](https://teklinks.andrejnsimoes.com/2022/04/getting-to-know-broadcast-channel-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
