@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [ECMAScript proposal “Change Array by copy”: four new non-destructive Array methods](https://teklinks.andrejnsimoes.com/2022/04/ecmascript-proposal-change-array-by.html)
+- [Nexus Repository Manager](https://teklinks.andrejnsimoes.com/2022/04/nexus-repository-manager.html)
+- [How to design a system to scale to your first 100 million users](https://teklinks.andrejnsimoes.com/2022/04/how-to-design-system-to-scale-to-your.html)
 - [The Way Software Firms Conduct Technical Interviews is Broken](https://teklinks.andrejnsimoes.com/2022/04/the-way-software-firms-conduct.html)
 - [Remix: The Yang to React&#39;s Yin](https://teklinks.andrejnsimoes.com/2022/04/remix-yang-to-reacts-yin.html)
-- [Javascript Temporal and How it Works](https://teklinks.andrejnsimoes.com/2022/04/javascript-temporal-and-how-it-works.html)
-- [What you should have paid attention to in the Spotify Engineering Culture videos that…](https://teklinks.andrejnsimoes.com/2022/04/the-top-3-points-you-should-have-paid.html)
-- [The Best Developer Conferences of 2022](https://teklinks.andrejnsimoes.com/2022/04/the-best-developer-conferences-of-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
