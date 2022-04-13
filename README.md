@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Scoop: Inside the Longest Atlassian Outage of All Time](https://teklinks.andrejnsimoes.com/2022/04/the-scoop-inside-longest-atlassian.html)
+- [How to make the most out of a mentoring relationship](https://teklinks.andrejnsimoes.com/2022/04/how-to-make-most-out-of-mentoring.html)
+- [Automated Accessibility Testing](https://teklinks.andrejnsimoes.com/2022/04/automated-accessibility-testing.html)
 - [How to Create and Export Web Components From a React Application](https://teklinks.andrejnsimoes.com/2022/04/how-to-create-and-export-web-components.html)
 - [Cloud Pricing Comparison: AWS vs Azure vs Google Cloud](https://teklinks.andrejnsimoes.com/2022/04/cloud-pricing-comparison-aws-vs-azure.html)
-- [27 Product Backlog Anti-Patterns](https://teklinks.andrejnsimoes.com/2022/04/27-product-backlog-anti-patterns.html)
-- [ECMAScript proposal “Change Array by copy”: four new non-destructive Array methods](https://teklinks.andrejnsimoes.com/2022/04/ecmascript-proposal-change-array-by.html)
-- [Nexus Repository Manager](https://teklinks.andrejnsimoes.com/2022/04/nexus-repository-manager.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
