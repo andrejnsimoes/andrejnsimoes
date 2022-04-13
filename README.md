@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The Parallax Effect // 5 Minute WebDev Project](https://www.youtube.com/watch?v=UgIwjLg4ONk)
 - [NextJS + GraphQL Blueprint: Professional Grade Setup](https://www.youtube.com/watch?v=XzE-PzALyDc)
 - [useTransition&lpar;&rpar; vs useDeferredValue | React 18](https://www.youtube.com/watch?v=lDukIAymutM)
 - [React 18 - What&#39;s New, What Changed &amp; Upgrade Guide](https://www.youtube.com/watch?v=N0DhCV_-Qbg)
 - [New in Chrome 100: User Agent string updates, Multi-screen window placement API, and more!](https://www.youtube.com/watch?v=VK7oR5vLluk)
-- [Cypress in 100 Seconds](https://www.youtube.com/watch?v=BQqzfHQkREo)
 <!-- YOUTUBE:END -->
 
 
