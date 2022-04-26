@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Challenge of Continuous Delivery in Distributed Environments](https://teklinks.andrejnsimoes.com/2022/04/the-challenge-of-continuous-delivery-in.html)
+- [Build indoor maps with Fabric.js and React](https://teklinks.andrejnsimoes.com/2022/04/build-indoor-maps-with-fabricjs-and.html)
+- [A Dive into React Storybook](https://teklinks.andrejnsimoes.com/2022/04/a-dive-into-react-storybook.html)
 - [Why Asynchronous Standups Just Can’t Beat Synchronous Standups](https://teklinks.andrejnsimoes.com/2022/04/why-asynchronous-standups-just-cant.html)
 - [Why and How to Use HTTPS in Your Local Development Environment](https://teklinks.andrejnsimoes.com/2022/04/why-and-how-to-use-https-in-your-local.html)
-- [Using the FileReader API to preview images in React](https://teklinks.andrejnsimoes.com/2022/04/using-filereader-api-to-preview-images.html)
-- [The Scoop: Inside the Longest Atlassian Outage of All Time](https://teklinks.andrejnsimoes.com/2022/04/the-scoop-inside-longest-atlassian.html)
-- [How to make the most out of a mentoring relationship](https://teklinks.andrejnsimoes.com/2022/04/how-to-make-most-out-of-mentoring.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
