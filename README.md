@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Types of JavaScript tests. Basics of unit testing with Jest](https://teklinks.andrejnsimoes.com/2022/04/types-of-javascript-tests-basics-of.html)
+- [Microservices Observability Design Patterns](https://teklinks.andrejnsimoes.com/2022/04/microservices-observability-design.html)
+- [20 Sprint Planning Anti-Patterns](https://teklinks.andrejnsimoes.com/2022/04/20-sprint-planning-anti-patterns.html)
 - [The Challenge of Continuous Delivery in Distributed Environments](https://teklinks.andrejnsimoes.com/2022/04/the-challenge-of-continuous-delivery-in.html)
 - [Build indoor maps with Fabric.js and React](https://teklinks.andrejnsimoes.com/2022/04/build-indoor-maps-with-fabricjs-and.html)
-- [A Dive into React Storybook](https://teklinks.andrejnsimoes.com/2022/04/a-dive-into-react-storybook.html)
-- [Why Asynchronous Standups Just Can’t Beat Synchronous Standups](https://teklinks.andrejnsimoes.com/2022/04/why-asynchronous-standups-just-cant.html)
-- [Why and How to Use HTTPS in Your Local Development Environment](https://teklinks.andrejnsimoes.com/2022/04/why-and-how-to-use-https-in-your-local.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
