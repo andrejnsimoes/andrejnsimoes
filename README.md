@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving from Next to Remix](https://teklinks.andrejnsimoes.com/2022/04/moving-from-next-to-remix.html)
 - [Types of JavaScript tests. Basics of unit testing with Jest](https://teklinks.andrejnsimoes.com/2022/04/types-of-javascript-tests-basics-of.html)
 - [Microservices Observability Design Patterns](https://teklinks.andrejnsimoes.com/2022/04/microservices-observability-design.html)
 - [20 Sprint Planning Anti-Patterns](https://teklinks.andrejnsimoes.com/2022/04/20-sprint-planning-anti-patterns.html)
 - [The Challenge of Continuous Delivery in Distributed Environments](https://teklinks.andrejnsimoes.com/2022/04/the-challenge-of-continuous-delivery-in.html)
-- [Build indoor maps with Fabric.js and React](https://teklinks.andrejnsimoes.com/2022/04/build-indoor-maps-with-fabricjs-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
