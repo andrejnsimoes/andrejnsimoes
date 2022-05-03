@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Books Every Senior Engineer Should Read](https://teklinks.andrejnsimoes.com/2022/05/10-books-every-senior-engineer-should.html)
+- [React Forms - Formik vs. Hook-Form vs. Final-Form](https://teklinks.andrejnsimoes.com/2022/05/react-forms-formik-vs-hook-form-vs.html)
+- [API Test Automation with RestAssured Library and Cucumber BDD Framework](https://teklinks.andrejnsimoes.com/2022/05/api-test-automation-with-restassured.html)
 - [Build a full-stack TypeScript app using tRPC and React](https://teklinks.andrejnsimoes.com/2022/05/build-full-stack-typescript-app-using.html)
 - [Engineering Metrics Benchmarks: What Makes Elite Teams?](https://teklinks.andrejnsimoes.com/2022/05/engineering-metrics-benchmarks-what.html)
-- [React Batching](https://teklinks.andrejnsimoes.com/2022/05/react-batching.html)
-- [Modules in JavaScript – CommonJS and ESmodules Explained](https://teklinks.andrejnsimoes.com/2022/04/modules-in-javascript-commonjs-and.html)
-- [Scrum Master Anti-Patterns — 20 Signs Your Scrum Master Needs Help](https://teklinks.andrejnsimoes.com/2022/04/scrum-master-anti-patterns-20-signs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
