@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing Feature Flags in a Next.js Application](https://teklinks.andrejnsimoes.com/2022/05/implementing-feature-flags-in-nextjs.html)
+- [What is Yarn PNP &lpar;Plug&#39;n&#39;Play&rpar; and Should You Use It?](https://teklinks.andrejnsimoes.com/2022/05/what-is-yarn-pnp-plugnplay-and-should.html)
 - [10 Books Every Senior Engineer Should Read](https://teklinks.andrejnsimoes.com/2022/05/10-books-every-senior-engineer-should.html)
 - [React Forms - Formik vs. Hook-Form vs. Final-Form](https://teklinks.andrejnsimoes.com/2022/05/react-forms-formik-vs-hook-form-vs.html)
 - [API Test Automation with RestAssured Library and Cucumber BDD Framework](https://teklinks.andrejnsimoes.com/2022/05/api-test-automation-with-restassured.html)
-- [Build a full-stack TypeScript app using tRPC and React](https://teklinks.andrejnsimoes.com/2022/05/build-full-stack-typescript-app-using.html)
-- [Engineering Metrics Benchmarks: What Makes Elite Teams?](https://teklinks.andrejnsimoes.com/2022/05/engineering-metrics-benchmarks-what.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
