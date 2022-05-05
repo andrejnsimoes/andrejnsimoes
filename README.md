@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Web RTC Full Course &amp; More](https://www.youtube.com/watch?v=QsH8FL0952k)
+- [How WiFi Works - Computerphile](https://www.youtube.com/watch?v=vvKbMueRzrI)
 - [The Story of Concurrent React](https://www.youtube.com/watch?v=NZoRlVi3MjQ)
 - [The Nuxt big thing in web development?](https://www.youtube.com/watch?v=noq-ZHTD2Cg)
 - [Hacking Redux Devtools for Vanilla JS, React Hooks and Zustand!](https://www.youtube.com/watch?v=nImE4P8Wc_M)
-- [The Parallax Effect // 5 Minute WebDev Project](https://www.youtube.com/watch?v=UgIwjLg4ONk)
 <!-- YOUTUBE:END -->
 
 
