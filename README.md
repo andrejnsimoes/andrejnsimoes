@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a JavaScript Bundler](https://teklinks.andrejnsimoes.com/2022/05/building-javascript-bundler.html)
 - [Managing engineering teams outside your technical expertise](https://teklinks.andrejnsimoes.com/2022/05/managing-engineering-teams-outside-your.html)
 - [103 Bits of Advice I Wish I Had Known](https://teklinks.andrejnsimoes.com/2022/05/103-bits-of-advice-i-wish-i-had-known.html)
 - [How to build remote teams properly](https://teklinks.andrejnsimoes.com/2022/05/how-to-build-remote-teams-properly.html)
 - [Implementing Feature Flags in a Next.js Application](https://teklinks.andrejnsimoes.com/2022/05/implementing-feature-flags-in-nextjs.html)
-- [What is Yarn PNP &lpar;Plug&#39;n&#39;Play&rpar; and Should You Use It?](https://teklinks.andrejnsimoes.com/2022/05/what-is-yarn-pnp-plugnplay-and-should.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
