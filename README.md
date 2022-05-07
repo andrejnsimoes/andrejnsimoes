@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Adding Too Many Features Will Break Your Product, Users and Team](https://teklinks.andrejnsimoes.com/2022/05/adding-too-many-features-will-break.html)
+- [Creating and deploying a tiny proxy server on Vercel in 10 minutes](https://teklinks.andrejnsimoes.com/2022/05/creating-and-deploying-tiny-proxy.html)
 - [Building a JavaScript Bundler](https://teklinks.andrejnsimoes.com/2022/05/building-javascript-bundler.html)
 - [Managing engineering teams outside your technical expertise](https://teklinks.andrejnsimoes.com/2022/05/managing-engineering-teams-outside-your.html)
 - [103 Bits of Advice I Wish I Had Known](https://teklinks.andrejnsimoes.com/2022/05/103-bits-of-advice-i-wish-i-had-known.html)
-- [How to build remote teams properly](https://teklinks.andrejnsimoes.com/2022/05/how-to-build-remote-teams-properly.html)
-- [Implementing Feature Flags in a Next.js Application](https://teklinks.andrejnsimoes.com/2022/05/implementing-feature-flags-in-nextjs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
