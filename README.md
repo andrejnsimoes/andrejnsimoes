@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Give Effective Feedback Remotely](https://teklinks.andrejnsimoes.com/2022/05/how-to-give-effective-feedback-remotely.html)
+- [Migrating 125.000 users from Auth0 to Supabase](https://teklinks.andrejnsimoes.com/2022/05/migrating-125000-users-from-auth0-to.html)
+- [Agile Testing Quadrants](https://teklinks.andrejnsimoes.com/2022/05/agile-testing-quadrants.html)
 - [Need an Icebreaker? 50 Segue Questions for Software Teams](https://teklinks.andrejnsimoes.com/2022/05/need-icebreaker-50-segue-questions-for.html)
 - [Why Is Cypress the Best Automation Testing Tool?](https://teklinks.andrejnsimoes.com/2022/05/why-is-cypress-best-automation-testing.html)
-- [Empathy for the Dev: Avoiding common pitfalls when communicating with developers](https://teklinks.andrejnsimoes.com/2022/05/empathy-for-devavoiding-common-pitfalls.html)
-- [Adding Too Many Features Will Break Your Product, Users and Team](https://teklinks.andrejnsimoes.com/2022/05/adding-too-many-features-will-break.html)
-- [Creating and deploying a tiny proxy server on Vercel in 10 minutes](https://teklinks.andrejnsimoes.com/2022/05/creating-and-deploying-tiny-proxy.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
