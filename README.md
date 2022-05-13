@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Bringing page transitions to the web](https://www.youtube.com/watch?v=JCJUPJ_zDQ4)
 - [Measure performance with web-vitals.js, Google Analytics, and BigQuery](https://www.youtube.com/watch?v=V0lL1753VHo)
 - [Junior Developers: Get Your Priorities Straight!](https://www.youtube.com/watch?v=wYTL1uqLXho)
 - [Is the tech bubble bursting right now?](https://www.youtube.com/watch?v=g-_hVXzkn0o)
 - [The Story of Web Components](https://www.youtube.com/watch?v=fKqgdT-KLrM)
-- [Serverless in the Park | Reactathon 2022 Day 3 Livestream](https://www.youtube.com/watch?v=0qK2_wi4t3k)
 <!-- YOUTUBE:END -->
 
 
