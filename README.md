@@ -54,8 +54,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Bringing page transitions to the web](https://www.youtube.com/watch?v=JCJUPJ_zDQ4)
 - [Measure performance with web-vitals.js, Google Analytics, and BigQuery](https://www.youtube.com/watch?v=V0lL1753VHo)
 - [Junior Developers: Get Your Priorities Straight!](https://www.youtube.com/watch?v=wYTL1uqLXho)
+- [Triplicando a capacidade de resposta do Node.js + 99.9% de uptime com somente 10 linhas de código](https://www.youtube.com/watch?v=50-9uorSYw0)
 - [Is the tech bubble bursting right now?](https://www.youtube.com/watch?v=g-_hVXzkn0o)
-- [The Story of Web Components](https://www.youtube.com/watch?v=fKqgdT-KLrM)
 <!-- YOUTUBE:END -->
 
 
