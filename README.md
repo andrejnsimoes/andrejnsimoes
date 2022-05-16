@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [React 18: useEffect Double Call; Mistake or Awesome?](https://www.youtube.com/watch?v=j8s01ThR7bQ)
+- [Solid in 100 Seconds](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
 - [Real-world progress on the web with Core Web Vitals](https://www.youtube.com/watch?v=t5fjIW3tB00)
 - [Bringing page transitions to the web](https://www.youtube.com/watch?v=JCJUPJ_zDQ4)
 - [What 3 months of nonstop game dev looks like](https://www.youtube.com/watch?v=qB5d4tDSf9Y)
-- [Measure performance with web-vitals.js, Google Analytics, and BigQuery](https://www.youtube.com/watch?v=V0lL1753VHo)
 <!-- YOUTUBE:END -->
 
 
