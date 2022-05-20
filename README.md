@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Airbnb’s Microservices Architecture Journey To Quality Engineering](https://teklinks.andrejnsimoes.com/2022/05/airbnbs-microservices-architecture.html)
 - [How to perform Visual Regression Testing using Cypress](https://teklinks.andrejnsimoes.com/2022/05/how-to-perform-visual-regression.html)
 - [Here&#39;s everything Google announced at I/O 2022](https://teklinks.andrejnsimoes.com/2022/05/heres-everything-google-announced-at-io.html)
 - [How Canonical Systematically Improves Developer Documentation](https://teklinks.andrejnsimoes.com/2022/05/how-canonical-systematically-improves.html)
 - [Create Easy GraphQL API Documentation with SpectaQL and GitLab Pages](https://teklinks.andrejnsimoes.com/2022/05/create-easy-graphql-api-documentation.html)
-- [Functional JS #1: Introduction](https://teklinks.andrejnsimoes.com/2022/05/functional-js-1-introduction.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
