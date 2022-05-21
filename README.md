@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Benefits of Choosing Next.js for a Building a Custom Web App](https://teklinks.andrejnsimoes.com/2022/05/4-benefits-of-choosing-nextjs-for.html)
+- [A pick of recent React articles](https://teklinks.andrejnsimoes.com/2022/05/a-pick-of-recent-react-articles.html)
+- [Eloquent Performance: 4 Examples of N+1 Query Problems](https://teklinks.andrejnsimoes.com/2022/05/eloquent-performance-4-examples-of-n1.html)
 - [Rethinking Server-Timing As A Critical Monitoring Tool](https://teklinks.andrejnsimoes.com/2022/05/rethinking-server-timing-as-critical.html)
 - [Agile Practices for Normal Life – Defining &amp; Estimating Stories](https://teklinks.andrejnsimoes.com/2022/05/agile-practices-for-normal-life.html)
-- [Airbnb’s Microservices Architecture Journey To Quality Engineering](https://teklinks.andrejnsimoes.com/2022/05/airbnbs-microservices-architecture.html)
-- [Here&#39;s everything Google announced at I/O 2022](https://teklinks.andrejnsimoes.com/2022/05/heres-everything-google-announced-at-io.html)
-- [How to perform Visual Regression Testing using Cypress](https://teklinks.andrejnsimoes.com/2022/05/how-to-perform-visual-regression.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
