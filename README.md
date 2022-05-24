@@ -54,8 +54,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [TypeScript Tutorial for Beginners [2022]](https://www.youtube.com/watch?v=d56mG7DezGs)
 - [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More](https://www.youtube.com/watch?v=jx5hdo50a2M)
 - [React Native Crash Course | Build a Complete App](https://www.youtube.com/watch?v=VozPNrt-LfE)
-- [Environment Protection in GitHub Actions #shorts](https://www.youtube.com/watch?v=sJZHhlxRFEY)
 - [React 18: useEffect Double Call; Mistake or Awesome?](https://www.youtube.com/watch?v=j8s01ThR7bQ)
+- [Solid in 100 Seconds](https://www.youtube.com/watch?v=hw3Bx5vxKl0)
 <!-- YOUTUBE:END -->
 
 
