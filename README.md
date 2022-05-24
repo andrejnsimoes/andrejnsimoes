@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating Quality Software Takes More Effort and Skill, Not More Time](https://teklinks.andrejnsimoes.com/2022/05/creating-quality-software-takes-more.html)
+- [How to design sales inventory Microservice based on event-driven architecture?](https://teklinks.andrejnsimoes.com/2022/05/how-to-design-sales-inventory.html)
+- [Comprehensive Guide To Jenkins Declarative Pipeline [With Examples]](https://teklinks.andrejnsimoes.com/2022/05/comprehensive-guide-to-jenkins.html)
 - [What is declarative and imperative programming?](https://teklinks.andrejnsimoes.com/2022/05/what-is-declarative-and-imperative.html)
 - [How to dynamically import JavaScript modules](https://teklinks.andrejnsimoes.com/2022/05/how-to-dynamically-import-javascript.html)
-- [Real-Time Supply Chain with Apache Kafka in the Food and Retail Industry](https://teklinks.andrejnsimoes.com/2022/05/real-time-supply-chain-with-apache.html)
-- [4 Benefits of Choosing Next.js for a Building a Custom Web App](https://teklinks.andrejnsimoes.com/2022/05/4-benefits-of-choosing-nextjs-for.html)
-- [A pick of recent React articles](https://teklinks.andrejnsimoes.com/2022/05/a-pick-of-recent-react-articles.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
