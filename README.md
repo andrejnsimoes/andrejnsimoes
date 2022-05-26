@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React state management libraries in 2022](https://teklinks.andrejnsimoes.com/2022/05/react-state-management-libraries-in-2022.html)
+- [Shipping to Production](https://teklinks.andrejnsimoes.com/2022/05/shipping-to-production.html)
+- [Demystifying Container Scanning Requirements for FedRAMP, DoD SRG, and CMMC](https://teklinks.andrejnsimoes.com/2022/05/demystifying-container-scanning.html)
 - [Creating Quality Software Takes More Effort and Skill, Not More Time](https://teklinks.andrejnsimoes.com/2022/05/creating-quality-software-takes-more.html)
 - [How to design sales inventory Microservice based on event-driven architecture?](https://teklinks.andrejnsimoes.com/2022/05/how-to-design-sales-inventory.html)
-- [Comprehensive Guide To Jenkins Declarative Pipeline [With Examples]](https://teklinks.andrejnsimoes.com/2022/05/comprehensive-guide-to-jenkins.html)
-- [What is declarative and imperative programming?](https://teklinks.andrejnsimoes.com/2022/05/what-is-declarative-and-imperative.html)
-- [How to dynamically import JavaScript modules](https://teklinks.andrejnsimoes.com/2022/05/how-to-dynamically-import-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
