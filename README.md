@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Tips for Preparing a Project and Team for Your Parental Leave](https://teklinks.andrejnsimoes.com/2022/06/5-tips-for-preparing-project-and-team.html)
+- [Lerna used to walk, now it can fly!](https://teklinks.andrejnsimoes.com/2022/06/lerna-used-to-walk-now-it-can-fly.html)
+- [How to create a custom template for Create React App](https://teklinks.andrejnsimoes.com/2022/06/how-to-create-custom-template-for.html)
 - [How to Move Quickly without Compromising on Quality](https://teklinks.andrejnsimoes.com/2022/05/fearless-responsible-development-how-to.html)
 - [Stack under attack: what we learned about handling DDoS attacks](https://teklinks.andrejnsimoes.com/2022/05/stack-under-attack-what-we-learned.html)
-- [30 Common CI/CD Interview Questions &lpar;with Answers&rpar;](https://teklinks.andrejnsimoes.com/2022/05/30-common-cicd-interview-questions-with.html)
-- [React state management libraries in 2022](https://teklinks.andrejnsimoes.com/2022/05/react-state-management-libraries-in-2022.html)
-- [Shipping to Production](https://teklinks.andrejnsimoes.com/2022/05/shipping-to-production.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
