@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Unit VS Integration Testing](https://teklinks.andrejnsimoes.com/2022/06/unit-vs-integration-testing.html)
+- [3 Key Differentiators of Delivery Leads on Software Teams](https://teklinks.andrejnsimoes.com/2022/06/3-key-differentiators-of-delivery-leads.html)
+- [Micro Frontends at Dunelm](https://teklinks.andrejnsimoes.com/2022/06/micro-frontends-at-dunelm.html)
 - [Learnings from 5 years of tech startup code audits](https://teklinks.andrejnsimoes.com/2022/06/learnings-from-5-years-of-tech-startup.html)
 - [OpenFeature - a standard for feature flagging](https://teklinks.andrejnsimoes.com/2022/06/openfeature-standard-for-feature.html)
-- [The science of interviewing developers](https://teklinks.andrejnsimoes.com/2022/06/the-science-of-interviewing-developers.html)
-- [5 Tips for Preparing a Project and Team for Your Parental Leave](https://teklinks.andrejnsimoes.com/2022/06/5-tips-for-preparing-project-and-team.html)
-- [Lerna used to walk, now it can fly!](https://teklinks.andrejnsimoes.com/2022/06/lerna-used-to-walk-now-it-can-fly.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
