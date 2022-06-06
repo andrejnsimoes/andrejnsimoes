@@ -52,10 +52,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Fixing Redux and Zustand Selectors](https://www.youtube.com/watch?v=aOt4Hz3ze3Q)
+- [GraphQL Crash Course With Full Stack MERN Project](https://www.youtube.com/watch?v=BcLNfwF04Kw)
 - [MFE Architecture In-Depth: Build-time &amp; Runtime, Routing, Shared State and Much More!](https://www.youtube.com/watch?v=4b9LSUZjtzE)
 - [TypeScript Tutorial for Beginners [2022]](https://www.youtube.com/watch?v=d56mG7DezGs)
 - [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More](https://www.youtube.com/watch?v=jx5hdo50a2M)
-- [React Native Crash Course | Build a Complete App](https://www.youtube.com/watch?v=VozPNrt-LfE)
 <!-- YOUTUBE:END -->
 
 
