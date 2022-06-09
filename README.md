@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Do Code Reviews Like a Human &lpar;Part One&rpar;](https://teklinks.andrejnsimoes.com/2022/06/how-to-do-code-reviews-like-human-part.html)
+- [What Is Negative Engineering?](https://teklinks.andrejnsimoes.com/2022/06/what-is-negative-engineering.html)
+- [Chaos Engineering at Expedia Group](https://teklinks.andrejnsimoes.com/2022/06/chaos-engineering-at-expedia-group.html)
 - [Architecting for the Edge](https://teklinks.andrejnsimoes.com/2022/06/architecting-for-edge.html)
 - [npm security update: Attack campaign using stolen OAuth tokens](https://teklinks.andrejnsimoes.com/2022/06/npm-security-update-attack-campaign.html)
-- [XSS - localStorage vs Cookies](https://teklinks.andrejnsimoes.com/2022/06/xss-localstorage-vs-cookies.html)
-- [Unit VS Integration Testing](https://teklinks.andrejnsimoes.com/2022/06/unit-vs-integration-testing.html)
-- [3 Key Differentiators of Delivery Leads on Software Teams](https://teklinks.andrejnsimoes.com/2022/06/3-key-differentiators-of-delivery-leads.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
