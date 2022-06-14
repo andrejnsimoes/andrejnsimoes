@@ -51,11 +51,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Web5... The Web3 Killer?](https://www.youtube.com/watch?v=HDZWWFSZUF0)
+- [Why Vitest Is Better Than Jest](https://www.youtube.com/watch?v=7f-71kYhK00)
 - [N + 1 Queries: The Easiest Way To Improve Performance](https://www.youtube.com/watch?v=3w2g50NojVQ)
 - [Turborepo with Jared Palmer](https://www.youtube.com/watch?v=m5YjNQpbWyY)
 - [Fixing Redux/Zustand Re-Renders](https://www.youtube.com/watch?v=aOt4Hz3ze3Q)
-- [GraphQL Crash Course With Full Stack MERN Project](https://www.youtube.com/watch?v=BcLNfwF04Kw)
-- [Augmented Reality: TypeScript and WASM hacking](https://www.youtube.com/watch?v=8hZ40rm_wI0)
 <!-- YOUTUBE:END -->
 
 
