@@ -41,11 +41,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Faster JavaScript Builds with Metro](https://teklinks.andrejnsimoes.com/2022/06/faster-javascript-builds-with-metro.html)
+- [Reading Source Code: React-Query](https://teklinks.andrejnsimoes.com/2022/06/reading-source-code-react-query.html)
+- [The End of Localhost](https://teklinks.andrejnsimoes.com/2022/06/the-end-of-localhost.html)
 - [Let&#39;s Dynamic Remote modules with Webpack Module Federation](https://teklinks.andrejnsimoes.com/2022/06/lets-dynamic-remote-modules-with.html)
 - [Maximizing Developer Effectiveness](https://teklinks.andrejnsimoes.com/2022/06/maximizing-developer-effectiveness.html)
-- [Ethical AI isn’t just how you build it, its how you use it](https://teklinks.andrejnsimoes.com/2022/06/ethical-ai-isnt-just-how-you-build-it.html)
-- [How to Do Code Reviews Like a Human &lpar;Part One&rpar;](https://teklinks.andrejnsimoes.com/2022/06/how-to-do-code-reviews-like-human-part.html)
-- [What Is Negative Engineering?](https://teklinks.andrejnsimoes.com/2022/06/what-is-negative-engineering.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
