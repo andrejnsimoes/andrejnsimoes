@@ -1,4 +1,4 @@
-### Hi there, I'm André  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm André  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 I'm a passionate Frontend Engineer that likes to work with cutting edge technologies and to provide smart solutions for challenging problems.
 
