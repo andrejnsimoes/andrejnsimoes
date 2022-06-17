@@ -1,8 +1,7 @@
-### Hi there, I'm André  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
-
+### Hi there, I'm André 👋
 I'm a passionate Frontend Engineer that likes to work with cutting edge technologies and to provide smart solutions for challenging problems.
 
-I have several years of experience in architecting and developing thoroughly tested web apps, building teams from the ground up. Currently working with React, but I'm also skilled with Angular and Vue. 
+I have several years of experience architecting and developing thoroughly tested web apps and building teams from the ground up. Currently working with React, but I'm also skilled with Angular and Vue. 
 
 I like to work closely to UI/UX and marketing teams, backend developers and system architects, there is always something new and interesting to learn. 
 
