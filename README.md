@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future Of Frontend Build Tools](https://teklinks.andrejnsimoes.com/2022/06/the-future-of-frontend-build-tools.html)
+- [Agile: The Forgotten Parts](https://teklinks.andrejnsimoes.com/2022/06/agile-forgotten-parts.html)
+- [Event Collaboration And Event Sourcing](https://teklinks.andrejnsimoes.com/2022/06/event-collaboration-and-event-sourcing.html)
 - [Remix Conf 2022: The Overview](https://teklinks.andrejnsimoes.com/2022/06/remix-conf-2022-overview.html)
 - [When to Use TypesScript: Pros and Cons for JavaScript Devs](https://teklinks.andrejnsimoes.com/2022/06/when-to-use-typesscript-pros-and-cons.html)
-- [My Comprehensive macOS Development Setup](https://teklinks.andrejnsimoes.com/2022/06/my-comprehensive-macos-development-setup.html)
-- [Should You Leave Your Laptop Plugged in All the Time?](https://teklinks.andrejnsimoes.com/2022/06/should-you-leave-your-laptop-plugged-in.html)
-- [Faster JavaScript Builds with Metro](https://teklinks.andrejnsimoes.com/2022/06/faster-javascript-builds-with-metro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
