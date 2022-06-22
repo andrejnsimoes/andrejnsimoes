@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [React UI Library Structure, Storybook and Tests](https://www.youtube.com/watch?v=NgkYH97Z3nk)
+- [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
 - [Chrome 103 - What’s New in DevTools](https://www.youtube.com/watch?v=LyMts4yfQu8)
 - [100+ Web Development Things you Should Know](https://www.youtube.com/watch?v=erEgovG9WBs)
 - [Web5... The Web3 Killer?](https://www.youtube.com/watch?v=HDZWWFSZUF0)
-- [Why Vitest Is Better Than Jest](https://www.youtube.com/watch?v=7f-71kYhK00)
 <!-- YOUTUBE:END -->
 
 
