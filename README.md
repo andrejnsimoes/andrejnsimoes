@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [My Bleeding Edge Tech Stack for 2025](https://www.youtube.com/watch?v=rFP7rUYtOOg)
 - [React UI Library Structure, Storybook and Tests](https://www.youtube.com/watch?v=NgkYH97Z3nk)
 - [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
 - [Chrome 103 - What’s New in DevTools](https://www.youtube.com/watch?v=LyMts4yfQu8)
 - [100+ Web Development Things you Should Know](https://www.youtube.com/watch?v=erEgovG9WBs)
-- [Web5... The Web3 Killer?](https://www.youtube.com/watch?v=HDZWWFSZUF0)
 <!-- YOUTUBE:END -->
 
 
