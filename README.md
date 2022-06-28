@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Do You Overcome Imposter Syndrome?](https://teklinks.andrejnsimoes.com/2022/06/how-do-you-overcome-imposter-syndrome.html)
+- [How can I favor quick &lpar;and dirty&rpar; over clean &lpar;and slow&rpar; in practice?](https://teklinks.andrejnsimoes.com/2022/06/how-can-i-favor-quick-and-dirty-over.html)
+- [13 Webpack Optimization Tips You Should Know](https://teklinks.andrejnsimoes.com/2022/06/13-webpack-optimization-tips-you-should.html)
 - [How to Translate IT’s Value by Using an Outcome-Driven Mindset](https://teklinks.andrejnsimoes.com/2022/06/how-to-translate-its-value-by-using.html)
 - [Trunk-based vs. feature-based development](https://teklinks.andrejnsimoes.com/2022/06/trunk-based-vs-feature-based-development.html)
-- [Everything you need to learn TypeScript in just 4 minutes](https://teklinks.andrejnsimoes.com/2022/06/everything-you-need-to-learn-typescript.html)
-- [Painless Monorepo Dependency Management with Bit](https://teklinks.andrejnsimoes.com/2022/06/painless-monorepo-dependency-management.html)
-- [Build an NPM Package in TypeScript from the Ground Up](https://teklinks.andrejnsimoes.com/2022/06/build-npm-package-in-typescript-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
