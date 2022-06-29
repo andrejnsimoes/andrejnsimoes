@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [LogRocket React Meetup: Building An Application With React And Nx](https://www.youtube.com/watch?v=BvRCAoDWrEg)
+- [a fresh new web framework is out](https://www.youtube.com/watch?v=4boXExbbGCk)
 - [39.08! McMurtry fan car breaks Goodwood Hill RECORD! | Festival of Speed 2022](https://www.youtube.com/watch?v=5JYp9eGC3Cc)
 - [My Bleeding Edge Tech Stack for 2025](https://www.youtube.com/watch?v=rFP7rUYtOOg)
 - [React UI Library Structure, Storybook and Tests](https://www.youtube.com/watch?v=NgkYH97Z3nk)
-- [The Power of JS Generators by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
-- [Chrome 103 - What’s New in DevTools](https://www.youtube.com/watch?v=LyMts4yfQu8)
 <!-- YOUTUBE:END -->
 
 
