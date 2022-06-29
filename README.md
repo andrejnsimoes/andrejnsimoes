@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Latest ES13 JavaScript Features](https://teklinks.andrejnsimoes.com/2022/06/the-latest-es13-javascript-features.html)
 - [How Do You Overcome Imposter Syndrome?](https://teklinks.andrejnsimoes.com/2022/06/how-do-you-overcome-imposter-syndrome.html)
 - [How can I favor quick &lpar;and dirty&rpar; over clean &lpar;and slow&rpar; in practice?](https://teklinks.andrejnsimoes.com/2022/06/how-can-i-favor-quick-and-dirty-over.html)
 - [13 Webpack Optimization Tips You Should Know](https://teklinks.andrejnsimoes.com/2022/06/13-webpack-optimization-tips-you-should.html)
 - [How to Translate IT’s Value by Using an Outcome-Driven Mindset](https://teklinks.andrejnsimoes.com/2022/06/how-to-translate-its-value-by-using.html)
-- [Trunk-based vs. feature-based development](https://teklinks.andrejnsimoes.com/2022/06/trunk-based-vs-feature-based-development.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
