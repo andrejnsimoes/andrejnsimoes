@@ -54,7 +54,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [JavaScript Under The Hood: Thread &amp; Call Stack](https://www.youtube.com/watch?v=-G9c4CMMUKc)
 - [LogRocket React Meetup: Building An Application With React And Nx](https://www.youtube.com/watch?v=BvRCAoDWrEg)
 - [a fresh new web framework is out](https://www.youtube.com/watch?v=4boXExbbGCk)
-- [39.08! McMurtry fan car breaks Goodwood Hill RECORD! | Festival of Speed 2022](https://www.youtube.com/watch?v=5JYp9eGC3Cc)
+- [5 Years of Building React Table  – Tanner Linsley, React Summit 2022](https://www.youtube.com/watch?v=O4IWJcafX8c)
 <!-- YOUTUBE:END -->
 
 
