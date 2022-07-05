@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Mid Career Developers Face a Rare Cancer](https://teklinks.andrejnsimoes.com/2022/07/mid-career-developers-face-rare-cancer.html)
 - [An incomplete list of skills senior engineers need, beyond coding](https://teklinks.andrejnsimoes.com/2022/07/an-incomplete-list-of-skills-senior.html)
 - [WebSockets vs. Server-Sent Events](https://teklinks.andrejnsimoes.com/2022/07/websockets-vs-server-sent-events.html)
 - [Building a Design System from scratch](https://teklinks.andrejnsimoes.com/2022/07/building-design-system-from-scratch.html)
 - [Early Merge Conflict Detection Across All Branches in VS Code](https://teklinks.andrejnsimoes.com/2022/07/early-merge-conflict-detection-across.html)
-- [How I Created the Focus App Using React and Rust](https://teklinks.andrejnsimoes.com/2022/06/how-i-created-focus-app-using-react-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
