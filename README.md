@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [When You Should Prefer Map Over Object In JavaScript](https://teklinks.andrejnsimoes.com/2022/07/when-you-should-prefer-map-over-object.html)
+- [Understanding the Closure Trap of React Hooks](https://teklinks.andrejnsimoes.com/2022/07/understanding-closure-trap-of-react.html)
+- [Nx - The fastest growing monorepo solution in the JS ecosystem](https://teklinks.andrejnsimoes.com/2022/07/nx-fastest-growing-monorepo-solution-in.html)
 - [Mid Career Developers Face a Rare Cancer](https://teklinks.andrejnsimoes.com/2022/07/mid-career-developers-face-rare-cancer.html)
 - [An incomplete list of skills senior engineers need, beyond coding](https://teklinks.andrejnsimoes.com/2022/07/an-incomplete-list-of-skills-senior.html)
-- [WebSockets vs. Server-Sent Events](https://teklinks.andrejnsimoes.com/2022/07/websockets-vs-server-sent-events.html)
-- [Building a Design System from scratch](https://teklinks.andrejnsimoes.com/2022/07/building-design-system-from-scratch.html)
-- [Early Merge Conflict Detection Across All Branches in VS Code](https://teklinks.andrejnsimoes.com/2022/07/early-merge-conflict-detection-across.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
