@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn the weekly rituals you should master as a software project manager](https://teklinks.andrejnsimoes.com/2022/07/learn-weekly-rituals-you-should-master.html)
+- [Don&#39;t lose your Github contributions when you leave an organization](https://teklinks.andrejnsimoes.com/2022/07/dont-lose-your-github-contributions.html)
 - [Reduce maintenance effort with shared ESLint and Prettier configs](https://teklinks.andrejnsimoes.com/2022/07/reduce-maintenance-effort-with-shared.html)
 - [When You Should Prefer Map Over Object In JavaScript](https://teklinks.andrejnsimoes.com/2022/07/when-you-should-prefer-map-over-object.html)
 - [Understanding the Closure Trap of React Hooks](https://teklinks.andrejnsimoes.com/2022/07/understanding-closure-trap-of-react.html)
-- [Nx - The fastest growing monorepo solution in the JS ecosystem](https://teklinks.andrejnsimoes.com/2022/07/nx-fastest-growing-monorepo-solution-in.html)
-- [Mid Career Developers Face a Rare Cancer](https://teklinks.andrejnsimoes.com/2022/07/mid-career-developers-face-rare-cancer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
