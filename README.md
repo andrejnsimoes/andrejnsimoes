@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [JavaScript Under The Hood [3}: Asynchronous JavaScript, Task Queue &amp; Event Loop](https://www.youtube.com/watch?v=28AXSTCpsyU)
 - [JavaScript just got way faster](https://www.youtube.com/watch?v=FMhScnY0dME)
 - [Five Clever Hacks for React-Query and SWR](https://www.youtube.com/watch?v=JaM2rExmmqs)
-- [JavaScript Under The Hood: Execution Context](https://www.youtube.com/watch?v=Fd9VaW0M7K4)
-- [JavaScript Under The Hood: Thread &amp; Call Stack](https://www.youtube.com/watch?v=-G9c4CMMUKc)
-- [LogRocket React Meetup: Building An Application With React And Nx](https://www.youtube.com/watch?v=BvRCAoDWrEg)
+- [JavaScript Under The Hood [2]: Execution Context](https://www.youtube.com/watch?v=Fd9VaW0M7K4)
+- [JavaScript Under The Hood [1]: Thread &amp; Call Stack](https://www.youtube.com/watch?v=-G9c4CMMUKc)
 <!-- YOUTUBE:END -->
 
 
