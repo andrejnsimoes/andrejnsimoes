@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Is &quot;edge&quot; computing really faster?](https://www.youtube.com/watch?v=yOP5-3_WFus)
+- [NextJS Was Too Slow...So He Made Bun??! Jarred Sumner &amp; The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o)
 - [JavaScript Under The Hood [3}: Asynchronous JavaScript, Task Queue &amp; Event Loop](https://www.youtube.com/watch?v=28AXSTCpsyU)
 - [JavaScript just got way faster](https://www.youtube.com/watch?v=FMhScnY0dME)
 - [Learn Prisma In 60 Minutes](https://www.youtube.com/watch?v=RebA5J-rlwg)
-- [Five Clever Hacks for React-Query and SWR](https://www.youtube.com/watch?v=JaM2rExmmqs)
-- [JavaScript Under The Hood [2]: Execution Context](https://www.youtube.com/watch?v=Fd9VaW0M7K4)
 <!-- YOUTUBE:END -->
 
 
