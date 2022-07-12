@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Things You Should Know About Databases](https://teklinks.andrejnsimoes.com/2022/07/things-you-should-know-about-databases.html)
+- [Rendering Dynamic Remote Containers in a React Micro Frontend](https://teklinks.andrejnsimoes.com/2022/07/rendering-dynamic-remote-containers-in.html)
+- [Want a Mentoring Relationship? Ask Yourself These Questions First.](https://teklinks.andrejnsimoes.com/2022/07/want-mentoring-relationship-ask.html)
 - [Testing Bun’s compatibility and speed with a complex application](https://teklinks.andrejnsimoes.com/2022/07/testing-buns-compatibility-and-speed.html)
 - [A Look At Remix And The Differences With Next.js](https://teklinks.andrejnsimoes.com/2022/07/a-look-at-remix-and-differences-with.html)
-- [5 Clever Hacks for React-Query and SWR](https://teklinks.andrejnsimoes.com/2022/07/5-clever-hacks-for-react-query-and-swr.html)
-- [Using custom events in React](https://teklinks.andrejnsimoes.com/2022/07/using-custom-events-in-react.html)
-- [Routing in React with React Location](https://teklinks.andrejnsimoes.com/2022/07/routing-in-react-with-react-location.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
