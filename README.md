@@ -53,7 +53,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Is &quot;edge&quot; computing really faster?](https://www.youtube.com/watch?v=yOP5-3_WFus)
 - [Why JavaScript Generators fix 90% of your problems when working with big loads of data  🤯](https://www.youtube.com/watch?v=edaYw9UhQ0M)
 - [NextJS Was Too Slow...So He Made Bun??! Jarred Sumner &amp; The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o)
-- [JavaScript Under The Hood [3}: Asynchronous JavaScript, Task Queue &amp; Event Loop](https://www.youtube.com/watch?v=28AXSTCpsyU)
+- [JavaScript Under The Hood [3} - Asynchronous JavaScript, Task Queue &amp; Event Loop](https://www.youtube.com/watch?v=28AXSTCpsyU)
 - [JavaScript just got way faster](https://www.youtube.com/watch?v=FMhScnY0dME)
 <!-- YOUTUBE:END -->
 
