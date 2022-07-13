@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Include diagrams in your Markdown files with Mermaid](https://teklinks.andrejnsimoes.com/2022/07/include-diagrams-in-your-markdown-files.html)
+- [Zustand: Forget about other state managers](https://teklinks.andrejnsimoes.com/2022/07/zustand-forget-about-other-state.html)
+- [How Google SRE and Developers Collaborate](https://teklinks.andrejnsimoes.com/2022/07/how-google-sre-and-developers.html)
 - [Things You Should Know About Databases](https://teklinks.andrejnsimoes.com/2022/07/things-you-should-know-about-databases.html)
 - [Rendering Dynamic Remote Containers in a React Micro Frontend](https://teklinks.andrejnsimoes.com/2022/07/rendering-dynamic-remote-containers-in.html)
-- [Want a Mentoring Relationship? Ask Yourself These Questions First.](https://teklinks.andrejnsimoes.com/2022/07/want-mentoring-relationship-ask.html)
-- [Testing Bun’s compatibility and speed with a complex application](https://teklinks.andrejnsimoes.com/2022/07/testing-buns-compatibility-and-speed.html)
-- [A Look At Remix And The Differences With Next.js](https://teklinks.andrejnsimoes.com/2022/07/a-look-at-remix-and-differences-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
