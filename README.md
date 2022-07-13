@@ -53,7 +53,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [JavaScript Under The Hood [5] - JavaScript Engine Overview](https://www.youtube.com/watch?v=oc6faXVc54E)
 - [JavaScript Under The Hood [4] - Memory Storage](https://www.youtube.com/watch?v=Hci9Bb4_fkA)
 - [Is &quot;edge&quot; computing really faster?](https://www.youtube.com/watch?v=yOP5-3_WFus)
-- [Why JavaScript Generators fix 90% of your problems when working with big loads of data  🤯](https://www.youtube.com/watch?v=edaYw9UhQ0M)
+- [Learn JavaScript Generators in practice - processing data on-demand with real-world examples](https://www.youtube.com/watch?v=edaYw9UhQ0M)
 - [NextJS Was Too Slow...So He Made Bun??! Jarred Sumner &amp; The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o)
 <!-- YOUTUBE:END -->
 
