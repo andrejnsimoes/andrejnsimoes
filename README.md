@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [What Is Tauri? - Desktop Apps With Web Tech in Rust](https://www.youtube.com/watch?v=EREVvUG0Zp8)
 - [JavaScript Under The Hood [5] - JavaScript Engine Overview](https://www.youtube.com/watch?v=oc6faXVc54E)
 - [JavaScript Under The Hood [4] - Memory Storage](https://www.youtube.com/watch?v=Hci9Bb4_fkA)
 - [Is &quot;edge&quot; computing really faster?](https://www.youtube.com/watch?v=yOP5-3_WFus)
 - [Learn JavaScript Generators in practice - processing data on-demand with real-world examples](https://www.youtube.com/watch?v=edaYw9UhQ0M)
-- [NextJS Was Too Slow...So He Made Bun??! Jarred Sumner &amp; The Story Of Bun](https://www.youtube.com/watch?v=rL4qpniIR7o)
 <!-- YOUTUBE:END -->
 
 
