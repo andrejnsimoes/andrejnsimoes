@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheat](https://teklinks.andrejnsimoes.com/2022/07/top-10-architecture-characteristics-non.html)
 - [Chrome OS Flex Is Ready to Turn Old PCs Into Chromebooks](https://teklinks.andrejnsimoes.com/2022/07/chrome-os-flex-is-ready-to-turn-old-pcs.html)
 - [NestJS v9 is now available !](https://teklinks.andrejnsimoes.com/2022/07/nestjs-v9-is-now-available.html)
 - [Imposter Syndrome: Types, Causes, &amp; How to Stop It](https://teklinks.andrejnsimoes.com/2022/07/imposter-syndrome-types-causes-how-to.html)
 - [Include diagrams in your Markdown files with Mermaid](https://teklinks.andrejnsimoes.com/2022/07/include-diagrams-in-your-markdown-files.html)
-- [Zustand: Forget about other state managers](https://teklinks.andrejnsimoes.com/2022/07/zustand-forget-about-other-state.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
