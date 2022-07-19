@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Bluetooth Is About to Get Its Huge LE Audio Upgrade](https://teklinks.andrejnsimoes.com/2022/07/bluetooth-is-about-to-get-its-huge-le.html)
+- [TypeScript Types for Module Federation and Microfrontends](https://teklinks.andrejnsimoes.com/2022/07/typescript-types-for-module-federation.html)
 - [Test Management for QA Engineers](https://teklinks.andrejnsimoes.com/2022/07/test-management-for-qa-engineers.html)
 - [Data Flow in Remix](https://teklinks.andrejnsimoes.com/2022/07/data-flow-in-remix.html)
 - [Top 10 Architecture Characteristics / Non-Functional Requirements with Cheatsheat](https://teklinks.andrejnsimoes.com/2022/07/top-10-architecture-characteristics-non.html)
-- [Chrome OS Flex Is Ready to Turn Old PCs Into Chromebooks](https://teklinks.andrejnsimoes.com/2022/07/chrome-os-flex-is-ready-to-turn-old-pcs.html)
-- [NestJS v9 is now available !](https://teklinks.andrejnsimoes.com/2022/07/nestjs-v9-is-now-available.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
