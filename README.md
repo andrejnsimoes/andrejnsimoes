@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Improve The Developer Hiring Process](https://www.youtube.com/watch?v=t3w7OCDbmnc)
 - [Fresh: Blazingly Fast React - LIVE!](https://www.youtube.com/watch?v=8M5rpG9TD-c)
 - [gzip file compression in 100 Seconds](https://www.youtube.com/watch?v=NLtt4S9ErIA)
 - [What Is Tauri? - Desktop Apps With Web Tech in Rust](https://www.youtube.com/watch?v=EREVvUG0Zp8)
 - [JavaScript Under The Hood [5] - JavaScript Engine Overview](https://www.youtube.com/watch?v=oc6faXVc54E)
-- [JavaScript Under The Hood [4] - Memory Storage](https://www.youtube.com/watch?v=Hci9Bb4_fkA)
 <!-- YOUTUBE:END -->
 
 
