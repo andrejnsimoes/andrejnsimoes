@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD Pipelines: Everything You Need To Know](https://teklinks.andrejnsimoes.com/2022/07/cicd-pipelines-everything-you-need-to.html)
+- [Applying SOLID principles in React](https://teklinks.andrejnsimoes.com/2022/07/applying-solid-principles-inreact.html)
+- [What is technical debt? How to prioritize and avoid with examples](https://teklinks.andrejnsimoes.com/2022/07/what-is-technical-debt-how-to.html)
 - [React Hooks: The Deep Cuts](https://teklinks.andrejnsimoes.com/2022/07/react-hooks-deep-cuts.html)
 - [Bluetooth Is About to Get Its Huge LE Audio Upgrade](https://teklinks.andrejnsimoes.com/2022/07/bluetooth-is-about-to-get-its-huge-le.html)
-- [TypeScript Types for Module Federation and Microfrontends](https://teklinks.andrejnsimoes.com/2022/07/typescript-types-for-module-federation.html)
-- [Test Management for QA Engineers](https://teklinks.andrejnsimoes.com/2022/07/test-management-for-qa-engineers.html)
-- [Data Flow in Remix](https://teklinks.andrejnsimoes.com/2022/07/data-flow-in-remix.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
