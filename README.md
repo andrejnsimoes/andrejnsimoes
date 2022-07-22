@@ -52,9 +52,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [I tried 10 code editors](https://www.youtube.com/watch?v=8PhdfcX9tG0)
 - [Bun and Deno: New Runtimes for the Third Age of JavaScript &lpar;Full Talk rerecorded&rpar;](https://www.youtube.com/watch?v=O7KVEwNau6w)
+- [How To Refactor Your Code Efficiently - with Alex Bespoyasov](https://www.youtube.com/watch?v=G7NcuYJ-HSM)
 - [Improve The Developer Hiring Process](https://www.youtube.com/watch?v=t3w7OCDbmnc)
 - [Fresh: Blazingly Fast React - LIVE!](https://www.youtube.com/watch?v=8M5rpG9TD-c)
-- [gzip file compression in 100 Seconds](https://www.youtube.com/watch?v=NLtt4S9ErIA)
 <!-- YOUTUBE:END -->
 
 
