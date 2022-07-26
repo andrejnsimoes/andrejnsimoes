@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun: The JavaScript runtime taking on Node.js and Deno](https://teklinks.andrejnsimoes.com/2022/07/bun-javascript-runtime-taking-on-nodejs.html)
+- [Git-Flow, GitHub-Flow, Gitlab-Flow and Trunk Based Development explained](https://teklinks.andrejnsimoes.com/2022/07/git-flow-github-flow-gitlab-flow-and.html)
+- [The Cost of Consistency in UI Frameworks](https://teklinks.andrejnsimoes.com/2022/07/the-cost-of-consistency-in-ui-frameworks.html)
 - [Building a Platform Team — Laying the Foundations](https://teklinks.andrejnsimoes.com/2022/07/building-platform-teamlaying-foundations.html)
 - [Reader question: Feeling guilt as a tech lead](https://teklinks.andrejnsimoes.com/2022/07/reader-question-feeling-guilt-as-tech.html)
-- [An Introvert’s Guide to Attending Networking Events Solo](https://teklinks.andrejnsimoes.com/2022/07/an-introverts-guide-to-attending.html)
-- [Questions for our first 1:1](https://teklinks.andrejnsimoes.com/2022/07/questions-for-our-first-11.html)
-- [How to Choose the Right UI Component Library](https://teklinks.andrejnsimoes.com/2022/07/how-to-choose-right-ui-component-library.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
