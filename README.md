@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Attrition is making hiring harder. Are you searching the right talent pools?](https://teklinks.andrejnsimoes.com/2022/07/the-great-attrition-is-making-hiring.html)
+- [How to Authenticate a User via Face Recognition in Your Web Application](https://teklinks.andrejnsimoes.com/2022/07/how-to-authenticate-user-via-face.html)
+- [Developers : Don&#39;t Be Afraid to Reevaluate the Backlog](https://teklinks.andrejnsimoes.com/2022/07/developers-dont-be-afraid-to-reevaluate.html)
 - [Questions Developers Should Consider Asking Potential Employers](https://teklinks.andrejnsimoes.com/2022/07/questions-developers-should-consider.html)
 - [Fundamental Software Architectural Patterns](https://teklinks.andrejnsimoes.com/2022/07/fundamental-software-architectural.html)
-- [How observability is redefining the roles of developers](https://teklinks.andrejnsimoes.com/2022/07/how-observability-is-redefining-roles.html)
-- [Bun: The JavaScript runtime taking on Node.js and Deno](https://teklinks.andrejnsimoes.com/2022/07/bun-javascript-runtime-taking-on-nodejs.html)
-- [Git-Flow, GitHub-Flow, Gitlab-Flow and Trunk Based Development explained](https://teklinks.andrejnsimoes.com/2022/07/git-flow-github-flow-gitlab-flow-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
