@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Selenium vs Cypress: Does Cypress Replace Selenium?](https://teklinks.andrejnsimoes.com/2022/08/selenium-vs-cypress-does-cypress.html)
+- [An in-depth perspective on webpack&#39;s bundling process](https://teklinks.andrejnsimoes.com/2022/08/an-in-depth-perspective-on-webpacks.html)
+- [Examples of large production-grade, open-source React apps](https://teklinks.andrejnsimoes.com/2022/08/examples-of-large-production-grade-open.html)
 - [JavaScript Design Patterns – Explained with Examples](https://teklinks.andrejnsimoes.com/2022/07/javascript-design-patterns-explained.html)
 - [Top Micro Frontend Frameworks](https://teklinks.andrejnsimoes.com/2022/07/top-micro-frontend-frameworks.html)
-- [5 Things I’ve Gained from the Job Interviewing Process](https://teklinks.andrejnsimoes.com/2022/07/5-things-ive-gained-from-job.html)
-- [The Great Attrition is making hiring harder. Are you searching the right talent pools?](https://teklinks.andrejnsimoes.com/2022/07/the-great-attrition-is-making-hiring.html)
-- [How to Authenticate a User via Face Recognition in Your Web Application](https://teklinks.andrejnsimoes.com/2022/07/how-to-authenticate-user-via-face.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
