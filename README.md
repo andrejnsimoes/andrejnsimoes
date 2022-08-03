@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [New in Chrome 104: Region Capture, Media Queries, Shared Element Transitions, and more!](https://www.youtube.com/watch?v=GIt-g0nkt8w)
 - [How to NOT Fail a Technical Interview](https://www.youtube.com/watch?v=1t1_a1BZ04o)
 - [Bun vs Fresh!](https://www.youtube.com/watch?v=ukecIFE6Now)
 - [Auth for New Devs: It’s Easier Than You Think](https://www.youtube.com/watch?v=h6wBYWWdyYQ)
 - [Carbon Lang… The C++ killer?](https://www.youtube.com/watch?v=-bHK0qmp06c)
-- [Tables Just Got WAY Better](https://www.youtube.com/watch?v=aFCxPo0kOGk)
 <!-- YOUTUBE:END -->
 
 
