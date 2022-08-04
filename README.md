@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js ORMs overview and comparison](https://teklinks.andrejnsimoes.com/2022/08/nodejs-orms-overview-and-comparison.html)
+- [Hermes as the Default](https://teklinks.andrejnsimoes.com/2022/08/hermes-as-default.html)
+- [Design a Notification System](https://teklinks.andrejnsimoes.com/2022/08/design-notification-system.html)
 - [Build an automated ecommerce app with WhatsApp Cloud API and Node.js](https://teklinks.andrejnsimoes.com/2022/08/build-automated-ecommerce-app-with.html)
 - [Why DevOps Governance Is Crucial to Enable Developer Velocity](https://teklinks.andrejnsimoes.com/2022/08/why-devops-governance-is-crucial-to.html)
-- [Selenium vs Cypress: Does Cypress Replace Selenium?](https://teklinks.andrejnsimoes.com/2022/08/selenium-vs-cypress-does-cypress.html)
-- [An in-depth perspective on webpack&#39;s bundling process](https://teklinks.andrejnsimoes.com/2022/08/an-in-depth-perspective-on-webpacks.html)
-- [Examples of large production-grade, open-source React apps](https://teklinks.andrejnsimoes.com/2022/08/examples-of-large-production-grade-open.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
