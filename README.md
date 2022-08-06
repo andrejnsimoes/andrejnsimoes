@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Making Good Tech Decisions - MY FIRST CONFERENCE TALK](https://www.youtube.com/watch?v=Z0yZgqqy5Lc)
 - [How To Test React Applications - with Denis Koltsov](https://www.youtube.com/watch?v=qOGL11_FQjs)
 - [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
 - [New in Chrome 104: Region Capture, Media Queries, Shared Element Transitions, and more!](https://www.youtube.com/watch?v=GIt-g0nkt8w)
 - [Learn React Router v6 In 45 Minutes](https://www.youtube.com/watch?v=Ul3y1LXxzdU)
-- [How to NOT Fail a Technical Interview](https://www.youtube.com/watch?v=1t1_a1BZ04o)
 <!-- YOUTUBE:END -->
 
 
