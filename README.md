@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Quick Overview of NFT Token Transfer and Approval](https://teklinks.andrejnsimoes.com/2022/08/a-quick-overview-of-nft-token-transfer.html)
+- [Micro-frontend with React and Next.js](https://teklinks.andrejnsimoes.com/2022/08/micro-frontend-with-react-and-nextjs.html)
+- [When Microservices Are a Bad Idea](https://teklinks.andrejnsimoes.com/2022/08/when-microservices-are-bad-idea.html)
 - [Node.js ORMs overview and comparison](https://teklinks.andrejnsimoes.com/2022/08/nodejs-orms-overview-and-comparison.html)
 - [Hermes as the Default](https://teklinks.andrejnsimoes.com/2022/08/hermes-as-default.html)
-- [Design a Notification System](https://teklinks.andrejnsimoes.com/2022/08/design-notification-system.html)
-- [Build an automated ecommerce app with WhatsApp Cloud API and Node.js](https://teklinks.andrejnsimoes.com/2022/08/build-automated-ecommerce-app-with.html)
-- [Why DevOps Governance Is Crucial to Enable Developer Velocity](https://teklinks.andrejnsimoes.com/2022/08/why-devops-governance-is-crucial-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
