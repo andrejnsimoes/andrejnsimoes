@@ -50,7 +50,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Intro to Module Federation with Medusa](https://www.youtube.com/watch?v=8Zz7i-FPIec)
+- [Medusa: First Look – Intro to Module Federation with Medusa](https://www.youtube.com/watch?v=8Zz7i-FPIec)
 - [Making Good Tech Decisions - MY FIRST CONFERENCE TALK](https://www.youtube.com/watch?v=Z0yZgqqy5Lc)
 - [How To Test React Applications - with Denis Koltsov](https://www.youtube.com/watch?v=qOGL11_FQjs)
 - [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
