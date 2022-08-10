@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best Software Engineering Career Paths](https://teklinks.andrejnsimoes.com/2022/08/the-best-software-engineering-career.html)
+- [How do database indexes work?](https://teklinks.andrejnsimoes.com/2022/08/how-do-database-indexes-work.html)
+- [Deep dive into JavaScript&#39;s Iterators, Iterables and Generators](https://teklinks.andrejnsimoes.com/2022/08/deep-dive-into-javascripts-iterators.html)
 - [React re-renders guide: everything, all at once](https://teklinks.andrejnsimoes.com/2022/08/react-re-renders-guide-everything-all.html)
 - [How To Use Multithreading in Node.js](https://teklinks.andrejnsimoes.com/2022/08/how-to-use-multithreading-in-nodejs.html)
-- [React code conventions and best practices](https://teklinks.andrejnsimoes.com/2022/08/react-code-conventions-and-best.html)
-- [Micro-frontend with React and Next.js](https://teklinks.andrejnsimoes.com/2022/08/micro-frontend-with-react-and-nextjs.html)
-- [A Quick Overview of NFT Token Transfer and Approval](https://teklinks.andrejnsimoes.com/2022/08/a-quick-overview-of-nft-token-transfer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
