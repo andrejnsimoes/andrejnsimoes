@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [The Best Software Engineering Career Paths](https://teklinks.andrejnsimoes.com/2022/08/the-best-software-engineering-career.html)
-- [How do database indexes work?](https://teklinks.andrejnsimoes.com/2022/08/how-do-database-indexes-work.html)
-- [Deep dive into JavaScript&#39;s Iterators, Iterables and Generators](https://teklinks.andrejnsimoes.com/2022/08/deep-dive-into-javascripts-iterators.html)
-- [React re-renders guide: everything, all at once](https://teklinks.andrejnsimoes.com/2022/08/react-re-renders-guide-everything-all.html)
-- [How To Use Multithreading in Node.js](https://teklinks.andrejnsimoes.com/2022/08/how-to-use-multithreading-in-nodejs.html)
+- [Designing inflatable Microservices Architecture](https://teklinks.andrejnsimoes.com/2022/08/designing-inflatable-microservices.html)
+- [Why we had to move away from React Query](https://teklinks.andrejnsimoes.com/2022/08/why-we-had-to-move-away-from-react-query.html)
+- [500ms to 1.7ms In React: A Journey And A Checklist](https://teklinks.andrejnsimoes.com/2022/08/500ms-to-17ms-in-react-journey-and.html)
+- [Skilling for success: How demand for development skills is changing](https://teklinks.andrejnsimoes.com/2022/08/skilling-for-success-how-demand-for.html)
+- [How to Use Leaflet to Display Google Maps-like Maps in a React App](https://teklinks.andrejnsimoes.com/2022/08/how-to-use-leaflet-to-display-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
