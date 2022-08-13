@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
 - [Redux vs React Query vs Zustand - DROWNING IN STATE](https://www.youtube.com/watch?v=5-1LM2NySR0)
 - [Medusa: First Look – Intro to Module Federation with Medusa](https://www.youtube.com/watch?v=8Zz7i-FPIec)
 - [Making Good Tech Decisions - MY FIRST CONFERENCE TALK](https://www.youtube.com/watch?v=Z0yZgqqy5Lc)
 - [How To Test React Applications - with Denis Koltsov](https://www.youtube.com/watch?v=qOGL11_FQjs)
-- [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms)
 <!-- YOUTUBE:END -->
 
 
