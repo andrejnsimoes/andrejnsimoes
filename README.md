@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Create A Simple JavaScript App to Generate QR Codes](https://www.youtube.com/watch?v=qNiUlml9MDk)
 - [NextJS to Astro: more control = faster sites](https://www.youtube.com/watch?v=PSzCtdM20Fc)
 - [One Hour Stream - Building a Paste Bin Clone using T3 Stack &lpar;TRPC, Tailwind, Next&rpar;](https://www.youtube.com/watch?v=bq5AU4P6n0M)
 - [Hugo in 100 Seconds](https://www.youtube.com/watch?v=0RKpf3rK57I)
 - [Redux vs React Query vs Zustand - DROWNING IN STATE](https://www.youtube.com/watch?v=5-1LM2NySR0)
-- [Medusa: First Look – Intro to Module Federation with Medusa](https://www.youtube.com/watch?v=8Zz7i-FPIec)
 <!-- YOUTUBE:END -->
 
 
