@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate API Documentation and TypeScript Types with OpenAPI](https://teklinks.andrejnsimoes.com/2022/08/automate-api-documentation-and.html)
+- [Don’t call it a comeback: Why Java is still champ](https://teklinks.andrejnsimoes.com/2022/08/dont-call-it-comeback-why-java-is-still.html)
+- [Ultrasonic payments](https://teklinks.andrejnsimoes.com/2022/08/ultrasonic-payments.html)
 - [Everything Developers Must Know About Figma](https://teklinks.andrejnsimoes.com/2022/08/everything-developers-must-know-about.html)
 - [Measurable and meaningful skill levels for developers](https://teklinks.andrejnsimoes.com/2022/08/measurable-and-meaningful-skill-levels.html)
-- [Islands of Interactivity — What are They and Why is Fresh using them?](https://teklinks.andrejnsimoes.com/2022/08/islands-of-interactivitywhat-are-they.html)
-- [How we made the Vercel Dashboard twice as fast](https://teklinks.andrejnsimoes.com/2022/08/how-we-made-vercel-dashboard-twice-as.html)
-- [Great engineering cultures are built on social learning communities](https://teklinks.andrejnsimoes.com/2022/08/great-engineering-cultures-are-built-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
