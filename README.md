@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing A Reset Password Feature With Next.js Dynamic Routes](https://teklinks.andrejnsimoes.com/2022/08/implementing-reset-password-feature.html)
+- [Six Tips for Staying Technical as a CTO](https://teklinks.andrejnsimoes.com/2022/08/six-tips-for-staying-technical-as-cto.html)
+- [Frontend Rendering : SSG vs ISG vs SSR vs CSR — When to use which?](https://teklinks.andrejnsimoes.com/2022/08/frontend-rendering-ssg-vs-isg-vs-ssr-vs.html)
 - [Use Storybook with Tailwind in an Nx Workspace](https://teklinks.andrejnsimoes.com/2022/08/use-storybook-with-tailwind-in-nx.html)
 - [Software Engineering - The Soft Parts](https://teklinks.andrejnsimoes.com/2022/08/software-engineering-soft-parts.html)
-- [Profiling &amp; Optimizing a React Application with DevTools](https://teklinks.andrejnsimoes.com/2022/08/profiling-optimizing-react-application.html)
-- [Automate API Documentation and TypeScript Types with OpenAPI](https://teklinks.andrejnsimoes.com/2022/08/automate-api-documentation-and.html)
-- [Don’t call it a comeback: Why Java is still champ](https://teklinks.andrejnsimoes.com/2022/08/dont-call-it-comeback-why-java-is-still.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
