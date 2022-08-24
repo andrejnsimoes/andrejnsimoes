@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [CHAT WITH JACK](https://www.youtube.com/watch?v=KJ984JCKAKY)
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
 - [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
 - [Create A Simple JavaScript App to Generate QR Codes](https://www.youtube.com/watch?v=qNiUlml9MDk)
 - [NextJS to Astro: more control = faster sites](https://www.youtube.com/watch?v=PSzCtdM20Fc)
-- [One Hour Stream - Building a Paste Bin Clone using T3 Stack &lpar;TRPC, Tailwind, Next&rpar;](https://www.youtube.com/watch?v=bq5AU4P6n0M)
 <!-- YOUTUBE:END -->
 
 
