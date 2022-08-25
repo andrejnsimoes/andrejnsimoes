@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [STREAM VOD: JACK INTERVIEW + LEARNING REDIS WITH UPSTASH](https://www.youtube.com/watch?v=KJ984JCKAKY)
+- [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk)
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
 - [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
 - [Create A Simple JavaScript App to Generate QR Codes](https://www.youtube.com/watch?v=qNiUlml9MDk)
-- [NextJS to Astro: more control = faster sites](https://www.youtube.com/watch?v=PSzCtdM20Fc)
 <!-- YOUTUBE:END -->
 
 
