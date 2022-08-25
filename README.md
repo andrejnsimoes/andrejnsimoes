@@ -50,7 +50,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [LEARNING REDIS WITH UPSTASH - BLAZINGLY FAST FETCHES](https://www.youtube.com/watch?v=KJ984JCKAKY)
+- [STREAM VOD: JACK INTERVIEW + LEARNING REDIS WITH UPSTASH](https://www.youtube.com/watch?v=KJ984JCKAKY)
 - [Astro just Launched.... Could it be the ultimate web framework?](https://www.youtube.com/watch?v=gxBkghlglTg)
 - [I built a JavaScript framework](https://www.youtube.com/watch?v=SJeBRW1QQMA)
 - [Create A Simple JavaScript App to Generate QR Codes](https://www.youtube.com/watch?v=qNiUlml9MDk)
