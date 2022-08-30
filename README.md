@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Not all engineering leaders are engineering managers](https://teklinks.andrejnsimoes.com/2022/08/not-all-engineering-leaders-are.html)
+- [Monitor Events and Function Calls via Console](https://teklinks.andrejnsimoes.com/2022/08/monitor-events-and-function-calls-via.html)
+- [Product Backlog Refinement: 14 First Principles](https://teklinks.andrejnsimoes.com/2022/08/product-backlog-refinement-14-first.html)
 - [Resumability, WTF?](https://teklinks.andrejnsimoes.com/2022/08/resumability-wtf.html)
 - [How to use Forms in React](https://teklinks.andrejnsimoes.com/2022/08/how-to-use-forms-in-react.html)
-- [The JavaScript Paradox](https://teklinks.andrejnsimoes.com/2022/08/the-javascript-paradox.html)
-- [How to use OpenTelemetry to trace Node.js applications](https://teklinks.andrejnsimoes.com/2022/08/how-to-use-opentelemetry-to-trace.html)
-- [How to interrogate unfamiliar code](https://teklinks.andrejnsimoes.com/2022/08/how-to-interrogate-unfamiliar-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
