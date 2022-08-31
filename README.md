@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How to Speed up Your Workflow with Console Shortcuts || DevTools Tips](https://www.youtube.com/watch?v=HVNAVLAAL_c)
 - [Bun vs Node: Round 2 &lpar;feat. Astro, Deno, Fresh and more&rpar;](https://www.youtube.com/watch?v=qCX8rw4qOSA)
 - [Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs)
 - [Your NextJS App is Too Big](https://www.youtube.com/watch?v=EIGmcxwbbZw)
 - [STREAM VOD: JACK INTERVIEW + LEARNING REDIS WITH UPSTASH](https://www.youtube.com/watch?v=KJ984JCKAKY)
-- [God-Tier Developer Roadmap](https://www.youtube.com/watch?v=pEfrdAtAmqk)
 <!-- YOUTUBE:END -->
 
 
