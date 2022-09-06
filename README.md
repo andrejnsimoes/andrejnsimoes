@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [6 Advanced Flexbox Features You Probably Don’t Know](https://www.youtube.com/watch?v=1zKX71GYisE)
+- [RabbitMQ in 100 Seconds](https://www.youtube.com/watch?v=NQ3fZtyXji0)
 - [The important things to know about React state and renders](https://www.youtube.com/watch?v=Vq6B5CS-BJE)
 - [Let&#39;s Port A Legacy App!](https://www.youtube.com/watch?v=eafzLhtpMOM)
 - [React: The Most Prolific JavaScript Framework](https://www.youtube.com/watch?v=BBWA7PGJcts)
-- [Writing a Webpack Loader](https://www.youtube.com/watch?v=Z8Vr2rQn3bk)
-- [How to Speed up Your Workflow with Console Shortcuts || DevTools Tips](https://www.youtube.com/watch?v=HVNAVLAAL_c)
 <!-- YOUTUBE:END -->
 
 
