@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Infinite Scrolling: When to Use It, When to Avoid It](https://teklinks.andrejnsimoes.com/2022/09/infinite-scrolling-when-to-use-it-when.html)
+- [Cross-Functional Team Explanation &amp; Best Practices](https://teklinks.andrejnsimoes.com/2022/09/cross-functional-team-explanation-best.html)
+- [Behind the scenes: McDonald’s event-driven architecture](https://teklinks.andrejnsimoes.com/2022/09/behind-scenes-mcdonalds-event-driven.html)
 - [When Culture and Code Reviews Collide, Communication is Key](https://teklinks.andrejnsimoes.com/2022/09/when-culture-and-code-reviews-collide.html)
 - [The Difference Between The Clever Developer &amp; The Wise Developer](https://teklinks.andrejnsimoes.com/2022/09/the-difference-between-clever-developer.html)
-- [React Error Boundaries: A Complete Guide](https://teklinks.andrejnsimoes.com/2022/09/react-error-boundaries-complete-guide.html)
-- [JavaScript Patterns Workshop](https://teklinks.andrejnsimoes.com/2022/09/javascript-patterns-workshop.html)
-- [A Complete Guide to React Router: Everything You Need to Know](https://teklinks.andrejnsimoes.com/2022/09/a-complete-guide-to-react-router.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
