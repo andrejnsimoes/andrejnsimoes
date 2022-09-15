@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript APIs You Don’t Know About](https://teklinks.andrejnsimoes.com/2022/09/javascript-apis-you-dont-know-about.html)
+- [How To Improve Largest Contentful Paint for Faster Load Times](https://teklinks.andrejnsimoes.com/2022/09/how-to-improve-largest-contentful-paint.html)
+- [Introducing Signals](https://teklinks.andrejnsimoes.com/2022/09/introducing-signals.html)
 - [8 Best React Courses 2022](https://teklinks.andrejnsimoes.com/2022/09/8-best-react-courses-2022.html)
 - [Rethinking Agile, Part 3: Stop Estimating Effort](https://teklinks.andrejnsimoes.com/2022/09/rethinking-agile-part-3-stop-estimating.html)
-- [One Formula To Rule Them All: The ROI Of A Design System](https://teklinks.andrejnsimoes.com/2022/09/one-formula-to-rule-them-all-roi-of.html)
-- [Rethinking Agile, Part 2 – The Stand Down Meeting](https://teklinks.andrejnsimoes.com/2022/09/rethinking-agile-part-2-stand-down.html)
-- [The Role of the Tech Lead](https://teklinks.andrejnsimoes.com/2022/09/the-role-of-tech-lead.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
