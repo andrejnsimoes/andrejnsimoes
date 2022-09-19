@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Check out React 18&#39;s useExternalStore hook with TypeScript and generics](https://www.youtube.com/watch?v=4MmmlWwlST4)
 - [React 18&#39;s New State Hook You&#39;ve Never Heard About](https://www.youtube.com/watch?v=GMeQ51MCegI)
 - [How To Send Push Notifications With JavaScript](https://www.youtube.com/watch?v=Bm0JjR4kP8w)
 - [I tried 5 Firebase alternatives](https://www.youtube.com/watch?v=SXmYUalHyYk)
 - [TanStack &lpar;react-query&rpar; in-depth look at suspenseful hooks with Tanner Linsley, the creator!](https://www.youtube.com/watch?v=JhXlIHPIljQ)
-- [6 Advanced Flexbox Features You Probably Don’t Know](https://www.youtube.com/watch?v=1zKX71GYisE)
 <!-- YOUTUBE:END -->
 
 
