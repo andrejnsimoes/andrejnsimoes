@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Smooth and simple page transitions with the shared element transition API](https://teklinks.andrejnsimoes.com/2022/09/smooth-and-simple-page-transitions-with.html)
+- [46 Remote Work Statistics Employers Need to Know](https://teklinks.andrejnsimoes.com/2022/09/46-remote-work-statistics-employers.html)
+- [Use git-secret to encrypt secrets](https://teklinks.andrejnsimoes.com/2022/09/use-git-secret-to-encrypt-secrets.html)
 - [Best practices for creating a modern npm package](https://teklinks.andrejnsimoes.com/2022/09/best-practices-for-creating-modern-npm.html)
 - [Get Started with Astro and Redis](https://teklinks.andrejnsimoes.com/2022/09/get-started-with-astro-and-redis.html)
-- [Don’t Let Perfection Be the Enemy of Productivity](https://teklinks.andrejnsimoes.com/2022/09/dont-let-perfection-be-enemy-of.html)
-- [Installing and Building an NPM Package from Github](https://teklinks.andrejnsimoes.com/2022/09/installing-and-building-npm-package.html)
-- [Rethinking Agile, Part 4: Start Estimating Value](https://teklinks.andrejnsimoes.com/2022/09/rethinking-agile-part-4-start.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
