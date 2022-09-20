@@ -53,8 +53,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Qwik… the world&#39;s first O&lpar;1&rpar; JavaScript framework?](https://www.youtube.com/watch?v=x2eF3YLiNhY)
 - [5 Pro-Level React Do&#39;s &amp; Don&#39;ts](https://www.youtube.com/watch?v=4FhJkX18fS8)
 - [Check out React 18&#39;s useExternalStore hook with TypeScript and generics](https://www.youtube.com/watch?v=4MmmlWwlST4)
+- [Signals In React Will BLOW Your Mind 🤯](https://www.youtube.com/watch?v=bQivsR1kUSU)
 - [React 18&#39;s New State Hook You&#39;ve Never Heard About](https://www.youtube.com/watch?v=GMeQ51MCegI)
-- [How To Send Push Notifications With JavaScript](https://www.youtube.com/watch?v=Bm0JjR4kP8w)
 <!-- YOUTUBE:END -->
 
 
