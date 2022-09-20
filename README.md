@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for creating a modern npm package](https://teklinks.andrejnsimoes.com/2022/09/best-practices-for-creating-modern-npm.html)
+- [Get Started with Astro and Redis](https://teklinks.andrejnsimoes.com/2022/09/get-started-with-astro-and-redis.html)
+- [Don’t Let Perfection Be the Enemy of Productivity](https://teklinks.andrejnsimoes.com/2022/09/dont-let-perfection-be-enemy-of.html)
 - [Installing and Building an NPM Package from Github](https://teklinks.andrejnsimoes.com/2022/09/installing-and-building-npm-package.html)
 - [Rethinking Agile, Part 4: Start Estimating Value](https://teklinks.andrejnsimoes.com/2022/09/rethinking-agile-part-4-start.html)
-- [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://teklinks.andrejnsimoes.com/2022/09/the-trimodal-nature-of-software.html)
-- [JavaScript APIs You Don’t Know About](https://teklinks.andrejnsimoes.com/2022/09/javascript-apis-you-dont-know-about.html)
-- [How To Improve Largest Contentful Paint for Faster Load Times](https://teklinks.andrejnsimoes.com/2022/09/how-to-improve-largest-contentful-paint.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
