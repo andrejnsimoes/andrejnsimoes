@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a chatbot with DialogFlow, Node.js, and React](https://teklinks.andrejnsimoes.com/2022/09/building-chatbot-with-dialogflow-nodejs.html)
+- [Inconsistent thoughts on database consistency](https://teklinks.andrejnsimoes.com/2022/09/inconsistent-thoughts-on-database.html)
+- [Git Merge vs. Rebase: Which to Use and When](https://teklinks.andrejnsimoes.com/2022/09/git-merge-vs-rebase-which-to-use-and.html)
 - [Smooth and simple page transitions with the shared element transition API](https://teklinks.andrejnsimoes.com/2022/09/smooth-and-simple-page-transitions-with.html)
 - [46 Remote Work Statistics Employers Need to Know](https://teklinks.andrejnsimoes.com/2022/09/46-remote-work-statistics-employers.html)
-- [Use git-secret to encrypt secrets](https://teklinks.andrejnsimoes.com/2022/09/use-git-secret-to-encrypt-secrets.html)
-- [Best practices for creating a modern npm package](https://teklinks.andrejnsimoes.com/2022/09/best-practices-for-creating-modern-npm.html)
-- [Get Started with Astro and Redis](https://teklinks.andrejnsimoes.com/2022/09/get-started-with-astro-and-redis.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
