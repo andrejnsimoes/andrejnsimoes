@@ -54,7 +54,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [React Router 6.4 - Getting Started](https://www.youtube.com/watch?v=L2kzUg6IzxM)
 - [Frontend developer experience: Turbocharge your development team’s productivity](https://www.youtube.com/watch?v=-BbO7UUSDYQ)
 - [Qwik… the world&#39;s first O&lpar;1&rpar; JavaScript framework?](https://www.youtube.com/watch?v=x2eF3YLiNhY)
-- [5 Pro-Level React Do&#39;s &amp; Don&#39;ts](https://www.youtube.com/watch?v=4FhJkX18fS8)
+- [How To Choose The Right Database?](https://www.youtube.com/watch?v=kkeFE6iRfMM)
 <!-- YOUTUBE:END -->
 
 
