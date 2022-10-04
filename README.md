@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Best Practices for Software Delivery](https://teklinks.andrejnsimoes.com/2022/10/6-best-practices-for-software-delivery.html)
+- [The Role of an Enterprise Architect in a Lean Enterprise](https://teklinks.andrejnsimoes.com/2022/10/the-role-of-enterprise-architect-in.html)
+- [Top 10 Microservices Design Patterns and Principles - Examples](https://teklinks.andrejnsimoes.com/2022/10/top-10-microservices-design-patterns.html)
 - [Improve Response Time by 10x by Introducing an Interceptor In Nest.js](https://teklinks.andrejnsimoes.com/2022/09/improve-response-time-by-10x-by.html)
 - [Use Next.js and Vercel to build a link-sharing app using serverless WebSockets](https://teklinks.andrejnsimoes.com/2022/09/use-nextjs-and-vercel-to-build-link.html)
-- [Avoid accidental complexity and technical debt](https://teklinks.andrejnsimoes.com/2022/09/avoid-accidental-complexity-and.html)
-- [Beyond Senior – Progressive Influence](https://teklinks.andrejnsimoes.com/2022/09/beyond-senior-progressive-influence.html)
-- [The new wave of Javascript web frameworks](https://teklinks.andrejnsimoes.com/2022/09/the-new-wave-of-javascript-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
