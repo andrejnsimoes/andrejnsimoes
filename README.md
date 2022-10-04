@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [UseState: Asynchronous or what?](https://www.youtube.com/watch?v=RAJD4KpX8LA)
 - [Higher order functions are awesome Javascript patterns for extending function logic #shorts](https://www.youtube.com/watch?v=Ho4Amc-NFDE)
 - [60FPS Solid-JS Audio Spectrum Visualizer Project](https://www.youtube.com/watch?v=Xt1dNdJpgw4)
 - [Chrome 106 - What’s New in DevTools](https://www.youtube.com/watch?v=5gBqTXctxO8)
 - [React Router 6.4 - Getting Started](https://www.youtube.com/watch?v=L2kzUg6IzxM)
-- [Frontend developer experience: Turbocharge your development team’s productivity](https://www.youtube.com/watch?v=-BbO7UUSDYQ)
 <!-- YOUTUBE:END -->
 
 
