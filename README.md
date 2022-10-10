@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg)
 - [Using Playwright for end-to-end testing](https://www.youtube.com/watch?v=UIg_qyvJKIA)
 - [UI Libraries: Picking The Best](https://www.youtube.com/watch?v=CQuTF-bkOgc)
 - [UseState: Asynchronous or what?](https://www.youtube.com/watch?v=RAJD4KpX8LA)
 - [Create a Desktop App With JavaScript &amp; Electron](https://www.youtube.com/watch?v=ML743nrkMHw)
-- [Higher order functions are awesome Javascript patterns for extending function logic #shorts](https://www.youtube.com/watch?v=Ho4Amc-NFDE)
 <!-- YOUTUBE:END -->
 
 
