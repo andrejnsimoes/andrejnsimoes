@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Top 6 React Hook Mistakes Beginners Make](https://www.youtube.com/watch?v=GGo3MVBFr1A)
+- [What Are Microservices Really All About? &lpar;And When Not To Use It&rpar;](https://www.youtube.com/watch?v=lTAcCNbJ7KE)
+- [Is The Term &quot;Clean Code&quot; Subjective?](https://www.youtube.com/watch?v=ou6x2qcLOLI)
 - [7 Things No Programmer Ever Wants to Hear](https://www.youtube.com/watch?v=OoQLoKHhohg)
 - [Using Playwright for end-to-end testing](https://www.youtube.com/watch?v=UIg_qyvJKIA)
-- [UI Libraries: Picking The Best](https://www.youtube.com/watch?v=CQuTF-bkOgc)
-- [UseState: Asynchronous or what?](https://www.youtube.com/watch?v=RAJD4KpX8LA)
-- [Create a Desktop App With JavaScript &amp; Electron](https://www.youtube.com/watch?v=ML743nrkMHw)
 <!-- YOUTUBE:END -->
 
 
