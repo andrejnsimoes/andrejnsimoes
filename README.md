@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [A Software Developer’s Most Important Skill? Communication](https://teklinks.andrejnsimoes.com/2022/10/a-software-developers-most-important.html)
-- [Why is React Declarative? A Story About Function Components](https://teklinks.andrejnsimoes.com/2022/10/why-is-react-declarative-story-about.html)
-- [A React Hooks Challenge for Senior React Developers](https://teklinks.andrejnsimoes.com/2022/10/a-react-hooks-challenge-for-senior.html)
-- [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://teklinks.andrejnsimoes.com/2022/10/how-big-tech-runs-tech-projects-and.html)
-- [6 Best Practices for Software Delivery](https://teklinks.andrejnsimoes.com/2022/10/6-best-practices-for-software-delivery.html)
+- [Structures, roles, responsibilities and comparison with common…](https://teklinks.andrejnsimoes.com/2022/10/better-software-engineering.html)
+- [Building a design system with Radix](https://teklinks.andrejnsimoes.com/2022/10/building-design-system-with-radix.html)
+- [Interview the interviewer](https://teklinks.andrejnsimoes.com/2022/10/interview-interviewer.html)
+- [Considerations When Submitting a Pull Request to Open-Source Projects](https://teklinks.andrejnsimoes.com/2022/10/considerations-when-submitting-pull.html)
+- [Dealing with Imposter Syndrome : Harness It for Growth](https://teklinks.andrejnsimoes.com/2022/10/dealing-with-imposter-syndrome-harness.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
