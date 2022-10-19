@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Blogged Answers: A &lpar;Mostly&rpar; Complete Guide to React Rendering Behavior](https://teklinks.andrejnsimoes.com/2022/10/blogged-answers-mostly-complete-guide.html)
 - [React Hook Form: Schema validation using Zod](https://teklinks.andrejnsimoes.com/2022/10/react-hook-form-schema-validation-using.html)
 - [How to write CommonJS exports that can be name-imported from ESM](https://teklinks.andrejnsimoes.com/2022/10/how-to-write-commonjs-exports-that-can.html)
 - [Microfrontends: Microservices for the Frontend](https://teklinks.andrejnsimoes.com/2022/10/microfrontends-microservices-for.html)
 - [Mastering data fetching with React Query and Next.js](https://teklinks.andrejnsimoes.com/2022/10/mastering-data-fetching-with-react.html)
-- [Hiring for remote work in 2022](https://teklinks.andrejnsimoes.com/2022/10/hiring-for-remote-work-in-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
