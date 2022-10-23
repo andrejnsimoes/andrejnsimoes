@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [React Advanced London 2022 - Day 1](https://www.youtube.com/watch?v=1x7mI_xuVVo)
 - [how to never write bug](https://www.youtube.com/watch?v=X3jw1JVNdPE)
 - [Making React Context FAST!](https://www.youtube.com/watch?v=ZKlXqrcBx88)
 - [Understanding Reactivity and SolidJS with Ryan Carniato](https://www.youtube.com/watch?v=N-Y32BqhoYQ)
 - [Stop calling Fleet a VS Code Killer](https://www.youtube.com/watch?v=h55emgImrLk)
-- [Generate Images Programmatically on the Edge](https://www.youtube.com/watch?v=6rYzM_oWi7A)
 <!-- YOUTUBE:END -->
 
 
