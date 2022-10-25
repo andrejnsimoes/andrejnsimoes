@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Proxy vs Reverse Proxy &lpar;Real-world Examples&rpar;](https://www.youtube.com/watch?v=4NB0NDtOwIQ)
 - [React Advanced London 2022 - Day 1](https://www.youtube.com/watch?v=1x7mI_xuVVo)
 - [how to never write bug](https://www.youtube.com/watch?v=X3jw1JVNdPE)
 - [Making React Context FAST!](https://www.youtube.com/watch?v=ZKlXqrcBx88)
-- [Understanding Reactivity and SolidJS with Ryan Carniato](https://www.youtube.com/watch?v=N-Y32BqhoYQ)
-- [Stop calling Fleet a VS Code Killer](https://www.youtube.com/watch?v=h55emgImrLk)
+- [Automatically set up Caching and Task Pipelines in a Lerna monorepo](https://www.youtube.com/watch?v=jaH2BqWo-Pc)
 <!-- YOUTUBE:END -->
 
 
