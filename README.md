@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [New in Chrome 107: Better screen sharing, render blocking resources, Pending Beacon API, and more!](https://www.youtube.com/watch?v=WieUZ9YeD7o)
+- [New in Chrome 107: Better screen sharing, render blocking resources, Pending Beacon API, and more!](https://www.youtube.com/watch?v=WieUZ9YeD7o)
 - [Proxy vs Reverse Proxy &lpar;Real-world Examples&rpar;](https://www.youtube.com/watch?v=4NB0NDtOwIQ)
 - [React Advanced London 2022 - Day 1](https://www.youtube.com/watch?v=1x7mI_xuVVo)
 - [how to never write bug](https://www.youtube.com/watch?v=X3jw1JVNdPE)
-- [Making React Context FAST!](https://www.youtube.com/watch?v=ZKlXqrcBx88)
-- [Automatically set up Caching and Task Pipelines in a Lerna monorepo](https://www.youtube.com/watch?v=jaH2BqWo-Pc)
 <!-- YOUTUBE:END -->
 
 
