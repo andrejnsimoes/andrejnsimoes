@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What&#39;s the Financial Impact of a 4-Day, 32-Hour Work Week](https://teklinks.andrejnsimoes.com/2022/10/whats-financial-impact-of-4-day-32-hour.html)
+- [The Art of Engineering Management](https://teklinks.andrejnsimoes.com/2022/10/the-art-of-engineering-management.html)
+- [From Development to Real Users: How to Create a Web Performance Story](https://teklinks.andrejnsimoes.com/2022/10/from-development-to-real-users-how-to.html)
 - [How to Choose the Ideal Length for Your Team’s Sprints](https://teklinks.andrejnsimoes.com/2022/10/how-to-choose-ideal-length-for-your.html)
 - [When life gives you lemons, write better error messages](https://teklinks.andrejnsimoes.com/2022/10/when-life-gives-you-lemons-write-better.html)
-- [Blogged Answers: A &lpar;Mostly&rpar; Complete Guide to React Rendering Behavior](https://teklinks.andrejnsimoes.com/2022/10/blogged-answers-mostly-complete-guide.html)
-- [React Hook Form: Schema validation using Zod](https://teklinks.andrejnsimoes.com/2022/10/react-hook-form-schema-validation-using.html)
-- [How to write CommonJS exports that can be name-imported from ESM](https://teklinks.andrejnsimoes.com/2022/10/how-to-write-commonjs-exports-that-can.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
