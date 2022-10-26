@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Next 13 vai TRANSFORMAR o front-end! &lpar;novas features&rpar;](https://www.youtube.com/watch?v=eyV8-dgv4pU)
 - [New in Chrome 107: Better screen sharing, render blocking resources, Pending Beacon API, and more!](https://www.youtube.com/watch?v=WieUZ9YeD7o)
 - [New in Chrome 107: Better screen sharing, render blocking resources, Pending Beacon API, and more!](https://www.youtube.com/watch?v=WieUZ9YeD7o)
 - [Next.js Conf Keynote](https://www.youtube.com/watch?v=NiknNI_0J48)
 - [Proxy vs Reverse Proxy &lpar;Real-world Examples&rpar;](https://www.youtube.com/watch?v=4NB0NDtOwIQ)
-- [React Advanced London 2022 - Day 1](https://www.youtube.com/watch?v=1x7mI_xuVVo)
 <!-- YOUTUBE:END -->
 
 
