@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Different ways to open Chrome DevTools | DevTools Tips](https://www.youtube.com/watch?v=X65TAP8a530)
+- [NextJS 13 - First Look at the /app Folder &amp; Complete Demo](https://www.youtube.com/watch?v=bDDuLuCqHg0)
 - [Maia Teegarden: Introducing Turbopack: the Turbo-charged bundler](https://www.youtube.com/watch?v=btqdaqEHw0A)
 - [Next.js 13… this changes everything](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
 - [Next 13 vai TRANSFORMAR o front-end! &lpar;novas features&rpar;](https://www.youtube.com/watch?v=eyV8-dgv4pU)
-- [New in Chrome 107: Better screen sharing, render blocking resources, Pending Beacon API, and more!](https://www.youtube.com/watch?v=WieUZ9YeD7o)
-- [New in Chrome 107: Better screen sharing, render blocking resources, Pending Beacon API, and more!](https://www.youtube.com/watch?v=WieUZ9YeD7o)
 <!-- YOUTUBE:END -->
 
 
