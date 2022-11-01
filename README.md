@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Amazing New VS Code Extension: Console Ninja](https://www.youtube.com/watch?v=bmKDT-yG2eE)
 - [Modern Lerna Walkthrough](https://www.youtube.com/watch?v=1oxFYphTS4Y)
 - [Different ways to open Chrome DevTools | DevTools Tips](https://www.youtube.com/watch?v=X65TAP8a530)
 - [NextJS 13 - First Look at the /app Folder &amp; Complete Demo](https://www.youtube.com/watch?v=bDDuLuCqHg0)
 - [Maia Teegarden: Introducing Turbopack: the Turbo-charged bundler](https://www.youtube.com/watch?v=btqdaqEHw0A)
-- [Next.js 13… this changes everything](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
 <!-- YOUTUBE:END -->
 
 
