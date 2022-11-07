@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [NextJS 13 WARNING: Easy Mistake = Infinite Loops](https://www.youtube.com/watch?v=zwQs4wXr9Bg)
 - [Next.js 13 - The Basics](https://www.youtube.com/watch?v=__mSgDEOyv8)
 - [What is API Gateway?](https://www.youtube.com/watch?v=6ULyxuHKxg8)
 - [Amazing New VS Code Extension: Console Ninja](https://www.youtube.com/watch?v=bmKDT-yG2eE)
 - [Modern Lerna Walkthrough](https://www.youtube.com/watch?v=1oxFYphTS4Y)
-- [Different ways to open Chrome DevTools | DevTools Tips](https://www.youtube.com/watch?v=X65TAP8a530)
 <!-- YOUTUBE:END -->
 
 
