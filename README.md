@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s New In Next.js 13?](https://teklinks.andrejnsimoes.com/2022/11/whats-new-in-nextjs-13.html)
 - [Building systems at scale: how Skyscanner approaches engineering design reviews](https://teklinks.andrejnsimoes.com/2022/11/building-systems-at-scale-how.html)
 - [How to maintain engineering velocity as you scale](https://teklinks.andrejnsimoes.com/2022/11/how-to-maintain-engineering-velocity-as.html)
 - [Build a Component Library for a Better Development Experience](https://teklinks.andrejnsimoes.com/2022/11/build-component-library-for-better.html)
 - [When Is Short Tenure a Red Flag?](https://teklinks.andrejnsimoes.com/2022/11/when-is-short-tenure-red-flag.html)
-- [Inspect your code with Docker and SonarQube](https://teklinks.andrejnsimoes.com/2022/11/inspect-your-code-with-docker-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
