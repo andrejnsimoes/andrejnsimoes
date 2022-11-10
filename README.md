@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [NextJS 13 WARNING: Easy Mistake = Infinite Loops](https://www.youtube.com/watch?v=zwQs4wXr9Bg)
-- [Next.js 13 - The Basics](https://www.youtube.com/watch?v=__mSgDEOyv8)
-- [What is API Gateway?](https://www.youtube.com/watch?v=6ULyxuHKxg8)
-- [Amazing New VS Code Extension: Console Ninja](https://www.youtube.com/watch?v=bmKDT-yG2eE)
-- [Modern Lerna Walkthrough](https://www.youtube.com/watch?v=1oxFYphTS4Y)
+- [What Is GraphQL? REST vs. GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM)
+- [SOLID START SHIPPED!!! CHAT W/ RYAN CARNIATO](https://www.youtube.com/watch?v=hSECorasSK8)
+- [Is FAANG f**ked?](https://www.youtube.com/watch?v=2pfcynxODJc)
+- [Intro To Web Scraping With Puppeteer](https://www.youtube.com/watch?v=S67gyqnYHmI)
+- [What Is Rome?](https://www.youtube.com/watch?v=ts5JEZ93at0)
 <!-- YOUTUBE:END -->
 
 
