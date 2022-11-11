@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [a solid start](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 - [What Is GraphQL? REST vs. GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM)
 - [SOLID START SHIPPED!!! CHAT W/ RYAN CARNIATO](https://www.youtube.com/watch?v=hSECorasSK8)
 - [Is FAANG f**ked?](https://www.youtube.com/watch?v=2pfcynxODJc)
 - [Intro To Web Scraping With Puppeteer](https://www.youtube.com/watch?v=S67gyqnYHmI)
-- [What Is Rome?](https://www.youtube.com/watch?v=ts5JEZ93at0)
 <!-- YOUTUBE:END -->
 
 
