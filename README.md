@@ -50,7 +50,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [React State Management – Intermediate React Course](https://www.youtube.com/watch?v=-bEzt5ISACA)
+- [React State Management – Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA)
 - [a solid start](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 - [What Is GraphQL? REST vs. GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM)
 - [SOLID START SHIPPED!!! CHAT W/ RYAN CARNIATO](https://www.youtube.com/watch?v=hSECorasSK8)
