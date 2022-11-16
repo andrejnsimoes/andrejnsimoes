@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [React State Management – Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA)
+- [Next.js 13 and the Future of the Web w/ Lee Robinson](https://www.youtube.com/watch?v=rnsC-12PVlM)
 - [a solid start](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 - [What Is GraphQL? REST vs. GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM)
 - [SOLID START SHIPPED!!! CHAT W/ RYAN CARNIATO](https://www.youtube.com/watch?v=hSECorasSK8)
-- [Is FAANG f**ked?](https://www.youtube.com/watch?v=2pfcynxODJc)
 <!-- YOUTUBE:END -->
 
 
