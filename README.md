@@ -41,10 +41,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a Modern Documentation Site with VitePress](https://teklinks.andrejnsimoes.com/2022/11/how-to-build-modern-documentation-site_17.html)
-- [How to Build a Modern Documentation Site with VitePress](https://teklinks.andrejnsimoes.com/2022/11/how-to-build-modern-documentation-site.html)
 - [Getting Started with Package-Based Repos](https://teklinks.andrejnsimoes.com/2022/11/getting-started-with-package-based-repos_16.html)
 - [43% Less Code With A Better Data Structure](https://teklinks.andrejnsimoes.com/2022/11/43-less-code-with-better-data-structure.html)
 - [6 Developer Archetypes: Leverage Your Differences](https://teklinks.andrejnsimoes.com/2022/11/6-developer-archetypes-leverage-your.html)
+- [Getting Started with Package-Based Repos](https://teklinks.andrejnsimoes.com/2022/11/getting-started-with-package-based-repos.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
