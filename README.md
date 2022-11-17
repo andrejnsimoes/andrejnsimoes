@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Systems: Inspiration, Resources And Case Studies](https://teklinks.andrejnsimoes.com/2022/11/design-systems-inspiration-resources.html)
-- [A Detailed Guide to Canary Deployments!](https://teklinks.andrejnsimoes.com/2022/11/a-detailed-guide-to-canary-deployments.html)
-- [What’s New In Next.js 13?](https://teklinks.andrejnsimoes.com/2022/11/whats-new-in-nextjs-13.html)
-- [Building systems at scale: how Skyscanner approaches engineering design reviews](https://teklinks.andrejnsimoes.com/2022/11/building-systems-at-scale-how.html)
-- [How to maintain engineering velocity as you scale](https://teklinks.andrejnsimoes.com/2022/11/how-to-maintain-engineering-velocity-as.html)
+- [How to Build a Modern Documentation Site with VitePress](https://teklinks.andrejnsimoes.com/2022/11/how-to-build-modern-documentation-site_17.html)
+- [How to Build a Modern Documentation Site with VitePress](https://teklinks.andrejnsimoes.com/2022/11/how-to-build-modern-documentation-site.html)
+- [Getting Started with Package-Based Repos](https://teklinks.andrejnsimoes.com/2022/11/getting-started-with-package-based-repos_16.html)
+- [43% Less Code With A Better Data Structure](https://teklinks.andrejnsimoes.com/2022/11/43-less-code-with-better-data-structure.html)
+- [6 Developer Archetypes: Leverage Your Differences](https://teklinks.andrejnsimoes.com/2022/11/6-developer-archetypes-leverage-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
