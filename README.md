@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Apps in Deno with Frameworks such as React, Vue, Express, and more.](https://teklinks.andrejnsimoes.com/2022/11/build-apps-in-deno-with-frameworks-such.html)
 - [How to Test React Components with Storybook Interaction Tests](https://teklinks.andrejnsimoes.com/2022/11/how-to-test-react-components-with.html)
 - [Treat Your Personal Projects with Respect and See More Progress](https://teklinks.andrejnsimoes.com/2022/11/treat-your-personal-projects-with.html)
 - [How to Build a Modern Documentation Site with VitePress](https://teklinks.andrejnsimoes.com/2022/11/how-to-build-modern-documentation-site_17.html)
 - [Getting Started with Package-Based Repos](https://teklinks.andrejnsimoes.com/2022/11/getting-started-with-package-based-repos_16.html)
-- [43% Less Code With A Better Data Structure](https://teklinks.andrejnsimoes.com/2022/11/43-less-code-with-better-data-structure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
