@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Debugging teams with the Lencioni Model](https://teklinks.andrejnsimoes.com/2022/11/debugging-teams-with-lencioni-model.html)
+- [If software architects&#39; soft skills fail, so does the business](https://teklinks.andrejnsimoes.com/2022/11/if-software-architects-soft-skills-fail.html)
 - [Microservices with NestJS, Kafka, and TypeScript](https://teklinks.andrejnsimoes.com/2022/11/microservices-with-nestjs-kafka-and.html)
 - [17 DevOps Metrics To Measure Success](https://teklinks.andrejnsimoes.com/2022/11/17-devops-metrics-to-measure-success.html)
 - [Working with Zustand](https://teklinks.andrejnsimoes.com/2022/11/working-with-zustand.html)
-- [Make the First 90 Days Count](https://teklinks.andrejnsimoes.com/2022/11/make-first-90-days-count.html)
-- [How PlanetScale Boost serves your SQL queries instantly](https://teklinks.andrejnsimoes.com/2022/11/how-planetscale-boost-serves-your-sql.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
