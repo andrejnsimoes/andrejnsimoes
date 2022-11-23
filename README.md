@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Startup Culture Is The Key To Your Company’s Success](https://teklinks.andrejnsimoes.com/2022/11/why-your-startup-culture-is-key-to-your_23.html)
+- [What’s so great about functional programming anyway?](https://teklinks.andrejnsimoes.com/2022/11/whats-so-great-about-functional.html)
 - [Debugging teams with the Lencioni Model](https://teklinks.andrejnsimoes.com/2022/11/debugging-teams-with-lencioni-model.html)
 - [If software architects&#39; soft skills fail, so does the business](https://teklinks.andrejnsimoes.com/2022/11/if-software-architects-soft-skills-fail.html)
 - [Microservices with NestJS, Kafka, and TypeScript](https://teklinks.andrejnsimoes.com/2022/11/microservices-with-nestjs-kafka-and.html)
-- [17 DevOps Metrics To Measure Success](https://teklinks.andrejnsimoes.com/2022/11/17-devops-metrics-to-measure-success.html)
-- [Working with Zustand](https://teklinks.andrejnsimoes.com/2022/11/working-with-zustand.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
