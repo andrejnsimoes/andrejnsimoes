@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Construindo um app fullstack com o melhor do TypeScript](https://www.youtube.com/watch?v=fx7JqqCw1qg)
+- [What Is A CDN? How Does It Work?](https://www.youtube.com/watch?v=RI9np1LWzqw)
 - [100+ JavaScript Concepts you Need to Know](https://www.youtube.com/watch?v=lkIFF4maKMU)
 - [What Is Single Sign-on &lpar;SSO&rpar;? How It Works](https://www.youtube.com/watch?v=O1cRJWYF-g4)
 - [Lee Rob &amp; Theo Chat The Future Of Next.js and The Web](https://www.youtube.com/watch?v=rnsC-12PVlM)
-- [React State Management – Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA)
-- [a solid start](https://www.youtube.com/watch?v=DVWu2b7mvFg)
 <!-- YOUTUBE:END -->
 
 
