@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Distributed Computing Manifesto](https://teklinks.andrejnsimoes.com/2022/11/the-distributed-computing-manifesto.html)
+- [Build a React App Using DALL-E API](https://teklinks.andrejnsimoes.com/2022/11/build-react-app-using-dall-e-api.html)
 - [Good or Bad Conflict? Understanding the Difference](https://teklinks.andrejnsimoes.com/2022/11/good-or-bad-conflict-understanding.html)
 - [Dependency management in practice](https://teklinks.andrejnsimoes.com/2022/11/dependency-management-in-practice.html)
 - [Why Your Startup Culture Is The Key To Your Company’s Success](https://teklinks.andrejnsimoes.com/2022/11/why-your-startup-culture-is-key-to-your_23.html)
-- [What’s so great about functional programming anyway?](https://teklinks.andrejnsimoes.com/2022/11/whats-so-great-about-functional.html)
-- [Debugging teams with the Lencioni Model](https://teklinks.andrejnsimoes.com/2022/11/debugging-teams-with-lencioni-model.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
