@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [An Interactive Guide to Flexbox](https://teklinks.andrejnsimoes.com/2022/11/an-interactive-guide-to-flexbox.html)
+- [Clean Code in TypeScript](https://teklinks.andrejnsimoes.com/2022/11/clean-code-in-typescript.html)
 - [Software Development Involves Uncertainty, and That’s Okay](https://teklinks.andrejnsimoes.com/2022/11/software-development-involves.html)
 - [A Comprehensive List of Agile Methodologies and How They Work](https://teklinks.andrejnsimoes.com/2022/11/a-comprehensive-list-of-agile.html)
 - [Build a React App Using DALL-E API](https://teklinks.andrejnsimoes.com/2022/11/build-react-app-using-dall-e-api.html)
-- [The Distributed Computing Manifesto](https://teklinks.andrejnsimoes.com/2022/11/the-distributed-computing-manifesto.html)
-- [Good or Bad Conflict? Understanding the Difference](https://teklinks.andrejnsimoes.com/2022/11/good-or-bad-conflict-understanding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
