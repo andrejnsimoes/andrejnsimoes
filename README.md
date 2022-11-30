@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [What is Turbopack?](https://www.youtube.com/watch?v=6ZwnBI4Rb1w)
 - [Zod Makes TypeScript Even Better](https://www.youtube.com/watch?v=9UVPk0Ulm6U)
 - [TypeScript 5.0 is coming...](https://www.youtube.com/watch?v=PTU-H6Wwbh8)
 - [Construindo um app fullstack com o melhor do TypeScript](https://www.youtube.com/watch?v=fx7JqqCw1qg)
 - [What Is A CDN? How Does It Work?](https://www.youtube.com/watch?v=RI9np1LWzqw)
-- [JavaScript for the Haters](https://www.youtube.com/watch?v=aXOChLn5ZdQ)
 <!-- YOUTUBE:END -->
 
 
