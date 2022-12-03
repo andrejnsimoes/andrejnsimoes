@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Answering the Question, &quot;What’s Your Professional Opinion?&quot;](https://teklinks.andrejnsimoes.com/2022/12/answering-question-whats-your.html)
+- [How to know what to test](https://teklinks.andrejnsimoes.com/2022/12/how-to-know-what-to-test.html)
 - [Become an Elite Team With Dora Metrics](https://teklinks.andrejnsimoes.com/2022/12/become-elite-team-with-dora-metrics_2.html)
 - [Movies app in 7 frameworks - which is fastest and why?](https://teklinks.andrejnsimoes.com/2022/12/movies-app-in-7-frameworks-which-is.html)
 - [Loosely Coupled Architecture: Easy explanation](https://teklinks.andrejnsimoes.com/2022/12/loosely-coupled-architecture-easy.html)
-- [Deno vs Node.js: A Must-Have Comparison for 2022](https://teklinks.andrejnsimoes.com/2022/11/deno-vs-nodejs-must-have-comparison-for.html)
-- [You can add biometric authentication to your webpage. Here’s how.](https://teklinks.andrejnsimoes.com/2022/11/you-can-add-biometric-authentication-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
