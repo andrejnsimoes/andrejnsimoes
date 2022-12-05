@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [React Streaming In Depth! NextJS! Remix! DIY!](https://www.youtube.com/watch?v=o3JWb04DRIs)
 - [Auth Does NOT Have To Be Hard](https://www.youtube.com/watch?v=mL8EuL7jSbg)
 - [What is RPC? gRPC Introduction.](https://www.youtube.com/watch?v=gnchfOojMk4)
 - [Stop Writing Fake React Code](https://www.youtube.com/watch?v=s-lumOeD2fk)
 - [Remix Crash Course 2023 &lpar;React Framework&rpar;](https://www.youtube.com/watch?v=RBYJTop1e-g)
-- [How to Setup Node.js with TypeScript in 2023](https://www.youtube.com/watch?v=H91aqUHn8sE)
 <!-- YOUTUBE:END -->
 
 
