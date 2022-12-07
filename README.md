@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside React Query](https://teklinks.andrejnsimoes.com/2022/12/inside-react-query.html)
+- [3 Practices for Creating a Comfortable Environment for Junior Developers](https://teklinks.andrejnsimoes.com/2022/12/3-practices-for-creating-comfortable.html)
+- [How To Locate Elements in Playwright](https://teklinks.andrejnsimoes.com/2022/12/how-to-locate-elements-in-playwright.html)
+- [Strategies and Tools for Performing Migrations on Platform](https://teklinks.andrejnsimoes.com/2022/12/strategies-and-tools-for-performing.html)
 - [Strategies for migrating from a monolith to islands](https://teklinks.andrejnsimoes.com/2022/12/strategies-for-migrating-from-monolith.html)
-- [A coach, a mentor and a sponsor](https://teklinks.andrejnsimoes.com/2022/12/a-coach-mentor-and-sponsor.html)
-- [React Testing Library Tutorial – How to Write Unit Tests for React Apps](https://teklinks.andrejnsimoes.com/2022/12/react-testing-library-tutorial-how-to.html)
-- [Focus on high-leverage activities.](https://teklinks.andrejnsimoes.com/2022/12/focus-on-high-leverage-activities.html)
+- [Inside React Query](https://teklinks.andrejnsimoes.com/2022/12/inside-react-query.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
