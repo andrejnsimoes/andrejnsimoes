@@ -54,7 +54,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [5 Async + Await Error Handling Strategies](https://www.youtube.com/watch?v=wsoQ-fgaoyQ)
 - [Introduction to Qwik for JS Developers ft. Miško Hevery | JS Drops](https://www.youtube.com/watch?v=DxJgXw91cCQ)
 - [Dramatically improve website speed with Partytown](https://www.youtube.com/watch?v=ZZIR1NGwy-s)
-- [Things are gonna get weird in 2023](https://www.youtube.com/watch?v=1v_TEnpqHXE)
+- [Build An AI Image Generator With OpenAI &amp; Node.js](https://www.youtube.com/watch?v=fU4o_BKaUZE)
 <!-- YOUTUBE:END -->
 
 
