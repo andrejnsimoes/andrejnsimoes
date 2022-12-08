@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [What&#39;s new in Nx 15.3?](https://www.youtube.com/watch?v=KBFQZw5ynFs)
+- [5 Async + Await Error Handling Strategies](https://www.youtube.com/watch?v=wsoQ-fgaoyQ)
 - [Introduction to Qwik for JS Developers ft. Miško Hevery | JS Drops](https://www.youtube.com/watch?v=DxJgXw91cCQ)
 - [Dramatically improve website speed with Partytown](https://www.youtube.com/watch?v=ZZIR1NGwy-s)
 - [Things are gonna get weird in 2023](https://www.youtube.com/watch?v=1v_TEnpqHXE)
-- [React Streaming In Depth: NextJS! Remix! DIY!](https://www.youtube.com/watch?v=o3JWb04DRIs)
-- [Auth Does NOT Have To Be Hard](https://www.youtube.com/watch?v=mL8EuL7jSbg)
 <!-- YOUTUBE:END -->
 
 
