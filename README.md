@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [What will AI Programming look like in 5 Years?](https://www.youtube.com/watch?v=eaedq1Jl2fc)
+- [Vercel&#39;s OG image service is insane](https://www.youtube.com/watch?v=qMmc0IwXa7U)
 - [What&#39;s new in Nx 15.3?](https://www.youtube.com/watch?v=KBFQZw5ynFs)
 - [5 Async + Await Error Handling Strategies](https://www.youtube.com/watch?v=wsoQ-fgaoyQ)
 - [Introduction to Qwik for JS Developers ft. Miško Hevery | JS Drops](https://www.youtube.com/watch?v=DxJgXw91cCQ)
-- [Dramatically improve website speed with Partytown](https://www.youtube.com/watch?v=ZZIR1NGwy-s)
-- [Build An AI Image Generator With OpenAI &amp; Node.js](https://www.youtube.com/watch?v=fU4o_BKaUZE)
 <!-- YOUTUBE:END -->
 
 
