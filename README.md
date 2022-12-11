@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Prerender pages in Chrome for instant page navigations](https://teklinks.andrejnsimoes.com/2022/12/prerender-pages-in-chrome-for-instant.html)
+- [Take advantage of Git rebase](https://teklinks.andrejnsimoes.com/2022/12/take-advantage-of-git-rebase.html)
+- [Automatic refactoring with jscodeshift/codemods](https://teklinks.andrejnsimoes.com/2022/12/automatic-refactoring-with.html)
 - [How to choose the right static site generator](https://teklinks.andrejnsimoes.com/2022/12/how-to-choose-right-static-site.html)
 - [ChatGPT: Optimizing Language Models for Dialogue](https://teklinks.andrejnsimoes.com/2022/12/chatgpt-optimizing-language-models-for.html)
-- [How To Locate Elements in Playwright](https://teklinks.andrejnsimoes.com/2022/12/how-to-locate-elements-in-playwright.html)
-- [3 Practices for Creating a Comfortable Environment for Junior Developers](https://teklinks.andrejnsimoes.com/2022/12/3-practices-for-creating-comfortable.html)
-- [Strategies and Tools for Performing Migrations on Platform](https://teklinks.andrejnsimoes.com/2022/12/strategies-and-tools-for-performing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
