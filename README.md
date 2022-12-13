@@ -40,9 +40,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [“Memory Saver” might cure Chrome’s insatiable appetite for RAM](https://teklinks.andrejnsimoes.com/2022/12/memory-saver-might-cure-chromes.html)
 - [Recognize When It’s Time to Stop Rapid Release of Great Features](https://teklinks.andrejnsimoes.com/2022/12/recognize-when-its-time-to-stop-rapid.html)
 - [ChatGPT: Everything You Need to Know Right Now](https://teklinks.andrejnsimoes.com/2022/12/chatgpt-everything-you-need-to-know.html)
-- [“Memory Saver” might cure Chrome’s insatiable appetite for RAM](https://teklinks.andrejnsimoes.com/2022/12/memory-saver-might-cure-chromes.html)
 - [Prerender pages in Chrome for instant page navigations](https://teklinks.andrejnsimoes.com/2022/12/prerender-pages-in-chrome-for-instant.html)
 - [Take advantage of Git rebase](https://teklinks.andrejnsimoes.com/2022/12/take-advantage-of-git-rebase.html)
 <!-- BLOG-POST-LIST:END -->
