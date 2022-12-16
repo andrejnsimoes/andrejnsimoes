@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Apps with Great Startup Performance Using Qwik](https://teklinks.andrejnsimoes.com/2022/12/how-to-build-apps-with-great-startup.html)
+- [Just laid off? Nervous about possible layoffs? Here’s what to do.](https://teklinks.andrejnsimoes.com/2022/12/just-laid-off-nervous-about-possible.html)
+- [12 Factor App Revisited](https://teklinks.andrejnsimoes.com/2022/12/12-factor-app-revisited.html)
 - [Web workers, React, and TypeScript](https://teklinks.andrejnsimoes.com/2022/12/web-workers-react-and-typescript.html)
 - [Building a High-Performing Engineering Team](https://teklinks.andrejnsimoes.com/2022/12/building-high-performing-engineering.html)
-- [Avoid These Common Pitfalls Of React useState](https://teklinks.andrejnsimoes.com/2022/12/avoid-these-common-pitfalls-of-react.html)
-- [“Memory Saver” might cure Chrome’s insatiable appetite for RAM](https://teklinks.andrejnsimoes.com/2022/12/memory-saver-might-cure-chromes.html)
-- [Recognize When It’s Time to Stop Rapid Release of Great Features](https://teklinks.andrejnsimoes.com/2022/12/recognize-when-its-time-to-stop-rapid.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
