@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [SvelteKit is my mistress](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
 - [Speed Up Your React Apps With Code Splitting](https://www.youtube.com/watch?v=JU6sl_yyZqs)
 - [Make menu bar apps in JavaScript!](https://www.youtube.com/watch?v=yiYa3f8DqhQ)
 - [Intl.RelativeTimeFormat Is A Game Changer In JavaScript](https://www.youtube.com/watch?v=Nn-5dTtVqqk)
 - [What will AI Programming look like in 5 Years?](https://www.youtube.com/watch?v=eaedq1Jl2fc)
-- [Vercel&#39;s OG image service is incredible](https://www.youtube.com/watch?v=qMmc0IwXa7U)
 <!-- YOUTUBE:END -->
 
 
