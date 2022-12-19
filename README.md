@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Vite 4](https://teklinks.andrejnsimoes.com/2022/12/announcing-vite-4.html)
 - [Lessons learned: how I’d rebuild a social web app like Twitter today](https://teklinks.andrejnsimoes.com/2022/12/lessons-learned-how-id-rebuild-social.html)
 - [What is a North Star metric &lpar;NSM&rpar;?](https://teklinks.andrejnsimoes.com/2022/12/what-is-north-star-metric-nsm.html)
 - [Why Technical Skill Isn’t the Most Important Proficiency for Engineers](https://teklinks.andrejnsimoes.com/2022/12/why-technical-skill-isnt-most-important.html)
 - [How to Build Apps with Great Startup Performance Using Qwik](https://teklinks.andrejnsimoes.com/2022/12/how-to-build-apps-with-great-startup.html)
-- [Just laid off? Nervous about possible layoffs? Here’s what to do.](https://teklinks.andrejnsimoes.com/2022/12/just-laid-off-nervous-about-possible.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
