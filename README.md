@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Manager: Resolving Intrapersonal Conflicts](https://teklinks.andrejnsimoes.com/2022/12/engineering-manager-resolving.html)
+- [How to migrate from yarn / npm to pnpm](https://teklinks.andrejnsimoes.com/2022/12/how-to-migrate-from-yarn-npm-to-pnpm.html)
+- [A brief introduction of vite-plugin-federation](https://teklinks.andrejnsimoes.com/2022/12/a-brief-introduction-of-vite-plugin.html)
 - [Pagination vs. infinite scroll: Making the right decision for UX](https://teklinks.andrejnsimoes.com/2022/12/pagination-vs-infinite-scroll-making.html)
 - [Top 10 Project Management Software Tools](https://teklinks.andrejnsimoes.com/2022/12/top-10-project-management-software-tools.html)
-- [Announcing Vite 4](https://teklinks.andrejnsimoes.com/2022/12/announcing-vite-4.html)
-- [Lessons learned: how I’d rebuild a social web app like Twitter today](https://teklinks.andrejnsimoes.com/2022/12/lessons-learned-how-id-rebuild-social.html)
-- [What is a North Star metric &lpar;NSM&rpar;?](https://teklinks.andrejnsimoes.com/2022/12/what-is-north-star-metric-nsm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
