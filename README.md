@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [When to use gRPC vs GraphQL](https://teklinks.andrejnsimoes.com/2022/12/when-to-use-grpc-vs-graphql.html)
+- [10 Ways Managers are Wasting Their Developers&#39; Potential](https://teklinks.andrejnsimoes.com/2022/12/10-ways-managers-are-wasting-their.html)
 - [Engineering Manager: Resolving Intrapersonal Conflicts](https://teklinks.andrejnsimoes.com/2022/12/engineering-manager-resolving.html)
 - [How to migrate from yarn / npm to pnpm](https://teklinks.andrejnsimoes.com/2022/12/how-to-migrate-from-yarn-npm-to-pnpm.html)
 - [A brief introduction of vite-plugin-federation](https://teklinks.andrejnsimoes.com/2022/12/a-brief-introduction-of-vite-plugin.html)
-- [Pagination vs. infinite scroll: Making the right decision for UX](https://teklinks.andrejnsimoes.com/2022/12/pagination-vs-infinite-scroll-making.html)
-- [Top 10 Project Management Software Tools](https://teklinks.andrejnsimoes.com/2022/12/top-10-project-management-software-tools.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
