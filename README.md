@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Next, Nest, Nuxt… Nust?](https://teklinks.andrejnsimoes.com/2022/12/next-nest-nuxt-nust.html)
+- [Job insights from the tech community: The latest survey results from Stack Overflow Knows](https://teklinks.andrejnsimoes.com/2022/12/job-insights-from-tech-community-latest.html)
+- [A React Developer&#39;s First Take on Solid](https://teklinks.andrejnsimoes.com/2022/12/a-react-developers-first-take-on-solid.html)
 - [When to use gRPC vs GraphQL](https://teklinks.andrejnsimoes.com/2022/12/when-to-use-grpc-vs-graphql.html)
 - [10 Ways Managers are Wasting Their Developers&#39; Potential](https://teklinks.andrejnsimoes.com/2022/12/10-ways-managers-are-wasting-their.html)
-- [Engineering Manager: Resolving Intrapersonal Conflicts](https://teklinks.andrejnsimoes.com/2022/12/engineering-manager-resolving.html)
-- [How to migrate from yarn / npm to pnpm](https://teklinks.andrejnsimoes.com/2022/12/how-to-migrate-from-yarn-npm-to-pnpm.html)
-- [A brief introduction of vite-plugin-federation](https://teklinks.andrejnsimoes.com/2022/12/a-brief-introduction-of-vite-plugin.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
