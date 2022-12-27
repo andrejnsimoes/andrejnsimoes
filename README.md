@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Use and Deploy Vite With React](https://teklinks.andrejnsimoes.com/2022/12/how-use-and-deploy-vite-with-react.html)
+- [Important JavaScript concepts that every developer should know.](https://teklinks.andrejnsimoes.com/2022/12/important-javascript-concepts-that.html)
+- [20 Git Commands you &lpar;probably&rpar; didn&#39;t know about 🧙‍♂️](https://teklinks.andrejnsimoes.com/2022/12/20-git-commands-you-probably-didnt-know.html)
 - [Monolith to Module Federation](https://teklinks.andrejnsimoes.com/2022/12/monolith-to-module-federation.html)
 - [Using SvelteKit 1.0 on Vercel – Vercel](https://teklinks.andrejnsimoes.com/2022/12/using-sveltekit-10-on-vercel-vercel.html)
-- [The BBC&#39;s 15 Web Principles - 15 years later](https://teklinks.andrejnsimoes.com/2022/12/the-bbcs-15-web-principles-15-years.html)
-- [Next, Nest, Nuxt… Nust?](https://teklinks.andrejnsimoes.com/2022/12/next-nest-nuxt-nust.html)
-- [Job insights from the tech community: The latest survey results from Stack Overflow Knows](https://teklinks.andrejnsimoes.com/2022/12/job-insights-from-tech-community-latest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
