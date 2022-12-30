@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Best practices to increase the speed for Next.js apps](https://teklinks.andrejnsimoes.com/2022/12/best-practices-to-increase-speed-for.html)
+- [VS Code Shortcuts To Code Like You’re Playing a Piano](https://teklinks.andrejnsimoes.com/2022/12/vs-code-shortcuts-to-code-like-youre.html)
+- [Remember When Your Team Decided What with Obsidian](https://teklinks.andrejnsimoes.com/2022/12/remember-when-your-team-decided-what.html)
 - [Book Recommendations for Software Engineers](https://teklinks.andrejnsimoes.com/2022/12/book-recommendations-for-software.html)
 - [The Missing Part of GitHub Actions Workflows: Monitoring](https://teklinks.andrejnsimoes.com/2022/12/the-missing-part-of-github-actions.html)
-- [Big O Notation - Why? When? Where?](https://teklinks.andrejnsimoes.com/2022/12/big-o-notation-why-when-where.html)
-- [To Retain Your Best Employees, Invest in Your Best Managers](https://teklinks.andrejnsimoes.com/2022/12/to-retain-your-best-employees-invest-in.html)
-- [Switching an NX repo to PNPM](https://teklinks.andrejnsimoes.com/2022/12/switching-nx-repo-to-pnpm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
