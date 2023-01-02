@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating a large, open-source React application to Next.js and Vercel](https://teklinks.andrejnsimoes.com/2023/01/migrating-large-open-source-react.html)
+- [When to use gRPC vs GraphQL](https://teklinks.andrejnsimoes.com/2023/01/when-to-use-grpc-vs-graphql.html)
+- [Fetching and caching Supabase data in Next.js 13 Server Components](https://teklinks.andrejnsimoes.com/2023/01/fetching-and-caching-supabase-data-in.html)
+- [Quality Management – Whose Responsibility is it Anyway?](https://teklinks.andrejnsimoes.com/2023/01/quality-management-whose-responsibility.html)
 - [Best practices to increase the speed for Next.js apps](https://teklinks.andrejnsimoes.com/2022/12/best-practices-to-increase-speed-for.html)
-- [VS Code Shortcuts To Code Like You’re Playing a Piano](https://teklinks.andrejnsimoes.com/2022/12/vs-code-shortcuts-to-code-like-youre.html)
-- [Remember When Your Team Decided What with Obsidian](https://teklinks.andrejnsimoes.com/2022/12/remember-when-your-team-decided-what.html)
-- [Book Recommendations for Software Engineers](https://teklinks.andrejnsimoes.com/2022/12/book-recommendations-for-software.html)
-- [The Missing Part of GitHub Actions Workflows: Monitoring](https://teklinks.andrejnsimoes.com/2022/12/the-missing-part-of-github-actions.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
