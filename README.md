@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 AWS Architecture Blog posts of 2022](https://teklinks.andrejnsimoes.com/2023/01/top-10-aws-architecture-blog-posts-of.html)
+- [Zustand vs. Signals](https://teklinks.andrejnsimoes.com/2023/01/zustand-vs-signals.html)
+- [What is Corepack in Node.js](https://teklinks.andrejnsimoes.com/2023/01/what-is-corepack-in-nodejs.html)
 - [Migrating a large, open-source React application to Next.js and Vercel](https://teklinks.andrejnsimoes.com/2023/01/migrating-large-open-source-react.html)
 - [When to use gRPC vs GraphQL](https://teklinks.andrejnsimoes.com/2023/01/when-to-use-grpc-vs-graphql.html)
-- [Fetching and caching Supabase data in Next.js 13 Server Components](https://teklinks.andrejnsimoes.com/2023/01/fetching-and-caching-supabase-data-in.html)
-- [Quality Management – Whose Responsibility is it Anyway?](https://teklinks.andrejnsimoes.com/2023/01/quality-management-whose-responsibility.html)
-- [Best practices to increase the speed for Next.js apps](https://teklinks.andrejnsimoes.com/2022/12/best-practices-to-increase-speed-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
