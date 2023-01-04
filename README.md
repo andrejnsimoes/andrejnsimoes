@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How to ACTUALLY learn to code... 7 Roadmaps for 2023](https://www.youtube.com/watch?v=66tfvFeALBQ)
+- [Solving a JavaScript Array Reduce Interview Question](https://www.youtube.com/watch?v=izVZ22XaZUc)
 - [The easiest realtime app I’ve ever built](https://www.youtube.com/watch?v=UbOaAtHWidc)
 - [Technologies I&#39;m Learning in 2023](https://www.youtube.com/watch?v=dCCaYEG5KeA)
 - [Nx 2022 Year in Review](https://www.youtube.com/watch?v=b0bDILh4p3Q)
-- [Nx 15.4 is out! Here&#39;s all you need to know](https://www.youtube.com/watch?v=G02THNy3PcE)
-- [SvelteKit is my mistress](https://www.youtube.com/watch?v=uEJ-Rnm2yOE)
 <!-- YOUTUBE:END -->
 
 
