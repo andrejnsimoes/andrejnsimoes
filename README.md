@@ -40,9 +40,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The State Of Usability In 2023 🎊](https://teklinks.andrejnsimoes.com/2023/01/the-state-of-usability-in-2023.html)
 - [Engineering Manager: Resolving Organizational Conflicts](https://teklinks.andrejnsimoes.com/2023/01/engineering-manager-resolving.html)
 - [Who’s Next? Keeping Standup Moving on Large Teams](https://teklinks.andrejnsimoes.com/2023/01/whos-next-keeping-standup-moving-on.html)
-- [The State Of Usability In 2023 🎊](https://teklinks.andrejnsimoes.com/2023/01/the-state-of-usability-in-2023.html)
 - [Top 10 AWS Architecture Blog posts of 2022](https://teklinks.andrejnsimoes.com/2023/01/top-10-aws-architecture-blog-posts-of.html)
 - [Zustand vs. Signals](https://teklinks.andrejnsimoes.com/2023/01/zustand-vs-signals.html)
 <!-- BLOG-POST-LIST:END -->
