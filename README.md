@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Microfrontends Anti-Patterns: 7 Years in the Trenches](https://teklinks.andrejnsimoes.com/2023/01/microfrontends-anti-patterns-7-years-in.html)
+- [Remote work is killing big offices. Cities must change to survive](https://teklinks.andrejnsimoes.com/2023/01/remote-work-is-killing-big-offices.html)
+- [Five books every developer should read](https://teklinks.andrejnsimoes.com/2023/01/five-books-every-developer-should-read.html)
 - [The Biggest Regrets Senior Developers Have In Their Careers](https://teklinks.andrejnsimoes.com/2023/01/the-biggest-regrets-senior-developers.html)
 - [Migrating our Largest Mobile App to React Native](https://teklinks.andrejnsimoes.com/2023/01/migrating-our-largest-mobile-app-to.html)
-- [The Subtle Art of Being A Developer Advocate](https://teklinks.andrejnsimoes.com/2023/01/the-subtle-art-of-being-developer.html)
-- [The Benefits of a Spiking Phase in Agile Development](https://teklinks.andrejnsimoes.com/2023/01/the-benefits-of-spiking-phase-in-agile.html)
-- [The Great Resignation is here. What does that mean for developers?](https://teklinks.andrejnsimoes.com/2023/01/the-great-resignation-is-here-what-does.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
