@@ -40,7 +40,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Desk Job Giving You Neck, Shoulder and Back Pain? 3 Stretches and Exercises for Short Term Relief](https://teklinks.andrejnsimoes.com/2023/01/desk-job-giving-you-neck-shoulder-and.html)
+- [Desk Job Giving You Neck, Shoulder and Back Pain?](https://teklinks.andrejnsimoes.com/2023/01/desk-job-giving-you-neck-shoulder-and.html)
 - [What makes an effective software engineer?](https://teklinks.andrejnsimoes.com/2023/01/what-makes-effective-software-engineer.html)
 - [Marie Kondo your software stack with open source](https://teklinks.andrejnsimoes.com/2023/01/marie-kondo-your-software-stack-with.html)
 - [A Guide To Command-Line Data Manipulation](https://teklinks.andrejnsimoes.com/2023/01/a-guide-to-command-line-data.html)
