@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity](https://www.youtube.com/watch?v=sTeoEFzVNSc)
 - [Kafka in 100 Seconds](https://www.youtube.com/watch?v=uvb00oaa3k8)
 - [10 Rendering Patterns for Web Apps](https://www.youtube.com/watch?v=Dkx5ydvtpCA)
 - [Guia de estudo JavaScript em 2023! &lpar;o que eu focaria&rpar;](https://www.youtube.com/watch?v=EDotqZwJ4aA)
 - [get a grip on grep](https://www.youtube.com/watch?v=5_t_I_4OuwQ)
-- [How to ACTUALLY learn to code... 7 Roadmaps for 2023](https://www.youtube.com/watch?v=66tfvFeALBQ)
 <!-- YOUTUBE:END -->
 
 
