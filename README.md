@@ -40,8 +40,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [4 Tips for Developers to Lighten the Cognitive Load for Your Lead](https://teklinks.andrejnsimoes.com/2023/01/4-tips-for-developers-to-lighten.html)
 - [Our top Core Web Vitals recommendations for 2023](https://teklinks.andrejnsimoes.com/2023/01/our-top-core-web-vitals-recommendations.html)
+- [4 Tips for Developers to Lighten the Cognitive Load for Your Lead](https://teklinks.andrejnsimoes.com/2023/01/4-tips-for-developers-to-lighten.html)
 - [Ultimate ChatGPT Resource Guide - ChatGPT Tutorial](https://teklinks.andrejnsimoes.com/2023/01/ultimate-chatgpt-resource-guide-chatgpt.html)
 - [How to Build a GraphQL Server with Deno](https://teklinks.andrejnsimoes.com/2023/01/how-to-build-graphql-server-with-deno.html)
 - [Agile Best Practices, Values, and Principles for Effective Teams 2023](https://teklinks.andrejnsimoes.com/2023/01/agile-best-practices-values-and.html)
