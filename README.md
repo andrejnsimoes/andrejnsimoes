@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [4 TypeScript tips: as const, typeof, keyof and template string types](https://www.youtube.com/watch?v=Eat7AXkEtNs)
+- [CI/CD In 5 Minutes | Is It Worth The Hassle?](https://www.youtube.com/watch?v=42UP1fxi2SY)
 - [You don&#39;t need Node to use NPM packages](https://www.youtube.com/watch?v=cv7ci6GT5Hg)
 - [4 libs que não podem faltar no Node.js com TypeScript &lpar;Setup Node.js + TypeScript&rpar;](https://www.youtube.com/watch?v=mxiRCcnsKDw)
-- [Did NextJS 13 Break State Management?](https://www.youtube.com/watch?v=OpMAH2hzKi8)
-- [Tailwind CSS is the worst…](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
+- [Learn React Query In 50 Minutes](https://www.youtube.com/watch?v=r8Dg0KVnfMA)
 <!-- YOUTUBE:END -->
 
 
