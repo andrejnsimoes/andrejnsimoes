@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [You don&#39;t need Node to use NPM packages](https://www.youtube.com/watch?v=cv7ci6GT5Hg)
+- [4 libs que não podem faltar no Node.js com TypeScript &lpar;Setup Node.js + TypeScript&rpar;](https://www.youtube.com/watch?v=mxiRCcnsKDw)
 - [Did NextJS 13 Break State Management?](https://www.youtube.com/watch?v=OpMAH2hzKi8)
 - [Tailwind CSS is the worst…](https://www.youtube.com/watch?v=lHZwlzOUOZ4)
 - [The Official JavaScript Tier List is Here](https://www.youtube.com/watch?v=vdiYtiKD8eI)
-- [ChatGPT Tutorial for Developers - 38 Ways to 10x Your Productivity](https://www.youtube.com/watch?v=sTeoEFzVNSc)
-- [From Create-React-App to Vite in 10 seconds](https://www.youtube.com/watch?v=zvYb7XCLQzU)
 <!-- YOUTUBE:END -->
 
 
