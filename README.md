@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Structure a Valuable README](https://teklinks.andrejnsimoes.com/2023/01/how-to-structure-valuable-readme.html)
+- [Timeline of a React Component With Hooks](https://teklinks.andrejnsimoes.com/2023/01/timeline-of-react-component-with-hooks.html)
 - [Making Your Collaboration Problems Go Away By Sharing Components](https://teklinks.andrejnsimoes.com/2023/01/making-your-collaboration-problems-go.html)
 - [Build a Serverless ChatGPT SMS Chatbot with the OpenAI API](https://teklinks.andrejnsimoes.com/2023/01/build-serverless-chatgpt-sms-chatbot.html)
 - [Our top Core Web Vitals recommendations for 2023](https://teklinks.andrejnsimoes.com/2023/01/our-top-core-web-vitals-recommendations.html)
-- [4 Tips for Developers to Lighten the Cognitive Load for Your Lead](https://teklinks.andrejnsimoes.com/2023/01/4-tips-for-developers-to-lighten.html)
-- [Ultimate ChatGPT Resource Guide - ChatGPT Tutorial](https://teklinks.andrejnsimoes.com/2023/01/ultimate-chatgpt-resource-guide-chatgpt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
