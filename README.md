@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [5 ideas for your own AI grift with ChatGPT](https://www.youtube.com/watch?v=Aa83vRghue4)
 - [4 TypeScript tips: as const, typeof, keyof and template string types](https://www.youtube.com/watch?v=Eat7AXkEtNs)
 - [CI/CD In 5 Minutes | Is It Worth The Hassle?](https://www.youtube.com/watch?v=42UP1fxi2SY)
 - [You don&#39;t need Node to use NPM packages](https://www.youtube.com/watch?v=cv7ci6GT5Hg)
 - [4 libs que não podem faltar no Node.js com TypeScript &lpar;Setup Node.js + TypeScript&rpar;](https://www.youtube.com/watch?v=mxiRCcnsKDw)
-- [Learn React Query In 50 Minutes](https://www.youtube.com/watch?v=r8Dg0KVnfMA)
 <!-- YOUTUBE:END -->
 
 
