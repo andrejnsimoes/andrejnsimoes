@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Async React with NextJS 13](https://teklinks.andrejnsimoes.com/2023/01/async-react-with-nextjs-13.html)
+- [The Value of Doing On-Site Customer Interviews](https://teklinks.andrejnsimoes.com/2023/01/the-value-of-doing-on-site-customer.html)
+- [Blue Green Deployment for Node.js Without Kubernetes](https://teklinks.andrejnsimoes.com/2023/01/blue-green-deployment-for-nodejs.html)
 - [TypeScript performance lessons while refactoring for v10](https://teklinks.andrejnsimoes.com/2023/01/typescript-performance-lessons-while.html)
 - [2 Quick Tips To Improve Your Webpack Bundling](https://teklinks.andrejnsimoes.com/2023/01/2-quick-tips-to-improve-your-webpack.html)
-- [Why Is My Jest Suite So Slow?](https://teklinks.andrejnsimoes.com/2023/01/why-is-my-jest-suite-so-slow.html)
-- [React, Vite and TypeScript: Get started in under 2 minutes](https://teklinks.andrejnsimoes.com/2023/01/react-vite-and-typescript-get-started.html)
-- [Working With Astro — The Super Fast Web Framework](https://teklinks.andrejnsimoes.com/2023/01/working-with-astrothe-super-fast-web.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
