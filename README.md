@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [10 Web Development Trends in 2023](https://teklinks.andrejnsimoes.com/2023/01/10-web-development-trends-in-2023.html)
+- [Leaders: Use Mini-Projects to Delegate Better](https://teklinks.andrejnsimoes.com/2023/01/leaders-use-mini-projects-to-delegate.html)
+- [Optimize Time to First Byte](https://teklinks.andrejnsimoes.com/2023/01/optimize-time-to-first-byte.html)
 - [Async React with NextJS 13](https://teklinks.andrejnsimoes.com/2023/01/async-react-with-nextjs-13.html)
 - [The Value of Doing On-Site Customer Interviews](https://teklinks.andrejnsimoes.com/2023/01/the-value-of-doing-on-site-customer.html)
-- [Blue Green Deployment for Node.js Without Kubernetes](https://teklinks.andrejnsimoes.com/2023/01/blue-green-deployment-for-nodejs.html)
-- [TypeScript performance lessons while refactoring for v10](https://teklinks.andrejnsimoes.com/2023/01/typescript-performance-lessons-while.html)
-- [2 Quick Tips To Improve Your Webpack Bundling](https://teklinks.andrejnsimoes.com/2023/01/2-quick-tips-to-improve-your-webpack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
