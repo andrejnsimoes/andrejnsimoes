@@ -53,8 +53,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [Why React.js is taking a new direction](https://www.youtube.com/watch?v=1LkOa7Ky2ak)
 - [Astro 2.0 is Revolutionary! Again!](https://www.youtube.com/watch?v=gi4c7fbeURc)
 - [5 ideas for your own AI grift with ChatGPT](https://www.youtube.com/watch?v=Aa83vRghue4)
+- [I&#39;ve Waited YEARS For This JavaScript Feature...](https://www.youtube.com/watch?v=h1FvtIJ6ecE)
 - [4 TypeScript tips: as const, typeof, keyof and template string types](https://www.youtube.com/watch?v=Eat7AXkEtNs)
-- [CI/CD In 5 Minutes | Is It Worth The Hassle?](https://www.youtube.com/watch?v=42UP1fxi2SY)
 <!-- YOUTUBE:END -->
 
 
