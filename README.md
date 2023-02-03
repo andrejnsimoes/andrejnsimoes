@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [7 better ways to create a React app](https://www.youtube.com/watch?v=2OTq15A5s0Y)
 - [Why React.js is taking a new direction](https://www.youtube.com/watch?v=1LkOa7Ky2ak)
 - [Astro 2.0 is Revolutionary! Again!](https://www.youtube.com/watch?v=gi4c7fbeURc)
 - [Taking Back “Software Engineering” – Craftsmanship is Insufficient • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=ephM9Nw9pAA)
 - [5 ideas for your own AI grift with ChatGPT](https://www.youtube.com/watch?v=Aa83vRghue4)
-- [I&#39;ve Waited YEARS For This JavaScript Feature...](https://www.youtube.com/watch?v=h1FvtIJ6ecE)
 <!-- YOUTUBE:END -->
 
 
