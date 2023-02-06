@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Quit a $450,000 Engineering Job at Netflix](https://teklinks.andrejnsimoes.com/2023/02/why-i-quit-450000-engineering-job-at.html)
+- [Measuring Page Speed With Lighthouse](https://teklinks.andrejnsimoes.com/2023/02/measuring-page-speed-with-lighthouse.html)
+- [5 tips for prioritizing Dependabot alerts](https://teklinks.andrejnsimoes.com/2023/02/5-tips-for-prioritizing-dependabot.html)
 - [Dynamic micro frontends with Nx and React](https://teklinks.andrejnsimoes.com/2023/02/dynamic-micro-frontends-with-nx-and.html)
 - [Micro-frontends -or decoupled frontends- solve problems](https://teklinks.andrejnsimoes.com/2023/01/micro-frontends-or-decoupled-frontends.html)
-- [Why React isn&#39;t dying](https://teklinks.andrejnsimoes.com/2023/01/why-react-isnt-dying.html)
-- [2023 MacBook Pro review: A refined second generation](https://teklinks.andrejnsimoes.com/2023/01/2023-macbook-pro-review-refined-second.html)
-- [Things I want to see in JavaScript and Frontend development in 2023](https://teklinks.andrejnsimoes.com/2023/01/things-i-want-to-see-in-javascript-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
