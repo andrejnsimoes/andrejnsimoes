@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Learn tRPC In 45 Minutes](https://www.youtube.com/watch?v=UfUbBWIFdJs)
 - [7 better ways to create a React app](https://www.youtube.com/watch?v=2OTq15A5s0Y)
 - [Why React.js is taking a new direction](https://www.youtube.com/watch?v=1LkOa7Ky2ak)
 - [Get AI Autocomplete on Terminal](https://www.youtube.com/watch?v=HNVB9Dro2S4)
 - [Astro 2.0 is Revolutionary! Again!](https://www.youtube.com/watch?v=gi4c7fbeURc)
-- [Taking Back “Software Engineering” – Craftsmanship is Insufficient • Dave Farley • GOTO 2022](https://www.youtube.com/watch?v=ephM9Nw9pAA)
 <!-- YOUTUBE:END -->
 
 
