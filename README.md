@@ -40,9 +40,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [When to Quit](https://teklinks.andrejnsimoes.com/2023/02/when-to-quit.html)
 - [If Twitter Doesn’t Have a Staging Environment, Should Anyone?](https://teklinks.andrejnsimoes.com/2023/02/if-twitter-doesnt-have-staging.html)
 - [Top 9 software architecture tools](https://teklinks.andrejnsimoes.com/2023/02/top-9-software-architecture-tools.html)
-- [When to Quit](https://teklinks.andrejnsimoes.com/2023/02/when-to-quit.html)
 - [Modularizing React Applications with Established UI Patterns](https://teklinks.andrejnsimoes.com/2023/02/modularizing-react-applications-with.html)
 - [Node + SWC make a lightning fast typescript runtime](https://teklinks.andrejnsimoes.com/2023/02/node-swc-make-lightning-fast-typescript.html)
 <!-- BLOG-POST-LIST:END -->
