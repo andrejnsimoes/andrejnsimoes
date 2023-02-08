@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [If Twitter Doesn’t Have a Staging Environment, Should Anyone?](https://teklinks.andrejnsimoes.com/2023/02/if-twitter-doesnt-have-staging.html)
+- [Top 9 software architecture tools](https://teklinks.andrejnsimoes.com/2023/02/top-9-software-architecture-tools.html)
+- [When to Quit](https://teklinks.andrejnsimoes.com/2023/02/when-to-quit.html)
 - [Modularizing React Applications with Established UI Patterns](https://teklinks.andrejnsimoes.com/2023/02/modularizing-react-applications-with.html)
 - [Node + SWC make a lightning fast typescript runtime](https://teklinks.andrejnsimoes.com/2023/02/node-swc-make-lightning-fast-typescript.html)
-- [The technology behind GitHub’s new code search](https://teklinks.andrejnsimoes.com/2023/02/the-technology-behind-githubs-new-code.html)
-- [Why I Quit a $450,000 Engineering Job at Netflix](https://teklinks.andrejnsimoes.com/2023/02/why-i-quit-450000-engineering-job-at.html)
-- [Measuring Page Speed With Lighthouse](https://teklinks.andrejnsimoes.com/2023/02/measuring-page-speed-with-lighthouse.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
