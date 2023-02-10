@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [how big is a yottabyte?](https://www.youtube.com/watch?v=6V-eRPPLSy0)
+- [We Built An Example App With the tRPC Core Team!!](https://www.youtube.com/watch?v=Wxy898MKguo)
+- [TUDO que você precisa saber do Next 13 &lpar;isso muda tudo&rpar;](https://www.youtube.com/watch?v=0zl72thBKzo)
+- [ChatGPT is a perfectly balanced AI with no exploits](https://www.youtube.com/watch?v=y3iLOxBTuy4)
 - [Learn tRPC In 45 Minutes](https://www.youtube.com/watch?v=UfUbBWIFdJs)
-- [7 better ways to create a React app](https://www.youtube.com/watch?v=2OTq15A5s0Y)
-- [Why React.js is taking a new direction](https://www.youtube.com/watch?v=1LkOa7Ky2ak)
-- [Get AI Autocomplete on Terminal](https://www.youtube.com/watch?v=HNVB9Dro2S4)
-- [Astro 2.0 is Revolutionary! Again!](https://www.youtube.com/watch?v=gi4c7fbeURc)
 <!-- YOUTUBE:END -->
 
 
