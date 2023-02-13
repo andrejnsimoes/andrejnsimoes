@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Distributed Caching](https://teklinks.andrejnsimoes.com/2023/02/a-comprehensive-guide-to-distributed.html)
+- [Unlock New Possibilities with Hybrid Rendering](https://teklinks.andrejnsimoes.com/2023/02/unlock-new-possibilities-with-hybrid.html)
+- [Release strategies](https://teklinks.andrejnsimoes.com/2023/02/release-strategies.html)
 - [A Historical Reference of React Criticism](https://teklinks.andrejnsimoes.com/2023/02/a-historical-reference-of-react.html)
 - [Resumable React: How To Use React Inside Qwik](https://teklinks.andrejnsimoes.com/2023/02/resumable-react-how-to-use-react-inside.html)
-- [CEO update: Eliminating obstacles to productivity, efficiency, and learning](https://teklinks.andrejnsimoes.com/2023/02/ceo-update-eliminating-obstacles-to.html)
-- [When to Quit](https://teklinks.andrejnsimoes.com/2023/02/when-to-quit.html)
-- [If Twitter Doesn’t Have a Staging Environment, Should Anyone?](https://teklinks.andrejnsimoes.com/2023/02/if-twitter-doesnt-have-staging.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
