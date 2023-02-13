@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [NextJS 13 Performance Showdown!](https://www.youtube.com/watch?v=wzRSYQ3b-Mk)
 - [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [how big is a yottabyte?](https://www.youtube.com/watch?v=6V-eRPPLSy0)
 - [We Built An Example App With the tRPC Core Team!!](https://www.youtube.com/watch?v=Wxy898MKguo)
 - [TUDO que você precisa saber do Next 13 &lpar;isso muda tudo&rpar;](https://www.youtube.com/watch?v=0zl72thBKzo)
-- [ChatGPT is a perfectly balanced AI with no exploits](https://www.youtube.com/watch?v=y3iLOxBTuy4)
 <!-- YOUTUBE:END -->
 
 
