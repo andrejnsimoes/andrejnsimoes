@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Why you HAVE TO KNOW These Commands to FIX your GIT Projects!](https://www.youtube.com/watch?v=HrTwNiOsNGo)
 - [Learning Lerna From the Lerna Team](https://www.youtube.com/watch?v=HqPOoU35xzA)
 - [NextJS 13 Performance Showdown!](https://www.youtube.com/watch?v=wzRSYQ3b-Mk)
 - [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
 - [how big is a yottabyte?](https://www.youtube.com/watch?v=6V-eRPPLSy0)
-- [We Built An Example App With the tRPC Core Team!!](https://www.youtube.com/watch?v=Wxy898MKguo)
 <!-- YOUTUBE:END -->
 
 
