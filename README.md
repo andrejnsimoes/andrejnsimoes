@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro JS Framework: A Practical Guide To Building Faster Websites](https://teklinks.andrejnsimoes.com/2023/02/astro-js-framework-practical-guide-to.html)
+- [Independent Software Developer vs Fortune 500 Software Engineer](https://teklinks.andrejnsimoes.com/2023/02/independent-software-developer-vs.html)
+- [Create meaningful architecture diagrams using the C4 model](https://teklinks.andrejnsimoes.com/2023/02/create-meaningful-architecture-diagrams.html)
 - [A Comprehensive Guide to Distributed Caching](https://teklinks.andrejnsimoes.com/2023/02/a-comprehensive-guide-to-distributed.html)
 - [Unlock New Possibilities with Hybrid Rendering](https://teklinks.andrejnsimoes.com/2023/02/unlock-new-possibilities-with-hybrid.html)
-- [Release strategies](https://teklinks.andrejnsimoes.com/2023/02/release-strategies.html)
-- [A Historical Reference of React Criticism](https://teklinks.andrejnsimoes.com/2023/02/a-historical-reference-of-react.html)
-- [Resumable React: How To Use React Inside Qwik](https://teklinks.andrejnsimoes.com/2023/02/resumable-react-how-to-use-react-inside.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
