@@ -40,8 +40,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://teklinks.andrejnsimoes.com/2023/02/software-security-report-finds.html)
 - [Tips for Handling Stressful Life Transitions](https://teklinks.andrejnsimoes.com/2023/02/tips-for-handling-stressful-life.html)
+- [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://teklinks.andrejnsimoes.com/2023/02/software-security-report-finds.html)
 - [Astro JS Framework: A Practical Guide To Building Faster Websites](https://teklinks.andrejnsimoes.com/2023/02/astro-js-framework-practical-guide-to.html)
 - [Independent Software Developer vs Fortune 500 Software Engineer](https://teklinks.andrejnsimoes.com/2023/02/independent-software-developer-vs.html)
 - [Create meaningful architecture diagrams using the C4 model](https://teklinks.andrejnsimoes.com/2023/02/create-meaningful-architecture-diagrams.html)
