@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Is SolidJS the better ReactJS?](https://www.youtube.com/watch?v=w14cgW9pVkg)
+- [What&#39;s new in Nx 15.7?](https://www.youtube.com/watch?v=IStJODzZSoc)
 - [Why you HAVE TO KNOW These Commands to FIX your GIT Projects!](https://www.youtube.com/watch?v=HrTwNiOsNGo)
 - [Learning Lerna From the Lerna Team](https://www.youtube.com/watch?v=HqPOoU35xzA)
 - [NextJS 13 Performance Showdown!](https://www.youtube.com/watch?v=wzRSYQ3b-Mk)
-- [React.js: The Documentary](https://www.youtube.com/watch?v=8pDqJVdNa44)
-- [how big is a yottabyte?](https://www.youtube.com/watch?v=6V-eRPPLSy0)
 <!-- YOUTUBE:END -->
 
 
