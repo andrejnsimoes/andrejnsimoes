@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [useSignal&lpar;&rpar; Is The Future of Web Frameworks](https://teklinks.andrejnsimoes.com/2023/02/usesignal-is-future-of-web-frameworks.html)
+- [The hardest conversation ever](https://teklinks.andrejnsimoes.com/2023/02/the-hardest-conversation-ever.html)
+- [Introducing Qwik](https://teklinks.andrejnsimoes.com/2023/02/introducing-qwik.html)
 - [A summary of libraries that are commonly used with React](https://teklinks.andrejnsimoes.com/2023/02/a-summary-of-libraries-that-are.html)
 - [Why writing by hand is still the best way to retain information](https://teklinks.andrejnsimoes.com/2023/02/why-writing-by-hand-is-still-best-way.html)
-- [Tips for Handling Stressful Life Transitions](https://teklinks.andrejnsimoes.com/2023/02/tips-for-handling-stressful-life.html)
-- [Software Security Report Finds JavaScript Applications Have Fewer Flaws Than Java and .NET](https://teklinks.andrejnsimoes.com/2023/02/software-security-report-finds.html)
-- [Astro JS Framework: A Practical Guide To Building Faster Websites](https://teklinks.andrejnsimoes.com/2023/02/astro-js-framework-practical-guide-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
