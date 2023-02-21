@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a video and audio recorder in React](https://teklinks.andrejnsimoes.com/2023/02/how-to-create-video-and-audio-recorder.html)
+- [Is a Small Team or Large One Better for a Junior Dev? It Depends.](https://teklinks.andrejnsimoes.com/2023/02/is-small-team-or-large-one-better-for.html)
+- [Successful Startup Founders Avoid These 2 Mistakes](https://teklinks.andrejnsimoes.com/2023/02/successful-startup-founders-avoid-these.html)
+- [Automate your releases on GitHub.](https://teklinks.andrejnsimoes.com/2023/02/automate-your-releases-on-github.html)
 - [Persist Data in Deno with npm using Prisma, Mongoose, Apollo, and more.](https://teklinks.andrejnsimoes.com/2023/02/persist-data-in-deno-with-npm-using.html)
-- [React CSRF Protection Guide: Examples and How to Enable It](https://teklinks.andrejnsimoes.com/2023/02/react-csrf-protection-guide-examples.html)
-- [Minimal TypeScript Crash Course For React](https://teklinks.andrejnsimoes.com/2023/02/minimal-typescript-crash-course-for.html)
-- [useSignal&lpar;&rpar; Is The Future of Web Frameworks](https://teklinks.andrejnsimoes.com/2023/02/usesignal-is-future-of-web-frameworks.html)
-- [The hardest conversation ever](https://teklinks.andrejnsimoes.com/2023/02/the-hardest-conversation-ever.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
