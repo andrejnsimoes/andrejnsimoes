@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with SolidJS](https://teklinks.andrejnsimoes.com/2023/02/getting-started-with-solidjs.html)
+- [Architecture Modernization Enabling Teams &lpar;AMET&rpar;](https://teklinks.andrejnsimoes.com/2023/02/architecture-modernization-enabling.html)
+- [Scaling Software Architecture in Your Organization: A Practical Guide to Thinking Architecturally](https://teklinks.andrejnsimoes.com/2023/02/scaling-software-architecture-in-your.html)
 - [How to create a video and audio recorder in React](https://teklinks.andrejnsimoes.com/2023/02/how-to-create-video-and-audio-recorder.html)
 - [Is a Small Team or Large One Better for a Junior Dev? It Depends.](https://teklinks.andrejnsimoes.com/2023/02/is-small-team-or-large-one-better-for.html)
-- [Successful Startup Founders Avoid These 2 Mistakes](https://teklinks.andrejnsimoes.com/2023/02/successful-startup-founders-avoid-these.html)
-- [Automate your releases on GitHub.](https://teklinks.andrejnsimoes.com/2023/02/automate-your-releases-on-github.html)
-- [Persist Data in Deno with npm using Prisma, Mongoose, Apollo, and more.](https://teklinks.andrejnsimoes.com/2023/02/persist-data-in-deno-with-npm-using.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
