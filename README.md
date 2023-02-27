@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Signals For Solid, Qwik And React](https://www.youtube.com/watch?v=ZLMjJL70glE)
+- [Create NgModule free Angular Apps](https://www.youtube.com/watch?v=Hi3aJ0Rlkls)
 - [CRIEI UM EDITOR QUE RODA NODE.JS NO BROWSER &lpar;WebContainers + TipTap&rpar;](https://www.youtube.com/watch?v=P3Yh5ifTYPQ)
 - [Angular is about to get its most IMPORTANT change in a long time...](https://www.youtube.com/watch?v=4FkFmn0LmLI)
 - [Sorting Algorithms Explained Visually](https://www.youtube.com/watch?v=RfXt_qHDEPw)
-- [T3: TRPC, Prisma and NextAuth Done Right](https://www.youtube.com/watch?v=J1gzN1SAhyM)
-- [Top 5 Redis Use Cases](https://www.youtube.com/watch?v=a4yX7RUgTxI)
 <!-- YOUTUBE:END -->
 
 
