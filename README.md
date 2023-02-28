@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [The Engineering Leader’s Guide to Code Quality Metrics](https://teklinks.andrejnsimoes.com/2023/02/the-engineering-leaders-guide-to-code_28.html)
 - [Mature as a Junior Developer: Habit Building](https://teklinks.andrejnsimoes.com/2023/02/mature-as-junior-developer-habit.html)
 - [The Unit in Unit Testing](https://teklinks.andrejnsimoes.com/2023/02/the-unit-in-unit-testing.html)
 - [What Is ChatGPT Doing … and Why Does It Work?](https://teklinks.andrejnsimoes.com/2023/02/what-is-chatgpt-doing-and-why-does-it.html)
 - [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library](https://teklinks.andrejnsimoes.com/2023/02/sentrys-frontend-tests-migrating-from.html)
+- [Let&#39;s build a Chrome extension that steals everything](https://teklinks.andrejnsimoes.com/2023/02/lets-build-chrome-extension-that-steals.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
