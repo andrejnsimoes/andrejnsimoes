@@ -40,9 +40,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Future-Proof High-Performance Websites With Astro Islands And Headless CMS](https://teklinks.andrejnsimoes.com/2023/03/building-future-proof-high-performance.html)
 - [The Evolution of Signals in JavaScript](https://teklinks.andrejnsimoes.com/2023/03/the-evolution-of-signals-in-javascript.html)
 - [Pinterest is now on HTTP/3](https://teklinks.andrejnsimoes.com/2023/03/pinterest-is-now-on-http3.html)
-- [Building Future-Proof High-Performance Websites With Astro Islands And Headless CMS](https://teklinks.andrejnsimoes.com/2023/03/building-future-proof-high-performance.html)
 - [Mature as a Junior Developer: Habit Building](https://teklinks.andrejnsimoes.com/2023/02/mature-as-junior-developer-habit.html)
 - [The Unit in Unit Testing](https://teklinks.andrejnsimoes.com/2023/02/the-unit-in-unit-testing.html)
 <!-- BLOG-POST-LIST:END -->
