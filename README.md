@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Getting Started with SolidJS](https://www.youtube.com/watch?v=rxYQe1JLfuI)
 - [Signals For Solid, Qwik And React](https://www.youtube.com/watch?v=ZLMjJL70glE)
 - [Create NgModule free Angular Apps](https://www.youtube.com/watch?v=Hi3aJ0Rlkls)
 - [Prepare for Chrome&#39;s user-agent reduction](https://www.youtube.com/watch?v=ftDVCo8SFD4)
 - [CRIEI UM EDITOR QUE RODA NODE.JS NO BROWSER &lpar;WebContainers + TipTap&rpar;](https://www.youtube.com/watch?v=P3Yh5ifTYPQ)
-- [Angular is about to get its most IMPORTANT change in a long time...](https://www.youtube.com/watch?v=4FkFmn0LmLI)
 <!-- YOUTUBE:END -->
 
 
