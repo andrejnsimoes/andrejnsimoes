@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Is Holding Me Hostage](https://teklinks.andrejnsimoes.com/2023/03/react-is-holding-me-hostage.html)
+- [The 25 Percent Rule for Tackling Technical Debt](https://teklinks.andrejnsimoes.com/2023/03/the-25-percent-rule-for-tackling.html)
+- [How to automate your releases, versioning &amp; release notes like a boss](https://teklinks.andrejnsimoes.com/2023/03/how-to-automate-your-releases.html)
 - [React vs Signals: 10 Years Later](https://teklinks.andrejnsimoes.com/2023/03/react-vs-signals-10-years-later.html)
 - [Experimental Performance Insights Panel in Chrome DevTools](https://teklinks.andrejnsimoes.com/2023/03/experimental-performance-insights-panel.html)
-- [An Engineer’s Bill of Rights &lpar;and Responsibilities&rpar;](https://teklinks.andrejnsimoes.com/2023/03/an-engineers-bill-of-rights-and.html)
-- [Building Future-Proof High-Performance Websites With Astro Islands And Headless CMS](https://teklinks.andrejnsimoes.com/2023/03/building-future-proof-high-performance.html)
-- [The Evolution of Signals in JavaScript](https://teklinks.andrejnsimoes.com/2023/03/the-evolution-of-signals-in-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
