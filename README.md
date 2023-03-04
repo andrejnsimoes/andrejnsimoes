@@ -52,9 +52,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [A melhor opção p/ DEPLOY Node.js GRATUITO!](https://www.youtube.com/watch?v=pmXfvd6Zqg4)
 - [Getting Started with SolidJS](https://www.youtube.com/watch?v=rxYQe1JLfuI)
+- [ENDING EVERY TYPESCRIPT DEBATE in 90 minutes](https://www.youtube.com/watch?v=ttUbH_JAHFI)
 - [Signals For Solid, Qwik And React](https://www.youtube.com/watch?v=ZLMjJL70glE)
 - [Create NgModule free Angular Apps](https://www.youtube.com/watch?v=Hi3aJ0Rlkls)
-- [Prepare for Chrome&#39;s user-agent reduction](https://www.youtube.com/watch?v=ftDVCo8SFD4)
 <!-- YOUTUBE:END -->
 
 
