@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring debt builds up faster than software teams can pay it off](https://teklinks.andrejnsimoes.com/2023/03/monitoring-debt-builds-up-faster-than.html)
+- [useSignal&lpar;&rpar; is the Future of Web Frameworks](https://teklinks.andrejnsimoes.com/2023/03/usesignal-is-future-of-web-frameworks.html)
+- [API Evolution Is a Challenge. Could Contract Testing Be the Solution?](https://teklinks.andrejnsimoes.com/2023/03/api-evolution-is-challenge-could.html)
 - [Module Extraction: The Silent Web Revolution](https://teklinks.andrejnsimoes.com/2023/03/module-extraction-silent-web-revolution.html)
 - [Platform Engineering Teams Done Right…](https://teklinks.andrejnsimoes.com/2023/03/platform-engineering-teams-done-right.html)
-- [The Three Pillars of Quality Engineering Microservices](https://teklinks.andrejnsimoes.com/2023/03/the-three-pillars-of-quality.html)
-- [React Is Holding Me Hostage](https://teklinks.andrejnsimoes.com/2023/03/react-is-holding-me-hostage.html)
-- [The 25 Percent Rule for Tackling Technical Debt](https://teklinks.andrejnsimoes.com/2023/03/the-25-percent-rule-for-tackling.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
