@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Sentry’s Frontend Tests: Migrating from Enzyme to React Testing Library](https://teklinks.andrejnsimoes.com/2023/03/sentrys-frontend-tests-migrating-from.html)
+- [WTF Is Code Extraction](https://teklinks.andrejnsimoes.com/2023/03/wtf-is-code-extraction.html)
+- [Stop saying “technical debt”](https://teklinks.andrejnsimoes.com/2023/03/stop-saying-technical-debt.html)
 - [What is the Secret Behind Increasing Salesforce’s Developer Velocity?](https://teklinks.andrejnsimoes.com/2023/03/what-is-secret-behind-increasing.html)
 - [Is software getting worse?](https://teklinks.andrejnsimoes.com/2023/03/is-software-getting-worse.html)
-- [How to contribute to a project you have no idea about](https://teklinks.andrejnsimoes.com/2023/03/how-to-contribute-to-project-you-have.html)
-- [Full-Stack TypeScript with tRPC and React](https://teklinks.andrejnsimoes.com/2023/03/full-stack-typescript-with-trpc-and.html)
-- [Focus Time and Other Tips for Avoiding Meeting Fatigue](https://teklinks.andrejnsimoes.com/2023/03/focus-time-and-other-tips-for-avoiding.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
