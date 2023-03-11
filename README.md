@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Viewing Playwright traces](https://www.youtube.com/watch?v=lfxjs--9ZQs)
 - [Rspack! Let&#39;s get up to speed!](https://www.youtube.com/watch?v=jGTE7xAcg24)
 - [Ever tried to Delete or Move a Project in a Monorepo?](https://www.youtube.com/watch?v=41q_0xF-Pjc)
 - [Rebuilding Jotai State Manager for React in 20 Minutes!](https://www.youtube.com/watch?v=gg31JTZmFUw)
 - [A melhor opção p/ DEPLOY Node.js GRATUITO!](https://www.youtube.com/watch?v=pmXfvd6Zqg4)
-- [Getting Started with SolidJS](https://www.youtube.com/watch?v=rxYQe1JLfuI)
 <!-- YOUTUBE:END -->
 
 
