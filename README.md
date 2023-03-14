@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Vite Crash Course | Faster Alternative For CRA](https://www.youtube.com/watch?v=89NJdbYTgJ8)
 - [You need to understand this about Next.js](https://www.youtube.com/watch?v=DWRq1nRPUMs)
 - [Silicon Valley had a bank... HAD](https://www.youtube.com/watch?v=nMdwS3A6zck)
 - [React Tutorial for Beginners](https://www.youtube.com/watch?v=SqcY0GlETPk)
 - [Viewing Playwright traces](https://www.youtube.com/watch?v=lfxjs--9ZQs)
-- [Rspack! Let&#39;s get up to speed!](https://www.youtube.com/watch?v=jGTE7xAcg24)
 <!-- YOUTUBE:END -->
 
 
