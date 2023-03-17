@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Midjourney 5 must be stopped at all costs](https://www.youtube.com/watch?v=nYqeHIRKboM)
 - [GPT-4 has been unleashed](https://www.youtube.com/watch?v=EunbKbPV2C0)
 - [State Management for NextJS 13 Server and Client Components](https://www.youtube.com/watch?v=dRLjoT4r-jc)
 - [Vite Crash Course | Faster Alternative For CRA](https://www.youtube.com/watch?v=89NJdbYTgJ8)
 - [ChatGPT Official API First Look](https://www.youtube.com/watch?v=e2uvhJ7r1UQ)
-- [You need to understand this about Next.js](https://www.youtube.com/watch?v=DWRq1nRPUMs)
 <!-- YOUTUBE:END -->
 
 
