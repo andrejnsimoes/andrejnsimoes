@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Momentum During Project Onboarding](https://teklinks.andrejnsimoes.com/2023/03/how-to-build-momentum-during-project.html)
+- [How AI Technology Will Transform Design](https://teklinks.andrejnsimoes.com/2023/03/how-ai-technology-will-transform-design.html)
+- [Solving Concurrency in Event-Driven Microservices](https://teklinks.andrejnsimoes.com/2023/03/solving-concurrency-in-event-driven.html)
 - [React’s Upcoming Compiler Only Solves Part Of The Problem](https://teklinks.andrejnsimoes.com/2023/03/reacts-upcoming-compiler-only-solves.html)
 - [How to Start Investing in an Employer Retirement Plan if You Aren’t a Personal Finance Nerd](https://teklinks.andrejnsimoes.com/2023/03/how-to-start-investing-in-employer.html)
-- [Scrape Contributor Emails From Any Git Repository](https://teklinks.andrejnsimoes.com/2023/03/scrape-contributor-emails-from-any-git.html)
-- [Running your engineering onboarding program.](https://teklinks.andrejnsimoes.com/2023/03/running-your-engineering-onboarding.html)
-- [3 Essential React Testing Library Tips for Flawless Tests](https://teklinks.andrejnsimoes.com/2023/03/3-essential-react-testing-library-tips.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
