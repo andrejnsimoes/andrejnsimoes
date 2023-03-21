@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why you need to know your site&#39;s performance poverty line &lpar;and how to find it&rpar;](https://teklinks.andrejnsimoes.com/2023/03/why-you-need-to-know-your-sites.html)
+- [Writing Your Own Reactive Signal Library](https://teklinks.andrejnsimoes.com/2023/03/writing-your-own-reactive-signal-library.html)
+- [A Framework for Prioritizing Tech Debt](https://teklinks.andrejnsimoes.com/2023/03/a-framework-for-prioritizing-tech-debt.html)
 - [How AI Technology Will Transform Design](https://teklinks.andrejnsimoes.com/2023/03/how-ai-technology-will-transform-design.html)
 - [How to Build Momentum During Project Onboarding](https://teklinks.andrejnsimoes.com/2023/03/how-to-build-momentum-during-project.html)
-- [Solving Concurrency in Event-Driven Microservices](https://teklinks.andrejnsimoes.com/2023/03/solving-concurrency-in-event-driven.html)
-- [React’s Upcoming Compiler Only Solves Part Of The Problem](https://teklinks.andrejnsimoes.com/2023/03/reacts-upcoming-compiler-only-solves.html)
-- [How to Start Investing in an Employer Retirement Plan if You Aren’t a Personal Finance Nerd](https://teklinks.andrejnsimoes.com/2023/03/how-to-start-investing-in-employer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
