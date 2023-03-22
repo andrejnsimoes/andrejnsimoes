@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an audio player in React to play sound or music](https://teklinks.andrejnsimoes.com/2023/03/building-audio-player-in-react-to-play.html)
+- [Do You Need a BFF? The Backend for Frontend Pattern](https://teklinks.andrejnsimoes.com/2023/03/do-you-need-bff-backend-for-frontend.html)
+- [Migrating from ts-node to Bun](https://teklinks.andrejnsimoes.com/2023/03/migrating-from-ts-node-to-bun.html)
 - [Why you need to know your site&#39;s performance poverty line &lpar;and how to find it&rpar;](https://teklinks.andrejnsimoes.com/2023/03/why-you-need-to-know-your-sites.html)
 - [Writing Your Own Reactive Signal Library](https://teklinks.andrejnsimoes.com/2023/03/writing-your-own-reactive-signal-library.html)
-- [A Framework for Prioritizing Tech Debt](https://teklinks.andrejnsimoes.com/2023/03/a-framework-for-prioritizing-tech-debt.html)
-- [How AI Technology Will Transform Design](https://teklinks.andrejnsimoes.com/2023/03/how-ai-technology-will-transform-design.html)
-- [How to Build Momentum During Project Onboarding](https://teklinks.andrejnsimoes.com/2023/03/how-to-build-momentum-during-project.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
