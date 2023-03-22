@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Google Bard… the ChatGPT killer?](https://www.youtube.com/watch?v=xW9DJTvB3NI)
 - [Convert Promise chains to Async/Await...automatically!](https://www.youtube.com/watch?v=v6bGuFZJUT0)
 - [Formatting Is So Easy With The Intl JavaScript API](https://www.youtube.com/watch?v=4oGWpTAY_hc)
 - [The Most Beloved Burger for Developers](https://www.youtube.com/watch?v=7swoLEqABhQ)
 - [Money For Nothing In Big Tech](https://www.youtube.com/watch?v=MVCV38iQ5SU)
-- [Easy, Modular Node Applications!](https://www.youtube.com/watch?v=LHLW0b4fr2w)
 <!-- YOUTUBE:END -->
 
 
