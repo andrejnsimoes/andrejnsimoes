@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Build a Keyword Extractor: React + OpenAI API + Chakra UI](https://www.youtube.com/watch?v=jJNPPP2YEdM)
+- [T3 Stack Tutorial - FROM 0 TO PROD FOR $0 &lpar;Next.js, tRPC, TypeScript, Tailwind, Prisma &amp; More&rpar;](https://www.youtube.com/watch?v=YkOSUVzOAA4)
 - [Google Bard… the ChatGPT killer?](https://www.youtube.com/watch?v=xW9DJTvB3NI)
 - [Convert Promise chains to Async/Await...automatically!](https://www.youtube.com/watch?v=v6bGuFZJUT0)
 - [Formatting Is So Easy With The Intl JavaScript API](https://www.youtube.com/watch?v=4oGWpTAY_hc)
-- [The Most Beloved Burger for Developers](https://www.youtube.com/watch?v=7swoLEqABhQ)
 <!-- YOUTUBE:END -->
 
 
