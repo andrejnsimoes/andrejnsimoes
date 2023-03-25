@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [ChatGPT gets another insane new buff](https://www.youtube.com/watch?v=mpnh1YTT66w)
+- [Game over… GitHub Copilot X announced](https://www.youtube.com/watch?v=q1HZj40ZQrM)
 - [Build a Keyword Extractor: React + OpenAI API + Chakra UI](https://www.youtube.com/watch?v=jJNPPP2YEdM)
 - [T3 Stack Tutorial - FROM 0 TO PROD FOR $0 &lpar;Next.js, tRPC, TypeScript, Tailwind, Prisma &amp; More&rpar;](https://www.youtube.com/watch?v=YkOSUVzOAA4)
 - [Google Bard… the ChatGPT killer?](https://www.youtube.com/watch?v=xW9DJTvB3NI)
-- [Convert Promise chains to Async/Await...automatically!](https://www.youtube.com/watch?v=v6bGuFZJUT0)
 <!-- YOUTUBE:END -->
 
 
