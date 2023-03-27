@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Microservice Architecture and its 10 Most Important Design Patterns](https://teklinks.andrejnsimoes.com/2023/03/microservice-architecture-and-its-10.html)
+- [Create a CLI Chatbot with the ChatGPT API and Node.js](https://teklinks.andrejnsimoes.com/2023/03/create-cli-chatbot-with-chatgpt-api-and.html)
+- [Your Git Commit History Should Read Like a History Book. Here’s How.](https://teklinks.andrejnsimoes.com/2023/03/your-git-commit-history-should-read.html)
 - [Automatic npm publishing, with GitHub Actions &amp; npm granular tokens](https://teklinks.andrejnsimoes.com/2023/03/automatic-npm-publishing-with-github.html)
 - [Lazy Loading Routes in React Router 6.4+](https://teklinks.andrejnsimoes.com/2023/03/lazy-loading-routes-in-react-router-64.html)
-- [I don’t understand micro-frontends.](https://teklinks.andrejnsimoes.com/2023/03/i-dont-understand-micro-frontends.html)
-- [Building an audio player in React to play sound or music](https://teklinks.andrejnsimoes.com/2023/03/building-audio-player-in-react-to-play.html)
-- [Do You Need a BFF? The Backend for Frontend Pattern](https://teklinks.andrejnsimoes.com/2023/03/do-you-need-bff-backend-for-frontend.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
