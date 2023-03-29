@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Best Handoff Is No Handoff](https://teklinks.andrejnsimoes.com/2023/03/the-best-handoff-is-no-handoff.html)
+- [Why We Added package.json Support to Deno](https://teklinks.andrejnsimoes.com/2023/03/why-we-added-packagejson-support-to-deno.html)
+- [The interactive way to master modern React](https://teklinks.andrejnsimoes.com/2023/03/the-interactive-way-to-master-modern.html)
 - [How to start a React Project in 2023](https://teklinks.andrejnsimoes.com/2023/03/how-to-start-react-project-in-2023.html)
 - [Using Nx Workspace generators to scaffold new blog posts](https://teklinks.andrejnsimoes.com/2023/03/using-nx-workspace-generators-to.html)
-- [Everything Breaks](https://teklinks.andrejnsimoes.com/2023/03/everything-breaks.html)
-- [Microservice Architecture and its 10 Most Important Design Patterns](https://teklinks.andrejnsimoes.com/2023/03/microservice-architecture-and-its-10.html)
-- [Create a CLI Chatbot with the ChatGPT API and Node.js](https://teklinks.andrejnsimoes.com/2023/03/create-cli-chatbot-with-chatgpt-api-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
