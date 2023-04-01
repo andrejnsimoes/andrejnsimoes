@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [AI is giving me an unfair advantage](https://www.youtube.com/watch?v=J1U1h_EjkPs)
 - [What are source maps?](https://www.youtube.com/watch?v=FIYkjjFYvoI)
 - [Elon wants GPT-5 stopped NOW… 5 reasons AI kinda sucks](https://www.youtube.com/watch?v=TpZcGhYp4rw)
 - [Smarter and Simpler React State](https://www.youtube.com/watch?v=Cp64YbYBNDA)
 - [ChatGPT gets another insane new buff](https://www.youtube.com/watch?v=mpnh1YTT66w)
-- [Game over… GitHub Copilot X announced](https://www.youtube.com/watch?v=q1HZj40ZQrM)
 <!-- YOUTUBE:END -->
 
 
