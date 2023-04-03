@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Vite and Module Federation Makes Micro-Frontends EASY!](https://www.youtube.com/watch?v=t-nchkL9yIg)
 - [AI is giving me an unfair advantage](https://www.youtube.com/watch?v=J1U1h_EjkPs)
 - [Quickly Deploy Next.js To Vercel](https://www.youtube.com/watch?v=HVhou1CGa1c)
 - [Getting data from DevTools into your code editor](https://www.youtube.com/watch?v=Klu-tyoGlGM)
 - [AWS for the Haters in 100 Seconds](https://www.youtube.com/watch?v=ZzI9JE0i6Lc)
-- [Developer Documentation Made Easy With Scribe](https://www.youtube.com/watch?v=DbVCjGHpVyc)
 <!-- YOUTUBE:END -->
 
 
