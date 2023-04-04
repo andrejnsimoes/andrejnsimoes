@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a developer experience team?](https://teklinks.andrejnsimoes.com/2023/04/what-is-developer-experience-team.html)
+- [How to use ChatGPT in product management](https://teklinks.andrejnsimoes.com/2023/04/how-to-use-chatgpt-in-product-management.html)
+- [Software Architecture Tradeoffs Series — Part 3 — What are Architectural Characteristics?](https://teklinks.andrejnsimoes.com/2023/04/software-architecture-tradeoffs.html)
 - [Your tech toolbox: The middle ground between tech chaos and rigidity](https://teklinks.andrejnsimoes.com/2023/04/your-tech-toolbox-middle-ground-between.html)
 - [A Complete Visual Guide to Understanding the Node.js Event Loop](https://teklinks.andrejnsimoes.com/2023/04/a-complete-visual-guide-to.html)
-- [The risks of feature branches and pre-merge code review](https://teklinks.andrejnsimoes.com/2023/04/the-risks-of-feature-branches-and-pre.html)
-- [Migrate to Vite from Create React App &lpar;CRA&rpar;](https://teklinks.andrejnsimoes.com/2023/04/migrate-to-vite-from-create-react-app.html)
-- [Yarn Workspaces: A Solution to Organizing a Monorepo](https://teklinks.andrejnsimoes.com/2023/04/yarn-workspaces-solution-to-organizing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
