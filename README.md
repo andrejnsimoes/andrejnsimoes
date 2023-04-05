@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Masterclass: AI-driven Development for Programmers](https://www.youtube.com/watch?v=iO1mwxPNP5A)
 - [Next.js 13 Crash Course | App Directory, React Server Components &amp; More](https://www.youtube.com/watch?v=Y6KDk5iyrYE)
 - [Debugging Node in VSCode is so easy!](https://www.youtube.com/watch?v=uQ7xpHyCBXI)
 - [Vite and Module Federation Makes Micro-Frontends EASY!](https://www.youtube.com/watch?v=t-nchkL9yIg)
 - [AI is giving me an unfair advantage](https://www.youtube.com/watch?v=J1U1h_EjkPs)
-- [Quickly Deploy Next.js To Vercel](https://www.youtube.com/watch?v=HVhou1CGa1c)
 <!-- YOUTUBE:END -->
 
 
