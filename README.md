@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of AI-driven Design and Development, Today](https://teklinks.andrejnsimoes.com/2023/04/the-future-of-ai-driven-design-and.html)
+- [Keep Your Team’s Feedback Flowing With 5-15s](https://teklinks.andrejnsimoes.com/2023/04/keep-your-teams-feedback-flowing-with-5.html)
+- [Building a collaborative asynchronous work environment](https://teklinks.andrejnsimoes.com/2023/04/building-collaborative-asynchronous.html)
 - [GitHub Copilot for CLI makes Terminal scripting and Git as easy as asking a question](https://teklinks.andrejnsimoes.com/2023/04/github-copilot-for-cli-makes-terminal.html)
 - [Who builds it and who runs it? SRE team topologies](https://teklinks.andrejnsimoes.com/2023/04/who-builds-it-and-who-runs-it-sre-team.html)
-- [Journey to Event Driven](https://teklinks.andrejnsimoes.com/2023/04/journey-to-event-driven.html)
-- [What complex systems can teach us about building software](https://teklinks.andrejnsimoes.com/2023/04/what-complex-systems-can-teach-us-about.html)
-- [Unit Testing ChatGPT Prompts: Introducing Riteway for SudoLang](https://teklinks.andrejnsimoes.com/2023/04/unit-testing-chatgpt-prompts.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
