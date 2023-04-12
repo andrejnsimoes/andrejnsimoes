@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Load Testing for 2022 Wrapped](https://teklinks.andrejnsimoes.com/2023/04/load-testing-for-2022-wrapped.html)
+- [Build faster with Buck2: Our open source build system](https://teklinks.andrejnsimoes.com/2023/04/build-faster-with-buck2-our-open-source.html)
+- [How To Make Architecture Reviews That Feel Like Peer Reviews](https://teklinks.andrejnsimoes.com/2023/04/how-to-make-architecture-reviews-that.html)
 - [Don’t Let Your Design System Dictate Your Design Process](https://teklinks.andrejnsimoes.com/2023/04/dont-let-your-design-system-dictate.html)
 - [HTTP vs Messaging for Microservices Communications](https://teklinks.andrejnsimoes.com/2023/04/http-vs-messaging-for-microservices.html)
-- [Using TRPC in Astro and its &lpar;React&rpar; islands](https://teklinks.andrejnsimoes.com/2023/04/using-trpc-in-astro-and-its-react.html)
-- [The Future of AI-driven Design and Development, Today](https://teklinks.andrejnsimoes.com/2023/04/the-future-of-ai-driven-design-and.html)
-- [Keep Your Team’s Feedback Flowing With 5-15s](https://teklinks.andrejnsimoes.com/2023/04/keep-your-teams-feedback-flowing-with-5.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
