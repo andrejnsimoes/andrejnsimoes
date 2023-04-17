@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide for Building Open-Source Communities](https://teklinks.andrejnsimoes.com/2023/04/a-guide-for-building-open-source.html)
+- [The people most affected by the tech layoffs](https://teklinks.andrejnsimoes.com/2023/04/the-people-most-affected-by-tech-layoffs.html)
+- [How to Weave Git Repositories Together into a Monorepo](https://teklinks.andrejnsimoes.com/2023/04/how-to-weave-git-repositories-together.html)
 - [Load Testing for 2022 Wrapped](https://teklinks.andrejnsimoes.com/2023/04/load-testing-for-2022-wrapped.html)
 - [Build faster with Buck2: Our open source build system](https://teklinks.andrejnsimoes.com/2023/04/build-faster-with-buck2-our-open-source.html)
-- [How To Make Architecture Reviews That Feel Like Peer Reviews](https://teklinks.andrejnsimoes.com/2023/04/how-to-make-architecture-reviews-that.html)
-- [Don’t Let Your Design System Dictate Your Design Process](https://teklinks.andrejnsimoes.com/2023/04/dont-let-your-design-system-dictate.html)
-- [HTTP vs Messaging for Microservices Communications](https://teklinks.andrejnsimoes.com/2023/04/http-vs-messaging-for-microservices.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
