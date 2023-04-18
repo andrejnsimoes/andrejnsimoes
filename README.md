@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [I built a react app… but with a visual editor](https://www.youtube.com/watch?v=tszI9GrH1u0)
+- [Must Know React Portability Patterns](https://www.youtube.com/watch?v=yi8UCnXPu8U)
 - [Music Industry on life support right now](https://www.youtube.com/watch?v=LkrI3erbUtw)
 - [ChatGPT Crash Course | 10 Practical Use Cases For Developers](https://www.youtube.com/watch?v=o_joulYVndM)
 - [Bringing the Bling w/ Tanner Linsley](https://www.youtube.com/watch?v=nY7k3ql5mss)
-- [AWS CodeWhisperer… The Copilot Killer?](https://www.youtube.com/watch?v=FJACTC9wFhU)
-- [Recriei a interface do Spotify usando Tailwind](https://www.youtube.com/watch?v=YVI-q3idGiM)
 <!-- YOUTUBE:END -->
 
 
