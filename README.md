@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Amazon Code Whisperer VS Github Copilot](https://www.youtube.com/watch?v=p4Sc_-2yJHs)
 - [Intro to Runtime Performance in the Chrome DevTools Performance Panel with Annie Sullivan | JS Drops](https://www.youtube.com/watch?v=3_5DKEx72qk)
 - [I built a react app… but with a visual editor](https://www.youtube.com/watch?v=tszI9GrH1u0)
 - [Must Know React Portability Patterns](https://www.youtube.com/watch?v=yi8UCnXPu8U)
 - [Music Industry on life support right now](https://www.youtube.com/watch?v=LkrI3erbUtw)
-- [ChatGPT Crash Course | 10 Practical Use Cases For Developers](https://www.youtube.com/watch?v=o_joulYVndM)
 <!-- YOUTUBE:END -->
 
 
