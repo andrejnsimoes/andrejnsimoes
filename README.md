@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Nx 16.0 Release!!!](https://www.youtube.com/watch?v=JIhOyJtuxEA)
+- [Vercel dropped a database and leaked new Next.js features](https://www.youtube.com/watch?v=Km0aNxhVuC4)
 - [Online Course Platform Series &lpar;T3 Stack, Mantine, Prisma, Next-Auth&rpar;  - Part 1](https://www.youtube.com/watch?v=nYmPIVeGwFY)
 - [10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs)
 - [GitHub Copilot tips and tricks](https://www.youtube.com/watch?v=1qs6QKk0DVc)
-- [Amazon Code Whisperer VS Github Copilot](https://www.youtube.com/watch?v=p4Sc_-2yJHs)
-- [AI Video summaries: this will change how we consume videos!](https://www.youtube.com/watch?v=dqtliRSLmQo)
 <!-- YOUTUBE:END -->
 
 
