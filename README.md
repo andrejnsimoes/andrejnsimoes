@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Here’s How to Give Better Feedback](https://teklinks.andrejnsimoes.com/2023/05/heres-how-to-give-better-feedback.html)
+- [How to train your own Large Language Models](https://teklinks.andrejnsimoes.com/2023/05/how-to-train-your-own-large-language.html)
+- [gitStream vs Code Owners vs GitHub Actions](https://teklinks.andrejnsimoes.com/2023/05/gitstream-vs-code-owners-vs-github.html)
 - [Auto-GPT: What It Is and How to Install and Use It](https://teklinks.andrejnsimoes.com/2023/04/auto-gpt-what-it-is-and-how-to-install.html)
 - [Jira Anti-Patterns](https://teklinks.andrejnsimoes.com/2023/04/jira-anti-patterns.html)
-- [Why Grafana Needs OpenTelemetry](https://teklinks.andrejnsimoes.com/2023/04/why-grafana-needs-opentelemetry.html)
-- [Socket Supply wants to replace the cloud with peer-to-peer apps](https://teklinks.andrejnsimoes.com/2023/04/socket-supply-wants-to-replace-cloud.html)
-- [Exploring The Potential Of Web Workers For Multithreading On The Web](https://teklinks.andrejnsimoes.com/2023/04/exploring-potential-of-web-workers-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
