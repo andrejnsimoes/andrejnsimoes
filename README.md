@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Serverless was a big mistake... says Amazon](https://www.youtube.com/watch?v=qQk94CjRvIs)
 - [Unveiling Qwik 1.0: What You Need to Know!](https://www.youtube.com/watch?v=NjKOAbWqOM4)
 - [Nx 16.0 Release!!!](https://www.youtube.com/watch?v=JIhOyJtuxEA)
 - [Vercel dropped a database and leaked new Next.js features](https://www.youtube.com/watch?v=Km0aNxhVuC4)
 - [Online Course Platform Series &lpar;T3 Stack, Mantine, Prisma, Next-Auth&rpar;  - Part 1](https://www.youtube.com/watch?v=nYmPIVeGwFY)
-- [10 Math Concepts for Programmers](https://www.youtube.com/watch?v=bOCHTHkBoAs)
 <!-- YOUTUBE:END -->
 
 
