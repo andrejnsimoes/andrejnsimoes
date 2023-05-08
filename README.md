@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How we built the Tinder API Gateway](https://teklinks.andrejnsimoes.com/2023/05/how-we-built-tinder-api-gateway.html)
+- [Platform as a Runtime &lpar;PaaR&rpar; - Beyond Platform Engineering](https://teklinks.andrejnsimoes.com/2023/05/platform-as-runtime-paar-beyond.html)
+- [5 topics you should touch on during the recruitment process](https://teklinks.andrejnsimoes.com/2023/05/5-topics-you-should-touch-on-during.html)
 - [Adventures in Garbage Collection: Improving GC Performance in our Massive Monolith](https://teklinks.andrejnsimoes.com/2023/05/adventures-in-garbage-collection.html)
 - [Qwik Reaches v1.0](https://teklinks.andrejnsimoes.com/2023/05/qwik-reaches-v10.html)
-- [Creating a React Library Using TSDX and Automating Publishing with GitHub Actions](https://teklinks.andrejnsimoes.com/2023/05/creating-react-library-using-tsdx-and.html)
-- [Here’s How to Give Better Feedback](https://teklinks.andrejnsimoes.com/2023/05/heres-how-to-give-better-feedback.html)
-- [How to train your own Large Language Models](https://teklinks.andrejnsimoes.com/2023/05/how-to-train-your-own-large-language.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
