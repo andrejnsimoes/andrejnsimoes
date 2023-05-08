@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The ultimate guide to web performance](https://www.youtube.com/watch?v=0fONene3OIA)
 - [Serverless was a big mistake... says Amazon](https://www.youtube.com/watch?v=qQk94CjRvIs)
 - [Next.js Server Actions...  5 awesome things you can do](https://www.youtube.com/watch?v=O94ESaJtHtM)
 - [Server Components no React &lpar;tá lembrando o PHP?!&rpar;](https://www.youtube.com/watch?v=3KSxzW8x5pA)
 - [Unveiling Qwik 1.0: What You Need to Know!](https://www.youtube.com/watch?v=NjKOAbWqOM4)
-- [Nx 16.0 Release!!!](https://www.youtube.com/watch?v=JIhOyJtuxEA)
 <!-- YOUTUBE:END -->
 
 
