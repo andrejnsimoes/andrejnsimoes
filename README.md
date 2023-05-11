@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Server Actions: NextJS 13.4&#39;s Best New Feature](https://www.youtube.com/watch?v=czvSZqnpTHs)
+- [Google I/O &#39;23 in under 10 minutes](https://www.youtube.com/watch?v=QpBTM0GO6xI)
 - [I built a smarter smart home](https://www.youtube.com/watch?v=0rIvB3LZiKA)
 - [Qwik v1.0 is out! Get Qwikified!](https://www.youtube.com/watch?v=SY22NaWHv0s)
 - [Top 7 Most-Used Distributed System Patterns](https://www.youtube.com/watch?v=nH4qjmP2KEE)
-- [The ultimate guide to web performance](https://www.youtube.com/watch?v=0fONene3OIA)
-- [Serverless was a big mistake... says Amazon](https://www.youtube.com/watch?v=qQk94CjRvIs)
 <!-- YOUTUBE:END -->
 
 
