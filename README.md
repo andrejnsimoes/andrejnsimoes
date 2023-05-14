@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Grok React Server Component by Quizzes](https://teklinks.andrejnsimoes.com/2023/05/grok-react-server-component-by-quizzes.html)
+- [How to land a job in climate tech](https://teklinks.andrejnsimoes.com/2023/05/how-to-land-job-in-climate-tech.html)
+- [Monoliths are not dinosaurs](https://teklinks.andrejnsimoes.com/2023/05/monoliths-are-not-dinosaurs.html)
 - [Improving React Testing Library tests](https://teklinks.andrejnsimoes.com/2023/05/improving-react-testing-library-tests.html)
 - [Playwright&#39;s UI Mode - watch mode and time travel debugging](https://teklinks.andrejnsimoes.com/2023/05/playwrights-ui-mode-watch-mode-and-time.html)
-- [The Benefits of Implementing Blue/Green Deployment in Your CI/CD Pipeline](https://teklinks.andrejnsimoes.com/2023/05/the-benefits-of-implementing-bluegreen.html)
-- [Practical Guide To Not Blocking The Event Loop](https://teklinks.andrejnsimoes.com/2023/05/practical-guide-to-not-blocking-event.html)
-- [50+ ChatGPT Prompts for Web Developers](https://teklinks.andrejnsimoes.com/2023/05/50-chatgpt-prompts-for-web-developers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
