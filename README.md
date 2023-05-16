@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Wix Accelerated Open Platform Dev with Standardized APIs &amp; Schemas](https://teklinks.andrejnsimoes.com/2023/05/how-wix-accelerated-open-platform-dev.html)
+- [Accept Conway’s Law in Big Projects](https://teklinks.andrejnsimoes.com/2023/05/accept-conways-law-in-big-projects.html)
+- [You Want Modules, Not Microservices](https://teklinks.andrejnsimoes.com/2023/05/you-want-modules-not-microservices.html)
 - [Technical Debt vs. Opportunity Cost: Striking the Balance in Software Development Projects](https://teklinks.andrejnsimoes.com/2023/05/technical-debt-vs-opportunity-cost.html)
 - [How I used GitHub Copilot to build a browser extension](https://teklinks.andrejnsimoes.com/2023/05/how-i-used-github-copilot-to-build.html)
-- [Build a Multistep Form With React Hook Form](https://teklinks.andrejnsimoes.com/2023/05/build-multistep-form-with-react-hook.html)
-- [Grok React Server Component by Quizzes](https://teklinks.andrejnsimoes.com/2023/05/grok-react-server-component-by-quizzes.html)
-- [How to land a job in climate tech](https://teklinks.andrejnsimoes.com/2023/05/how-to-land-job-in-climate-tech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
