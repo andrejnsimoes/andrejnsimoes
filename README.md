@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Test Custom React Hooks with React Testing Library](https://teklinks.andrejnsimoes.com/2023/05/how-to-test-custom-react-hooks-with.html)
+- [My Struggle With Remix](https://teklinks.andrejnsimoes.com/2023/05/my-struggle-with-remix.html)
+- [Martin Fowler Was Right: Microservices Suck*](https://teklinks.andrejnsimoes.com/2023/05/martin-fowler-was-right-microservices.html)
 - [How Wix Accelerated Open Platform Dev with Standardized APIs &amp; Schemas](https://teklinks.andrejnsimoes.com/2023/05/how-wix-accelerated-open-platform-dev.html)
 - [Accept Conway’s Law in Big Projects](https://teklinks.andrejnsimoes.com/2023/05/accept-conways-law-in-big-projects.html)
-- [You Want Modules, Not Microservices](https://teklinks.andrejnsimoes.com/2023/05/you-want-modules-not-microservices.html)
-- [Technical Debt vs. Opportunity Cost: Striking the Balance in Software Development Projects](https://teklinks.andrejnsimoes.com/2023/05/technical-debt-vs-opportunity-cost.html)
-- [How I used GitHub Copilot to build a browser extension](https://teklinks.andrejnsimoes.com/2023/05/how-i-used-github-copilot-to-build.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
