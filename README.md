@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How do we get a tech team to make a big technical change?](https://teklinks.andrejnsimoes.com/2023/05/how-do-we-get-tech-team-to-make-big.html)
+- [React with TypeScript](https://teklinks.andrejnsimoes.com/2023/05/react-with-typescript.html)
 - [React Server Components, Next.js App Router and examples](https://teklinks.andrejnsimoes.com/2023/05/react-server-components-nextjs-app.html)
 - [How I used Midjourney to design a brand identity](https://teklinks.andrejnsimoes.com/2023/05/how-i-used-midjourney-to-design-brand.html)
 - [Level up monitoring and reporting for your enterprise](https://teklinks.andrejnsimoes.com/2023/05/level-up-monitoring-and-reporting-for.html)
-- [How to Test Custom React Hooks with React Testing Library](https://teklinks.andrejnsimoes.com/2023/05/how-to-test-custom-react-hooks-with.html)
-- [My Struggle With Remix](https://teklinks.andrejnsimoes.com/2023/05/my-struggle-with-remix.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
