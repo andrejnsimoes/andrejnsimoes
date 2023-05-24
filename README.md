@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Magic: Exploring Reactivity Across Various Frameworks](https://teklinks.andrejnsimoes.com/2023/05/unveiling-magic-exploring-reactivity.html)
+- [How to design software architecture: Top tips and best practices](https://teklinks.andrejnsimoes.com/2023/05/how-to-design-software-architecture-top.html)
+- [Monorepo setup with Lerna and Yarn workspaces](https://teklinks.andrejnsimoes.com/2023/05/monorepo-setup-with-lerna-and-yarn.html)
 - [You Might Not Need React Query](https://teklinks.andrejnsimoes.com/2023/05/you-might-not-need-react-query.html)
 - [Stories from our survey: Salary in the time of pandemic](https://teklinks.andrejnsimoes.com/2023/05/stories-from-our-survey-salary-in-time.html)
-- [Running Large Language Models Natively on Mobile and Laptops](https://teklinks.andrejnsimoes.com/2023/05/running-large-language-models-natively.html)
-- [How do we get a tech team to make a big technical change?](https://teklinks.andrejnsimoes.com/2023/05/how-do-we-get-tech-team-to-make-big.html)
-- [React with TypeScript](https://teklinks.andrejnsimoes.com/2023/05/react-with-typescript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
