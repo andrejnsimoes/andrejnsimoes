@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [I tried 8 different Postgres ORMs](https://www.youtube.com/watch?v=4QN1BzxF8wM)
 - [How I prep for frontend coding interviews](https://www.youtube.com/watch?v=0FMLC3CARl0)
+- [Junior Devs; Ask For Help The Right Way!](https://www.youtube.com/watch?v=Srq7nUi-LUc)
 - [Qwik Framework Deep-Dive Full Course with Misko Hevery &lpar;The Creator of Angular &amp; now Qwik&rpar;](https://www.youtube.com/watch?v=dc6mUwXnyqE)
 - [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc)
-- [&quot;The Epic Stack&quot; by Kent C. Dodds at #RemixConf 2023 💿](https://www.youtube.com/watch?v=yMK5SVRASxM)
-- [Most overpowered way to build mobile apps?](https://www.youtube.com/watch?v=-uN1Q98UMO4)
 <!-- YOUTUBE:END -->
 
 
