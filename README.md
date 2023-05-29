@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Are React Server Components Really Slower?](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
 - [I tried 8 different Postgres ORMs](https://www.youtube.com/watch?v=4QN1BzxF8wM)
 - [How I prep for frontend coding interviews](https://www.youtube.com/watch?v=0FMLC3CARl0)
 - [Junior Devs; Ask For Help The Right Way!](https://www.youtube.com/watch?v=Srq7nUi-LUc)
 - [Qwik Framework Deep-Dive Full Course with Misko Hevery &lpar;The Creator of Angular &amp; now Qwik&rpar;](https://www.youtube.com/watch?v=dc6mUwXnyqE)
-- [AI regulation is coming...](https://www.youtube.com/watch?v=CDokUdux0rc)
 <!-- YOUTUBE:END -->
 
 
