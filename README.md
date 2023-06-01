@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup and Use ChatGPT in Mac Terminal](https://teklinks.andrejnsimoes.com/2023/06/how-to-setup-and-use-chatgpt-in-mac.html)
+- [[Micro Frontend] Module Federation with Vite for React](https://teklinks.andrejnsimoes.com/2023/06/micro-frontend-module-federation-with.html)
 - [A Pragmatist’s Guide To Lean User Research](https://teklinks.andrejnsimoes.com/2023/05/a-pragmatists-guide-to-lean-user.html)
 - [What Does Being a Good Leader Mean? Making Life Easier for Your Team](https://teklinks.andrejnsimoes.com/2023/05/what-does-being-good-leader-mean-making.html)
 - [Using Bun.js as a bundler](https://teklinks.andrejnsimoes.com/2023/05/using-bunjs-as-bundler.html)
-- [How to host your side-projects for free in 2023: from Auth to Database](https://teklinks.andrejnsimoes.com/2023/05/how-to-host-your-side-projects-for-free.html)
-- [300ms Faster: Reducing Wikipedia&#39;s Total Blocking Time](https://teklinks.andrejnsimoes.com/2023/05/300ms-faster-reducing-wikipedias-total.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
