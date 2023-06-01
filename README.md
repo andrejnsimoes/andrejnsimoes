@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The Nx Iceberg](https://www.youtube.com/watch?v=qG9fD508ufY)
 - [21 Awesome Web Features you’re not using yet](https://www.youtube.com/watch?v=q1fsBWLpYW4)
 - [Build AI Apps with ChatGPT, DALL-E, and GPT-4 – Full Course for Beginners](https://www.youtube.com/watch?v=jlogLBkPZ2A)
 - [React Roundtable: Server Components, Suspense, and Actions](https://www.youtube.com/watch?v=g5BGoLyGjY0)
 - [Are React Server Components Really Slower?](https://www.youtube.com/watch?v=3Q2q2gs0nAI)
-- [I tried 8 different Postgres ORMs](https://www.youtube.com/watch?v=4QN1BzxF8wM)
 <!-- YOUTUBE:END -->
 
 
