@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The React Ecosystem in 2023](https://teklinks.andrejnsimoes.com/2023/06/the-react-ecosystem-in-2023.html)
+- [Set up OpenTelemetry for full-stack JavaScript development](https://teklinks.andrejnsimoes.com/2023/06/set-up-opentelemetry-for-full-stack.html)
+- [Modern work requires attention. Constant alerts steal it](https://teklinks.andrejnsimoes.com/2023/06/modern-work-requires-attention-constant.html)
 - [Celebrating 10 Years of React](https://teklinks.andrejnsimoes.com/2023/06/celebrating-10-years-of-react.html)
 - [Why Zod is a Developer-Friendly Validation Library](https://teklinks.andrejnsimoes.com/2023/06/why-zod-is-developer-friendly.html)
-- [How to Build a Great Software Engineering Team](https://teklinks.andrejnsimoes.com/2023/06/how-to-build-great-software-engineering.html)
-- [How to Setup and Use ChatGPT in Mac Terminal](https://teklinks.andrejnsimoes.com/2023/06/how-to-setup-and-use-chatgpt-in-mac.html)
-- [[Micro Frontend] Module Federation with Vite for React](https://teklinks.andrejnsimoes.com/2023/06/micro-frontend-module-federation-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
