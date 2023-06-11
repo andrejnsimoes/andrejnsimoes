@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [High-school student makes React a million times faster](https://www.youtube.com/watch?v=VkezQMb1DHw)
 - [Automated Testing with Playwright ft. Debbie O&#39;Brien  | Modern Web Podcast](https://www.youtube.com/watch?v=F-hEYOU2dY8)
 - [Lightning Fast PNPM Workspaces](https://www.youtube.com/watch?v=PwfR77oe1E8)
 - [Did RSCs Really Turn React Into PHP?](https://www.youtube.com/watch?v=hr_y1hIdZHs)
 - [Nx Deploys to the Edge w/ Netlify](https://www.youtube.com/watch?v=idH6GCkWq0w)
-- [The Nx Iceberg](https://www.youtube.com/watch?v=qG9fD508ufY)
 <!-- YOUTUBE:END -->
 
 
