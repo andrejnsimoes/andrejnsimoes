@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Setting up micro-frontends with Astro and Ecma Script Modules](https://teklinks.andrejnsimoes.com/2023/06/setting-up-micro-frontends-with-astro.html)
+- [Accelerate test-driven development with AI](https://teklinks.andrejnsimoes.com/2023/06/accelerate-test-driven-development-with.html)
 - [How to use marketing techniques to build a better resume](https://teklinks.andrejnsimoes.com/2023/06/how-to-use-marketing-techniques-to.html)
 - [Architects Delight: Enforcing Layers and Project Boundaries with Nx](https://teklinks.andrejnsimoes.com/2023/06/architects-delight-enforcing-layers-and.html)
 - [The evolution of React APIs and code reuse](https://teklinks.andrejnsimoes.com/2023/06/the-evolution-of-react-apis-and-code.html)
-- [How large DOM sizes affect interactivity, and what you can do about it](https://teklinks.andrejnsimoes.com/2023/06/how-large-dom-sizes-affect.html)
-- [Sharing WebSocket Connections between Browser Tabs and Windows](https://teklinks.andrejnsimoes.com/2023/06/sharing-websocket-connections-between.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
