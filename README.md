@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [More Effective Conversations With Business Stakeholders About Software Architecture](https://teklinks.andrejnsimoes.com/2023/06/how-to-have-more-effective.html)
+- [Technical SEO Basics for React Developers](https://teklinks.andrejnsimoes.com/2023/06/technical-seo-basics-for-react.html)
 - [Setting up micro-frontends with Astro and Ecma Script Modules](https://teklinks.andrejnsimoes.com/2023/06/setting-up-micro-frontends-with-astro.html)
 - [Accelerate test-driven development with AI](https://teklinks.andrejnsimoes.com/2023/06/accelerate-test-driven-development-with.html)
 - [How to use marketing techniques to build a better resume](https://teklinks.andrejnsimoes.com/2023/06/how-to-use-marketing-techniques-to.html)
-- [Architects Delight: Enforcing Layers and Project Boundaries with Nx](https://teklinks.andrejnsimoes.com/2023/06/architects-delight-enforcing-layers-and.html)
-- [The evolution of React APIs and code reuse](https://teklinks.andrejnsimoes.com/2023/06/the-evolution-of-react-apis-and-code.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
