@@ -50,7 +50,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Nx Recipe: NextJS + tRPC](https://www.youtube.com/watch?v=RupxGAQ3fBY)
+- [Serving up FRESH Nx Recipes w/ NextJS + tRPC](https://www.youtube.com/watch?v=RupxGAQ3fBY)
 - [Nuxt in 100 Seconds](https://www.youtube.com/watch?v=dCxSsr5xuL8)
 - [Nuxt in 100 Seconds](https://www.youtube.com/watch?v=dCxSsr5xuL8)
 - [Ryan Carniato Interview: Is This Solid-JS&#39;s Moment?](https://www.youtube.com/watch?v=qmdu9Kiw6UQ)
