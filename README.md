@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Hydration is a tree, Resumability is a map](https://teklinks.andrejnsimoes.com/2023/06/hydration-is-tree-resumability-is-map.html)
+- [Fresh 1.2 – sharing state between islands, limited npm support, and more](https://teklinks.andrejnsimoes.com/2023/06/fresh-12-sharing-state-between-islands.html)
+- [Why you should pin your GitHub Actions by commit-hash](https://teklinks.andrejnsimoes.com/2023/06/why-you-should-pin-your-github-actions.html)
 - [More Effective Conversations With Business Stakeholders About Software Architecture](https://teklinks.andrejnsimoes.com/2023/06/how-to-have-more-effective.html)
 - [Technical SEO Basics for React Developers](https://teklinks.andrejnsimoes.com/2023/06/technical-seo-basics-for-react.html)
-- [Setting up micro-frontends with Astro and Ecma Script Modules](https://teklinks.andrejnsimoes.com/2023/06/setting-up-micro-frontends-with-astro.html)
-- [Accelerate test-driven development with AI](https://teklinks.andrejnsimoes.com/2023/06/accelerate-test-driven-development-with.html)
-- [How to use marketing techniques to build a better resume](https://teklinks.andrejnsimoes.com/2023/06/how-to-use-marketing-techniques-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
