@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [W3C announces new Web standard for online payments](https://teklinks.andrejnsimoes.com/2023/06/w3c-announces-new-web-standard-for.html)
+- [The Eight Most Common Goal-Setting Blunders in the Workplace](https://teklinks.andrejnsimoes.com/2023/06/the-eight-most-common-goal-setting.html)
+- [Exciting React Features in 2023: A Look into the Future of Web Development](https://teklinks.andrejnsimoes.com/2023/06/exciting-react-features-in-2023-look.html)
 - [The Journey To a Faster Sandpack Transpiler](https://teklinks.andrejnsimoes.com/2023/06/the-journey-to-faster-sandpack.html)
 - [Learning JavaScript With Imagination](https://teklinks.andrejnsimoes.com/2023/06/learning-javascript-with-imagination.html)
-- [Advanced Fastify: Hooks, Middleware, and Decorators](https://teklinks.andrejnsimoes.com/2023/06/advanced-fastify-hooks-middleware-and.html)
-- [Hydration is a tree, Resumability is a map](https://teklinks.andrejnsimoes.com/2023/06/hydration-is-tree-resumability-is-map.html)
-- [Fresh 1.2 – sharing state between islands, limited npm support, and more](https://teklinks.andrejnsimoes.com/2023/06/fresh-12-sharing-state-between-islands.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
