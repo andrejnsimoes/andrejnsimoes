@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Fresh 1.2 – welcoming a full-time maintainer, sharing state between islands, limited npm support, and more](https://teklinks.andrejnsimoes.com/2023/06/fresh-12-welcoming-full-time-maintainer_21.html)
 - [Fresh 1.2 – welcoming a full-time maintainer, sharing state between islands, limited npm support..](https://teklinks.andrejnsimoes.com/2023/06/fresh-12-welcoming-full-time-maintainer.html)
 - [Thinking in React Query](https://teklinks.andrejnsimoes.com/2023/06/thinking-in-react-query.html)
 - [How GoDaddy Implemented a Multi-Region Event-Driven Platform at Scale](https://teklinks.andrejnsimoes.com/2023/06/how-godaddy-implemented-multi-region.html)
 - [W3C announces new Web standard for online payments](https://teklinks.andrejnsimoes.com/2023/06/w3c-announces-new-web-standard-for.html)
+- [The Eight Most Common Goal-Setting Blunders in the Workplace](https://teklinks.andrejnsimoes.com/2023/06/the-eight-most-common-goal-setting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
