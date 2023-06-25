@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [THE FUTURE OF REACT &lpar;I Did A Keynote!&rpar;](https://www.youtube.com/watch?v=WTOIgyGXSio)
 - [RIP Google Domains… and 5 big tech stories this week](https://www.youtube.com/watch?v=1GSq7Je32iw)
 - [Serving up FRESH Nx Recipes w/ NextJS + tRPC](https://www.youtube.com/watch?v=RupxGAQ3fBY)
 - [Nuxt in 100 Seconds](https://www.youtube.com/watch?v=dCxSsr5xuL8)
 - [Nuxt in 100 Seconds](https://www.youtube.com/watch?v=dCxSsr5xuL8)
-- [Ryan Carniato Interview: Is This Solid-JS&#39;s Moment?](https://www.youtube.com/watch?v=qmdu9Kiw6UQ)
 <!-- YOUTUBE:END -->
 
 
