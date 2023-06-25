@@ -51,9 +51,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [THE FUTURE OF REACT &lpar;I Did A Keynote!&rpar;](https://www.youtube.com/watch?v=WTOIgyGXSio)
+- [Don&#39;t Follow THIS Bad React Advice!](https://www.youtube.com/watch?v=YlU9vznPWIk)
 - [RIP Google Domains… and 5 big tech stories this week](https://www.youtube.com/watch?v=1GSq7Je32iw)
 - [Serving up FRESH Nx Recipes w/ NextJS + tRPC](https://www.youtube.com/watch?v=RupxGAQ3fBY)
-- [Nuxt in 100 Seconds](https://www.youtube.com/watch?v=dCxSsr5xuL8)
 - [Nuxt in 100 Seconds](https://www.youtube.com/watch?v=dCxSsr5xuL8)
 <!-- YOUTUBE:END -->
 
