@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I Switched From Neovim To VSCode](https://teklinks.andrejnsimoes.com/2023/06/why-i-switched-from-neovim-to-vscode.html)
+- [Bundle Analysis: An Underrated Tool](https://teklinks.andrejnsimoes.com/2023/06/bundle-analysis-underrated-tool.html)
+- [Improving Performance with HTTP Streaming](https://teklinks.andrejnsimoes.com/2023/06/improving-performance-with-http.html)
 - [What is a CDN? An Unbiased Guide to Content Delivery Networks](https://teklinks.andrejnsimoes.com/2023/06/what-is-cdn-unbiased-guide-to-content.html)
 - [Zustand: The Simpler Alternative to Redux](https://teklinks.andrejnsimoes.com/2023/06/zustand-simpler-alternative-to-redux.html)
-- [How to Create a Screen Recording with Quicktime](https://teklinks.andrejnsimoes.com/2023/06/how-to-create-screen-recording-with.html)
-- [Meet Codux: The React Visual Editor That Improves Developer Experience](https://teklinks.andrejnsimoes.com/2023/06/meet-codux-react-visual-editor-that.html)
-- [Building a full-stack, fully type-safe pnpm monorepo with NestJS, NextJS &amp; tRPC](https://teklinks.andrejnsimoes.com/2023/06/building-full-stack-fully-type-safe.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
