@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Nx Console gets LIT](https://www.youtube.com/watch?v=p455D4W7330)
 - [THE FUTURE OF REACT &lpar;I Did A Keynote!&rpar;](https://www.youtube.com/watch?v=WTOIgyGXSio)
 - [Don&#39;t Follow THIS Bad React Advice!](https://www.youtube.com/watch?v=YlU9vznPWIk)
 - [RIP Google Domains… and 5 big tech stories this week](https://www.youtube.com/watch?v=1GSq7Je32iw)
 - [Misko Hevery - Speeding Up Your React App With Less JavaScript, React Summit 2023](https://www.youtube.com/watch?v=IZ5gaAo08Pw)
-- [Serving up FRESH Nx Recipes w/ NextJS + tRPC](https://www.youtube.com/watch?v=RupxGAQ3fBY)
 <!-- YOUTUBE:END -->
 
 
