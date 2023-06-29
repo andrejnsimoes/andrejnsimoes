@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling the Dark Side of AI: How Prompt Hacking Can Sabotage Your AI Systems](https://teklinks.andrejnsimoes.com/2023/06/unveiling-dark-side-of-ai-how-prompt.html)
+- [A Deployment Is Not a Release: Control Your Launches With Feature Flags](https://teklinks.andrejnsimoes.com/2023/06/a-deployment-is-not-release-control.html)
 - [Thoughts on Svelte&lpar;Kit&rpar;, one year and 3 billion requests later](https://teklinks.andrejnsimoes.com/2023/06/thoughts-on-sveltekit-one-year-and-3.html)
 - [How to Use Docker Layers to Optimize Your Container Size](https://teklinks.andrejnsimoes.com/2023/06/how-to-use-docker-layers-to-optimize.html)
 - [Why I Switched From Neovim To VSCode](https://teklinks.andrejnsimoes.com/2023/06/why-i-switched-from-neovim-to-vscode.html)
-- [Bundle Analysis: An Underrated Tool](https://teklinks.andrejnsimoes.com/2023/06/bundle-analysis-underrated-tool.html)
-- [Improving Performance with HTTP Streaming](https://teklinks.andrejnsimoes.com/2023/06/improving-performance-with-http.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
