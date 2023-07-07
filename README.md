@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Performance &amp; Optimization](https://teklinks.andrejnsimoes.com/2023/07/react-performance-optimization.html)
+- [A Guide To Redux Toolkit With TypeScript](https://teklinks.andrejnsimoes.com/2023/07/a-guide-to-redux-toolkit-with-typescript.html)
+- [CommonJS is hurting JavaScript](https://teklinks.andrejnsimoes.com/2023/07/commonjs-is-hurting-javascript.html)
 - [API Mocking for your Playwright tests](https://teklinks.andrejnsimoes.com/2023/07/api-mocking-for-your-playwright-tests.html)
 - [An Introduction to the View Transitions API](https://teklinks.andrejnsimoes.com/2023/07/an-introduction-to-view-transitions-api.html)
-- [Is Qwik Faster Than React Server Component?](https://teklinks.andrejnsimoes.com/2023/07/is-qwik-faster-than-react-server.html)
-- [Advanced macOS Command-Line Tools](https://teklinks.andrejnsimoes.com/2023/07/advanced-macos-command-line-tools.html)
-- [At a glance: what makes a good developer experience? 🤔](https://teklinks.andrejnsimoes.com/2023/07/at-glance-what-makes-good-developer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
