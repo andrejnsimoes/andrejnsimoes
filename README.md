@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
 - [React VS Svelte...10 Examples](https://www.youtube.com/watch?v=MnpuK0MK4yo)
 - [Crie componentes DESSA FORMA no React &lpar;Pattern de composição&rpar;](https://www.youtube.com/watch?v=oPOKpSFqy-I)
 - [Write A ChatGPT Chatbot With Node.js](https://www.youtube.com/watch?v=1YU83Lw58eo)
 - [This unicorn startup faked 95% of its users](https://www.youtube.com/watch?v=M_wZpSEvOkc)
-- [localStorage and sessionStorage](https://www.youtube.com/watch?v=5o8krh_Qduk)
 <!-- YOUTUBE:END -->
 
 
