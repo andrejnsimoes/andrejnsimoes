@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Popular DevTools Tips](https://teklinks.andrejnsimoes.com/2023/07/popular-devtools-tips.html)
+- [Test your React hooks with Vitest efficiently](https://teklinks.andrejnsimoes.com/2023/07/test-your-react-hooks-with-vitest.html)
+- [Set up Jest in your Monorepo in 5 minutes](https://teklinks.andrejnsimoes.com/2023/07/set-up-jest-in-your-monorepo-in-5.html)
 - [🗣️ How to Build an AI Voice-to-Image Generator with Next Js, OpenAI and Lexica](https://teklinks.andrejnsimoes.com/2023/07/how-to-build-ai-voice-to-image.html)
 - [The massive bug at the heart of the npm ecosystem](https://teklinks.andrejnsimoes.com/2023/07/the-massive-bug-at-heart-of-npm.html)
-- [Cracking Electron apps open](https://teklinks.andrejnsimoes.com/2023/07/cracking-electron-apps-open.html)
-- [React Performance &amp; Optimization](https://teklinks.andrejnsimoes.com/2023/07/react-performance-optimization.html)
-- [A Guide To Redux Toolkit With TypeScript](https://teklinks.andrejnsimoes.com/2023/07/a-guide-to-redux-toolkit-with-typescript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
