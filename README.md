@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Chatbot do ZERO com Next, AI SDK, OpenAI e Shadcn/UI](https://www.youtube.com/watch?v=CPRx_WVkJ8g)
 - [Miško Hevery on Qwik versus React](https://www.youtube.com/watch?v=GHsO0t1_P0M)
 - [How to Rate Limiting Node.js Streams 🔥 || Node.js Streams || Erick Wendel](https://www.youtube.com/watch?v=xl8WgAyV9mY)
 - [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
 - [React VS Svelte...10 Examples](https://www.youtube.com/watch?v=MnpuK0MK4yo)
-- [Crie componentes DESSA FORMA no React &lpar;Pattern de composição&rpar;](https://www.youtube.com/watch?v=oPOKpSFqy-I)
 <!-- YOUTUBE:END -->
 
 
