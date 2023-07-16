@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Software Testing Strategies and Real User Engagement with Andrew Knight | Modern Web Podcast](https://www.youtube.com/watch?v=nm_40MnJMCY)
 - [Chatbot do ZERO com Next, AI SDK, OpenAI e Shadcn/UI](https://www.youtube.com/watch?v=CPRx_WVkJ8g)
 - [Miško Hevery on Qwik versus React](https://www.youtube.com/watch?v=GHsO0t1_P0M)
 - [How to Rate Limiting Node.js Streams 🔥 || Node.js Streams || Erick Wendel](https://www.youtube.com/watch?v=xl8WgAyV9mY)
 - [The Ultimate Mac Terminal Setup - Beginner Tutorial](https://www.youtube.com/watch?v=d4bTkiftBOk)
-- [htmx in 100 seconds](https://www.youtube.com/watch?v=r-GSGH2RxJs)
 <!-- YOUTUBE:END -->
 
 
