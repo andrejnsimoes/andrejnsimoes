@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [My take on the current React &amp; Server Components controversy](https://teklinks.andrejnsimoes.com/2023/07/my-take-on-current-react-server.html)
+- [Building for Failure - Best Practices for Easy Production Debugging](https://teklinks.andrejnsimoes.com/2023/07/building-for-failure-best-practices-for.html)
+- [Don’t Confuse Complex with Complicated, Part 2 – Complexity is Part of the Deal](https://teklinks.andrejnsimoes.com/2023/07/dont-confuse-complex-with-complicated_16.html)
 - [Don’t Confuse Complex with Complicated, Part 1: What is Information?](https://teklinks.andrejnsimoes.com/2023/07/dont-confuse-complex-with-complicated.html)
 - [How Bloomberg’s engineers built a culture of knowledge sharing](https://teklinks.andrejnsimoes.com/2023/07/how-bloombergs-engineers-built-culture.html)
-- [Junior to senior: An action plan for engineering career success](https://teklinks.andrejnsimoes.com/2023/07/junior-to-senior-action-plan-for.html)
-- [Multithreading with Worker Threads in Node.js](https://teklinks.andrejnsimoes.com/2023/07/multithreading-with-worker-threads-in.html)
-- [The hardest part of building software is not coding, it’s requirements](https://teklinks.andrejnsimoes.com/2023/07/the-hardest-part-of-building-software.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
