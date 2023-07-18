@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying React Server Components with NextJS 13 App Router](https://teklinks.andrejnsimoes.com/2023/07/demystifying-react-server-components.html)
+- [Beyond Browsers: The Longterm Future of JavaScript Standards](https://teklinks.andrejnsimoes.com/2023/07/beyond-browsers-longterm-future-of.html)
+- [Linking Modular Architecture to Development Teams](https://teklinks.andrejnsimoes.com/2023/07/linking-modular-architecture-to.html)
 - [The Deep End: Pursuing a Computer Science Degree vs. Pursuing a Career](https://teklinks.andrejnsimoes.com/2023/07/the-deep-end-pursuing-computer-science.html)
 - [My take on the current React &amp; Server Components controversy](https://teklinks.andrejnsimoes.com/2023/07/my-take-on-current-react-server.html)
-- [Building for Failure - Best Practices for Easy Production Debugging](https://teklinks.andrejnsimoes.com/2023/07/building-for-failure-best-practices-for.html)
-- [Don’t Confuse Complex with Complicated, Part 2 – Complexity is Part of the Deal](https://teklinks.andrejnsimoes.com/2023/07/dont-confuse-complex-with-complicated_16.html)
-- [Don’t Confuse Complex with Complicated, Part 1: What is Information?](https://teklinks.andrejnsimoes.com/2023/07/dont-confuse-complex-with-complicated.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
