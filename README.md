@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How To Maximize Performance In Your React Apps](https://www.youtube.com/watch?v=Qwb-Za6cBws)
 - [The future of &quot;truth&quot; on the Internet](https://www.youtube.com/watch?v=-Bdb2KOb_zI)
 - [Legend: The Ultimate React State Manager?](https://www.youtube.com/watch?v=E4TH77SMOG8)
 - [Software Testing Strategies and Real User Engagement with Andrew Knight | Modern Web Podcast](https://www.youtube.com/watch?v=nm_40MnJMCY)
 - [Chatbot do ZERO com Next, AI SDK, OpenAI e Shadcn/UI](https://www.youtube.com/watch?v=CPRx_WVkJ8g)
-- [Miško Hevery on Qwik versus React](https://www.youtube.com/watch?v=GHsO0t1_P0M)
 <!-- YOUTUBE:END -->
 
 
