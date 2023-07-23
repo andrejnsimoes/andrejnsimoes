@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [gRPC vs REST: comparing approaches for making APIs](https://teklinks.andrejnsimoes.com/2023/07/grpc-vs-rest-comparing-approaches-for.html)
+- [Stick to boring architecture for as long as possible](https://teklinks.andrejnsimoes.com/2023/07/stick-to-boring-architecture-for-as.html)
+- [Backend side architecture evolution &lpar;N-layered, DDD, Hexagon, Onion, Clean Architecture&rpar;](https://teklinks.andrejnsimoes.com/2023/07/backend-side-architecture-evolution-n.html)
 - [How React 18 Improves Application Performance](https://teklinks.andrejnsimoes.com/2023/07/how-react-18-improves-application.html)
 - [Why knowledge management is foundational to AI success](https://teklinks.andrejnsimoes.com/2023/07/why-knowledge-management-is.html)
-- [WebGPU — All of the cores, none of the canvas](https://teklinks.andrejnsimoes.com/2023/07/webgpu-all-of-cores-none-of-canvas.html)
-- [Demystifying React Server Components with NextJS 13 App Router](https://teklinks.andrejnsimoes.com/2023/07/demystifying-react-server-components.html)
-- [Beyond Browsers: The Longterm Future of JavaScript Standards](https://teklinks.andrejnsimoes.com/2023/07/beyond-browsers-longterm-future-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
