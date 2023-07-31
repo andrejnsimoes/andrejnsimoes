@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How React 18 Improves Application Performance](https://teklinks.andrejnsimoes.com/2023/07/how-react-18-improves-application_31.html)
 - [Core Web Vitals for Search Engine Optimisation: What Do We Need to Know?](https://teklinks.andrejnsimoes.com/2023/07/core-web-vitals-for-search-engine.html)
 - [The Power of Mocking in Unit Tests](https://teklinks.andrejnsimoes.com/2023/07/the-power-of-mocking-in-unit-tests.html)
 - [How to switch to PNPM from Yarn 🔄](https://teklinks.andrejnsimoes.com/2023/07/how-to-switch-to-pnpm-from-yarn.html)
 - [How to version all packages synchronously, in a monorepo using Lerna](https://teklinks.andrejnsimoes.com/2023/07/tech-blog-4-how-to-version-all-packages.html)
-- [Don’t Confuse Complex with Complicated, Part 3 – Assuming the Burden](https://teklinks.andrejnsimoes.com/2023/07/dont-confuse-complex-with-complicated_27.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
