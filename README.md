@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Great Migration - How We Migrated All of Our Premium Subscriptions](https://teklinks.andrejnsimoes.com/2023/08/the-great-migration-how-we-migrated-all.html)
+- [The Art Of Looking Back: A Critical Reflection For Individual Contributors](https://teklinks.andrejnsimoes.com/2023/08/the-art-of-looking-back-critical.html)
+- [A 20-year-experienced CTO’s Advice “Don’t Be a Humble Developer”](https://teklinks.andrejnsimoes.com/2023/08/a-20-year-experienced-ctos-advice-dont.html)
 - [Scaling Teams for Project Success: A Simple and Effective Tool](https://teklinks.andrejnsimoes.com/2023/08/scaling-teams-for-project-success.html)
 - [Rate limiting requests with tRPC in Sveltekit](https://teklinks.andrejnsimoes.com/2023/08/rate-limiting-requests-with-trpc-in.html)
-- [Upgrading an Ancient React Application](https://teklinks.andrejnsimoes.com/2023/08/upgrading-ancient-react-application.html)
-- [Readability: Google&#39;s Temple to Engineering Excellence](https://teklinks.andrejnsimoes.com/2023/08/readability-googles-temple-to.html)
-- [Hono + htmx + Cloudflare is a new stack](https://teklinks.andrejnsimoes.com/2023/08/hono-htmx-cloudflare-is-new-stack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
