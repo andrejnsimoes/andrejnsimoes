@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [HTMX: The Game-Changing Alternative to React](https://www.youtube.com/watch?v=DuGyH5RvfbY)
 - [PROOF JavaScript is a Multi-Threaded language](https://www.youtube.com/watch?v=-JE8P2TiJEg)
 - [Modern JavaScript From The Beginning | First 12 Hours](https://www.youtube.com/watch?v=BI1o2H9z9fo)
 - [ESLint Reimagined: Creating a Linter from Scratch || Erick Wendel](https://www.youtube.com/watch?v=AvXe5_xZmeg)
 - [ChatGPT e outras IAs: como usar no meu negócio? #PR](https://www.youtube.com/watch?v=RH35DU2PSD4)
-- [How To Maximize Performance In Your React Apps](https://www.youtube.com/watch?v=Qwb-Za6cBws)
 <!-- YOUTUBE:END -->
 
 
