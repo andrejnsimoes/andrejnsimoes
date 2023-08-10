@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Tobias Koppers on Turbopack vs Webpack](https://www.youtube.com/watch?v=Zwd_8Jy7b-c)
 - [HTMX: The Game-Changing Alternative to React](https://www.youtube.com/watch?v=DuGyH5RvfbY)
 - [PROOF JavaScript is a Multi-Threaded language](https://www.youtube.com/watch?v=-JE8P2TiJEg)
+- [Zig in 100 Seconds](https://www.youtube.com/watch?v=kxT8-C1vmd4)
 - [Modern JavaScript From The Beginning | First 12 Hours](https://www.youtube.com/watch?v=BI1o2H9z9fo)
-- [ESLint Reimagined: Creating a Linter from Scratch || Erick Wendel](https://www.youtube.com/watch?v=AvXe5_xZmeg)
-- [ChatGPT e outras IAs: como usar no meu negócio? #PR](https://www.youtube.com/watch?v=RH35DU2PSD4)
 <!-- YOUTUBE:END -->
 
 
