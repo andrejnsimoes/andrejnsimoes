@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Qwik Works](https://teklinks.andrejnsimoes.com/2023/08/how-qwik-works.html)
+- [How We Optimized Performance To Serve A Global Audience](https://teklinks.andrejnsimoes.com/2023/08/how-we-optimized-performance-to-serve.html)
+- [Lead with “Why”: A Storytelling Shortcut for Ideas and Products](https://teklinks.andrejnsimoes.com/2023/08/lead-with-why-storytelling-shortcut-for.html)
 - [Partially Controlled Components: A Declarative Design Pattern in React](https://teklinks.andrejnsimoes.com/2023/08/partially-controlled-components.html)
 - [Everything I wish I knew before moving 50,000 lines of code to React Server Components](https://teklinks.andrejnsimoes.com/2023/08/everything-i-wish-i-knew-before-moving.html)
-- [Best practices for implementing event-driven architectures in your organization](https://teklinks.andrejnsimoes.com/2023/08/best-practices-for-implementing-event.html)
-- [The Great Migration - How We Migrated All of Our Premium Subscriptions](https://teklinks.andrejnsimoes.com/2023/08/the-great-migration-how-we-migrated-all.html)
-- [The Art Of Looking Back: A Critical Reflection For Individual Contributors](https://teklinks.andrejnsimoes.com/2023/08/the-art-of-looking-back-critical.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
