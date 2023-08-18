@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Design System with React Web Components](https://teklinks.andrejnsimoes.com/2023/08/building-design-system-with-react-web.html)
+- [Things you forgot &lpar;or never knew&rpar; because of React](https://teklinks.andrejnsimoes.com/2023/08/things-you-forgot-or-never-knew-because.html)
+- [Being a good mentor – a developers guide](https://teklinks.andrejnsimoes.com/2023/08/being-good-mentor-developers-guide.html)
 - [How Qwik Works](https://teklinks.andrejnsimoes.com/2023/08/how-qwik-works.html)
 - [How We Optimized Performance To Serve A Global Audience](https://teklinks.andrejnsimoes.com/2023/08/how-we-optimized-performance-to-serve.html)
-- [Lead with “Why”: A Storytelling Shortcut for Ideas and Products](https://teklinks.andrejnsimoes.com/2023/08/lead-with-why-storytelling-shortcut-for.html)
-- [Partially Controlled Components: A Declarative Design Pattern in React](https://teklinks.andrejnsimoes.com/2023/08/partially-controlled-components.html)
-- [Everything I wish I knew before moving 50,000 lines of code to React Server Components](https://teklinks.andrejnsimoes.com/2023/08/everything-i-wish-i-knew-before-moving.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
