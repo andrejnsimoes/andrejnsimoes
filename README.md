@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The need of a Quality Gate at TheFork](https://teklinks.andrejnsimoes.com/2023/08/the-need-of-quality-gate-at-thefork.html)
+- [Four ways to shoot yourself in the foot with Redis](https://teklinks.andrejnsimoes.com/2023/08/four-ways-to-shoot-yourself-in-foot.html)
+- [Sharing TypeScript with Nx and Turborepo: An Introduction to Monorepos](https://teklinks.andrejnsimoes.com/2023/08/sharing-typescript-with-nx-and.html)
 - [Building a Design System with React Web Components](https://teklinks.andrejnsimoes.com/2023/08/building-design-system-with-react-web.html)
 - [Things you forgot &lpar;or never knew&rpar; because of React](https://teklinks.andrejnsimoes.com/2023/08/things-you-forgot-or-never-knew-because.html)
-- [Being a good mentor – a developers guide](https://teklinks.andrejnsimoes.com/2023/08/being-good-mentor-developers-guide.html)
-- [How Qwik Works](https://teklinks.andrejnsimoes.com/2023/08/how-qwik-works.html)
-- [How We Optimized Performance To Serve A Global Audience](https://teklinks.andrejnsimoes.com/2023/08/how-we-optimized-performance-to-serve.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
