@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [&quot;What to know about Deno 2.0&quot;](https://www.youtube.com/watch?v=5DX49vzLfqw)
 - [Mind-blowing page animations are easy now... View Transitions API first look](https://www.youtube.com/watch?v=lsXqparnx24)
 - [Git MERGE vs REBASE: Everything You Need to Know](https://www.youtube.com/watch?v=0chZFIZLR_0)
 - [Tobias Koppers on Turbopack vs Webpack](https://www.youtube.com/watch?v=Zwd_8Jy7b-c)
 - [HTMX: The Game-Changing Alternative to React](https://www.youtube.com/watch?v=DuGyH5RvfbY)
-- [PROOF JavaScript is a Multi-Threaded language](https://www.youtube.com/watch?v=-JE8P2TiJEg)
 <!-- YOUTUBE:END -->
 
 
