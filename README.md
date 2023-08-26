@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How we reduced the size of our JavaScript bundles by 33%](https://teklinks.andrejnsimoes.com/2023/08/how-we-reduced-size-of-our-javascript.html)
+- [Environment strategies for growing enterprises](https://teklinks.andrejnsimoes.com/2023/08/environment-strategies-for-growing.html)
+- [A guide to designing and shipping AI developer tools](https://teklinks.andrejnsimoes.com/2023/08/a-guide-to-designing-and-shipping-ai.html)
 - [Running A Page Speed Test: Monitoring vs. Measuring](https://teklinks.andrejnsimoes.com/2023/08/running-page-speed-test-monitoring-vs.html)
 - [Save Time, Effort, and Budget: The Benefits of Using a Component Library](https://teklinks.andrejnsimoes.com/2023/08/save-time-effort-and-budget-benefits-of.html)
-- [Qwikify your Development with Nx](https://teklinks.andrejnsimoes.com/2023/08/qwikify-your-development-with-nx.html)
-- [The need of a Quality Gate at TheFork](https://teklinks.andrejnsimoes.com/2023/08/the-need-of-quality-gate-at-thefork.html)
-- [Four ways to shoot yourself in the foot with Redis](https://teklinks.andrejnsimoes.com/2023/08/four-ways-to-shoot-yourself-in-foot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
