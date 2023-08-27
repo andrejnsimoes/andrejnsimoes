@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
 - [Micro Frontends Conference 2023 - Cory Gideon: Micro Frontends - Not the Silver Bullet](https://www.youtube.com/watch?v=4LTDnbe41VU)
+- [Microsoft Excel just got Python](https://www.youtube.com/watch?v=8ofsE7xiGho)
 - [Project IDX: Full-stack application development with generative AI](https://www.youtube.com/watch?v=-wlZY4tfGMY)
-- [&quot;What to know about Deno 2.0&quot;](https://www.youtube.com/watch?v=5DX49vzLfqw)
-- [Mind-blowing page animations are easy now... View Transitions API first look](https://www.youtube.com/watch?v=lsXqparnx24)
-- [Git MERGE vs REBASE: Everything You Need to Know](https://www.youtube.com/watch?v=0chZFIZLR_0)
+- [The improvements never stop!](https://www.youtube.com/watch?v=bmrF6d4JkLI)
 <!-- YOUTUBE:END -->
 
 
