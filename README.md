@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Developers and Managers Should Co-Own the Backlog](https://teklinks.andrejnsimoes.com/2023/08/why-developers-and-managers-should-co.html)
+- [A Case for Event-Driven Architecture With Mediator Topology](https://teklinks.andrejnsimoes.com/2023/08/a-case-for-event-driven-architecture.html)
+- [Why We Killed Our End-to-End Test Suite](https://teklinks.andrejnsimoes.com/2023/08/why-we-killed-our-end-to-end-test-suite.html)
 - [How we reduced the size of our JavaScript bundles by 33%](https://teklinks.andrejnsimoes.com/2023/08/how-we-reduced-size-of-our-javascript.html)
 - [Environment strategies for growing enterprises](https://teklinks.andrejnsimoes.com/2023/08/environment-strategies-for-growing.html)
-- [A guide to designing and shipping AI developer tools](https://teklinks.andrejnsimoes.com/2023/08/a-guide-to-designing-and-shipping-ai.html)
-- [Running A Page Speed Test: Monitoring vs. Measuring](https://teklinks.andrejnsimoes.com/2023/08/running-page-speed-test-monitoring-vs.html)
-- [Save Time, Effort, and Budget: The Benefits of Using a Component Library](https://teklinks.andrejnsimoes.com/2023/08/save-time-effort-and-budget-benefits-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
