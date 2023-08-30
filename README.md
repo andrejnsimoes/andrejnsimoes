@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Ben Holmes: Future Astro and React Advanced!](https://www.youtube.com/watch?v=sbiuZj2s5fs)
+- [Netlify&#39;s new Monorepo Features Explored!](https://www.youtube.com/watch?v=KL7PCwf-mtM)
 - [Fred K. Schott: Astro, Open Source, and the Web](https://www.youtube.com/watch?v=9196iQJtK4s)
 - [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
 - [Micro Frontends Conference 2023 - Cory Gideon: Micro Frontends - Not the Silver Bullet](https://www.youtube.com/watch?v=4LTDnbe41VU)
-- [Microsoft Excel just got Python](https://www.youtube.com/watch?v=8ofsE7xiGho)
-- [Project IDX: Full-stack application development with generative AI](https://www.youtube.com/watch?v=-wlZY4tfGMY)
 <!-- YOUTUBE:END -->
 
 
