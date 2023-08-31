@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Functional Programming With JavaScript: A Deep Dive](https://teklinks.andrejnsimoes.com/2023/08/functional-programming-with-javascript.html)
+- [TypeScript is Surprisingly OK for Compilers](https://teklinks.andrejnsimoes.com/2023/08/typescript-is-surprisingly-ok-for.html)
+- [Use Nginx as an API Gateway](https://teklinks.andrejnsimoes.com/2023/08/use-nginx-as-api-gateway.html)
 - [Why Developers and Managers Should Co-Own the Backlog](https://teklinks.andrejnsimoes.com/2023/08/why-developers-and-managers-should-co.html)
 - [A Case for Event-Driven Architecture With Mediator Topology](https://teklinks.andrejnsimoes.com/2023/08/a-case-for-event-driven-architecture.html)
-- [Why We Killed Our End-to-End Test Suite](https://teklinks.andrejnsimoes.com/2023/08/why-we-killed-our-end-to-end-test-suite.html)
-- [How we reduced the size of our JavaScript bundles by 33%](https://teklinks.andrejnsimoes.com/2023/08/how-we-reduced-size-of-our-javascript.html)
-- [Environment strategies for growing enterprises](https://teklinks.andrejnsimoes.com/2023/08/environment-strategies-for-growing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
