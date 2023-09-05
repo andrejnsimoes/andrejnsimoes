@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Module Federation](https://teklinks.andrejnsimoes.com/2023/09/the-future-of-module-federation.html)
+- [If you want to address tech debt, quantify it first](https://teklinks.andrejnsimoes.com/2023/09/if-you-want-to-address-tech-debt.html)
 - [React Suspense in three different architectures](https://teklinks.andrejnsimoes.com/2023/09/react-suspense-in-three-different.html)
 - [Good Engineer, Excellent Engineer, Architect](https://teklinks.andrejnsimoes.com/2023/09/good-engineer-excellent-engineer.html)
 - [When Taylor Swift crashed Ticketmaster: A lesson on scaling for spikes](https://teklinks.andrejnsimoes.com/2023/09/when-taylor-swift-crashed-ticketmaster.html)
-- [Functional Programming With JavaScript: A Deep Dive](https://teklinks.andrejnsimoes.com/2023/08/functional-programming-with-javascript.html)
-- [TypeScript is Surprisingly OK for Compilers](https://teklinks.andrejnsimoes.com/2023/08/typescript-is-surprisingly-ok-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
