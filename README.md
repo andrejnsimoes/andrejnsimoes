@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The easiest way to add state](https://www.youtube.com/watch?v=GVtNU6MOa2c)
 - [Astro 3.0 Crash Course &lpar;View Transitions, Image, Content Collections, and More!&rpar;](https://www.youtube.com/watch?v=qBOz6TpYAOg)
 - [Ben Holmes: Future Astro and React Advanced!](https://www.youtube.com/watch?v=sbiuZj2s5fs)
 - [Netlify&#39;s new Monorepo Features Explored!](https://www.youtube.com/watch?v=KL7PCwf-mtM)
 - [Fred K. Schott: Astro, Open Source, and the Web](https://www.youtube.com/watch?v=9196iQJtK4s)
-- [CPU vs GPU vs TPU vs DPU vs QPU](https://www.youtube.com/watch?v=r5NQecwZs1A)
 <!-- YOUTUBE:END -->
 
 
