@@ -50,7 +50,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [The easiest way to add state](https://www.youtube.com/watch?v=GVtNU6MOa2c)
+- [The easiest way to add state got even easier](https://www.youtube.com/watch?v=GVtNU6MOa2c)
 - [Astro 3.0 Crash Course &lpar;View Transitions, Image, Content Collections, and More!&rpar;](https://www.youtube.com/watch?v=qBOz6TpYAOg)
 - [Ben Holmes: Future Astro and React Advanced!](https://www.youtube.com/watch?v=sbiuZj2s5fs)
 - [STOP Nit Picking In Code Reviews](https://www.youtube.com/watch?v=08NlhU4gzdY)
