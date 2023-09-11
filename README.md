@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Create Jaw-Dropping UIs with Simple Animated View Transitions and Container Queries](https://www.youtube.com/watch?v=lISvyIaSRyk)
 - [Micro Frontends Conference 2023 - Luca Mezzalira: Micro Frontends Discovery](https://www.youtube.com/watch?v=U3KJiC9c_7I)
 - [Finally, Node.js supports this!](https://www.youtube.com/watch?v=wAV0aTUCdnE)
 - [The easiest way to add state got even easier](https://www.youtube.com/watch?v=GVtNU6MOa2c)
 - [Astro 3.0 Crash Course &lpar;View Transitions, Image, Content Collections, and More!&rpar;](https://www.youtube.com/watch?v=qBOz6TpYAOg)
-- [Ben Holmes: Future Astro and React Advanced!](https://www.youtube.com/watch?v=sbiuZj2s5fs)
 <!-- YOUTUBE:END -->
 
 
