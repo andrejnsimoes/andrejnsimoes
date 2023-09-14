@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Feature Flags with JavaScript Proxies](https://teklinks.andrejnsimoes.com/2023/09/feature-flags-with-javascript-proxies.html)
+- [A Wide View of Automated Testing in React Apps](https://teklinks.andrejnsimoes.com/2023/09/a-wide-view-of-automated-testing-in.html)
 - [5 Best Frontend CI Tools for 2024](https://teklinks.andrejnsimoes.com/2023/09/5-best-frontend-ci-tools-for-2024.html)
 - [Bundler Design Trade-offs: The Rationale Behind Creating Rspack](https://teklinks.andrejnsimoes.com/2023/09/bundler-design-trade-offs-rationale.html)
 - [Mastering the System Design Interview: A Complete Guide](https://teklinks.andrejnsimoes.com/2023/09/mastering-system-design-interview.html)
-- [Understanding how React handles input state: A deep dive](https://teklinks.andrejnsimoes.com/2023/09/understanding-how-react-handles-input.html)
-- [useMemo overdose](https://teklinks.andrejnsimoes.com/2023/09/usememo-overdose.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
