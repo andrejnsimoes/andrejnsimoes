@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A First Look at HTMX and How it Compares to React](https://teklinks.andrejnsimoes.com/2023/09/a-first-look-at-htmx-and-how-it.html)
+- [When High Performers Make Good Leaders Feel Bad](https://teklinks.andrejnsimoes.com/2023/09/when-high-performers-make-good-leaders.html)
+- [Do One Thing and Do It Well](https://teklinks.andrejnsimoes.com/2023/09/do-one-thing-and-do-it-well.html)
 - [My thoughts on Bun and other Adventures](https://teklinks.andrejnsimoes.com/2023/09/my-thoughts-on-bun-and-other-adventures.html)
 - [Get Real-Time Updates With Server-Sent Events](https://teklinks.andrejnsimoes.com/2023/09/get-real-time-updates-with-server-sent.html)
-- [What&#39;s a Merge Queue and why use it?](https://teklinks.andrejnsimoes.com/2023/09/whats-merge-queue-and-why-use-it.html)
-- [Serverless Bun vs Node: Benchmarking on AWS Lambda](https://teklinks.andrejnsimoes.com/2023/09/serverless-bun-vs-node-benchmarking-on.html)
-- [Understanding Webpack Module Federation: A Deep Dive](https://teklinks.andrejnsimoes.com/2023/09/understanding-webpack-module-federation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
