@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The never-ending JavaScript divide](https://www.youtube.com/watch?v=6_JNPmjSevo)
 - [Bun Crash Course | JavaScript Runtime, Bundler &amp; Transpiler](https://www.youtube.com/watch?v=U4JVw8K19uY)
 - [Create Jaw-Dropping UIs with Simple Animated View Transitions and Container Queries](https://www.youtube.com/watch?v=lISvyIaSRyk)
 - [Next js Tutorial for Beginners | Nextjs 13 &lpar;App Router&rpar; with TypeScript](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)
 - [Micro Frontends Conference 2023 - Luca Mezzalira: Micro Frontends Discovery](https://www.youtube.com/watch?v=U3KJiC9c_7I)
-- [Finally, Node.js supports this!](https://www.youtube.com/watch?v=wAV0aTUCdnE)
 <!-- YOUTUBE:END -->
 
 
