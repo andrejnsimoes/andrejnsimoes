@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Generating Real-Time Audio Sentiment Analysis With AI](https://teklinks.andrejnsimoes.com/2023/09/generating-real-time-audio-sentiment.html)
+- [Introducing Playwright Support for Nx](https://teklinks.andrejnsimoes.com/2023/09/introducing-playwright-support-for-nx.html)
+- [Write Commit Messages Like a Pro: The Power of Conventional Commits](https://teklinks.andrejnsimoes.com/2023/09/write-commit-messages-like-pro-power-of.html)
 - [Next.js 13.5](https://teklinks.andrejnsimoes.com/2023/09/nextjs-135.html)
 - [A Glimpse of Val.Town : Cloud Scripting Platform to Write and Run Code](https://teklinks.andrejnsimoes.com/2023/09/a-glimpse-of-valtown-cloud-scripting.html)
-- [What we talk about when we talk about impostor syndrome](https://teklinks.andrejnsimoes.com/2023/09/what-we-talk-about-when-we-talk-about.html)
-- [A First Look at HTMX and How it Compares to React](https://teklinks.andrejnsimoes.com/2023/09/a-first-look-at-htmx-and-how-it.html)
-- [When High Performers Make Good Leaders Feel Bad](https://teklinks.andrejnsimoes.com/2023/09/when-high-performers-make-good-leaders.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
