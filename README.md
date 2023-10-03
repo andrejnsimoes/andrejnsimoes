@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Photoshop is now on the web!](https://teklinks.andrejnsimoes.com/2023/10/photoshop-is-now-on-web.html)
+- [Effectively loading ads without impacting page speed](https://teklinks.andrejnsimoes.com/2023/10/effectively-loading-ads-without.html)
+- [2 Regrets of a 55 Years Old Retired Software Engineer](https://teklinks.andrejnsimoes.com/2023/10/2-regrets-of-55-years-old-retired.html)
 - [Why HTTP/3 is eating the world](https://teklinks.andrejnsimoes.com/2023/10/why-http3-is-eating-world.html)
 - [React Server Components Made Our Site Faster](https://teklinks.andrejnsimoes.com/2023/10/react-server-components-made-our-site.html)
-- [Web workers in React](https://teklinks.andrejnsimoes.com/2023/10/web-workers-in-react.html)
-- [Bun hype. How we learned nothing from Yarn](https://teklinks.andrejnsimoes.com/2023/09/bun-hype-how-we-learned-nothing-from.html)
-- [Upgrading frontend dependencies with confidence](https://teklinks.andrejnsimoes.com/2023/09/upgrading-frontend-dependencies-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
