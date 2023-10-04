@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Micro Frontends - Dynamic Remotes and Typescript with NX](https://www.youtube.com/watch?v=-wL0zozGPuQ)
+- [Nx For CI &amp;&amp; NEW Nx Workflows](https://www.youtube.com/watch?v=CAZCus5LZqo)
 - [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI)
 - [Svelte Runes: Awesome or Awful?](https://www.youtube.com/watch?v=JRZCqUOmFwY)
 - [TypeScript Origins: The Documentary](https://www.youtube.com/watch?v=U6s2pdxebSo)
-- [The Biggest JavaScript Divide](https://www.youtube.com/watch?v=6_JNPmjSevo)
 <!-- YOUTUBE:END -->
 
 
