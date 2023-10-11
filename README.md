@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Job Stories](https://teklinks.andrejnsimoes.com/2023/10/job-stories.html)
+- [Test your React Libraries Locally with Yalc](https://teklinks.andrejnsimoes.com/2023/10/test-your-react-libraries-locally-with.html)
+- [Designing Stripe for Black Friday: How to achieve 99.9999% uptime](https://teklinks.andrejnsimoes.com/2023/10/designing-stripe-for-black-friday-how.html)
 - [Next.js 13 vs Remix: An In-depth case study](https://teklinks.andrejnsimoes.com/2023/10/nextjs-13-vs-remix-in-depth-case-study.html)
 - [SolidJS pain points and pitfalls](https://teklinks.andrejnsimoes.com/2023/10/solidjs-pain-points-and-pitfalls.html)
-- [16 System Design Concepts I Wish I Knew Before the Interview.](https://teklinks.andrejnsimoes.com/2023/10/16-system-design-concepts-i-wish-i-knew.html)
-- [Death by a thousand microservices](https://teklinks.andrejnsimoes.com/2023/10/death-by-thousand-microservices.html)
-- [The Uphill Battle of Memoization](https://teklinks.andrejnsimoes.com/2023/10/the-uphill-battle-of-memoization.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
