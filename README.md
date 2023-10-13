@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [5 best practices for preventing chaos in Tailwind CSS](https://teklinks.andrejnsimoes.com/2023/10/5-best-practices-for-preventing-chaos.html)
+- [Automation Testing Roundtable: Industry Insights From QA Leaders](https://teklinks.andrejnsimoes.com/2023/10/automation-testing-roundtable-industry.html)
+- [Relative import paths need explicit file extensions in EcmaScript imports](https://teklinks.andrejnsimoes.com/2023/10/relative-import-paths-need-explicit.html)
 - [Job Stories](https://teklinks.andrejnsimoes.com/2023/10/job-stories.html)
 - [Test your React Libraries Locally with Yalc](https://teklinks.andrejnsimoes.com/2023/10/test-your-react-libraries-locally-with.html)
-- [Designing Stripe for Black Friday: How to achieve 99.9999% uptime](https://teklinks.andrejnsimoes.com/2023/10/designing-stripe-for-black-friday-how.html)
-- [Next.js 13 vs Remix: An In-depth case study](https://teklinks.andrejnsimoes.com/2023/10/nextjs-13-vs-remix-in-depth-case-study.html)
-- [SolidJS pain points and pitfalls](https://teklinks.andrejnsimoes.com/2023/10/solidjs-pain-points-and-pitfalls.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
