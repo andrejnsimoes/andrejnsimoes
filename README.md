@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [5 best practices for preventing chaos in Tailwind CSS](https://teklinks.andrejnsimoes.com/2023/10/5-best-practices-for-preventing-chaos.html)
-- [Automation Testing Roundtable: Industry Insights From QA Leaders](https://teklinks.andrejnsimoes.com/2023/10/automation-testing-roundtable-industry.html)
-- [Relative import paths need explicit file extensions in EcmaScript imports](https://teklinks.andrejnsimoes.com/2023/10/relative-import-paths-need-explicit.html)
-- [Job Stories](https://teklinks.andrejnsimoes.com/2023/10/job-stories.html)
-- [Test your React Libraries Locally with Yalc](https://teklinks.andrejnsimoes.com/2023/10/test-your-react-libraries-locally-with.html)
+- [Hydration, the Saboteur of Lazy Loading](https://teklinks.andrejnsimoes.com/2023/10/hydration-saboteur-of-lazy-loading.html)
+- [The Best ESLint Rules for React Projects](https://teklinks.andrejnsimoes.com/2023/10/the-best-eslint-rules-for-react-projects.html)
+- [Webpack module federation | Think twice before sharing a dependency](https://teklinks.andrejnsimoes.com/2023/10/webpack-module-federation-think-twice.html)
+- [Superpositioned Infrastructure: The Quest for Truly Serverless Computing](https://teklinks.andrejnsimoes.com/2023/10/superpositioned-infrastructure-quest.html)
+- [How to Communicate When Trust Is Low &lpar;Without Digging Yourself Into A Deeper Hole&rpar;](https://teklinks.andrejnsimoes.com/2023/10/how-to-communicate-when-trust-is-low.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
