@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Aula 01: Recriando o P***hub do zero com pré-processamento de vídeos | Semana JS Expert 8.0](https://www.youtube.com/watch?v=lREkclNOHEc)
 - [Micro Frontends - Custom dynamic remote loader](https://www.youtube.com/watch?v=axCvRp1nusA)
 - [Jumpstart Your Developer Journey: Top 5 Tips from Marko |  @withmarko](https://www.youtube.com/watch?v=fTzsCwbc-j4)
 - [Nx For CI &amp;&amp; NEW Nx Workflows](https://www.youtube.com/watch?v=CAZCus5LZqo)
 - [Micro Frontends - Dynamic Remotes and Typescript with NX](https://www.youtube.com/watch?v=-wL0zozGPuQ)
-- [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI)
 <!-- YOUTUBE:END -->
 
 
