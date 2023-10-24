@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Save money on Serverless: common costly mistakes and how to avoid them](https://teklinks.andrejnsimoes.com/2023/10/save-money-on-serverless-common-costly.html)
+- [Sharing TypeScript with Nx and Turborepo: Configuring a Monorepo](https://teklinks.andrejnsimoes.com/2023/10/sharing-typescript-with-nx-and.html)
+- [Module Federation Shared API](https://teklinks.andrejnsimoes.com/2023/10/module-federation-shared-api.html)
 - [My Experience with Micro Frontend Architecture – Is it Worth It?](https://teklinks.andrejnsimoes.com/2023/10/my-experience-with-micro-frontend.html)
 - [Building a Better Web — A faster YouTube on web](https://teklinks.andrejnsimoes.com/2023/10/building-better-weba-faster-youtube-on.html)
-- [I use ChatGPT to generate diagrams/graphs/charts with Mermaid.js.org](https://teklinks.andrejnsimoes.com/2023/10/i-use-chatgpt-to-generate.html)
-- [Hydration, the Saboteur of Lazy Loading](https://teklinks.andrejnsimoes.com/2023/10/hydration-saboteur-of-lazy-loading.html)
-- [The Best ESLint Rules for React Projects](https://teklinks.andrejnsimoes.com/2023/10/the-best-eslint-rules-for-react-projects.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
