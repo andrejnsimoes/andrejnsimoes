@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Nx 17.0 Has Landed!!!](https://teklinks.andrejnsimoes.com/2023/10/nx-170-has-landed.html)
+- [Why you should migrate to Rspack from webpack](https://teklinks.andrejnsimoes.com/2023/10/why-you-should-migrate-to-rspack-from.html)
+- [Becoming a good engineer is about collecting experience.](https://teklinks.andrejnsimoes.com/2023/10/becoming-good-engineer-is-about.html)
 - [Save money on Serverless: common costly mistakes and how to avoid them](https://teklinks.andrejnsimoes.com/2023/10/save-money-on-serverless-common-costly.html)
 - [Sharing TypeScript with Nx and Turborepo: Configuring a Monorepo](https://teklinks.andrejnsimoes.com/2023/10/sharing-typescript-with-nx-and.html)
-- [Module Federation Shared API](https://teklinks.andrejnsimoes.com/2023/10/module-federation-shared-api.html)
-- [My Experience with Micro Frontend Architecture – Is it Worth It?](https://teklinks.andrejnsimoes.com/2023/10/my-experience-with-micro-frontend.html)
-- [Building a Better Web — A faster YouTube on web](https://teklinks.andrejnsimoes.com/2023/10/building-better-weba-faster-youtube-on.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
