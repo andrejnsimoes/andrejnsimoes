@@ -52,9 +52,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [ReactJS vs. Solid with Dax Raad | Modern Web Podcast](https://www.youtube.com/watch?v=rugyDWTFE_Y)
 - [Micro Frontends - Web Workers](https://www.youtube.com/watch?v=_pBb7SmLX6w)
-- [Aula 01: Recriando o P***hub do zero com pré-processamento de vídeos | Semana JS Expert 8.0](https://www.youtube.com/watch?v=lREkclNOHEc)
 - [Micro Frontends - Custom dynamic remote loader](https://www.youtube.com/watch?v=axCvRp1nusA)
 - [Jumpstart Your Developer Journey: Top 5 Tips from Marko |  @withmarko](https://www.youtube.com/watch?v=fTzsCwbc-j4)
+- [Nx For CI &amp;&amp; NEW Nx Workflows](https://www.youtube.com/watch?v=CAZCus5LZqo)
 <!-- YOUTUBE:END -->
 
 
