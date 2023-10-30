@@ -40,9 +40,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Conventional Commits: A Better Way](https://teklinks.andrejnsimoes.com/2023/10/conventional-commits-better-way.html)
 - [Why I Won&#39;t Use Next.js](https://teklinks.andrejnsimoes.com/2023/10/why-i-wont-use-nextjs.html)
 - [Working remotely is a competitive hiring advantage again](https://teklinks.andrejnsimoes.com/2023/10/working-remotely-is-competitive-hiring.html)
-- [Conventional Commits: A Better Way](https://teklinks.andrejnsimoes.com/2023/10/conventional-commits-better-way.html)
 - [The nine best recommendations in the new React docs](https://teklinks.andrejnsimoes.com/2023/10/the-nine-best-recommendations-in-new.html)
 - [Release: Yarn 4.0 🪄⚗️](https://teklinks.andrejnsimoes.com/2023/10/release-yarn-40.html)
 <!-- BLOG-POST-LIST:END -->
