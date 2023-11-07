@@ -51,7 +51,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [OpenAI DevDay, Opening Keynote](https://www.youtube.com/watch?v=U9mJuUkhUzk)
-- [NextJS Server Action Controversy!](https://www.youtube.com/watch?v=PtX5PF17tlQ)
+- [NextJS 14 Server Action Controversy!](https://www.youtube.com/watch?v=PtX5PF17tlQ)
 - [ReactJS vs. Solid with Dax Raad | Modern Web Podcast](https://www.youtube.com/watch?v=rugyDWTFE_Y)
 - [Micro Frontends - Web Workers](https://www.youtube.com/watch?v=_pBb7SmLX6w)
 - [Micro Frontends - Custom dynamic remote loader](https://www.youtube.com/watch?v=axCvRp1nusA)
