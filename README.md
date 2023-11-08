@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTelemetry for Microservices Tracing and Observability](https://teklinks.andrejnsimoes.com/2023/11/opentelemetry-for-microservices-tracing.html)
-- [Answering Common Questions About Interpreting Page Speed Reports](https://teklinks.andrejnsimoes.com/2023/11/answering-common-questions-about.html)
-- [Why Self-Organizing Teams Still Need a Delivery Lead](https://teklinks.andrejnsimoes.com/2023/11/why-self-organizing-teams-still-need.html)
-- [5 Reasons to use TypeScript for your Projects](https://teklinks.andrejnsimoes.com/2023/11/5-reasons-to-use-typescript-for-your.html)
-- [Hydration, the Saboteur of Lazy Loading](https://teklinks.andrejnsimoes.com/2023/11/hydration-saboteur-of-lazy-loading.html)
+- [How Do You Triage Software Bugs?](https://teklinks.andrejnsimoes.com/2023/11/how-do-you-triage-software-bugs.html)
+- [Passkeys: A No-Frills Explainer On The Future Of Password-Less Authentication](https://teklinks.andrejnsimoes.com/2023/11/passkeys-no-frills-explainer-on-future.html)
+- [The Curious Case of LLM Hallucination: Causes and Tips to Reduce its Risks](https://teklinks.andrejnsimoes.com/2023/11/the-curious-case-of-llm-hallucination.html)
+- [Hopping instead of hustling: Survey tells us how developers are taking care of business](https://teklinks.andrejnsimoes.com/2023/11/hopping-instead-of-hustling-survey.html)
+- [Building a reliable notification system](https://teklinks.andrejnsimoes.com/2023/11/building-reliable-notification-system.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
