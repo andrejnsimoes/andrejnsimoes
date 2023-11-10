@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Announcing the official Qwik + Astro Integration](https://www.youtube.com/watch?v=LIKxkSzHqeo)
+- [Server Components no React em 5 minutos!](https://www.youtube.com/watch?v=hdex1hj1dmk)
 - [Angular&#39;s Renaissance](https://www.youtube.com/watch?v=d0daPe9q35w)
 - [Mastering Software Architecture Documentation: 4 Techniques You Need to Know](https://www.youtube.com/watch?v=4iamsduwxvQ)
 - [How to build a custom React chat application using a LLM &lpar;RAG and Langchain&rpar;](https://www.youtube.com/watch?v=QBq9wxxUMKQ)
-- [OpenAI DevDay, Opening Keynote](https://www.youtube.com/watch?v=U9mJuUkhUzk)
-- [NextJS 14 Server Action Controversy!](https://www.youtube.com/watch?v=PtX5PF17tlQ)
 <!-- YOUTUBE:END -->
 
 
