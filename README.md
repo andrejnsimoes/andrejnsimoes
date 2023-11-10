@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Astro + Qwik: Houston, we have Resumability!](https://teklinks.andrejnsimoes.com/2023/11/astro-qwik-houston-we-have-resumability.html)
+- [Headless Component: a pattern for composing React UIs](https://teklinks.andrejnsimoes.com/2023/11/headless-component-pattern-for.html)
+- [AI as a UX Assistant](https://teklinks.andrejnsimoes.com/2023/11/ai-as-ux-assistant.html)
 - [Universe 2023: Copilot transforms GitHub into the AI-powered developer platform](https://teklinks.andrejnsimoes.com/2023/11/universe-2023-copilot-transforms-github.html)
 - [Cloudflare incident on October 30, 2023](https://teklinks.andrejnsimoes.com/2023/11/cloudflare-incident-on-october-30-2023.html)
-- [Automating Versioning and Releases Using Semantic Release](https://teklinks.andrejnsimoes.com/2023/11/automating-versioning-and-releases.html)
-- [How Do You Triage Software Bugs?](https://teklinks.andrejnsimoes.com/2023/11/how-do-you-triage-software-bugs.html)
-- [Passkeys: A No-Frills Explainer On The Future Of Password-Less Authentication](https://teklinks.andrejnsimoes.com/2023/11/passkeys-no-frills-explainer-on-future.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
