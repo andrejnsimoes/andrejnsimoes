@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Reducing Raspberry Pi 5&#39;s power consumption by 140x](https://teklinks.andrejnsimoes.com/2023/11/reducing-raspberry-pi-5s-power.html)
+- [How to Be a Better Leader by Communicating More Assertively](https://teklinks.andrejnsimoes.com/2023/11/how-to-be-better-leader-by.html)
 - [Stacked Diffs vs. Trunk Based Development](https://teklinks.andrejnsimoes.com/2023/11/stacked-diffs-vs-trunk-based.html)
 - [Why I&#39;m Using Next.js](https://teklinks.andrejnsimoes.com/2023/11/why-im-using-nextjs.html)
 - [Sidekick’s Improved Streaming Experience](https://teklinks.andrejnsimoes.com/2023/11/sidekicks-improved-streaming-experience.html)
-- [Astro + Qwik: Houston, we have Resumability!](https://teklinks.andrejnsimoes.com/2023/11/astro-qwik-houston-we-have-resumability.html)
-- [Headless Component: a pattern for composing React UIs](https://teklinks.andrejnsimoes.com/2023/11/headless-component-pattern-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
