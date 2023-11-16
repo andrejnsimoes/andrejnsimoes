@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [NextJS 14: You Missed The Best Part!](https://www.youtube.com/watch?v=xoVpFAXBats)
 - [Intro to SolidJS reactivity &lpar;in 5 minutes&rpar;](https://www.youtube.com/watch?v=tnhavUKOsik)
 - [Announcing the official Qwik + Astro Integration](https://www.youtube.com/watch?v=LIKxkSzHqeo)
 - [Server Components no React em 5 minutos!](https://www.youtube.com/watch?v=hdex1hj1dmk)
 - [Angular&#39;s Renaissance](https://www.youtube.com/watch?v=d0daPe9q35w)
-- [Mastering Software Architecture Documentation: 4 Techniques You Need to Know](https://www.youtube.com/watch?v=4iamsduwxvQ)
 <!-- YOUTUBE:END -->
 
 
