@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Microservices aren&#39;t the problem. Incompetent people are](https://teklinks.andrejnsimoes.com/2023/11/microservices-arent-problem-incompetent.html)
+- [Announcing Vite 5](https://teklinks.andrejnsimoes.com/2023/11/announcing-vite-5.html)
+- [A faster web in 2024](https://teklinks.andrejnsimoes.com/2023/11/a-faster-web-in-2024.html)
 - [Modern frontend testing with Vitest, Storybook, and Playwright](https://teklinks.andrejnsimoes.com/2023/11/modern-frontend-testing-with-vitest.html)
 - [Why You Want React Query](https://teklinks.andrejnsimoes.com/2023/11/why-you-want-react-query.html)
-- [Stay Technical While Leading Your Team](https://teklinks.andrejnsimoes.com/2023/11/stay-technical-while-leading-your-team.html)
-- [Bun – first impressions](https://teklinks.andrejnsimoes.com/2023/11/bun-first-impressions.html)
-- [The Four Quadrants of Employee Performance](https://teklinks.andrejnsimoes.com/2023/11/the-four-quadrants-of-employee.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
