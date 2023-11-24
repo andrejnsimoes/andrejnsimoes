@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 - [You Can&#39;t Get Faster Than This](https://www.youtube.com/watch?v=wKvkYUNBa5k)
 - [What The Longest-Running Study on Happiness Reveals](https://www.youtube.com/watch?v=vSQjk9jKarg)
 - [NextJS 14: You Missed The Best Part!](https://www.youtube.com/watch?v=xoVpFAXBats)
 - [Announcing the official Qwik + Astro Integration](https://www.youtube.com/watch?v=LIKxkSzHqeo)
-- [Server Components no React em 5 minutos!](https://www.youtube.com/watch?v=hdex1hj1dmk)
 <!-- YOUTUBE:END -->
 
 
