@@ -54,7 +54,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [10 JavaScript changes you missed in 2023](https://www.youtube.com/watch?v=ANCm3oG7htM)
 - [The high-stakes war on AdBlockers](https://www.youtube.com/watch?v=QQu1_bf1Bdo)
 - [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
-- [The Ultimate API Showdown: Server Actions, tRPC, GraphQL, and REST Compared!](https://www.youtube.com/watch?v=DUiHClAtU5Y)
+- [WTF Do These Even Mean](https://www.youtube.com/watch?v=p02AIAoImzU)
 <!-- YOUTUBE:END -->
 
 
