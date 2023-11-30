@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Nx Agents](https://www.youtube.com/watch?v=KPCMg_Dn0Eo)
 - [Visual Copilot Converts Figma Mocks to React Fast and Accurate](https://www.youtube.com/watch?v=DttZuqAiuR0)
 - [How Git Works: Explained in 4 Minutes](https://www.youtube.com/watch?v=e9lnsKot_SQ)
 - [10 JavaScript changes you missed in 2023](https://www.youtube.com/watch?v=ANCm3oG7htM)
 - [The high-stakes war on AdBlockers](https://www.youtube.com/watch?v=QQu1_bf1Bdo)
+- [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 <!-- YOUTUBE:END -->
 
 
