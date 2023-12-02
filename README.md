@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The architecture of today’s LLM applications](https://teklinks.andrejnsimoes.com/2023/12/the-architecture-of-todays-llm.html)
+- [My Journey to 3x Faster Builds: Trimming Barrel File Imports](https://teklinks.andrejnsimoes.com/2023/12/my-journey-to-3x-faster-builds-trimming.html)
+- [Using Mermaid + ChatGPT for Test Case generation and management](https://teklinks.andrejnsimoes.com/2023/12/using-mermaid-chatgpt-for-test-case.html)
 - [Bun vs. NPM, Yarn, pnpm, and others](https://teklinks.andrejnsimoes.com/2023/11/bun-vs-npm-yarn-pnpm-and-others.html)
 - [Moving back to React](https://teklinks.andrejnsimoes.com/2023/11/moving-back-to-react.html)
-- [This is Why I Didn’t Accept You as a Senior Software Engineer](https://teklinks.andrejnsimoes.com/2023/11/this-is-why-i-didnt-accept-you-as.html)
-- [The Stressful Leap from Engineer to CTO](https://teklinks.andrejnsimoes.com/2023/11/the-stressful-leap-from-engineer-to-cto.html)
-- [Building a progressive web app in Remix with Remix PWA](https://teklinks.andrejnsimoes.com/2023/11/building-progressive-web-app-in-remix.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
