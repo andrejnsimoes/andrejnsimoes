@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Google&#39;s Gemini just made GPT-4 look like a baby’s toy](https://www.youtube.com/watch?v=q5qAVmXSecQ)
 - [Why is JWT popular?](https://www.youtube.com/watch?v=P2CPd9ynFLg)
 - [StyleX: Meta&#39;s Solution To CSS At Scale](https://www.youtube.com/watch?v=6ZDiGtg1jN4)
 - [Introduction to Next.js and React](https://www.youtube.com/watch?v=h2BcitZPMn4)
 - [5 crazy new AWS services just launched](https://www.youtube.com/watch?v=ekPbZqPvCRA)
-- [Let’s Learn HTMX!](https://www.youtube.com/watch?v=C5DHnG8W0ts)
 <!-- YOUTUBE:END -->
 
 
