@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [The architecture of today’s LLM applications](https://teklinks.andrejnsimoes.com/2023/12/the-architecture-of-todays-llm.html)
-- [My Journey to 3x Faster Builds: Trimming Barrel File Imports](https://teklinks.andrejnsimoes.com/2023/12/my-journey-to-3x-faster-builds-trimming.html)
-- [Using Mermaid + ChatGPT for Test Case generation and management](https://teklinks.andrejnsimoes.com/2023/12/using-mermaid-chatgpt-for-test-case.html)
-- [Bun vs. NPM, Yarn, pnpm, and others](https://teklinks.andrejnsimoes.com/2023/11/bun-vs-npm-yarn-pnpm-and-others.html)
-- [Moving back to React](https://teklinks.andrejnsimoes.com/2023/11/moving-back-to-react.html)
+- [Using Proxy Design Pattern with React in Practice](https://teklinks.andrejnsimoes.com/2023/12/using-proxy-design-pattern-with-react.html)
+- [What is a Staff Engineer?](https://teklinks.andrejnsimoes.com/2023/12/what-is-staff-engineer.html)
+- [Agile Estimation: Techniques and Tips for Success](https://teklinks.andrejnsimoes.com/2023/12/agile-estimation-techniques-and-tips.html)
+- [Why we use AWS instead of Vercel to host our Next.js app](https://teklinks.andrejnsimoes.com/2023/12/why-we-use-aws-instead-of-vercel-to.html)
+- [TanStack Router – modern React for the rest of us](https://teklinks.andrejnsimoes.com/2023/12/tanstack-router-modern-react-for-rest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
