@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [An Interactive Guide to CSS Grid](https://teklinks.andrejnsimoes.com/2023/12/an-interactive-guide-to-css-grid.html)
+- [The View Transitions API](https://teklinks.andrejnsimoes.com/2023/12/the-view-transitions-api.html)
+- [Minimalist Affordances: Making the right tradeoffs](https://teklinks.andrejnsimoes.com/2023/12/minimalist-affordances-making-right.html)
 - [Using Proxy Design Pattern with React in Practice](https://teklinks.andrejnsimoes.com/2023/12/using-proxy-design-pattern-with-react.html)
 - [What is a Staff Engineer?](https://teklinks.andrejnsimoes.com/2023/12/what-is-staff-engineer.html)
-- [Agile Estimation: Techniques and Tips for Success](https://teklinks.andrejnsimoes.com/2023/12/agile-estimation-techniques-and-tips.html)
-- [Why we use AWS instead of Vercel to host our Next.js app](https://teklinks.andrejnsimoes.com/2023/12/why-we-use-aws-instead-of-vercel-to.html)
-- [TanStack Router – modern React for the rest of us](https://teklinks.andrejnsimoes.com/2023/12/tanstack-router-modern-react-for-rest.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
