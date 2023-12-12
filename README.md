@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Real-time Applications with the new &quot;watch&quot; API in Deno KV](https://teklinks.andrejnsimoes.com/2023/12/build-real-time-applications-with-new.html)
+- [How to design an efficient Idempotency API](https://teklinks.andrejnsimoes.com/2023/12/how-to-design-efficient-idempotency-api.html)
+- [Write Clean Code to Reduce Cognitive Load](https://teklinks.andrejnsimoes.com/2023/12/write-clean-code-to-reduce-cognitive.html)
 - [An Interactive Guide to CSS Grid](https://teklinks.andrejnsimoes.com/2023/12/an-interactive-guide-to-css-grid.html)
 - [The View Transitions API](https://teklinks.andrejnsimoes.com/2023/12/the-view-transitions-api.html)
-- [Minimalist Affordances: Making the right tradeoffs](https://teklinks.andrejnsimoes.com/2023/12/minimalist-affordances-making-right.html)
-- [Using Proxy Design Pattern with React in Practice](https://teklinks.andrejnsimoes.com/2023/12/using-proxy-design-pattern-with-react.html)
-- [What is a Staff Engineer?](https://teklinks.andrejnsimoes.com/2023/12/what-is-staff-engineer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
