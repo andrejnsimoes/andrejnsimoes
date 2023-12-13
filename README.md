@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Engineering Leadership: Tools and Techniques for a Successful 2024](https://teklinks.andrejnsimoes.com/2023/12/engineering-leadership-tools-and.html)
+- [The TSConfig Cheat Sheet](https://teklinks.andrejnsimoes.com/2023/12/the-tsconfig-cheat-sheet.html)
+- [How to Generate Unlimited Email Addresses from a Single Gmail Account](https://teklinks.andrejnsimoes.com/2023/12/how-to-generate-unlimited-email.html)
 - [Build Real-time Applications with the new &quot;watch&quot; API in Deno KV](https://teklinks.andrejnsimoes.com/2023/12/build-real-time-applications-with-new.html)
 - [How to design an efficient Idempotency API](https://teklinks.andrejnsimoes.com/2023/12/how-to-design-efficient-idempotency-api.html)
-- [Write Clean Code to Reduce Cognitive Load](https://teklinks.andrejnsimoes.com/2023/12/write-clean-code-to-reduce-cognitive.html)
-- [An Interactive Guide to CSS Grid](https://teklinks.andrejnsimoes.com/2023/12/an-interactive-guide-to-css-grid.html)
-- [The View Transitions API](https://teklinks.andrejnsimoes.com/2023/12/the-view-transitions-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
