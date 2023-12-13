@@ -40,9 +40,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Generate Unlimited Email Addresses from a Single Gmail Account](https://teklinks.andrejnsimoes.com/2023/12/how-to-generate-unlimited-email.html)
 - [Engineering Leadership: Tools and Techniques for a Successful 2024](https://teklinks.andrejnsimoes.com/2023/12/engineering-leadership-tools-and.html)
 - [The TSConfig Cheat Sheet](https://teklinks.andrejnsimoes.com/2023/12/the-tsconfig-cheat-sheet.html)
-- [How to Generate Unlimited Email Addresses from a Single Gmail Account](https://teklinks.andrejnsimoes.com/2023/12/how-to-generate-unlimited-email.html)
 - [Build Real-time Applications with the new &quot;watch&quot; API in Deno KV](https://teklinks.andrejnsimoes.com/2023/12/build-real-time-applications-with-new.html)
 - [How to design an efficient Idempotency API](https://teklinks.andrejnsimoes.com/2023/12/how-to-design-efficient-idempotency-api.html)
 <!-- BLOG-POST-LIST:END -->
