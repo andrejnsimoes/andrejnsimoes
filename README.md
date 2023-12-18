@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Astro Quick Start Course | Build an SSR Blog](https://www.youtube.com/watch?v=XoIHKO6AkoM)
 - [React server components from scratch!](https://www.youtube.com/watch?v=MaebEqhZR84)
 - [AI coding assistants just leveled up, again…](https://www.youtube.com/watch?v=7h732qLxtAk)
 - [Nx&#39;t Level Publishing - James Henry, Nx Conf 2023](https://www.youtube.com/watch?v=p5qW5-2nKqI)
 - [Being An Efficient Developer | Prime Reacts](https://www.youtube.com/watch?v=EDgeQAhSTfA)
-- [Elon’s &quot;based&quot; Grok AI has entered the chat…](https://www.youtube.com/watch?v=CgruI1RjH_c)
 <!-- YOUTUBE:END -->
 
 
