@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Astro Quick Start Course | Build an SSR Blog](https://www.youtube.com/watch?v=XoIHKO6AkoM)
+- [Unlocking performance with Deno 1.39](https://www.youtube.com/watch?v=Dc-JfBsXwE4)
 - [React server components from scratch!](https://www.youtube.com/watch?v=MaebEqhZR84)
 - [AI coding assistants just leveled up, again…](https://www.youtube.com/watch?v=7h732qLxtAk)
 - [Nx&#39;t Level Publishing - James Henry, Nx Conf 2023](https://www.youtube.com/watch?v=p5qW5-2nKqI)
-- [Being An Efficient Developer | Prime Reacts](https://www.youtube.com/watch?v=EDgeQAhSTfA)
 <!-- YOUTUBE:END -->
 
 
