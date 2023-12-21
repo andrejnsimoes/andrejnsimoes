@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [9 MUST-HAVE resources for Software Architects in 2024](https://www.youtube.com/watch?v=Lp7EinzI6Zs)
 - [Essa é a MELHOR forma de enviar e-mails com React &lpar;Resend&rpar;](https://www.youtube.com/watch?v=odJhCQlYsOU)
 - [Vertical Vs Horizontal Scaling: Key Differences You Should Know](https://www.youtube.com/watch?v=dvRFHG2-uYs)
 - [A melhor forma de salvar o JWT no front-end &lpar;sem localstorage&rpar;](https://www.youtube.com/watch?v=Dlt0IGls_hA)
 - [Astro Quick Start Course | Build an SSR Blog](https://www.youtube.com/watch?v=XoIHKO6AkoM)
-- [Unlocking performance with Deno 1.39](https://www.youtube.com/watch?v=Dc-JfBsXwE4)
 <!-- YOUTUBE:END -->
 
 
