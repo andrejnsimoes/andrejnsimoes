@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Champion Building - How to successfully adopt a developer tool](https://teklinks.andrejnsimoes.com/2023/12/champion-building-how-to-successfully.html)
+- [Thinking Locally with Signals](https://teklinks.andrejnsimoes.com/2023/12/thinking-locally-with-signals.html)
+- [Pyramid or Crab? Find a testing strategy that fits](https://teklinks.andrejnsimoes.com/2023/12/pyramid-or-crab-find-testing-strategy.html)
 - [How to test React Hooks](https://teklinks.andrejnsimoes.com/2023/12/how-to-test-react-hooks.html)
 - [26 Other Web Development Terms You May Not Have Heard Of · Jens Oliver Meiert](https://teklinks.andrejnsimoes.com/2023/12/26-other-web-development-terms-you-may.html)
-- [React fights you can have with your team](https://teklinks.andrejnsimoes.com/2023/12/react-fights-you-can-have-with-your-team.html)
-- [The anatomy of shadcn/ui](https://teklinks.andrejnsimoes.com/2023/12/the-anatomy-of-shadcnui.html)
-- [re-re-reselect — Simplifying React state management](https://teklinks.andrejnsimoes.com/2023/12/re-re-reselect-simplifying-react-state.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
