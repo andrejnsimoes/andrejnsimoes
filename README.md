@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust: Multi threading](https://teklinks.andrejnsimoes.com/2023/12/rust-multi-threading.html)
+- [Never underestimate HTML](https://teklinks.andrejnsimoes.com/2023/12/never-underestimate-html.html)
+- [10 Eye-Opening Books Recommended by Sam Altman](https://teklinks.andrejnsimoes.com/2023/12/10-eye-opening-books-recommended-by-sam.html)
 - [Stop Using localStorage](https://teklinks.andrejnsimoes.com/2023/12/stop-using-localstorage.html)
 - [Exploring Generative AI](https://teklinks.andrejnsimoes.com/2023/12/exploring-generative-ai.html)
-- [How Much Architecture Modeling Should You Do? Just Enough – Part 1](https://teklinks.andrejnsimoes.com/2023/12/how-much-architecture-modeling-should.html)
-- [Three types of AI-assisted programmers](https://teklinks.andrejnsimoes.com/2023/12/three-types-of-ai-assisted-programmers.html)
-- [Is Your Product Manager Hurting Platform Engineering?](https://teklinks.andrejnsimoes.com/2023/12/is-your-product-manager-hurting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
