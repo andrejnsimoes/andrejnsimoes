@@ -52,9 +52,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
 - [9 MUST-HAVE resources for Software Architects in 2024](https://www.youtube.com/watch?v=Lp7EinzI6Zs)
+- [How to build your own LLM Framework with Open Source models. &lpar;OpenAI Function Calling&rpar;](https://www.youtube.com/watch?v=KIoJlDo35t0)
 - [Essa é a MELHOR forma de enviar e-mails com React &lpar;Resend&rpar;](https://www.youtube.com/watch?v=odJhCQlYsOU)
 - [Vertical Vs Horizontal Scaling: Key Differences You Should Know](https://www.youtube.com/watch?v=dvRFHG2-uYs)
-- [New Copilot Features Marathon](https://www.youtube.com/watch?v=n8fNI4SIlk8)
 <!-- YOUTUBE:END -->
 
 
