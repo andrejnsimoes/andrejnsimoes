@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Website vs. Web App Dichotomy Doesn&#39;t Exist](https://teklinks.andrejnsimoes.com/2024/01/the-website-vs-web-app-dichotomy-doesnt.html)
+- [Thoughts on Remix](https://teklinks.andrejnsimoes.com/2024/01/thoughts-on-remix.html)
+- [Enhancing Performance with React Query&#39;s Caching](https://teklinks.andrejnsimoes.com/2024/01/enhancing-performance-with-react-querys.html)
 - [Frontend predictions for 2024](https://teklinks.andrejnsimoes.com/2024/01/frontend-predictions-for-2024.html)
 - [Module Federation gets upgraded, and Rspack supports it.](https://teklinks.andrejnsimoes.com/2024/01/module-federation-gets-upgraded-and.html)
-- [The Complete Playwright Cheatsheet](https://teklinks.andrejnsimoes.com/2024/01/the-complete-playwright-cheatsheet.html)
-- [Performance Optimization with React 18 Concurrent Rendering](https://teklinks.andrejnsimoes.com/2024/01/performance-optimization-with-react-18.html)
-- [Knowledge is cheap](https://teklinks.andrejnsimoes.com/2024/01/knowledge-is-cheap.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
