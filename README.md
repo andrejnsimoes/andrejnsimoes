@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
 - [10 common mistakes with the Next.js App Router](https://www.youtube.com/watch?v=RBM03RihZVs)
 - [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
 - [React Server Components: the Good, the Bad, and the Ugly](https://www.youtube.com/watch?v=8DyzsSWNcDE)
 - [9 MUST-HAVE resources for Software Architects in 2024](https://www.youtube.com/watch?v=Lp7EinzI6Zs)
-- [How to build your own LLM Framework with Open Source models. &lpar;OpenAI Function Calling&rpar;](https://www.youtube.com/watch?v=KIoJlDo35t0)
 <!-- YOUTUBE:END -->
 
 
