@@ -54,7 +54,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
 - [10 common mistakes with the Next.js App Router](https://www.youtube.com/watch?v=RBM03RihZVs)
 - [the ChatGPT store is about to launch… let’s get rich](https://www.youtube.com/watch?v=9T_wv6D8PYo)
-- [9 MUST-HAVE resources for Software Architects in 2024](https://www.youtube.com/watch?v=Lp7EinzI6Zs)
+- [What is Remix.run exactly???](https://www.youtube.com/watch?v=bwoqZ4eARjk)
 <!-- YOUTUBE:END -->
 
 
