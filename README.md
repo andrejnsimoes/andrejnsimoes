@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Top Front-End Tools Of 2023](https://teklinks.andrejnsimoes.com/2024/01/top-front-end-tools-of-2023.html)
+- [Common mistakes with the Next.js App Router and how to fix them](https://teklinks.andrejnsimoes.com/2024/01/common-mistakes-with-nextjs-app-router.html)
+- [16 Lesser Known Accessibility Issues](https://teklinks.andrejnsimoes.com/2024/01/16-lesser-known-accessibility-issues.html)
 - [The Query Options API](https://teklinks.andrejnsimoes.com/2024/01/the-query-options-api.html)
 - [Your tech toolbox: The middle ground between tech chaos and rigidity](https://teklinks.andrejnsimoes.com/2024/01/your-tech-toolbox-middle-ground-between.html)
-- [Guarding JS Objects with Proxy](https://teklinks.andrejnsimoes.com/2024/01/guarding-js-objects-with-proxy.html)
-- [The tech layoffs continue](https://teklinks.andrejnsimoes.com/2024/01/the-tech-layoffs-continue.html)
-- [Kind of annoyed at React](https://teklinks.andrejnsimoes.com/2024/01/kind-of-annoyed-at-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
