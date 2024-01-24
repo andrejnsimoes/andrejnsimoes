@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Validate Forms with Zod and React-Hook-Form](https://teklinks.andrejnsimoes.com/2024/01/how-to-validate-forms-with-zod-and.html)
+- [Want to Be a Better Leader? Stop Thinking About Work After Hours.](https://teklinks.andrejnsimoes.com/2024/01/want-to-be-better-leader-stop-thinking.html)
+- [Stable Diffusion WebUI AUTOMATIC1111: A Beginner’s Guide](https://teklinks.andrejnsimoes.com/2024/01/stable-diffusion-webui-automatic1111.html)
 - [Rebuilding Netflix Video Processing Pipeline with Microservices](https://teklinks.andrejnsimoes.com/2024/01/rebuilding-netflix-video-processing.html)
 - [How to lead a team of senior engineers](https://teklinks.andrejnsimoes.com/2024/01/how-to-lead-team-of-senior-engineers.html)
-- [Continuous Integration](https://teklinks.andrejnsimoes.com/2024/01/continuous-integration.html)
-- [Top Front-End Tools Of 2023](https://teklinks.andrejnsimoes.com/2024/01/top-front-end-tools-of-2023.html)
-- [Common mistakes with the Next.js App Router and how to fix them](https://teklinks.andrejnsimoes.com/2024/01/common-mistakes-with-nextjs-app-router.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
