@@ -51,7 +51,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Web Development In 2024 - A Practical Guide](https://www.youtube.com/watch?v=8sXRyHI3bLw)
-- [Why You &lpar;Still&rpar; Need React Query](https://www.youtube.com/watch?v=vxkbf5QMA2g)
+- [You Need React Query Now More Than Ever](https://www.youtube.com/watch?v=vxkbf5QMA2g)
 - [Micro Frontends - Rspack and Module Federation v1.5](https://www.youtube.com/watch?v=_HWWaPk1vRE)
 - [React&#39;s becoming a bit weird...](https://www.youtube.com/watch?v=oQiEZ8adag0)
 - [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
