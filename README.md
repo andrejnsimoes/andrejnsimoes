@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Criando UI no React na velocidade da luz! &lpar;shadcn/ui&rpar;](https://www.youtube.com/watch?v=er_QPBldsXE)
+- [Custom Protected Route Component in React](https://www.youtube.com/watch?v=eFPvXGZETiY)
 - [Web Development In 2024 - A Practical Guide](https://www.youtube.com/watch?v=8sXRyHI3bLw)
 - [You Need React Query Now More Than Ever](https://www.youtube.com/watch?v=vxkbf5QMA2g)
 - [Micro Frontends - Rspack and Module Federation v1.5](https://www.youtube.com/watch?v=_HWWaPk1vRE)
-- [React&#39;s becoming a bit weird...](https://www.youtube.com/watch?v=oQiEZ8adag0)
-- [CES 2024… a glimpse into our AI-powered future](https://www.youtube.com/watch?v=eHzoTLwx01E)
 <!-- YOUTUBE:END -->
 
 
