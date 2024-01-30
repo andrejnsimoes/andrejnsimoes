@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js App Router migration: the good, bad, and ugly](https://teklinks.andrejnsimoes.com/2024/01/nextjs-app-router-migration-good-bad.html)
+- [The zen of state in Solid.js](https://teklinks.andrejnsimoes.com/2024/01/the-zen-of-state-in-solidjs.html)
+- [People like me are why you shouldn&#39;t run a hosting company](https://teklinks.andrejnsimoes.com/2024/01/people-like-me-are-why-you-shouldnt-run.html)
 - [Prop drilling and component composition in React](https://teklinks.andrejnsimoes.com/2024/01/prop-drilling-and-component-composition.html)
 - [How to Use React Dev Tools – With Example Code and Videos](https://teklinks.andrejnsimoes.com/2024/01/how-to-use-react-devtools-with-example.html)
-- [Forming an Architecture Modernization Enabling Team &lpar;AMET&rpar;](https://teklinks.andrejnsimoes.com/2024/01/forming-architecture-modernization.html)
-- [Derivations in Reactivity](https://teklinks.andrejnsimoes.com/2024/01/derivations-in-reactivity.html)
-- [Leaderless Replication In Distributed System](https://teklinks.andrejnsimoes.com/2024/01/leaderless-replication-in-distributed.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
