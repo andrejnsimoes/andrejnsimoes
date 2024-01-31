@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [5 Takeaways from Deno 1.40](https://www.youtube.com/watch?v=tvlUdRdQijw)
 - [Next.js Explained: Partial Prerendering &lpar;What? Why? How?&rpar;](https://www.youtube.com/watch?v=MTcPrTIBkpA)
 - [Criando UI no React na velocidade da luz! &lpar;shadcn/ui&rpar;](https://www.youtube.com/watch?v=er_QPBldsXE)
 - [Custom Protected Route Component in React](https://www.youtube.com/watch?v=eFPvXGZETiY)
 - [Web Development In 2024 - A Practical Guide](https://www.youtube.com/watch?v=8sXRyHI3bLw)
-- [You Need React Query Now More Than Ever](https://www.youtube.com/watch?v=vxkbf5QMA2g)
 <!-- YOUTUBE:END -->
 
 
