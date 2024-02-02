@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How we built it: Smart Retries](https://teklinks.andrejnsimoes.com/2024/02/how-we-built-it-smart-retries.html)
+- [Event Loop. Myths and reality](https://teklinks.andrejnsimoes.com/2024/02/event-loop-myths-and-reality.html)
 - [You Probably Don&#39;t Need eslint-config-prettier or eslint-plugin-prettier](https://teklinks.andrejnsimoes.com/2024/02/you-probably-dont-need-eslint-config.html)
 - [How hard is it to cheat with ChatGPT in technical interviews? We ran an experiment.](https://teklinks.andrejnsimoes.com/2024/02/how-hard-is-it-to-cheat-with-chatgpt-in.html)
 - [5 Patterns for Microfrontends](https://teklinks.andrejnsimoes.com/2024/02/5-patterns-for-microfrontends.html)
-- [Bottleneck #06: Onboarding](https://teklinks.andrejnsimoes.com/2024/01/bottleneck-06-onboarding.html)
-- [Next.js App Router migration: the good, bad, and ugly](https://teklinks.andrejnsimoes.com/2024/01/nextjs-app-router-migration-good-bad.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
