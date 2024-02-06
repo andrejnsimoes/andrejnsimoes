@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [8 TypeScript Tips To Expand Your Mind &lpar;and improve your code&rpar;](https://www.youtube.com/watch?v=QSIXYMIJkQg)
 - [Five Application Killing React Anti-Patterns](https://www.youtube.com/watch?v=ZkQPxP4wlE8)
 - [Next.js App Router Authentication &lpar;Sessions, Cookies, JWTs&rpar;](https://www.youtube.com/watch?v=DJvM2lSPn6w)
 - [5 Takeaways from Deno 1.40](https://www.youtube.com/watch?v=tvlUdRdQijw)
 - [Next.js Explained: Partial Prerendering &lpar;What? Why? How?&rpar;](https://www.youtube.com/watch?v=MTcPrTIBkpA)
-- [Criando UI no React na velocidade da luz! &lpar;shadcn/ui&rpar;](https://www.youtube.com/watch?v=er_QPBldsXE)
 <!-- YOUTUBE:END -->
 
 
