@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What if Nx Plugins Were More Like VSCode Extensions](https://teklinks.andrejnsimoes.com/2024/02/what-if-nx-plugins-were-more-like.html)
+- [SCORP - the well-architected tool for Architecture Reviews](https://teklinks.andrejnsimoes.com/2024/02/scorp-well-architected-tool-for.html)
+- [Navigating Tech Industry Burnout](https://teklinks.andrejnsimoes.com/2024/02/navigating-tech-industry-burnout.html)
 - [The next evolution of serverless is stateful](https://teklinks.andrejnsimoes.com/2024/02/the-next-evolution-of-serverless-is.html)
 - [Announcing React Native for Apple Vision Pro](https://teklinks.andrejnsimoes.com/2024/02/announcing-react-native-for-apple.html)
-- [Understanding Architectures for Multi-Region Data Residency](https://teklinks.andrejnsimoes.com/2024/02/understanding-architectures-for-multi.html)
-- [Rsdoctor: A Bundle Analysis Solution](https://teklinks.andrejnsimoes.com/2024/02/rsdoctor-bundle-analysis-solution.html)
-- [Take a Qwik Break from React with Astro](https://teklinks.andrejnsimoes.com/2024/02/take-qwik-break-from-react-with-astro.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
