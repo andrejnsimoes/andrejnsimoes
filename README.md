@@ -52,7 +52,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [Continuous Integration is BROKEN. And We Just FIXED It!](https://www.youtube.com/watch?v=_FSHQIwITic)
 - [8 TypeScript Tips To Expand Your Mind &lpar;and improve your code&rpar;](https://www.youtube.com/watch?v=QSIXYMIJkQg)
-- [Five Application Killing React Anti-Patterns](https://www.youtube.com/watch?v=ZkQPxP4wlE8)
+- [Five React App Killing Anti-Patterns 🪦😱](https://www.youtube.com/watch?v=ZkQPxP4wlE8)
 - [Episode 186 - Module Federation - Module Mixology](https://www.youtube.com/watch?v=cP6iPnO39WE)
 - [Next.js App Router Authentication &lpar;Sessions, Cookies, JWTs&rpar;](https://www.youtube.com/watch?v=DJvM2lSPn6w)
 <!-- YOUTUBE:END -->
