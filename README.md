@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Google actually beat GPT-4 this time? Gemini Ultra released](https://www.youtube.com/watch?v=ucd63nIZZ60)
 - [Continuous Integration is BROKEN. And We Just FIXED It!](https://www.youtube.com/watch?v=_FSHQIwITic)
 - [8 TypeScript Tips To Expand Your Mind &lpar;and improve your code&rpar;](https://www.youtube.com/watch?v=QSIXYMIJkQg)
 - [Five React App Killing Anti-Patterns 🪦😱](https://www.youtube.com/watch?v=ZkQPxP4wlE8)
 - [Episode 186 - Module Federation - Module Mixology](https://www.youtube.com/watch?v=cP6iPnO39WE)
-- [Next.js App Router Authentication &lpar;Sessions, Cookies, JWTs&rpar;](https://www.youtube.com/watch?v=DJvM2lSPn6w)
 <!-- YOUTUBE:END -->
 
 
