@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Google actually beat GPT-4 this time? Gemini Ultra released](https://www.youtube.com/watch?v=ucd63nIZZ60)
+- [Good APIs Vs Bad APIs: 7 Tips for API Design](https://www.youtube.com/watch?v=_gQaygjm_hg)
 - [Continuous Integration is BROKEN. And We Just FIXED It!](https://www.youtube.com/watch?v=_FSHQIwITic)
 - [8 TypeScript Tips To Expand Your Mind &lpar;and improve your code&rpar;](https://www.youtube.com/watch?v=QSIXYMIJkQg)
 - [Five React App Killing Anti-Patterns 🪦😱](https://www.youtube.com/watch?v=ZkQPxP4wlE8)
-- [Episode 186 - Module Federation - Module Mixology](https://www.youtube.com/watch?v=cP6iPnO39WE)
 <!-- YOUTUBE:END -->
 
 
