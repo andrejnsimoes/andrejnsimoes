@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Remix Takes on Next.js in Battle of the React Frameworks](https://teklinks.andrejnsimoes.com/2024/02/remix-takes-on-nextjs-in-battle-of.html)
+- [Interaction to Next Paint becomes a Core Web Vital on March 12](https://teklinks.andrejnsimoes.com/2024/02/interaction-to-next-paint-becomes-core.html)
+- [The outcome of the strategy becomes culture](https://teklinks.andrejnsimoes.com/2024/02/the-outcome-of-strategy-becomes-culture.html)
 - [Hot Module Replacement is Easy](https://teklinks.andrejnsimoes.com/2024/02/hot-module-replacement-is-easy.html)
 - [What every dev should know about using Environment Variables](https://teklinks.andrejnsimoes.com/2024/02/what-every-dev-should-know-about-using.html)
-- [Versioning and Releasing Packages in a Monorepo](https://teklinks.andrejnsimoes.com/2024/02/versioning-and-releasing-packages-in.html)
-- [Immutable JavaScript – How to Improve the Performance of Your JS Applications](https://teklinks.andrejnsimoes.com/2024/02/immutable-javascript-how-to-improve.html)
-- [🤯 How to Build the 𝘃𝟬.𝗱𝗲𝘃 𝗼𝗳 𝗿𝗲𝘀𝘂𝗺𝗲𝘀 with Next.js &amp; OpenAI 🪄✨](https://teklinks.andrejnsimoes.com/2024/02/how-to-build-with-nextjs-openai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
