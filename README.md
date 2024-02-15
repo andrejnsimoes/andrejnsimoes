@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Gemini TRASHED ChatGPT 😱 Heres Why](https://www.youtube.com/watch?v=H8WygX6kFgo)
+- [Finalizando app desktop com Tauri &lpar;Rust + React&rpar;](https://www.youtube.com/watch?v=lhkCa_v1buk)
 - [8 NEW JavaScript 2024 Features](https://www.youtube.com/watch?v=duNEnLUxie8)
 - [Why I don&#39;t use React-Query and tRPC anymore](https://www.youtube.com/watch?v=51pf_nCJpwg)
 - [Mastering Micro-Frontends With RSpack and Module Federation](https://www.youtube.com/watch?v=32_EikGKESk)
-- [Build an AI app in 5 minutes!](https://www.youtube.com/watch?v=-mDcL314lFI)
-- [Releasing Nx Release](https://www.youtube.com/watch?v=KjZKFGu3_9I)
 <!-- YOUTUBE:END -->
 
 
