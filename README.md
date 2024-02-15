@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Making Use of Code Coverage](https://teklinks.andrejnsimoes.com/2024/02/making-use-of-code-coverage.html)
+- [You Might Not Need an Effect – React](https://teklinks.andrejnsimoes.com/2024/02/you-might-not-need-effect-react.html)
 - [How we Increased Search Traffic by 20x in 4 Months with the Next.js App Router](https://teklinks.andrejnsimoes.com/2024/02/how-we-increased-search-traffic-by-20x.html)
 - [Squeezing Last Bit Of JavaScript Performance For My Automation Game](https://teklinks.andrejnsimoes.com/2024/02/squeezing-last-bit-of-javascript.html)
 - [Remix Takes on Next.js in Battle of the React Frameworks](https://teklinks.andrejnsimoes.com/2024/02/remix-takes-on-nextjs-in-battle-of.html)
-- [Interaction to Next Paint becomes a Core Web Vital on March 12](https://teklinks.andrejnsimoes.com/2024/02/interaction-to-next-paint-becomes-core.html)
-- [The outcome of the strategy becomes culture](https://teklinks.andrejnsimoes.com/2024/02/the-outcome-of-strategy-becomes-culture.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
