@@ -51,7 +51,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [OpenAI shocks the world yet again… Sora first look](https://www.youtube.com/watch?v=tWP6z0hvw1M)
-- [This Update From The React Team Surprised Me](https://www.youtube.com/watch?v=B-tjhF7ojeA)
+- [React 19 Is Here - Are You Ready?](https://www.youtube.com/watch?v=B-tjhF7ojeA)
 - [Problem solving across 100,633 lines of code | Gemini 1.5 Pro Demo](https://www.youtube.com/watch?v=SSnsmqIj1MI)
 - [Gemini TRASHED ChatGPT 😱 Heres Why](https://www.youtube.com/watch?v=H8WygX6kFgo)
 - [Finalizando app desktop com Tauri &lpar;Rust + React&rpar;](https://www.youtube.com/watch?v=lhkCa_v1buk)
