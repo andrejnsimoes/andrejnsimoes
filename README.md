@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Goodbye Electron. Hello Tauri!](https://teklinks.andrejnsimoes.com/2024/02/goodbye-electron-hello-tauri.html)
+- [The Performance Inequality Gap, 2024](https://teklinks.andrejnsimoes.com/2024/02/the-performance-inequality-gap-2024.html)
 - [Frontend Application Security: Tips and Tricks](https://teklinks.andrejnsimoes.com/2024/02/frontend-application-security-tips-and.html)
 - [Git Tips 1: Oldies but Goodies](https://teklinks.andrejnsimoes.com/2024/02/git-tips-1-oldies-but-goodies.html)
 - [Starters Upgrade: WebContainers and Vite](https://teklinks.andrejnsimoes.com/2024/02/starters-upgrade-webcontainers-and-vite.html)
-- [Making Use of Code Coverage](https://teklinks.andrejnsimoes.com/2024/02/making-use-of-code-coverage.html)
-- [You Might Not Need an Effect – React](https://teklinks.andrejnsimoes.com/2024/02/you-might-not-need-effect-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
