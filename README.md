@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Compounding Effect of Knowledge](https://teklinks.andrejnsimoes.com/2024/02/the-compounding-effect-of-knowledge.html)
+- [System reliability: when 99% is better than 100%](https://teklinks.andrejnsimoes.com/2024/02/system-reliability-when-99-is-better.html)
+- [The best way to get NVM working in CI/CD systems](https://teklinks.andrejnsimoes.com/2024/02/the-best-way-to-get-nvm-working-in-cicd.html)
 - [The psychology of site speed and human happiness](https://teklinks.andrejnsimoes.com/2024/02/the-psychology-of-site-speed-and-human.html)
 - [Top 5 React Design Patterns That You Should Know in 2024](https://teklinks.andrejnsimoes.com/2024/02/top-5-react-design-patterns-that-you.html)
-- [Goodbye Electron. Hello Tauri!](https://teklinks.andrejnsimoes.com/2024/02/goodbye-electron-hello-tauri.html)
-- [The Performance Inequality Gap, 2024](https://teklinks.andrejnsimoes.com/2024/02/the-performance-inequality-gap-2024.html)
-- [Frontend Application Security: Tips and Tricks](https://teklinks.andrejnsimoes.com/2024/02/frontend-application-security-tips-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
