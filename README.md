@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [There’s a fast new code editor in town](https://www.youtube.com/watch?v=JGz7Ou0Nwo8)
+- [A Better Way to Write APIs?](https://www.youtube.com/watch?v=ItGUt2DqNy4)
 - [Micro Frontends - Module Federation v1.5 Plugins with rspack](https://www.youtube.com/watch?v=MCTUb4IV9LI)
 - [OpenAI shocks the world yet again… Sora first look](https://www.youtube.com/watch?v=tWP6z0hvw1M)
 - [React 19 Is Here - Are You Ready?](https://www.youtube.com/watch?v=B-tjhF7ojeA)
-- [Problem solving across 100,633 lines of code | Gemini 1.5 Pro Demo](https://www.youtube.com/watch?v=SSnsmqIj1MI)
 <!-- YOUTUBE:END -->
 
 
