@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Okay, Color Spaces](https://teklinks.andrejnsimoes.com/2024/02/okay-color-spaces.html)
+- [Remix Vite is Now Stable](https://teklinks.andrejnsimoes.com/2024/02/remix-vite-is-now-stable.html)
+- [React Trends in 2024](https://teklinks.andrejnsimoes.com/2024/02/react-trends-in-2024.html)
 - [Learning Four Key Primitives In Solid](https://teklinks.andrejnsimoes.com/2024/02/learning-four-key-primitives-in-solid.html)
 - [Tackling the challenges of using event-driven architecture in a billing system](https://teklinks.andrejnsimoes.com/2024/02/tackling-challenges-of-using-event.html)
-- [The Compounding Effect of Knowledge](https://teklinks.andrejnsimoes.com/2024/02/the-compounding-effect-of-knowledge.html)
-- [System reliability: when 99% is better than 100%](https://teklinks.andrejnsimoes.com/2024/02/system-reliability-when-99-is-better.html)
-- [The best way to get NVM working in CI/CD systems](https://teklinks.andrejnsimoes.com/2024/02/the-best-way-to-get-nvm-working-in-cicd.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
