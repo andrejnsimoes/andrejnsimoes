@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How can we keep domains working long after our death? – Chuck Grimmett](https://teklinks.andrejnsimoes.com/2024/02/how-can-we-keep-domains-working-long.html)
+- [How To Center a Div](https://teklinks.andrejnsimoes.com/2024/02/how-to-center-div.html)
+- [Reviewing Zed: The IDE of the Future](https://teklinks.andrejnsimoes.com/2024/02/reviewing-zed-ide-of-future.html)
 - [What We&#39;ve Been Working On – February 2024 – React](https://teklinks.andrejnsimoes.com/2024/02/what-weve-been-working-on-february-2024.html)
 - [Updates from the 100th TC39 meeting](https://teklinks.andrejnsimoes.com/2024/02/updates-from-100th-tc39-meeting.html)
-- [Big Tech jobs have lost their glamour](https://teklinks.andrejnsimoes.com/2024/02/big-tech-jobs-have-lost-their-glamour.html)
-- [Okay, Color Spaces](https://teklinks.andrejnsimoes.com/2024/02/okay-color-spaces.html)
-- [Remix Vite is Now Stable](https://teklinks.andrejnsimoes.com/2024/02/remix-vite-is-now-stable.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
