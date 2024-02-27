@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Instant Search Params with React Server Components](https://teklinks.andrejnsimoes.com/2024/02/instant-search-params-with-react-server.html)
+- [The Value of Socially Driven Architecture](https://teklinks.andrejnsimoes.com/2024/02/the-value-of-socially-driven.html)
 - [The Wrong Way to Use DORA Metrics](https://teklinks.andrejnsimoes.com/2024/02/the-wrong-way-to-use-dora-metrics.html)
 - [React Testing Library vs Jest](https://teklinks.andrejnsimoes.com/2024/02/react-testing-library-vs-jest.html)
 - [DevOps Topologies](https://teklinks.andrejnsimoes.com/2024/02/devops-topologies.html)
-- [How can we keep domains working long after our death? – Chuck Grimmett](https://teklinks.andrejnsimoes.com/2024/02/how-can-we-keep-domains-working-long.html)
-- [How To Center a Div](https://teklinks.andrejnsimoes.com/2024/02/how-to-center-div.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
