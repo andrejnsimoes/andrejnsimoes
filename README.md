@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How React aims to help with cross-platform development](https://www.youtube.com/watch?v=oMzdnVdoWqE)
+- [They made React great again?](https://www.youtube.com/watch?v=4k6Xgjqkad4)
 - [React Hook Form &amp; React 19 Form Actions, The Right Way](https://www.youtube.com/watch?v=VLk45JBe8L8)
 - [There’s a fast new code editor in town](https://www.youtube.com/watch?v=JGz7Ou0Nwo8)
 - [A Better Way to Write APIs?](https://www.youtube.com/watch?v=ItGUt2DqNy4)
-- [Micro Frontends - Module Federation v1.5 Plugins with rspack](https://www.youtube.com/watch?v=MCTUb4IV9LI)
-- [OpenAI shocks the world yet again… Sora first look](https://www.youtube.com/watch?v=tWP6z0hvw1M)
 <!-- YOUTUBE:END -->
 
 
