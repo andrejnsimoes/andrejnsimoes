@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [HTMX vs React: A Complete Comparison](https://teklinks.andrejnsimoes.com/2024/02/htmx-vs-react-complete-comparison.html)
+- [JSR: What We Know So Far About Deno’s New JavaScript Package Registry](https://teklinks.andrejnsimoes.com/2024/02/jsr-what-we-know-so-far-about-denos-new.html)
+- [Compiler Theory and Reactivity](https://teklinks.andrejnsimoes.com/2024/02/compiler-theory-and-reactivity.html)
 - [React Will Be Compiled](https://teklinks.andrejnsimoes.com/2024/02/react-will-be-compiled.html)
 - [Next.js vs. Remix - A Developer&#39;s Dilemma](https://teklinks.andrejnsimoes.com/2024/02/nextjs-vs-remix-developers-dilemma.html)
-- [Best CI/CD tools &lpar;2024&rpar;](https://teklinks.andrejnsimoes.com/2024/02/best-cicd-tools-2024.html)
-- [Instant Search Params with React Server Components](https://teklinks.andrejnsimoes.com/2024/02/instant-search-params-with-react-server.html)
-- [The Value of Socially Driven Architecture](https://teklinks.andrejnsimoes.com/2024/02/the-value-of-socially-driven.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
