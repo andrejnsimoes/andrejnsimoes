@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Is Tanstack Router Better Than React-Router?](https://www.youtube.com/watch?v=qOwnQJOClrw)
 - [Wingman AI, the free VSCode AI powered assistant](https://www.youtube.com/watch?v=8BX_G82CzWk)
 - [Drizzle ORM in 100 Seconds](https://www.youtube.com/watch?v=i_mAHOhpBSA)
 - [How React aims to help with cross-platform development](https://www.youtube.com/watch?v=oMzdnVdoWqE)
 - [They made React great again?](https://www.youtube.com/watch?v=4k6Xgjqkad4)
-- [React Hook Form &amp; React 19 Form Actions, The Right Way](https://www.youtube.com/watch?v=VLk45JBe8L8)
 <!-- YOUTUBE:END -->
 
 
