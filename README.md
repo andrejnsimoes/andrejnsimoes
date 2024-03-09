@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Open-sourcing our progress on Tailwind CSS v4.0](https://teklinks.andrejnsimoes.com/2024/03/open-sourcing-our-progress-on-tailwind.html)
+- [Why React Server Components Are Breaking Builds to Win Tomorrow](https://teklinks.andrejnsimoes.com/2024/03/why-react-server-components-are.html)
+- [High-Level System Architecture of Booking.com](https://teklinks.andrejnsimoes.com/2024/03/high-level-system-architecture-of.html)
 - [Reporting Core Web Vitals With The Performance API](https://teklinks.andrejnsimoes.com/2024/03/reporting-core-web-vitals-with.html)
 - [JavaScript Bloat in 2024](https://teklinks.andrejnsimoes.com/2024/03/javascript-bloat-in-2024.html)
-- [How to build an offline-first app using Expo &amp; Legend State](https://teklinks.andrejnsimoes.com/2024/03/how-to-build-offline-first-app-using.html)
-- [Epic Next.js 14 Tutorial: Learn Next.js by building a real-life project: Part 1](https://teklinks.andrejnsimoes.com/2024/03/epic-nextjs-14-tutorial-learn-nextjs-by.html)
-- [Million Lint is in public beta](https://teklinks.andrejnsimoes.com/2024/03/million-lint-is-in-public-beta.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
