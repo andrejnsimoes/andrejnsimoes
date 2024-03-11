@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Tailwind V4 For NextJS, Astro and Vite TODAY](https://www.youtube.com/watch?v=YzQrHnlWyZ0)
 - [Exploring React 19 Features - use&lpar;&rpar; Hook, Actions &amp; More](https://www.youtube.com/watch?v=EPaLg4U_K1o)
 - [Is Tanstack Router Better Than React-Router?](https://www.youtube.com/watch?v=qOwnQJOClrw)
 - [Wingman AI, the free VSCode AI powered assistant](https://www.youtube.com/watch?v=8BX_G82CzWk)
 - [Drizzle ORM in 100 Seconds](https://www.youtube.com/watch?v=i_mAHOhpBSA)
-- [How React aims to help with cross-platform development](https://www.youtube.com/watch?v=oMzdnVdoWqE)
 <!-- YOUTUBE:END -->
 
 
