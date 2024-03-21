@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [SaaS Single-tenant vs Multi-tenant &lpar;devo criar um banco por empresa!&rpar;](https://www.youtube.com/watch?v=fZeNbnMqMLM)
+- [Neuralink full send... Elon&#39;s brain chips actually work on humans](https://www.youtube.com/watch?v=8BrLNgKLWzs)
 - [Nx Agents Walkthrough: Effortlessly Fast CI Built for Monorepos](https://www.youtube.com/watch?v=XS-exYYP_Gg)
 - [Variáveis de Ambiente de forma nativa em Node.js](https://www.youtube.com/watch?v=91cu5GhS4JE)
 - [Rethinking The Linter](https://www.youtube.com/watch?v=fcY9TthQnI4)
-- [How I deploy serverless containers for free](https://www.youtube.com/watch?v=cw34KMPSt4k)
-- [AstroDB might be the easiest SQL setup you can get](https://www.youtube.com/watch?v=neXtt9HW9-8)
 <!-- YOUTUBE:END -->
 
 
