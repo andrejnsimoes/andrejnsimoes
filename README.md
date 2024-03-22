@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [A Next.js package for managing third-party libraries](https://teklinks.andrejnsimoes.com/2024/03/a-nextjs-package-for-managing-third.html)
-- [Ultimate Guide to Visual Testing with Playwright](https://teklinks.andrejnsimoes.com/2024/03/ultimate-guide-to-visual-testing-with.html)
-- [Modern Git Commands and Features You Should Be Using](https://teklinks.andrejnsimoes.com/2024/03/modern-git-commands-and-features-you.html)
-- [12 Years at Meta](https://teklinks.andrejnsimoes.com/2024/03/12-years-at-meta.html)
-- [Improving Shopify App’s Performance](https://teklinks.andrejnsimoes.com/2024/03/improving-shopify-apps-performance.html)
+- [Type system of the React compiler](https://teklinks.andrejnsimoes.com/2024/03/type-system-of-react-compiler.html)
+- [Mental Health in Open Source](https://teklinks.andrejnsimoes.com/2024/03/mental-health-in-open-source.html)
+- [Dynamic Imports in React for Enhanced Performance](https://teklinks.andrejnsimoes.com/2024/03/dynamic-imports-in-react-for-enhanced.html)
+- [The quiet, pervasive devaluation of frontend](https://teklinks.andrejnsimoes.com/2024/03/the-quiet-pervasive-devaluation-of.html)
+- [4 Steps to Achieving Operational Flow and Improving Quality in Tech Teams](https://teklinks.andrejnsimoes.com/2024/03/4-steps-to-achieving-operational-flow.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
