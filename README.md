@@ -53,8 +53,8 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 - [SaaS Single-tenant vs Multi-tenant &lpar;devo criar um banco por empresa!&rpar;](https://www.youtube.com/watch?v=fZeNbnMqMLM)
 - [Neuralink full send... Elon&#39;s brain chips actually work on humans](https://www.youtube.com/watch?v=8BrLNgKLWzs)
 - [Nx Agents Walkthrough: Effortlessly Fast CI Built for Monorepos](https://www.youtube.com/watch?v=XS-exYYP_Gg)
+- [The Story of Astro DB](https://www.youtube.com/watch?v=aUfYzjKNCh4)
 - [Variáveis de Ambiente de forma nativa em Node.js](https://www.youtube.com/watch?v=91cu5GhS4JE)
-- [Rethinking The Linter](https://www.youtube.com/watch?v=fcY9TthQnI4)
 <!-- YOUTUBE:END -->
 
 
