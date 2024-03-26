@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSockets vs Server-Sent-Events vs Long-Polling vs WebRTC vs WebTransport](https://teklinks.andrejnsimoes.com/2024/03/websockets-vs-server-sent-events-vs.html)
+- [Optimizing Javascript for fun and for profit](https://teklinks.andrejnsimoes.com/2024/03/optimizing-javascript-for-fun-and-for.html)
+- [Announcing VitePress 1.0](https://teklinks.andrejnsimoes.com/2024/03/announcing-vitepress-10.html)
 - [Architecting for High Availability in the Cloud with Cellular Architecture](https://teklinks.andrejnsimoes.com/2024/03/architecting-for-high-availability-in.html)
 - [Type system of the React compiler](https://teklinks.andrejnsimoes.com/2024/03/type-system-of-react-compiler.html)
-- [Mental Health in Open Source](https://teklinks.andrejnsimoes.com/2024/03/mental-health-in-open-source.html)
-- [Dynamic Imports in React for Enhanced Performance](https://teklinks.andrejnsimoes.com/2024/03/dynamic-imports-in-react-for-enhanced.html)
-- [The quiet, pervasive devaluation of frontend](https://teklinks.andrejnsimoes.com/2024/03/the-quiet-pervasive-devaluation-of.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
