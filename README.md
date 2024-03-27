@@ -52,7 +52,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [Solving E2E Tests](https://www.youtube.com/watch?v=EO_tGa0Nx1s)
 - [Bringing React Components to AI](https://www.youtube.com/watch?v=br2d_ha7alw)
-- [Finally Fix Your Issues With JS/React Memory Leaks 😤](https://www.youtube.com/watch?v=qERgb3pWfu0)
+- [Finally Fix Your Issues With JS/React Memory Management 😤](https://www.youtube.com/watch?v=qERgb3pWfu0)
 - [GitHub Copilot now controls your command line...](https://www.youtube.com/watch?v=P8MfgV9us4o)
 - [SaaS Single-tenant vs Multi-tenant &lpar;devo criar um banco por empresa!&rpar;](https://www.youtube.com/watch?v=fZeNbnMqMLM)
 <!-- YOUTUBE:END -->
