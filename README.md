@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Migrating 500+ tests from Mocha to Node.js](https://teklinks.andrejnsimoes.com/2024/04/migrating-500-tests-from-mocha-to-nodejs.html)
+- [Power of Partial Prerendering with Bun](https://teklinks.andrejnsimoes.com/2024/04/power-of-partial-prerendering-with-bun.html)
+- [🩹 Nx Crystal Plugin Picking the Essentials](https://teklinks.andrejnsimoes.com/2024/04/nx-crystal-plugin-picking-essentials.html)
 - [Flaky Tests In React: Detection, Prevention and Tools](https://teklinks.andrejnsimoes.com/2024/03/flaky-tests-in-react-detection.html)
 - [All Estimations Are Wrong, But None Are Useful](https://teklinks.andrejnsimoes.com/2024/03/all-estimations-are-wrong-but-none-are.html)
-- [Patterns of Legacy Displacement](https://teklinks.andrejnsimoes.com/2024/03/patterns-of-legacy-displacement.html)
-- [How to Build Your Own ChatGPT Clone Using Clerk &amp; AWS Bedrock](https://teklinks.andrejnsimoes.com/2024/03/how-to-build-your-own-chatgpt-clone.html)
-- [How To Use The Web Bluetooth API](https://teklinks.andrejnsimoes.com/2024/03/how-to-use-web-bluetooth-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
