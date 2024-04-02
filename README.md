@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub Copilot General Availability in the CLI](https://teklinks.andrejnsimoes.com/2024/04/github-copilot-general-availability-in.html)
+- [BFF: A design pattern helping teams gain ownership](https://teklinks.andrejnsimoes.com/2024/04/bff-design-pattern-helping-teams-gain.html)
 - [Migrating 500+ tests from Mocha to Node.js](https://teklinks.andrejnsimoes.com/2024/04/migrating-500-tests-from-mocha-to-nodejs.html)
 - [Power of Partial Prerendering with Bun](https://teklinks.andrejnsimoes.com/2024/04/power-of-partial-prerendering-with-bun.html)
 - [🩹 Nx Crystal Plugin Picking the Essentials](https://teklinks.andrejnsimoes.com/2024/04/nx-crystal-plugin-picking-essentials.html)
-- [Flaky Tests In React: Detection, Prevention and Tools](https://teklinks.andrejnsimoes.com/2024/03/flaky-tests-in-react-detection.html)
-- [All Estimations Are Wrong, But None Are Useful](https://teklinks.andrejnsimoes.com/2024/03/all-estimations-are-wrong-but-none-are.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
