@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Simpler Project Creation in Deno Deploy](https://teklinks.andrejnsimoes.com/2024/04/introducing-simpler-project-creation-in.html)
+- [Implementing the API Gateway Pattern in a Microservices Based Application with Node.js](https://teklinks.andrejnsimoes.com/2024/04/implementing-api-gateway-pattern-in.html)
 - [GitHub Copilot General Availability in the CLI](https://teklinks.andrejnsimoes.com/2024/04/github-copilot-general-availability-in.html)
 - [BFF: A design pattern helping teams gain ownership](https://teklinks.andrejnsimoes.com/2024/04/bff-design-pattern-helping-teams-gain.html)
 - [Migrating 500+ tests from Mocha to Node.js](https://teklinks.andrejnsimoes.com/2024/04/migrating-500-tests-from-mocha-to-nodejs.html)
-- [Power of Partial Prerendering with Bun](https://teklinks.andrejnsimoes.com/2024/04/power-of-partial-prerendering-with-bun.html)
-- [🩹 Nx Crystal Plugin Picking the Essentials](https://teklinks.andrejnsimoes.com/2024/04/nx-crystal-plugin-picking-essentials.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
