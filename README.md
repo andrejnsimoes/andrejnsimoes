@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Jpegli: A New JPEG Coding Library](https://teklinks.andrejnsimoes.com/2024/04/introducing-jpegli-new-jpeg-coding.html)
+- [Microservices Design Principles You Really Need To Learn](https://teklinks.andrejnsimoes.com/2024/04/microservices-design-principles-you.html)
+- [Guide on Structured Logs [Best Practices included]](https://teklinks.andrejnsimoes.com/2024/04/guide-on-structured-logs-best-practices.html)
 - [Introducing Simpler Project Creation in Deno Deploy](https://teklinks.andrejnsimoes.com/2024/04/introducing-simpler-project-creation-in.html)
 - [Implementing the API Gateway Pattern in a Microservices Based Application with Node.js](https://teklinks.andrejnsimoes.com/2024/04/implementing-api-gateway-pattern-in.html)
-- [GitHub Copilot General Availability in the CLI](https://teklinks.andrejnsimoes.com/2024/04/github-copilot-general-availability-in.html)
-- [BFF: A design pattern helping teams gain ownership](https://teklinks.andrejnsimoes.com/2024/04/bff-design-pattern-helping-teams-gain.html)
-- [Migrating 500+ tests from Mocha to Node.js](https://teklinks.andrejnsimoes.com/2024/04/migrating-500-tests-from-mocha-to-nodejs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
