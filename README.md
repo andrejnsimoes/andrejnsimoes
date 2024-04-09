@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Cypress para Iniciantes - e2e tests em frontend apps](https://www.youtube.com/watch?v=56N0P67ffIA)
 - [Build better payment forms using new “embedded” Stripe Checkout](https://www.youtube.com/watch?v=7WFXl4-aCxs)
 - [Structuring Teams &amp; Culture with Micro-frontends: Expert Strategies by Matteo Figus @AWS](https://www.youtube.com/watch?v=rQTUOnmufjU)
 - [Linux got wrecked by backdoor attack](https://www.youtube.com/watch?v=bS9em7Bg0iU)
 - [Master the Gemini API: A Node.js tutorial with real examples](https://www.youtube.com/watch?v=Z8F6FvMrN4o)
-- [Solving E2E Tests](https://www.youtube.com/watch?v=EO_tGa0Nx1s)
 <!-- YOUTUBE:END -->
 
 
