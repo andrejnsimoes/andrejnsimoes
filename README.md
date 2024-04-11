@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Server Components in a Nutshell](https://teklinks.andrejnsimoes.com/2024/04/react-server-components-in-nutshell.html)
+- [The View Transitions API](https://teklinks.andrejnsimoes.com/2024/04/the-view-transitions-api.html)
+- [Exploring Authentication in Next.js](https://teklinks.andrejnsimoes.com/2024/04/exploring-authentication-in-nextjs.html)
 - [Exploring Server Actions with Next.js](https://teklinks.andrejnsimoes.com/2024/04/exploring-server-actions-with-nextjs.html)
 - [Angular and Wiz Are Better Together](https://teklinks.andrejnsimoes.com/2024/04/angular-and-wiz-are-better-together.html)
-- [7 Ways to Microfrontends in 2024](https://teklinks.andrejnsimoes.com/2024/04/7-ways-to-microfrontends-in-2024.html)
-- [Introducing Jpegli: A New JPEG Coding Library](https://teklinks.andrejnsimoes.com/2024/04/introducing-jpegli-new-jpeg-coding.html)
-- [Microservices Design Principles You Really Need To Learn](https://teklinks.andrejnsimoes.com/2024/04/microservices-design-principles-you.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
