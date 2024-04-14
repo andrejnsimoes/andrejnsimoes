@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Interaction to Next Paint &lpar;INP&rpar;](https://teklinks.andrejnsimoes.com/2024/04/understanding-interaction-to-next-paint.html)
+- [Developers with AI assistants need to follow the pair programming model](https://teklinks.andrejnsimoes.com/2024/04/developers-with-ai-assistants-need-to.html)
+- [Render Optimizations](https://teklinks.andrejnsimoes.com/2024/04/render-optimizations.html)
 - [React Server Components in a Nutshell](https://teklinks.andrejnsimoes.com/2024/04/react-server-components-in-nutshell.html)
 - [The View Transitions API](https://teklinks.andrejnsimoes.com/2024/04/the-view-transitions-api.html)
-- [Exploring Authentication in Next.js](https://teklinks.andrejnsimoes.com/2024/04/exploring-authentication-in-nextjs.html)
-- [Exploring Server Actions with Next.js](https://teklinks.andrejnsimoes.com/2024/04/exploring-server-actions-with-nextjs.html)
-- [Angular and Wiz Are Better Together](https://teklinks.andrejnsimoes.com/2024/04/angular-and-wiz-are-better-together.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
