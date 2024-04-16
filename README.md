@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [“What is your current salary?” is a red flag that you don’t want to work here](https://teklinks.andrejnsimoes.com/2024/04/what-is-your-current-salary-is-red-flag.html)
+- [Building a Remix app locally with Docker](https://teklinks.andrejnsimoes.com/2024/04/building-remix-app-locally-with-docker.html)
+- [InfoQ Software Architecture and Design Trends Report - April 2024](https://teklinks.andrejnsimoes.com/2024/04/infoq-software-architecture-and-design.html)
 - [Understanding Interaction to Next Paint &lpar;INP&rpar;](https://teklinks.andrejnsimoes.com/2024/04/understanding-interaction-to-next-paint.html)
 - [Developers with AI assistants need to follow the pair programming model](https://teklinks.andrejnsimoes.com/2024/04/developers-with-ai-assistants-need-to.html)
-- [Render Optimizations](https://teklinks.andrejnsimoes.com/2024/04/render-optimizations.html)
-- [React Server Components in a Nutshell](https://teklinks.andrejnsimoes.com/2024/04/react-server-components-in-nutshell.html)
-- [The View Transitions API](https://teklinks.andrejnsimoes.com/2024/04/the-view-transitions-api.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
