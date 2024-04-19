@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How do mixture-of-experts layers affect transformer models?](https://teklinks.andrejnsimoes.com/2024/04/how-do-mixture-of-experts-layers-affect.html)
+- [780+ developers told us how they&#39;re using data. Here&#39;s what they said.](https://teklinks.andrejnsimoes.com/2024/04/780-developers-told-us-how-theyre-using.html)
+- [DevTools Tips &amp; Tricks](https://teklinks.andrejnsimoes.com/2024/04/devtools-tips-tricks.html)
 - [“What is your current salary?” is a red flag that you don’t want to work here](https://teklinks.andrejnsimoes.com/2024/04/what-is-your-current-salary-is-red-flag.html)
 - [Building a Remix app locally with Docker](https://teklinks.andrejnsimoes.com/2024/04/building-remix-app-locally-with-docker.html)
-- [InfoQ Software Architecture and Design Trends Report - April 2024](https://teklinks.andrejnsimoes.com/2024/04/infoq-software-architecture-and-design.html)
-- [Understanding Interaction to Next Paint &lpar;INP&rpar;](https://teklinks.andrejnsimoes.com/2024/04/understanding-interaction-to-next-paint.html)
-- [Developers with AI assistants need to follow the pair programming model](https://teklinks.andrejnsimoes.com/2024/04/developers-with-ai-assistants-need-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
