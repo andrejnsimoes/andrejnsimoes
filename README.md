@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an interactive 3D event badge with React Three Fiber](https://teklinks.andrejnsimoes.com/2024/04/building-interactive-3d-event-badge.html)
+- [How to write a code formatter](https://teklinks.andrejnsimoes.com/2024/04/how-to-write-code-formatter.html)
+- [InfoQ Culture &amp; Methods Trends Report - April 2024](https://teklinks.andrejnsimoes.com/2024/04/infoq-culture-methods-trends-report.html)
 - [How do mixture-of-experts layers affect transformer models?](https://teklinks.andrejnsimoes.com/2024/04/how-do-mixture-of-experts-layers-affect.html)
 - [780+ developers told us how they&#39;re using data. Here&#39;s what they said.](https://teklinks.andrejnsimoes.com/2024/04/780-developers-told-us-how-theyre-using.html)
-- [DevTools Tips &amp; Tricks](https://teklinks.andrejnsimoes.com/2024/04/devtools-tips-tricks.html)
-- [“What is your current salary?” is a red flag that you don’t want to work here](https://teklinks.andrejnsimoes.com/2024/04/what-is-your-current-salary-is-red-flag.html)
-- [Building a Remix app locally with Docker](https://teklinks.andrejnsimoes.com/2024/04/building-remix-app-locally-with-docker.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
