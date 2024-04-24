@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The 20 Essential Principles of Software Development: LoD, SoC, SOLID, and Beyond.](https://teklinks.andrejnsimoes.com/2024/04/the-20-essential-principles-of-software.html)
+- [Webhooks suck, but here are alternatives](https://teklinks.andrejnsimoes.com/2024/04/webhooks-suck-but-here-are-alternatives.html)
+- [The State of Generative AI, 2024](https://teklinks.andrejnsimoes.com/2024/04/the-state-of-generative-ai-2024.html)
 - [An intro to TSConfig for JavaScript Developers](https://teklinks.andrejnsimoes.com/2024/04/an-intro-to-tsconfig-for-javascript.html)
 - [The Serverless Illusion](https://teklinks.andrejnsimoes.com/2024/04/the-serverless-illusion.html)
-- [A Distributed Systems Reading List](https://teklinks.andrejnsimoes.com/2024/04/a-distributed-systems-reading-list.html)
-- [Building an interactive 3D event badge with React Three Fiber](https://teklinks.andrejnsimoes.com/2024/04/building-interactive-3d-event-badge.html)
-- [How to write a code formatter](https://teklinks.andrejnsimoes.com/2024/04/how-to-write-code-formatter.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
