@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React 19 Beta – React](https://teklinks.andrejnsimoes.com/2024/04/react-19-beta-react.html)
+- [When to use GraphQL, gRPC, and REST?](https://teklinks.andrejnsimoes.com/2024/04/when-to-use-graphql-grpc-and-rest.html)
+- [Agile Architecture, Lean Architecture, or Both?](https://teklinks.andrejnsimoes.com/2024/04/agile-architecture-lean-architecture-or.html)
 - [The 20 Essential Principles of Software Development: LoD, SoC, SOLID, and Beyond.](https://teklinks.andrejnsimoes.com/2024/04/the-20-essential-principles-of-software.html)
 - [Webhooks suck, but here are alternatives](https://teklinks.andrejnsimoes.com/2024/04/webhooks-suck-but-here-are-alternatives.html)
-- [The State of Generative AI, 2024](https://teklinks.andrejnsimoes.com/2024/04/the-state-of-generative-ai-2024.html)
-- [An intro to TSConfig for JavaScript Developers](https://teklinks.andrejnsimoes.com/2024/04/an-intro-to-tsconfig-for-javascript.html)
-- [The Serverless Illusion](https://teklinks.andrejnsimoes.com/2024/04/the-serverless-illusion.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
