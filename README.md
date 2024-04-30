@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Latency numbers every frontend developer should know](https://teklinks.andrejnsimoes.com/2024/04/latency-numbers-every-frontend.html)
+- [Announcement of Release - Module Federation](https://teklinks.andrejnsimoes.com/2024/04/announcement-of-release.html)
+- [How to succeed as a data engineer without the burnout](https://teklinks.andrejnsimoes.com/2024/04/how-to-succeed-as-data-engineer-without.html)
 - [React 19 Beta – React](https://teklinks.andrejnsimoes.com/2024/04/react-19-beta-react.html)
 - [When to use GraphQL, gRPC, and REST?](https://teklinks.andrejnsimoes.com/2024/04/when-to-use-graphql-grpc-and-rest.html)
-- [Agile Architecture, Lean Architecture, or Both?](https://teklinks.andrejnsimoes.com/2024/04/agile-architecture-lean-architecture-or.html)
-- [The 20 Essential Principles of Software Development: LoD, SoC, SOLID, and Beyond.](https://teklinks.andrejnsimoes.com/2024/04/the-20-essential-principles-of-software.html)
-- [Webhooks suck, but here are alternatives](https://teklinks.andrejnsimoes.com/2024/04/webhooks-suck-but-here-are-alternatives.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
