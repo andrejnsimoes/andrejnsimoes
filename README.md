@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [GitHub Copilot just got promoted to Captain](https://www.youtube.com/watch?v=S_RorY_FRvo)
 - [JS Built-in Signals In React and Svelte TODAY!](https://www.youtube.com/watch?v=HSVcZa5yTKE)
 - [New in Chrome 124: setHTMLUnsafe, streams in WebSockets,  and more](https://www.youtube.com/watch?v=Io5d28IETrg)
 - [From 0 to Production - The Modern React Tutorial &lpar;RSCs, Next.js, Shadui, Drizzle, TS and more&rpar;](https://www.youtube.com/watch?v=d5x0JCZbAJs)
 - [Debunking Devin: &quot;First AI Software Engineer&quot; Upwork lie exposed!](https://www.youtube.com/watch?v=tNmgmwEtoWE)
-- [Cypress para Iniciantes - e2e tests em frontend apps](https://www.youtube.com/watch?v=56N0P67ffIA)
 <!-- YOUTUBE:END -->
 
 
