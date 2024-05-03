@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [GitHub Copilot just got promoted to Captain](https://www.youtube.com/watch?v=S_RorY_FRvo)
+- [Optimizing INP: A deep dive](https://www.youtube.com/watch?v=cmtfM4emG5k)
+- [React 19 Is FINALLY Here](https://www.youtube.com/watch?v=sFeu_aK8cB8)
 - [JS Built-in Signals In React and Svelte TODAY!](https://www.youtube.com/watch?v=HSVcZa5yTKE)
 - [New in Chrome 124: setHTMLUnsafe, streams in WebSockets,  and more](https://www.youtube.com/watch?v=Io5d28IETrg)
-- [From 0 to Production - The Modern React Tutorial &lpar;RSCs, Next.js, Shadui, Drizzle, TS and more&rpar;](https://www.youtube.com/watch?v=d5x0JCZbAJs)
-- [Debunking Devin: &quot;First AI Software Engineer&quot; Upwork lie exposed!](https://www.youtube.com/watch?v=tNmgmwEtoWE)
 <!-- YOUTUBE:END -->
 
 
