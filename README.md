@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The age of “Good Enough”](https://teklinks.andrejnsimoes.com/2024/05/the-age-of-good-enough.html)
+- [Low effort image optimization tips](https://teklinks.andrejnsimoes.com/2024/05/low-effort-image-optimization-tips.html)
 - [React&#39;s evolution from Hooks to Concurrent React](https://teklinks.andrejnsimoes.com/2024/05/reacts-evolution-from-hooks-to.html)
 - [Different Styles of Engineering Leadership](https://teklinks.andrejnsimoes.com/2024/05/different-styles-of-engineering.html)
 - [Latency numbers every frontend developer should know](https://teklinks.andrejnsimoes.com/2024/04/latency-numbers-every-frontend.html)
-- [Announcement of Release - Module Federation](https://teklinks.andrejnsimoes.com/2024/04/announcement-of-release.html)
-- [How to succeed as a data engineer without the burnout](https://teklinks.andrejnsimoes.com/2024/04/how-to-succeed-as-data-engineer-without.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
