@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Native Support for CJS/ESM Interoperability Begins in Node.js 22](https://teklinks.andrejnsimoes.com/2024/05/native-support-for-cjsesm.html)
+- [What is retrieval-augmented generation, and what does it do for generative AI?](https://teklinks.andrejnsimoes.com/2024/05/what-is-retrieval-augmented-generation.html)
+- [I Solved 300+ Leetcode problems here is what I learnt.](https://teklinks.andrejnsimoes.com/2024/05/i-solved-300-leetcode-problems-here-is.html)
 - [The age of “Good Enough”](https://teklinks.andrejnsimoes.com/2024/05/the-age-of-good-enough.html)
 - [Low effort image optimization tips](https://teklinks.andrejnsimoes.com/2024/05/low-effort-image-optimization-tips.html)
-- [React&#39;s evolution from Hooks to Concurrent React](https://teklinks.andrejnsimoes.com/2024/05/reacts-evolution-from-hooks-to.html)
-- [Different Styles of Engineering Leadership](https://teklinks.andrejnsimoes.com/2024/05/different-styles-of-engineering.html)
-- [Latency numbers every frontend developer should know](https://teklinks.andrejnsimoes.com/2024/04/latency-numbers-every-frontend.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
