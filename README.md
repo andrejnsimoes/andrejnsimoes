@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Cloud is the Worst Practice](https://teklinks.andrejnsimoes.com/2024/05/multi-cloud-is-worst-practice.html)
 - [AI Programming for Absolute Beginners](https://teklinks.andrejnsimoes.com/2024/05/ai-programming-for-absolute-beginners.html)
 - [Async APIs - don&#39;t confuse your events, commands and state](https://teklinks.andrejnsimoes.com/2024/05/async-apis-dont-confuse-your-events.html)
 - [When to Use Bun Instead of Node.js](https://teklinks.andrejnsimoes.com/2024/05/when-to-use-bun-instead-of-nodejs.html)
 - [Native Support for CJS/ESM Interoperability Begins in Node.js 22](https://teklinks.andrejnsimoes.com/2024/05/native-support-for-cjsesm.html)
-- [What is retrieval-augmented generation, and what does it do for generative AI?](https://teklinks.andrejnsimoes.com/2024/05/what-is-retrieval-augmented-generation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
