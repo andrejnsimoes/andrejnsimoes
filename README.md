@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The ARM chip race is getting wild… Apple M4 unveiled](https://www.youtube.com/watch?v=TsKHjFeonRE)
+- [Deno Just Got Faster](https://www.youtube.com/watch?v=1IzcI-91iQM)
 - [10 regrets of experienced programmers](https://www.youtube.com/watch?v=ehTIhQpj9ys)
 - [GitHub Copilot just got promoted to Captain](https://www.youtube.com/watch?v=S_RorY_FRvo)
 - [Optimizing INP: A deep dive](https://www.youtube.com/watch?v=cmtfM4emG5k)
-- [React 19 Is FINALLY Here](https://www.youtube.com/watch?v=sFeu_aK8cB8)
-- [JS Built-in Signals In React and Svelte TODAY!](https://www.youtube.com/watch?v=HSVcZa5yTKE)
 <!-- YOUTUBE:END -->
 
 
