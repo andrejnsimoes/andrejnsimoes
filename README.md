@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Become the React Dev Top Companies Want](https://www.youtube.com/watch?v=6xrkbN6vz9U)
 - [React 19 is here!](https://www.youtube.com/watch?v=C3-YV2cX2BU)
 - [Best OS for programming? Mac vs Windows vs Linux debate settled](https://www.youtube.com/watch?v=AdygBbbEnco)
 - [Has Generative AI Already Peaked? - Computerphile](https://www.youtube.com/watch?v=dDUC-LqVrPU)
 - [The ARM chip race is getting wild… Apple M4 unveiled](https://www.youtube.com/watch?v=TsKHjFeonRE)
-- [Deno Just Got Faster](https://www.youtube.com/watch?v=1IzcI-91iQM)
 <!-- YOUTUBE:END -->
 
 
