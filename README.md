@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Using the Popover API for HTML Tooltips](https://teklinks.andrejnsimoes.com/2024/05/using-popover-api-for-html-tooltips.html)
+- [What if we rotate pairs every day?](https://teklinks.andrejnsimoes.com/2024/05/what-if-we-rotate-pairs-every-day.html)
+- [Anatomy of a SudoLang Program: Prompt Engineering by Example](https://teklinks.andrejnsimoes.com/2024/05/anatomy-of-sudolang-program-prompt.html)
 - [How We Saved 10s of Thousands of Dollars Deploying Low Cost Open Source AI Technologies](https://teklinks.andrejnsimoes.com/2024/05/how-we-saved-10s-of-thousands-of.html)
 - [How to document your JavaScript package](https://teklinks.andrejnsimoes.com/2024/05/how-to-document-your-javascript-package.html)
-- [Figma’s journey to TypeScript: Compiling away our custom programming language](https://teklinks.andrejnsimoes.com/2024/05/figmas-journey-to-typescript-compiling.html)
-- [A React Developer&#39;s Guide to Learning SolidJS](https://teklinks.andrejnsimoes.com/2024/05/a-react-developers-guide-to-learning.html)
-- [Remix for Next.js Developers](https://teklinks.andrejnsimoes.com/2024/05/remix-for-nextjs-developers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
