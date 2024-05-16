@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [React Just Changed Forever](https://www.youtube.com/watch?v=DhfeXfF_W4w)
+- [Another glorious battle for AI dominance… GPT-4o vs Google I/O](https://www.youtube.com/watch?v=qrvhmo5LSOQ)
+- [React Compiler: In-Depth Beyond React Conf 2024](https://www.youtube.com/watch?v=PYHBHK37xlE)
 - [Become the React Dev Top Companies Want](https://www.youtube.com/watch?v=6xrkbN6vz9U)
 - [React 19 is here!](https://www.youtube.com/watch?v=C3-YV2cX2BU)
-- [Best OS for programming? Mac vs Windows vs Linux debate settled](https://www.youtube.com/watch?v=AdygBbbEnco)
-- [Has Generative AI Already Peaked? - Computerphile](https://www.youtube.com/watch?v=dDUC-LqVrPU)
-- [The ARM chip race is getting wild… Apple M4 unveiled](https://www.youtube.com/watch?v=TsKHjFeonRE)
 <!-- YOUTUBE:END -->
 
 
