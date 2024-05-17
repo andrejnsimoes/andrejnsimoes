@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Build a JS Runtime in Rust](https://www.youtube.com/watch?v=Hhpo1zpxaf4)
+- [My &quot;as few deps as possible&quot; monorepo setup](https://www.youtube.com/watch?v=hRyU0bN7qhw)
+- [9 Reasons People Hate JavaScript](https://www.youtube.com/watch?v=J-graiyPhpw)
 - [React Just Changed Forever](https://www.youtube.com/watch?v=DhfeXfF_W4w)
 - [Another glorious battle for AI dominance… GPT-4o vs Google I/O](https://www.youtube.com/watch?v=qrvhmo5LSOQ)
-- [React Compiler: In-Depth Beyond React Conf 2024](https://www.youtube.com/watch?v=PYHBHK37xlE)
-- [Become the React Dev Top Companies Want](https://www.youtube.com/watch?v=6xrkbN6vz9U)
-- [React 19 is here!](https://www.youtube.com/watch?v=C3-YV2cX2BU)
 <!-- YOUTUBE:END -->
 
 
