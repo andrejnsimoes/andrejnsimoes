@@ -52,9 +52,9 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 <!-- YOUTUBE:START -->
 - [Build a JS Runtime in Rust](https://www.youtube.com/watch?v=Hhpo1zpxaf4)
 - [My &quot;as few deps as possible&quot; monorepo setup](https://www.youtube.com/watch?v=hRyU0bN7qhw)
+- [You Are an AI Engineer](https://www.youtube.com/watch?v=ecpS4ZSWIXE)
 - [9 Reasons People Hate JavaScript](https://www.youtube.com/watch?v=J-graiyPhpw)
-- [React Just Changed Forever](https://www.youtube.com/watch?v=DhfeXfF_W4w)
-- [Another glorious battle for AI dominance… GPT-4o vs Google I/O](https://www.youtube.com/watch?v=qrvhmo5LSOQ)
+- [TailwindCSS 4.0 ficou 10x mais rápido &lpar;e mais nativo!&rpar;](https://www.youtube.com/watch?v=5X_pAr3qgoM)
 <!-- YOUTUBE:END -->
 
 
