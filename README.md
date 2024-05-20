@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Netflix Ensures Highly-Reliable Online Stateful Systems](https://teklinks.andrejnsimoes.com/2024/05/how-netflix-ensures-highly-reliable.html)
+- [Best Next.js Libraries and Packages in 2024 &lpar;For All Your Needs!&rpar;](https://teklinks.andrejnsimoes.com/2024/05/best-nextjs-libraries-and-packages-in.html)
+- [Code sharing](https://teklinks.andrejnsimoes.com/2024/05/code-sharing.html)
 - [Software Architecture is Hard](https://teklinks.andrejnsimoes.com/2024/05/software-architecture-is-hard.html)
 - [Why React Query?](https://teklinks.andrejnsimoes.com/2024/05/why-react-query.html)
-- [Using the Popover API for HTML Tooltips](https://teklinks.andrejnsimoes.com/2024/05/using-popover-api-for-html-tooltips.html)
-- [What if we rotate pairs every day?](https://teklinks.andrejnsimoes.com/2024/05/what-if-we-rotate-pairs-every-day.html)
-- [Anatomy of a SudoLang Program: Prompt Engineering by Example](https://teklinks.andrejnsimoes.com/2024/05/anatomy-of-sudolang-program-prompt.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
