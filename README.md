@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Micro frontends - Module Federation runtime, plugins, dynamic remotes and preloading](https://www.youtube.com/watch?v=7jGnMg_H71I)
 - [Build a JS Runtime in Rust](https://www.youtube.com/watch?v=Hhpo1zpxaf4)
 - [My &quot;as few deps as possible&quot; monorepo setup](https://www.youtube.com/watch?v=hRyU0bN7qhw)
 - [You Are an AI Engineer](https://www.youtube.com/watch?v=ecpS4ZSWIXE)
 - [9 Reasons People Hate JavaScript](https://www.youtube.com/watch?v=J-graiyPhpw)
-- [TailwindCSS 4.0 ficou 10x mais rápido &lpar;e mais nativo!&rpar;](https://www.youtube.com/watch?v=5X_pAr3qgoM)
 <!-- YOUTUBE:END -->
 
 
