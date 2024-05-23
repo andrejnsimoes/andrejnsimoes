@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog : Access 3D Maps in Maps JavaScript API starting today – Google Maps Platform](https://teklinks.andrejnsimoes.com/2024/05/blog-access-3d-maps-in-maps-javascript_22.html)
 - [Access 3D Maps in Maps JavaScript API starting today – Google Maps Platform](https://teklinks.andrejnsimoes.com/2024/05/blog-access-3d-maps-in-maps-javascript.html)
 - [At some point, JavaScript got good](https://teklinks.andrejnsimoes.com/2024/05/at-some-point-javascript-got-good.html)
 - [Speed Up Your Playwright Scripts with Request Interception](https://teklinks.andrejnsimoes.com/2024/05/speed-up-your-playwright-scripts-with.html)
 - [How Netflix Ensures Highly-Reliable Online Stateful Systems](https://teklinks.andrejnsimoes.com/2024/05/how-netflix-ensures-highly-reliable.html)
+- [Best Next.js Libraries and Packages in 2024 &lpar;For All Your Needs!&rpar;](https://teklinks.andrejnsimoes.com/2024/05/best-nextjs-libraries-and-packages-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
