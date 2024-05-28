@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatic Query Invalidation after Mutations](https://teklinks.andrejnsimoes.com/2024/05/automatic-query-invalidation-after.html)
+- [React 19 lets you write impossible components](https://teklinks.andrejnsimoes.com/2024/05/react-19-lets-you-write-impossible.html)
+- [A virtual DOM in 200 lines of JavaScript](https://teklinks.andrejnsimoes.com/2024/05/a-virtual-dom-in-200-lines-of-javascript.html)
 - [Sneaky React Memory Leaks: How useCallback and closures can bite you](https://teklinks.andrejnsimoes.com/2024/05/sneaky-react-memory-leaks-how.html)
 - [Mastering Caching in Distributed Applications](https://teklinks.andrejnsimoes.com/2024/05/mastering-caching-in-distributed.html)
-- [GPT-4o vs. GPT-4 vs. Gemini 1.5 ⭐ — Performance Analysis](https://teklinks.andrejnsimoes.com/2024/05/gpt-4o-vs-gpt-4-vs-gemini-15.html)
-- [Why don’t we talk about minifying CSS anymore?](https://teklinks.andrejnsimoes.com/2024/05/why-dont-we-talk-about-minifying-css.html)
-- [Using React Shepherd to build a site tour](https://teklinks.andrejnsimoes.com/2024/05/using-react-shepherd-to-build-site-tour.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
