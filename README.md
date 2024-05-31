@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [You should keep a developer’s journal](https://teklinks.andrejnsimoes.com/2024/05/you-should-keep-developers-journal.html)
+- [Comprehensive guide to JavaScript performance analysis using Chrome DevTools](https://teklinks.andrejnsimoes.com/2024/05/comprehensive-guide-to-javascript.html)
+- [50 Coding Laws That Would Make You A Decent Programmer.](https://teklinks.andrejnsimoes.com/2024/05/50-coding-laws-that-would-make-you.html)
 - [JavaScript unit testing frameworks in 2024: A comparison](https://teklinks.andrejnsimoes.com/2024/05/javascript-unit-testing-frameworks-in.html)
 - [You Need To Learn AI in 2024! &lpar;And Here Is Your Roadmap&rpar;](https://teklinks.andrejnsimoes.com/2024/05/you-need-to-learn-ai-in-2024-and-here.html)
-- [Automatic Query Invalidation after Mutations](https://teklinks.andrejnsimoes.com/2024/05/automatic-query-invalidation-after.html)
-- [React 19 lets you write impossible components](https://teklinks.andrejnsimoes.com/2024/05/react-19-lets-you-write-impossible.html)
-- [A virtual DOM in 200 lines of JavaScript](https://teklinks.andrejnsimoes.com/2024/05/a-virtual-dom-in-200-lines-of-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
