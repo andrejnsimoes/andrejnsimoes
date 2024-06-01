@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Degenerative AI… The recent failures of &quot;artificial intelligence&quot; tech](https://www.youtube.com/watch?v=krixaEhLnlA)
+- [15 crazy new JS framework features you don’t know yet](https://www.youtube.com/watch?v=466U-2D86bc)
 - [The Story of React Query](https://www.youtube.com/watch?v=OrliU0e09io)
 - [These new computers are getting creepy…  Copilot+ PC first look](https://www.youtube.com/watch?v=hlwcZpEx2IY)
 - [Micro frontends - Module Federation runtime, plugins, dynamic remotes and preloading](https://www.youtube.com/watch?v=7jGnMg_H71I)
-- [React 19 Has A Compiler???](https://www.youtube.com/watch?v=Xo-ddmNGjY8)
-- [Build a JS Runtime in Rust](https://www.youtube.com/watch?v=Hhpo1zpxaf4)
 <!-- YOUTUBE:END -->
 
 
