@@ -51,10 +51,10 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 
 <!-- YOUTUBE:START -->
 - [Does Solid solve all your React problems?](https://www.youtube.com/watch?v=nxbxw2Kw6sA)
+- [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn/ui](https://www.youtube.com/watch?v=hhudoSMM0yU)
 - [Micro-Frontends demystified in just 25 minutes! #frontend #developers #technology #react #web](https://www.youtube.com/watch?v=SqNjO5hMdrU)
 - [Degenerative AI… The recent failures of &quot;artificial intelligence&quot; tech](https://www.youtube.com/watch?v=krixaEhLnlA)
 - [15 crazy new JS framework features you don’t know yet](https://www.youtube.com/watch?v=466U-2D86bc)
-- [The Story of React Query](https://www.youtube.com/watch?v=OrliU0e09io)
 <!-- YOUTUBE:END -->
 
 
