@@ -50,7 +50,7 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Does Solid solve all your React problems?](https://www.youtube.com/watch?v=nxbxw2Kw6sA)
+- [SolidStart 1.0 First Look: Comparing to React / Next.js](https://www.youtube.com/watch?v=nxbxw2Kw6sA)
 - [Admin Dashboard From Scratch - Next.js, TypeScript, Shadcn/ui](https://www.youtube.com/watch?v=hhudoSMM0yU)
 - [Micro-Frontends demystified in just 25 minutes! #frontend #developers #technology #react #web](https://www.youtube.com/watch?v=SqNjO5hMdrU)
 - [Degenerative AI… The recent failures of &quot;artificial intelligence&quot; tech](https://www.youtube.com/watch?v=krixaEhLnlA)
