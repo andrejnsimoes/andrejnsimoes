@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [htmx: Simplicity in an Age of Complicated Solutions](https://teklinks.andrejnsimoes.com/2024/06/htmx-simplicity-in-age-of-complicated.html)
+- [Build a modern authenticated chat application with Next.js, Ably, and Clerk](https://teklinks.andrejnsimoes.com/2024/06/build-modern-authenticated-chat.html)
+- [The resume that got a software engineer a $300,000 job at Google.](https://teklinks.andrejnsimoes.com/2024/06/the-resume-that-got-software-engineer.html)
 - [How To Use Corepack](https://teklinks.andrejnsimoes.com/2024/06/how-to-use-corepack.html)
 - [How we used esbuild to reduce our browser extension build times by 90%](https://teklinks.andrejnsimoes.com/2024/06/how-we-used-esbuild-to-reduce-our.html)
-- [Why, after 6 years, I’m over GraphQL](https://teklinks.andrejnsimoes.com/2024/06/why-after-6-years-im-over-graphql.html)
-- [Improving CI/CD with a Focus on Developer Velocity](https://teklinks.andrejnsimoes.com/2024/06/improving-cicd-with-focus-on-developer.html)
-- [React Conf 2024 Recap – React](https://teklinks.andrejnsimoes.com/2024/06/react-conf-2024-recap-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
