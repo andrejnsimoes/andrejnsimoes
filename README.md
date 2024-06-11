@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Use Corepack](https://teklinks.andrejnsimoes.com/2024/06/how-to-use-corepack.html)
 - [How we used esbuild to reduce our browser extension build times by 90%](https://teklinks.andrejnsimoes.com/2024/06/how-we-used-esbuild-to-reduce-our.html)
 - [Why, after 6 years, I’m over GraphQL](https://teklinks.andrejnsimoes.com/2024/06/why-after-6-years-im-over-graphql.html)
 - [Improving CI/CD with a Focus on Developer Velocity](https://teklinks.andrejnsimoes.com/2024/06/improving-cicd-with-focus-on-developer.html)
 - [React Conf 2024 Recap – React](https://teklinks.andrejnsimoes.com/2024/06/react-conf-2024-recap-react.html)
-- [How we scale our microVM infrastructure using low-latency memory decompression](https://teklinks.andrejnsimoes.com/2024/06/how-we-scale-our-microvm-infrastructure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
