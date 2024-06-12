@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [lol Apple Intelligence is dumb...](https://www.youtube.com/watch?v=ek2yOqAIYuU)
 - [OpenAI - Assistants API  using code interpreter](https://www.youtube.com/watch?v=f_ObSkL1oA8)
 - [Dan Abramov on Working at Bluesky, React, and the Social Internet](https://www.youtube.com/watch?v=HEYnzSDOntk)
 - [Astro Actions: the missing server action library](https://www.youtube.com/watch?v=VkYQMhit_04)
 - [Criando validações com Zod em uma requisição HTTP](https://www.youtube.com/watch?v=pC27vH0vRTc)
-- [SolidStart 1.0 First Look: Comparing to React / Next.js](https://www.youtube.com/watch?v=nxbxw2Kw6sA)
 <!-- YOUTUBE:END -->
 
 
