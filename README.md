@@ -40,11 +40,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [I tried React Compiler today, and guess what... 😉](https://teklinks.andrejnsimoes.com/2024/06/i-tried-react-compiler-today-and-guess.html)
+- [Hacking Millions of Modems &lpar;and Investigating Who Hacked My Modem&rpar;](https://teklinks.andrejnsimoes.com/2024/06/hacking-millions-of-modems-and.html)
+- [React &amp; Codemod Announcement](https://teklinks.andrejnsimoes.com/2024/06/react-codemod-announcement.html)
+- [How To Hack Your Google Lighthouse Scores In 2024](https://teklinks.andrejnsimoes.com/2024/06/how-to-hack-your-google-lighthouse.html)
 - [htmx: Simplicity in an Age of Complicated Solutions](https://teklinks.andrejnsimoes.com/2024/06/htmx-simplicity-in-age-of-complicated.html)
-- [Build a modern authenticated chat application with Next.js, Ably, and Clerk](https://teklinks.andrejnsimoes.com/2024/06/build-modern-authenticated-chat.html)
-- [The resume that got a software engineer a $300,000 job at Google.](https://teklinks.andrejnsimoes.com/2024/06/the-resume-that-got-software-engineer.html)
-- [How To Use Corepack](https://teklinks.andrejnsimoes.com/2024/06/how-to-use-corepack.html)
-- [How we used esbuild to reduce our browser extension build times by 90%](https://teklinks.andrejnsimoes.com/2024/06/how-we-used-esbuild-to-reduce-our.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
