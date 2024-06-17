@@ -50,11 +50,11 @@ Apart from web development, I like to hunt trending JavaScript GitHub repositori
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Big Suspense Changes in React 19: Explained In Code](https://www.youtube.com/watch?v=sgnw8dRZa3Q)
 - [Next.js: Authentication &lpar;Best Practices for Server Components, Actions, Middleware&rpar;](https://www.youtube.com/watch?v=N_sUsq_y10U)
 - [lol Apple Intelligence is dumb...](https://www.youtube.com/watch?v=ek2yOqAIYuU)
 - [5 NEW Features in TypeScript 5.5](https://www.youtube.com/watch?v=0iX4SK-jbhE)
 - [OpenAI - Assistants API  using code interpreter](https://www.youtube.com/watch?v=f_ObSkL1oA8)
-- [Dan Abramov on Working at Bluesky, React, and the Social Internet](https://www.youtube.com/watch?v=HEYnzSDOntk)
 <!-- YOUTUBE:END -->
 
 
