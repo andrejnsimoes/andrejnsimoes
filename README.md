@@ -1,12 +1,7 @@
-### Hi there, I'm André 👋
-I'm a passionate Frontend Engineer that likes to work with cutting edge technologies and to provide smart solutions for challenging problems.
+### Hi there 🙂👋
+I am a passionate Frontend Engineer dedicated to leveraging cutting-edge technologies to provide innovative solutions for challenging problems. With years of experience, I specialize in architecting and developing thoroughly tested web applications and have a proven track record of building teams from the ground up.
 
-I have several years of experience architecting and developing thoroughly tested web apps and building teams from the ground up. Currently working with React, but I'm also skilled with Angular and Vue. 
-
-I like to work closely to UI/UX and marketing teams, backend developers and system architects, there is always something new and interesting to learn. 
-
-Apart from web development, I like to hunt trending JavaScript GitHub repositories about mobile apps (Ionic, React Native) and backend (Node.js) development in general. I'm also interested in Automation and IoT.
-
+I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend developers, and system architects. The constant learning and dynamic interactions with various teams are both engaging and rewarding.
 
 ### Connect with me:
 
