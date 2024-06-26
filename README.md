@@ -46,7 +46,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [the most important Next.js features to learn &lpar;in 8 minutes&rpar;](https://www.youtube.com/watch?v=LkDelp5WWYU)
-- [Build An Expense Tracker with Next.js Server Actions, TS, Prisma, Neon &amp; Clerk](https://www.youtube.com/watch?v=I6DCo5RwHBE)
+- [Full App Build - Dev to Deployment - Next.js, Prisma, Neon &amp; Clerk](https://www.youtube.com/watch?v=I6DCo5RwHBE)
 - [Kafka vs. RabbitMQ vs. Messaging Middleware vs. Pulsar](https://www.youtube.com/watch?v=x4k1XEjNzYQ)
 - [Big Suspense Changes in React 19: Explained In Code](https://www.youtube.com/watch?v=sgnw8dRZa3Q)
 - [Building with React 19 &lpar;actions + useOptimistic&rpar;](https://www.youtube.com/watch?v=meycWptW9eo)
