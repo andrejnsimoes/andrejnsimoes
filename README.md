@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Deferred Import Evaluation, Error.isError&lpar;&rpar;, RegExp Escaping, Promise.try](https://teklinks.andrejnsimoes.com/2024/06/tc39-advances-key-proposals-deferred.html)
-- [Beyond Webpack: esbuild, Vite, Rollup, SWC and Snowpack](https://teklinks.andrejnsimoes.com/2024/06/beyond-webpack-esbuild-vite-rollup-swc.html)
-- [React 19 and Suspense - A Drama in 3 Acts](https://teklinks.andrejnsimoes.com/2024/06/react-19-and-suspense-drama-in-3-acts.html)
-- [Introducing Micro Agent: An &lpar;Actually Reliable&rpar; AI Coding Agent](https://teklinks.andrejnsimoes.com/2024/06/introducing-micro-agent-actually.html)
-- [Babel vs. TypeScript: Choosing the right compiler for your project](https://teklinks.andrejnsimoes.com/2024/06/babel-vs-typescript-choosing-right.html)
+- [New JavaScript Set methods](https://teklinks.andrejnsimoes.com/2024/06/new-javascript-set-methods.html)
+- [Migrating to Next.js App Router with zero downtime](https://teklinks.andrejnsimoes.com/2024/06/migrating-to-nextjs-app-router-with.html)
+- [A Rant about Front-end Development](https://teklinks.andrejnsimoes.com/2024/06/a-rant-about-front-end-development.html)
+- [The Many Facets of Coupling](https://teklinks.andrejnsimoes.com/2024/06/the-many-facets-of-coupling.html)
+- [First Look At ElysiaJS](https://teklinks.andrejnsimoes.com/2024/06/first-look-at-elysiajs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
