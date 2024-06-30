@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Roadmap to Become an AI Engineer Roadmap](https://teklinks.andrejnsimoes.com/2024/06/roadmap-to-become-ai-engineer-roadmap.html)
+- [Announcing pkg.pr.new](https://teklinks.andrejnsimoes.com/2024/06/announcing-pkgprnew.html)
+- [The route to better culture? Better managers](https://teklinks.andrejnsimoes.com/2024/06/the-route-to-better-culture-better.html)
 - [New JavaScript Set methods](https://teklinks.andrejnsimoes.com/2024/06/new-javascript-set-methods.html)
 - [Migrating to Next.js App Router with zero downtime](https://teklinks.andrejnsimoes.com/2024/06/migrating-to-nextjs-app-router-with.html)
-- [A Rant about Front-end Development](https://teklinks.andrejnsimoes.com/2024/06/a-rant-about-front-end-development.html)
-- [The Many Facets of Coupling](https://teklinks.andrejnsimoes.com/2024/06/the-many-facets-of-coupling.html)
-- [First Look At ElysiaJS](https://teklinks.andrejnsimoes.com/2024/06/first-look-at-elysiajs.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
