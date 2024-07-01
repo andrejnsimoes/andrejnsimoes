@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [7 Must-know Strategies to Scale Your Database](https://www.youtube.com/watch?v=_1IKwnbscQU)
+- [In-Browser Local AI With React And Gemini](https://www.youtube.com/watch?v=EspenFj1EaE)
+- [Claude crushed GPT-4o… and 13 other tech stories you missed in June](https://www.youtube.com/watch?v=FhqNN1LykWU)
 - [State of Javascript 2023 - everyone is unhappy](https://www.youtube.com/watch?v=KEj9p7K7M_c)
 - [Don&#39;t build another effin&#39; chatbot — Web Dev Challenge S1E1](https://www.youtube.com/watch?v=8RCL5neas_M)
-- [the most important Next.js features to learn &lpar;in 8 minutes&rpar;](https://www.youtube.com/watch?v=LkDelp5WWYU)
-- [Full App Build - Dev to Deployment - Next.js, Prisma, Neon &amp; Clerk](https://www.youtube.com/watch?v=I6DCo5RwHBE)
-- [How to publish a JavaScript package in 2024](https://www.youtube.com/watch?v=nl4B1asyMdI)
 <!-- YOUTUBE:END -->
 
 
