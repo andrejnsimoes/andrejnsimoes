@@ -46,7 +46,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [7 Must-know Strategies to Scale Your Database](https://www.youtube.com/watch?v=_1IKwnbscQU)
-- [In-Browser Local AI With React And Gemini](https://www.youtube.com/watch?v=EspenFj1EaE)
+- [Insane AI Power 🤯, Local AI Apps with React and Gemini!](https://www.youtube.com/watch?v=EspenFj1EaE)
 - [Claude crushed GPT-4o… and 13 other tech stories you missed in June](https://www.youtube.com/watch?v=FhqNN1LykWU)
 - [State of Javascript 2023 - everyone is unhappy](https://www.youtube.com/watch?v=KEj9p7K7M_c)
 - [Don&#39;t build another effin&#39; chatbot — Web Dev Challenge S1E1](https://www.youtube.com/watch?v=8RCL5neas_M)
