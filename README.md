@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://teklinks.andrejnsimoes.com/2024/07/why-google-sheets-ported-its.html)
+- [How JavaScript Is Finally Improving the Module Experience](https://teklinks.andrejnsimoes.com/2024/07/how-javascript-is-finally-improving.html)
+- [Unlighthouse](https://teklinks.andrejnsimoes.com/2024/07/unlighthouse.html)
 - [Platform as a Runtime - The Next Step in Platform Engineering](https://teklinks.andrejnsimoes.com/2024/07/platform-as-runtime-next-step-in.html)
 - [Document your product and software architecture decisions.](https://teklinks.andrejnsimoes.com/2024/07/document-your-product-and-software.html)
-- [Roadmap to Become an AI Engineer Roadmap](https://teklinks.andrejnsimoes.com/2024/06/roadmap-to-become-ai-engineer-roadmap.html)
-- [Announcing pkg.pr.new](https://teklinks.andrejnsimoes.com/2024/06/announcing-pkgprnew.html)
-- [The route to better culture? Better managers](https://teklinks.andrejnsimoes.com/2024/06/the-route-to-better-culture-better.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
