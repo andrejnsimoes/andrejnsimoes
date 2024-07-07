@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Speeding up the JavaScript ecosystem - Isolated Declarations](https://teklinks.andrejnsimoes.com/2024/07/speeding-up-javascript-ecosystem.html)
+- [The Set Piece Strategy: Tackling Complexity in Serverless Applications](https://teklinks.andrejnsimoes.com/2024/07/the-set-piece-strategy-tackling.html)
+- [The Death of the Junior Developer](https://teklinks.andrejnsimoes.com/2024/07/the-death-of-junior-developer.html)
 - [Enhancing The New York Times Web Performance with React 18](https://teklinks.andrejnsimoes.com/2024/07/enhancing-new-york-times-web.html)
 - [The End of Programming](https://teklinks.andrejnsimoes.com/2024/07/the-end-of-programming.html)
-- [Local, first, forever](https://teklinks.andrejnsimoes.com/2024/07/local-first-forever.html)
-- [The many faces of undefined in JavaScript](https://teklinks.andrejnsimoes.com/2024/07/the-many-faces-of-undefined-in.html)
-- [How to use container queries now](https://teklinks.andrejnsimoes.com/2024/07/how-to-use-container-queries-now.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
