@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Exploring Playwright&#39;s Trace Viewer for debugging locally and on CI](https://www.youtube.com/watch?v=yP6AnTxC34s)
+- [Warning: React 19&#39;s use Hook Can Impact App Performance](https://www.youtube.com/watch?v=t6MeFVF3V9I)
 - [100+ Linux Things you Need to Know](https://www.youtube.com/watch?v=LKCVKw9CzFo)
 - [The First Real Webpack Alternative &lpar;Written in Rust!&rpar;](https://www.youtube.com/watch?v=Vn2Rq2uktLE)
 - [7 Must-know Strategies to Scale Your Database](https://www.youtube.com/watch?v=_1IKwnbscQU)
-- [Insane AI Power 🤯, Local AI Apps with React and Gemini!](https://www.youtube.com/watch?v=EspenFj1EaE)
-- [Claude crushed GPT-4o… and 13 other tech stories you missed in June](https://www.youtube.com/watch?v=FhqNN1LykWU)
 <!-- YOUTUBE:END -->
 
 
