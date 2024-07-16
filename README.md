@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo](https://www.youtube.com/watch?v=ovYbgbrQ-v8)
 - [LWJ: Build your own metaframework with Vinxi with Dev Agrawal](https://www.youtube.com/watch?v=2m9ErnaDy6s)
 - [publishing a TypeScript module to npm vs. JSR](https://www.youtube.com/watch?v=dzycAeRdOSM)
 - [Build a RAG application in minutes](https://www.youtube.com/watch?v=XmG71GxxLzI)
 - [Exploring Playwright&#39;s Trace Viewer for debugging locally and on CI](https://www.youtube.com/watch?v=yP6AnTxC34s)
-- [Warning: React 19&#39;s use Hook Can Impact App Performance](https://www.youtube.com/watch?v=t6MeFVF3V9I)
 <!-- YOUTUBE:END -->
 
 
