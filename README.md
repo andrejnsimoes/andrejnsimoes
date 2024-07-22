@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How To Develop AI Apps 100% For FREE!](https://www.youtube.com/watch?v=92YgIVSlfAE)
 - [How To Debug React Apps Like A Senior Developer](https://www.youtube.com/watch?v=l8knG0BPr-o)
 - [Building React &lpar;TanStack&rpar; Query From Scratch](https://www.youtube.com/watch?v=YmrnPOgOvy4)
 - [I Interviewed The Creator Of LLVM, Clang, Swift, and Mojo](https://www.youtube.com/watch?v=ovYbgbrQ-v8)
 - [LWJ: Build your own metaframework with Vinxi with Dev Agrawal](https://www.youtube.com/watch?v=2m9ErnaDy6s)
-- [publishing a TypeScript module to npm vs. JSR](https://www.youtube.com/watch?v=dzycAeRdOSM)
 <!-- YOUTUBE:END -->
 
 
