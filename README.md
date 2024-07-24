@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [Speeding up the JavaScript ecosystem - Isolated Declarations](https://teklinks.andrejnsimoes.com/2024/07/speeding-up-javascript-ecosystem.html)
-- [The Set Piece Strategy: Tackling Complexity in Serverless Applications](https://teklinks.andrejnsimoes.com/2024/07/the-set-piece-strategy-tackling.html)
-- [The Death of the Junior Developer](https://teklinks.andrejnsimoes.com/2024/07/the-death-of-junior-developer.html)
-- [Enhancing The New York Times Web Performance with React 18](https://teklinks.andrejnsimoes.com/2024/07/enhancing-new-york-times-web.html)
-- [The End of Programming](https://teklinks.andrejnsimoes.com/2024/07/the-end-of-programming.html)
+- [Breaking up is hard to do: Chunking in RAG applications](https://teklinks.andrejnsimoes.com/2024/07/breaking-up-is-hard-to-do-chunking-in.html)
+- [How to Handle Dependencies in Microfrontends](https://teklinks.andrejnsimoes.com/2024/07/how-to-handle-dependencies-in.html)
+- [How to Design a Hotel Booking System?](https://teklinks.andrejnsimoes.com/2024/07/how-to-design-hotel-booking-system.html)
+- [15 page speed optimizations that sites ignore &lpar;at their own risk&rpar;](https://teklinks.andrejnsimoes.com/2024/07/15-page-speed-optimizations-that-sites.html)
+- [Uncovering Hidden Gems in JavaScript](https://teklinks.andrejnsimoes.com/2024/07/uncovering-hidden-gems-in-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
