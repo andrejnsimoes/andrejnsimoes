@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to make complex Chrome extensions: a zero gravity guide](https://teklinks.andrejnsimoes.com/2024/07/how-to-make-complex-chrome-extensions.html)
+- [Architecting enterprise integrations](https://teklinks.andrejnsimoes.com/2024/07/architecting-enterprise-integrations.html)
+- [The Truth About AI&#39;s Impact on Software Development Jobs](https://teklinks.andrejnsimoes.com/2024/07/the-truth-about-ais-impact-on-software.html)
 - [How Airbnb Smoothly Upgrades React](https://teklinks.andrejnsimoes.com/2024/07/how-airbnb-smoothly-upgrades-react.html)
 - [Why is spawning a new process in Node so slow?](https://teklinks.andrejnsimoes.com/2024/07/why-is-spawning-new-process-in-node-so.html)
-- [Radar Trends to Watch: July 2024](https://teklinks.andrejnsimoes.com/2024/07/radar-trends-to-watch-july-2024.html)
-- [Everything a developer needs to know about Generative AI for SaaS](https://teklinks.andrejnsimoes.com/2024/07/everything-developer-needs-to-know.html)
-- [The Astro Content Layer](https://teklinks.andrejnsimoes.com/2024/07/the-astro-content-layer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
