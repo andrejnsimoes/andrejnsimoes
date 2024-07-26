@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Did Node just get Typescript support? #webdev #typescript #node #javascript](https://www.youtube.com/watch?v=xkw0_wGriv0)
+- [System Design Concepts Course and Interview Prep](https://www.youtube.com/watch?v=F2FmTdLtb_4)
+- [The Complete Web Development Roadmap [2024]](https://www.youtube.com/watch?v=GxmfcnU3feo)
 - [John McBride: How to Build Your Own ChatGPT-style LLM AI Infrastucture with Kubernetes](https://www.youtube.com/watch?v=ipbhB3k0ik0)
 - [Zuck&#39;s new Llama is a beast](https://www.youtube.com/watch?v=aVvkUuskmLY)
-- [How To Develop AI Apps 100% For FREE!](https://www.youtube.com/watch?v=92YgIVSlfAE)
-- [Self Hosting Reverse Proxy Servers](https://www.youtube.com/watch?v=aU_JPYFmyW0)
-- [How To Debug React Apps Like A Senior Developer](https://www.youtube.com/watch?v=l8knG0BPr-o)
 <!-- YOUTUBE:END -->
 
 
