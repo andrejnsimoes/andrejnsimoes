@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Google smokes Olympic mathletes, while OpenAI tries to kill Google](https://www.youtube.com/watch?v=l0e9i8zXcIs)
 - [Creating Headshots using Midjourney](https://www.youtube.com/watch?v=Q9S-td8YJlU)
 - [How to Roll Your Own Auth](https://www.youtube.com/watch?v=CcrgG5MjGOk)
 - [Did Node just get Typescript support? #webdev #typescript #node #javascript](https://www.youtube.com/watch?v=xkw0_wGriv0)
-- [System Design Concepts Course and Interview Prep](https://www.youtube.com/watch?v=F2FmTdLtb_4)
-- [The Complete Web Development Roadmap [2024]](https://www.youtube.com/watch?v=GxmfcnU3feo)
+- [React for Two Computers | Dan Abramov](https://www.youtube.com/watch?v=ozI4V_29fj4)
 <!-- YOUTUBE:END -->
 
 
