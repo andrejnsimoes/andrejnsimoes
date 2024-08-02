@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [How to make complex Chrome extensions: a zero gravity guide](https://teklinks.andrejnsimoes.com/2024/07/how-to-make-complex-chrome-extensions.html)
-- [Architecting enterprise integrations](https://teklinks.andrejnsimoes.com/2024/07/architecting-enterprise-integrations.html)
-- [The Truth About AI&#39;s Impact on Software Development Jobs](https://teklinks.andrejnsimoes.com/2024/07/the-truth-about-ais-impact-on-software.html)
-- [How Airbnb Smoothly Upgrades React](https://teklinks.andrejnsimoes.com/2024/07/how-airbnb-smoothly-upgrades-react.html)
-- [Why is spawning a new process in Node so slow?](https://teklinks.andrejnsimoes.com/2024/07/why-is-spawning-new-process-in-node-so.html)
+- [Boosting performance: Faire’s transition to NextJS](https://teklinks.andrejnsimoes.com/2024/08/boosting-performance-faires-transition.html)
+- [Peter Principle](https://teklinks.andrejnsimoes.com/2024/08/peter-principle.html)
+- [How Google handles JavaScript throughout the indexing process](https://teklinks.andrejnsimoes.com/2024/08/how-google-handles-javascript.html)
+- [After 15 years, the maintainer of Homebrew plans to make a living](https://teklinks.andrejnsimoes.com/2024/08/after-15-years-maintainer-of-homebrew.html)
+- [Read the newest State of AI report](https://teklinks.andrejnsimoes.com/2024/08/read-newest-state-of-ai-report.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
