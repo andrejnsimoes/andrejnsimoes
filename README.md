@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How to run a local LLM for inference with an offline-first approach](https://teklinks.andrejnsimoes.com/2024/08/how-to-run-local-llm-for-inference-with.html)
+- [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://teklinks.andrejnsimoes.com/2024/08/introducing-github-models-new.html)
+- [Lessons learned in 35 years of making software](https://teklinks.andrejnsimoes.com/2024/08/lessons-learned-in-35-years-of-making.html)
 - [Boosting performance: Faire’s transition to NextJS](https://teklinks.andrejnsimoes.com/2024/08/boosting-performance-faires-transition.html)
 - [Peter Principle](https://teklinks.andrejnsimoes.com/2024/08/peter-principle.html)
-- [How Google handles JavaScript throughout the indexing process](https://teklinks.andrejnsimoes.com/2024/08/how-google-handles-javascript.html)
-- [After 15 years, the maintainer of Homebrew plans to make a living](https://teklinks.andrejnsimoes.com/2024/08/after-15-years-maintainer-of-homebrew.html)
-- [Read the newest State of AI report](https://teklinks.andrejnsimoes.com/2024/08/read-newest-state-of-ai-report.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
