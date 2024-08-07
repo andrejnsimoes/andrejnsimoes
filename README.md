@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Battle of the Asyncs](https://teklinks.andrejnsimoes.com/2024/08/battle-of-asyncs.html)
+- [Garbage collection and closures](https://teklinks.andrejnsimoes.com/2024/08/garbage-collection-and-closures.html)
+- [Don’t Ask Permission To Do Your Job Correctly: Avoiding The Technical Debt Trap](https://teklinks.andrejnsimoes.com/2024/08/dont-ask-permission-to-do-your-job.html)
 - [What we got wrong about HTTP imports](https://teklinks.andrejnsimoes.com/2024/08/what-we-got-wrong-about-http-imports.html)
 - [Demystifying data: The hidden foundation behind generative AI success](https://teklinks.andrejnsimoes.com/2024/08/demystifying-data-hidden-foundation.html)
-- [Architecting a Front-End App with Next.js: A Technical Leader’s Guide](https://teklinks.andrejnsimoes.com/2024/08/architecting-front-end-app-with-nextjs.html)
-- [How to run a local LLM for inference with an offline-first approach](https://teklinks.andrejnsimoes.com/2024/08/how-to-run-local-llm-for-inference-with.html)
-- [Introducing GitHub Models: A new generation of AI engineers building on GitHub](https://teklinks.andrejnsimoes.com/2024/08/introducing-github-models-new.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
