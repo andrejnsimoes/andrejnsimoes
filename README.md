@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Hey, this is Hono&#39;s RPC](https://teklinks.andrejnsimoes.com/2024/08/hey-this-is-honos-rpc.html)
+- [Monorepo: Why Classical Build Systems Fail?](https://teklinks.andrejnsimoes.com/2024/08/monorepo-why-classical-build-systems.html)
 - [Battle of the Asyncs](https://teklinks.andrejnsimoes.com/2024/08/battle-of-asyncs.html)
 - [Garbage collection and closures](https://teklinks.andrejnsimoes.com/2024/08/garbage-collection-and-closures.html)
 - [Don’t Ask Permission To Do Your Job Correctly: Avoiding The Technical Debt Trap](https://teklinks.andrejnsimoes.com/2024/08/dont-ask-permission-to-do-your-job.html)
-- [What we got wrong about HTTP imports](https://teklinks.andrejnsimoes.com/2024/08/what-we-got-wrong-about-http-imports.html)
-- [Demystifying data: The hidden foundation behind generative AI success](https://teklinks.andrejnsimoes.com/2024/08/demystifying-data-hidden-foundation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
