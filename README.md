@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Como gerenciar estados de paginação usando o useQuery](https://www.youtube.com/watch?v=7zb1-pR3Jxk)
 - [Using agents to build an agent company: Joao Moura](https://www.youtube.com/watch?v=Dc99-zTMyMg)
+- [STOP Reinventing The Wheel](https://www.youtube.com/watch?v=RFhM34rBWnU)
 - [Tree Shaking and Code Splitting Explained | Syntax STUMP&#39;D](https://www.youtube.com/watch?v=_0ZFrMWsWZY)
 - [Google smokes Olympic mathletes, while OpenAI tries to kill Google](https://www.youtube.com/watch?v=l0e9i8zXcIs)
-- [Creating Headshots using Midjourney](https://www.youtube.com/watch?v=Q9S-td8YJlU)
-- [How Event Driven Architectures Go Wrong &amp; How to Fix Them • Matthew Meckes • GOTO 2024](https://www.youtube.com/watch?v=_dbyp3rL_4Q)
 <!-- YOUTUBE:END -->
 
 
