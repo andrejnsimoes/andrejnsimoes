@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Parallelizing Deno Serve](https://www.youtube.com/watch?v=T_2Ls07A83o)
+- [We&#39;re on the brink of another world browser war](https://www.youtube.com/watch?v=p572p-irRaU)
 - [Como gerenciar estados de paginação usando o useQuery](https://www.youtube.com/watch?v=7zb1-pR3Jxk)
 - [Using agents to build an agent company: Joao Moura](https://www.youtube.com/watch?v=Dc99-zTMyMg)
 - [STOP Reinventing The Wheel](https://www.youtube.com/watch?v=RFhM34rBWnU)
-- [Tree Shaking and Code Splitting Explained | Syntax STUMP&#39;D](https://www.youtube.com/watch?v=_0ZFrMWsWZY)
-- [Google smokes Olympic mathletes, while OpenAI tries to kill Google](https://www.youtube.com/watch?v=l0e9i8zXcIs)
 <!-- YOUTUBE:END -->
 
 
