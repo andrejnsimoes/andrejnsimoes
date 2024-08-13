@@ -47,9 +47,9 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 <!-- YOUTUBE:START -->
 - [Parallelizing Deno Serve](https://www.youtube.com/watch?v=T_2Ls07A83o)
 - [We&#39;re on the brink of another world browser war](https://www.youtube.com/watch?v=p572p-irRaU)
+- [Surviving the AI-Driven Job Market](https://www.youtube.com/watch?v=egUNQ1pvkYs)
 - [Como gerenciar estados de paginação usando o useQuery](https://www.youtube.com/watch?v=7zb1-pR3Jxk)
 - [Using agents to build an agent company: Joao Moura](https://www.youtube.com/watch?v=Dc99-zTMyMg)
-- [STOP Reinventing The Wheel](https://www.youtube.com/watch?v=RFhM34rBWnU)
 <!-- YOUTUBE:END -->
 
 
