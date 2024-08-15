@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Lessons learned switching to Rspack](https://teklinks.andrejnsimoes.com/2024/08/lessons-learned-switching-to-rspack.html)
+- [JavaScript Rounding Errors &lpar;in Financial Applications&rpar;](https://teklinks.andrejnsimoes.com/2024/08/javascript-rounding-errors-in-financial.html)
 - [SEO, Core Web Vitals, and content management systems](https://teklinks.andrejnsimoes.com/2024/08/seo-core-web-vitals-and-content.html)
 - [How to Build Anything Extremely Quickly](https://teklinks.andrejnsimoes.com/2024/08/how-to-build-anything-extremely-quickly.html)
 - [Zero Dependency JavaScript is the Future?](https://teklinks.andrejnsimoes.com/2024/08/zero-dependency-javascript-is-future.html)
-- [Questions about Team Topologies](https://teklinks.andrejnsimoes.com/2024/08/questions-about-team-topologies.html)
-- [5 Cool Chrome DevTools Features Most Developers Don’t Know About](https://teklinks.andrejnsimoes.com/2024/08/5-cool-chrome-devtools-features-most.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
