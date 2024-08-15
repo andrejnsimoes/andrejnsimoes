@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The Brief History of AI Agents &lpar;2023-2024&rpar;](https://www.youtube.com/watch?v=f9YleTc8AwE)
 - [Parallelizing Deno Serve](https://www.youtube.com/watch?v=T_2Ls07A83o)
 - [We&#39;re on the brink of another world browser war](https://www.youtube.com/watch?v=p572p-irRaU)
 - [Surviving the AI-Driven Job Market](https://www.youtube.com/watch?v=egUNQ1pvkYs)
 - [Como gerenciar estados de paginação usando o useQuery](https://www.youtube.com/watch?v=7zb1-pR3Jxk)
-- [Using agents to build an agent company: Joao Moura](https://www.youtube.com/watch?v=Dc99-zTMyMg)
 <!-- YOUTUBE:END -->
 
 
