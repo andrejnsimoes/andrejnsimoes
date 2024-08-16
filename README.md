@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sneaky Costs of Scaling Serverless](https://teklinks.andrejnsimoes.com/2024/08/the-sneaky-costs-of-scaling-serverless.html)
+- [An approach to optimizing TypeScript type checking performance](https://teklinks.andrejnsimoes.com/2024/08/an-approach-to-optimizing-typescript.html)
+- [Tips from 8 months of TanStack/Router in production](https://teklinks.andrejnsimoes.com/2024/08/tips-from-8-months-of-tanstackrouter-in.html)
 - [Lessons learned switching to Rspack](https://teklinks.andrejnsimoes.com/2024/08/lessons-learned-switching-to-rspack.html)
 - [JavaScript Rounding Errors &lpar;in Financial Applications&rpar;](https://teklinks.andrejnsimoes.com/2024/08/javascript-rounding-errors-in-financial.html)
-- [SEO, Core Web Vitals, and content management systems](https://teklinks.andrejnsimoes.com/2024/08/seo-core-web-vitals-and-content.html)
-- [How to Build Anything Extremely Quickly](https://teklinks.andrejnsimoes.com/2024/08/how-to-build-anything-extremely-quickly.html)
-- [Zero Dependency JavaScript is the Future?](https://teklinks.andrejnsimoes.com/2024/08/zero-dependency-javascript-is-future.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
