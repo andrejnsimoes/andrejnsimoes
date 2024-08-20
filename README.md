@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Wake up babe, a dangerous new open-source AI model is here](https://www.youtube.com/watch?v=QYVucud3ptc)
 - [Good refactoring vs bad refactoring](https://www.youtube.com/watch?v=N-BqaCIS92k)
 - [The Brief History of AI Agents &lpar;2023-2024&rpar;](https://www.youtube.com/watch?v=f9YleTc8AwE)
 - [Parallelizing Deno Serve](https://www.youtube.com/watch?v=T_2Ls07A83o)
 - [We&#39;re on the brink of another world browser war](https://www.youtube.com/watch?v=p572p-irRaU)
-- [Surviving the AI-Driven Job Market](https://www.youtube.com/watch?v=egUNQ1pvkYs)
 <!-- YOUTUBE:END -->
 
 
