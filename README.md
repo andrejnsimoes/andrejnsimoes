@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Steal my secrets for making LLMs more reliable](https://www.youtube.com/watch?v=oblqGaOy_qI)
 - [URL Params as State in React &lpar;Complete Tutorial&rpar;](https://www.youtube.com/watch?v=gMoni2Hm92U)
 - [You Should Use Hono in your Next Project](https://www.youtube.com/watch?v=sYZW8TK2IV4)
 - [Wake up babe, a dangerous new open-source AI model is here](https://www.youtube.com/watch?v=QYVucud3ptc)
 - [A melhor maneira para encontrar novas ferramentas e libs](https://www.youtube.com/watch?v=D9ae7M7KclI)
-- [Good refactoring vs bad refactoring](https://www.youtube.com/watch?v=N-BqaCIS92k)
 <!-- YOUTUBE:END -->
 
 
