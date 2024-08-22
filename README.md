@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [What’s new in TypeScript 5.6](https://teklinks.andrejnsimoes.com/2024/08/whats-new-in-typescript-56.html)
+- [90% of performance is data access patterns](https://teklinks.andrejnsimoes.com/2024/08/90-of-performance-is-data-access.html)
+- [A software architecture reading list](https://teklinks.andrejnsimoes.com/2024/08/a-software-architecture-reading-list.html)
 - [Node.js Takes Steps Towards Removing Corepack](https://teklinks.andrejnsimoes.com/2024/08/nodejs-takes-steps-towards-removing.html)
 - [Prerendering with Preset Vite](https://teklinks.andrejnsimoes.com/2024/08/prerendering-with-preset-vite.html)
-- [How to Document Software Architecture: Techniques and Best Practices](https://teklinks.andrejnsimoes.com/2024/08/how-to-document-software-architecture.html)
-- [Optimizing SPA load times with async chunks preloading](https://teklinks.andrejnsimoes.com/2024/08/optimizing-spa-load-times-with-async.html)
-- [Architectural Retrospectives: The Key to Getting Better at Architecting](https://teklinks.andrejnsimoes.com/2024/08/architectural-retrospectives-key-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
