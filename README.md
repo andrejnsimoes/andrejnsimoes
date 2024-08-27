@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How I Set Up VS Code](https://www.youtube.com/watch?v=85q9FTdVyJs)
 - [Coding Will Never Be The Same | Cursor + Claude 3.5 sonnet](https://www.youtube.com/watch?v=Ew0azr1FfGY)
 - [TypeScript Utilities You Should Know](https://www.youtube.com/watch?v=EjE2ykmwzbk)
 - [Steal my secrets for making LLMs more reliable](https://www.youtube.com/watch?v=oblqGaOy_qI)
 - [URL Params as State in React &lpar;Complete Tutorial&rpar;](https://www.youtube.com/watch?v=gMoni2Hm92U)
-- [You Should Use Hono in your Next Project](https://www.youtube.com/watch?v=sYZW8TK2IV4)
 <!-- YOUTUBE:END -->
 
 
