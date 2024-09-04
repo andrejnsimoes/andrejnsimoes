@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Component testing in Storybook](https://teklinks.andrejnsimoes.com/2024/09/component-testing-in-storybook.html)
+- [5 Wasm Use Cases for Frontend Development · Frontend Dogma](https://teklinks.andrejnsimoes.com/2024/09/5-wasm-use-cases-for-frontend.html)
 - [How Micro-Frontends are reshaping Modern Web Architecture](https://teklinks.andrejnsimoes.com/2024/09/how-micro-frontends-are-reshaping.html)
 - [Why Playwright is less flaky than Selenium](https://teklinks.andrejnsimoes.com/2024/09/why-playwright-is-less-flaky-than.html)
 - [How To Create An NPM Package](https://teklinks.andrejnsimoes.com/2024/09/how-to-create-npm-package.html)
-- [Regexes Got Good: The History And Future Of Regular Expressions In JavaScript](https://teklinks.andrejnsimoes.com/2024/09/regexes-got-good-history-and-future-of.html)
-- [How to make your web page faster before it even loads](https://teklinks.andrejnsimoes.com/2024/09/how-to-make-your-web-page-faster-before.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
