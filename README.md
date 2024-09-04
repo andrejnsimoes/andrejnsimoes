@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Using AI Structured Output with NextJS &amp; React](https://www.youtube.com/watch?v=_Rb4SpWRHC8)
 - [Paying for software is stupid… 10 free and open-source SaaS replacements](https://www.youtube.com/watch?v=e5dhaQm_J6U)
 - [How I Set Up VS Code](https://www.youtube.com/watch?v=85q9FTdVyJs)
 - [Coding Will Never Be The Same | Cursor + Claude 3.5 sonnet](https://www.youtube.com/watch?v=Ew0azr1FfGY)
 - [TypeScript Utilities You Should Know](https://www.youtube.com/watch?v=EjE2ykmwzbk)
-- [Steal my secrets for making LLMs more reliable](https://www.youtube.com/watch?v=oblqGaOy_qI)
 <!-- YOUTUBE:END -->
 
 
