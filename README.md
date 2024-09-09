@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Governing data products using fitness functions](https://teklinks.andrejnsimoes.com/2024/09/governing-data-products-using-fitness.html)
+- [Good Retry, Bad Retry: An Incident Story](https://teklinks.andrejnsimoes.com/2024/09/good-retry-bad-retry-incident-story.html)
+- [Thinking Like an Architect](https://teklinks.andrejnsimoes.com/2024/09/thinking-like-architect.html)
 - [Unified Grid: How We Re-Architected Slack for Our Largest Customers](https://teklinks.andrejnsimoes.com/2024/09/unified-grid-how-we-re-architected.html)
 - [A bundler story: migrating from Webpack to Rspack](https://teklinks.andrejnsimoes.com/2024/09/a-bundler-story-migrating-from-webpack.html)
-- [My Architecture Drivers](https://teklinks.andrejnsimoes.com/2024/09/my-architecture-drivers.html)
-- [Component testing in Storybook](https://teklinks.andrejnsimoes.com/2024/09/component-testing-in-storybook.html)
-- [5 Wasm Use Cases for Frontend Development · Frontend Dogma](https://teklinks.andrejnsimoes.com/2024/09/5-wasm-use-cases-for-frontend.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
