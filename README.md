@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Workers, Comlink, Vite and TanStack Query](https://teklinks.andrejnsimoes.com/2024/09/web-workers-comlink-vite-and-tanstack.html)
+- [Tips from 8 months of TanStack/Router in production](https://teklinks.andrejnsimoes.com/2024/09/tips-from-8-months-of-tanstackrouter-in.html)
+- [How I made our React app more performant &lpar;includes INP&rpar;](https://teklinks.andrejnsimoes.com/2024/09/how-i-made-our-react-app-more.html)
 - [Governing data products using fitness functions](https://teklinks.andrejnsimoes.com/2024/09/governing-data-products-using-fitness.html)
 - [Good Retry, Bad Retry: An Incident Story](https://teklinks.andrejnsimoes.com/2024/09/good-retry-bad-retry-incident-story.html)
-- [Thinking Like an Architect](https://teklinks.andrejnsimoes.com/2024/09/thinking-like-architect.html)
-- [Unified Grid: How We Re-Architected Slack for Our Largest Customers](https://teklinks.andrejnsimoes.com/2024/09/unified-grid-how-we-re-architected.html)
-- [A bundler story: migrating from Webpack to Rspack](https://teklinks.andrejnsimoes.com/2024/09/a-bundler-story-migrating-from-webpack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
