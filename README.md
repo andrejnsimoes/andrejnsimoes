@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The web&#39;s clipboard, and how it stores data of different types](https://teklinks.andrejnsimoes.com/2024/09/the-webs-clipboard-and-how-it-stores.html)
+- [React and FormData](https://teklinks.andrejnsimoes.com/2024/09/react-and-formdata.html)
+- [An SSR Performance Showdown](https://teklinks.andrejnsimoes.com/2024/09/an-ssr-performance-showdown.html)
 - [The AI Driven Development Glossary](https://teklinks.andrejnsimoes.com/2024/09/the-ai-driven-development-glossary.html)
 - [Preloading files to reduce download chains in the browser](https://teklinks.andrejnsimoes.com/2024/09/preloading-files-to-reduce-download.html)
-- [The future is standalone!](https://teklinks.andrejnsimoes.com/2024/09/the-future-is-standalone.html)
-- [Web Workers, Comlink, Vite and TanStack Query](https://teklinks.andrejnsimoes.com/2024/09/web-workers-comlink-vite-and-tanstack.html)
-- [Tips from 8 months of TanStack/Router in production](https://teklinks.andrejnsimoes.com/2024/09/tips-from-8-months-of-tanstackrouter-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
