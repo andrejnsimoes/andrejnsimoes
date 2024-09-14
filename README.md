@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks](https://www.youtube.com/watch?v=6xlPJiNpCVw)
 - [Module Federation w/ rspack | Nx live](https://www.youtube.com/watch?v=_c4zjYm0pYE)
 - [The Internet&#39;s most broken protocol](https://www.youtube.com/watch?v=cOE2miIh1_o)
 - [Scaffold new Projects with Nx Generate](https://www.youtube.com/watch?v=hSM6MgWOYr8)
 - [ShadCN’s Revolutionary New CLI](https://www.youtube.com/watch?v=LEFRcCf4ehc)
-- [Front-end web development is changing, quickly](https://www.youtube.com/watch?v=TBIjgBVFjVI)
 <!-- YOUTUBE:END -->
 
 
