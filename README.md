@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why GitHub Actually Won](https://teklinks.andrejnsimoes.com/2024/09/why-github-actually-won.html)
+- [Zustand adoption guide: Overview, examples, and alternatives](https://teklinks.andrejnsimoes.com/2024/09/zustand-adoption-guide-overview.html)
+- [Best practices for cost-efficient Kafka clusters](https://teklinks.andrejnsimoes.com/2024/09/best-practices-for-cost-efficient-kafka.html)
 - [From Parcel to Vite: A short story of a 100K LOC migration](https://teklinks.andrejnsimoes.com/2024/09/from-parcel-to-vite-short-story-of-100k.html)
 - [Sticky Headers And Full-Height Elements: A Tricky Combination](https://teklinks.andrejnsimoes.com/2024/09/sticky-headers-and-full-height-elements.html)
-- [Oops, I accidentally made our website faster by switching to Remix](https://teklinks.andrejnsimoes.com/2024/09/oops-i-accidentally-made-our-website.html)
-- [The web&#39;s clipboard, and how it stores data of different types](https://teklinks.andrejnsimoes.com/2024/09/the-webs-clipboard-and-how-it-stores.html)
-- [React and FormData](https://teklinks.andrejnsimoes.com/2024/09/react-and-formdata.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
