@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Svelte 5 signals fix its glitchy and inconsistent reactivity](https://teklinks.andrejnsimoes.com/2024/09/svelte-5-signals-fix-its-glitchy-and.html)
+- [Claude 3.5 Sonnet vs GPT-4o — An honest review](https://teklinks.andrejnsimoes.com/2024/09/claude-35-sonnet-vs-gpt-4o-honest-review.html)
 - [Why GitHub Actually Won](https://teklinks.andrejnsimoes.com/2024/09/why-github-actually-won.html)
 - [Zustand adoption guide: Overview, examples, and alternatives](https://teklinks.andrejnsimoes.com/2024/09/zustand-adoption-guide-overview.html)
 - [Best practices for cost-efficient Kafka clusters](https://teklinks.andrejnsimoes.com/2024/09/best-practices-for-cost-efficient-kafka.html)
-- [From Parcel to Vite: A short story of a 100K LOC migration](https://teklinks.andrejnsimoes.com/2024/09/from-parcel-to-vite-short-story-of-100k.html)
-- [Sticky Headers And Full-Height Elements: A Tricky Combination](https://teklinks.andrejnsimoes.com/2024/09/sticky-headers-and-full-height-elements.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
