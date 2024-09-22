@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing TanStack Router](https://teklinks.andrejnsimoes.com/2024/09/introducing-tanstack-router.html)
+- [Your company needs Junior devs](https://teklinks.andrejnsimoes.com/2024/09/your-company-needs-junior-devs.html)
 - [Cleaner JavaScript promises with safe-await](https://teklinks.andrejnsimoes.com/2024/09/cleaner-javascript-promises-with-safe.html)
 - [A milestone for TypeScript Performance in TanStack Router](https://teklinks.andrejnsimoes.com/2024/09/a-milestone-for-typescript-performance.html)
 - [Optimising for High Latency Environments](https://teklinks.andrejnsimoes.com/2024/09/optimising-for-high-latency-environments.html)
-- [How Infinite Queries work](https://teklinks.andrejnsimoes.com/2024/09/how-infinite-queries-work.html)
-- [Hey, this is Hono&#39;s RPC](https://teklinks.andrejnsimoes.com/2024/09/hey-this-is-honos-rpc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
