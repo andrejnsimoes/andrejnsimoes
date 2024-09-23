@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [How To Make AWS Not Suck](https://www.youtube.com/watch?v=gJmz31JywM0)
+- [What’s new in DevTools: Chrome 127-129](https://www.youtube.com/watch?v=uSrmN_Dy0Wk)
 - [OpenAI’s new “deep-thinking” o1 model crushes coding benchmarks](https://www.youtube.com/watch?v=6xlPJiNpCVw)
 - [Module Federation w/ rspack | Nx live](https://www.youtube.com/watch?v=_c4zjYm0pYE)
 - [The Internet&#39;s most broken protocol](https://www.youtube.com/watch?v=cOE2miIh1_o)
-- [Scaffold new Projects with Nx Generate](https://www.youtube.com/watch?v=hSM6MgWOYr8)
 <!-- YOUTUBE:END -->
 
 
