@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Vim for React Developers](https://teklinks.andrejnsimoes.com/2024/09/vim-for-react-developers.html)
+- [Component Composition is great btw](https://teklinks.andrejnsimoes.com/2024/09/component-composition-is-great-btw.html)
+- [Compile and run C in JavaScript](https://teklinks.andrejnsimoes.com/2024/09/compile-and-run-c-in-javascript.html)
 - [Storage Disaggregated Databases and Shared Transaction Log Architecture In Comparison](https://teklinks.andrejnsimoes.com/2024/09/storage-disaggregated-databases-and.html)
 - [Introducing TanStack Router](https://teklinks.andrejnsimoes.com/2024/09/introducing-tanstack-router.html)
-- [Your company needs Junior devs](https://teklinks.andrejnsimoes.com/2024/09/your-company-needs-junior-devs.html)
-- [Cleaner JavaScript promises with safe-await](https://teklinks.andrejnsimoes.com/2024/09/cleaner-javascript-promises-with-safe.html)
-- [A milestone for TypeScript Performance in TanStack Router](https://teklinks.andrejnsimoes.com/2024/09/a-milestone-for-typescript-performance.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
