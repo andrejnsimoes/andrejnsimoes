@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Introducing Nx Powerpack!](https://www.youtube.com/watch?v=KZ0nh2lj8zE)
 - [Deno 2 is here… will it actually kill Node.js this time?](https://www.youtube.com/watch?v=pcC4Dr6Wj2Q)
 - [Will Deno 2.0 Replace Node.js?](https://www.youtube.com/watch?v=pjtQLQ4X4Tw)
 - [I HACKED ShadCN to Create Insane React Templates and Installers](https://www.youtube.com/watch?v=NP2ULDZxpd0)
 - [How To Make AWS Not Suck](https://www.youtube.com/watch?v=gJmz31JywM0)
-- [What’s new in DevTools: Chrome 127-129](https://www.youtube.com/watch?v=uSrmN_Dy0Wk)
 <!-- YOUTUBE:END -->
 
 
