@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [20 System Design Case Studies, Articles and Videos for Software Developers](https://teklinks.andrejnsimoes.com/2024/10/20-system-design-case-studies-articles.html)
+- [I built an AI Agent to validate my PR without actually doing it myself 🚀⚡](https://teklinks.andrejnsimoes.com/2024/10/i-built-ai-agent-to-validate-my-pr.html)
+- [How to fetch data in React](https://teklinks.andrejnsimoes.com/2024/10/how-to-fetch-data-in-react.html)
 - [Web Components Are Not the Future](https://teklinks.andrejnsimoes.com/2024/09/web-components-are-not-future.html)
 - [GitHub trick to find the commit that deleted a file](https://teklinks.andrejnsimoes.com/2024/09/github-trick-to-find-commit-that.html)
-- [Why we developed the Node.js reference architecture](https://teklinks.andrejnsimoes.com/2024/09/why-we-developed-nodejs-reference.html)
-- [Vim for React Developers](https://teklinks.andrejnsimoes.com/2024/09/vim-for-react-developers.html)
-- [Component Composition is great btw](https://teklinks.andrejnsimoes.com/2024/09/component-composition-is-great-btw.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
