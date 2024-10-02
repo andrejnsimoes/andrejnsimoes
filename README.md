@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [This CSS Backlight Effect is so damn cool!](https://www.youtube.com/watch?v=VlXIPf7dz0I)
 - [The Importance Of Deno 2.0](https://www.youtube.com/watch?v=sgXr6iGT71Y)
 - [Legend State v3: Local first sync AND fastest React State manager!](https://www.youtube.com/watch?v=xkWvDG6uEfk)
 - [Introducing Nx Powerpack!](https://www.youtube.com/watch?v=KZ0nh2lj8zE)
 - [Deno 2 is here… will it actually kill Node.js this time?](https://www.youtube.com/watch?v=pcC4Dr6Wj2Q)
-- [Will Deno 2.0 Replace Node.js?](https://www.youtube.com/watch?v=pjtQLQ4X4Tw)
 <!-- YOUTUBE:END -->
 
 
