@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Evan You | Keynote: Vite and the Future of JavaScript Tooling | ViteConf 2024](https://www.youtube.com/watch?v=EKvvptbTx6k)
 - [This CSS Backlight Effect is so damn cool!](https://www.youtube.com/watch?v=VlXIPf7dz0I)
 - [Deno&#39;s Secret Sauce](https://www.youtube.com/watch?v=yLUmmm_JvDk)
 - [The Importance Of Deno 2.0](https://www.youtube.com/watch?v=sgXr6iGT71Y)
 - [Legend State v3: Local first sync AND fastest React State manager!](https://www.youtube.com/watch?v=xkWvDG6uEfk)
-- [Bundling Past, Present, and Future](https://www.youtube.com/watch?v=JUS6EPMbk0U)
 <!-- YOUTUBE:END -->
 
 
