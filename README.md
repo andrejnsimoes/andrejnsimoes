@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless servers: Efficient serverless Node.js with in-function concurrency](https://teklinks.andrejnsimoes.com/2024/10/serverless-servers-efficient-serverless.html)
+- [A guide to destructuring in JavaScript](https://teklinks.andrejnsimoes.com/2024/10/a-guide-to-destructuring-in-javascript.html)
+- [How to Minimize Latency and Cost in Distributed Systems](https://teklinks.andrejnsimoes.com/2024/10/how-to-minimize-latency-and-cost-in.html)
 - [The real 10x developer makes their whole team better](https://teklinks.andrejnsimoes.com/2024/10/the-real-10x-developer-makes-their.html)
 - [Rate Limiting Algorithms Explained with Code](https://teklinks.andrejnsimoes.com/2024/10/rate-limiting-algorithms-explained-with.html)
-- [Module Augmentation is a Hidden Gem in TypeScript](https://teklinks.andrejnsimoes.com/2024/10/module-augmentation-is-hidden-gem-in.html)
-- [20 System Design Case Studies, Articles and Videos for Software Developers](https://teklinks.andrejnsimoes.com/2024/10/20-system-design-case-studies-articles.html)
-- [I built an AI Agent to validate my PR without actually doing it myself 🚀⚡](https://teklinks.andrejnsimoes.com/2024/10/i-built-ai-agent-to-validate-my-pr.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
