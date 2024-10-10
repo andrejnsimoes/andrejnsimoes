@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Deploy A Hono API to Render, fly.io, Vercel and Cloudflare Workers](https://www.youtube.com/watch?v=QDgdUtd6ZRs)
 - [Announcing Deno 2](https://www.youtube.com/watch?v=d35SlRgVxT8)
 - [How an incredibly amateur mistake left Arc Browser wide open to hackers](https://www.youtube.com/watch?v=QINoB1_OXUk)
 - [Evan You | Keynote: Vite and the Future of JavaScript Tooling | ViteConf 2024](https://www.youtube.com/watch?v=EKvvptbTx6k)
 - [This CSS Backlight Effect is so damn cool!](https://www.youtube.com/watch?v=VlXIPf7dz0I)
-- [Deno&#39;s Secret Sauce](https://www.youtube.com/watch?v=yLUmmm_JvDk)
 <!-- YOUTUBE:END -->
 
 
