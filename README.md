@@ -48,7 +48,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [Next Gen Fullstack React with TanStack](https://www.youtube.com/watch?v=4PymccvinIo)
 - [Deploy A Hono API to Render, fly.io, Vercel and Cloudflare Workers](https://www.youtube.com/watch?v=QDgdUtd6ZRs)
 - [Announcing Deno 2](https://www.youtube.com/watch?v=d35SlRgVxT8)
-- [How an incredibly amateur mistake left Arc Browser wide open to hackers](https://www.youtube.com/watch?v=QINoB1_OXUk)
+- [How a simple mistake left Arc Browser wide open to hackers](https://www.youtube.com/watch?v=QINoB1_OXUk)
 - [Evan You | Keynote: Vite and the Future of JavaScript Tooling | ViteConf 2024](https://www.youtube.com/watch?v=EKvvptbTx6k)
 <!-- YOUTUBE:END -->
 
