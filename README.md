@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Introduces Swarm, a Framework for Building Multi-Agent Systems](https://teklinks.andrejnsimoes.com/2024/10/openai-introduces-swarm-framework-for.html)
+- [A New Era of Writing Code](https://teklinks.andrejnsimoes.com/2024/10/a-new-era-of-writing-code.html)
+- [Open Source Alternatives to Google Photos that Can be Self Hosted](https://teklinks.andrejnsimoes.com/2024/10/open-source-alternatives-to-google.html)
 - [Announcing Deno 2](https://teklinks.andrejnsimoes.com/2024/10/the-post-is-not-available.html)
 - [Testing Frontend — Lessons from over a million lines of TypeScript at Palantir](https://teklinks.andrejnsimoes.com/2024/10/testing-frontend-lessons-from-over.html)
-- [How we run migrations across 2,800 microservices](https://teklinks.andrejnsimoes.com/2024/10/how-we-run-migrations-across-2800.html)
-- [Serverless servers: Efficient serverless Node.js with in-function concurrency](https://teklinks.andrejnsimoes.com/2024/10/serverless-servers-efficient-serverless.html)
-- [A guide to destructuring in JavaScript](https://teklinks.andrejnsimoes.com/2024/10/a-guide-to-destructuring-in-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
