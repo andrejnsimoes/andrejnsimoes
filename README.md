@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Making over $130,000/mo as an AI specialist with Andy Walters](https://www.youtube.com/watch?v=gpAimnWg_v8)
 - [Next Gen Fullstack React with TanStack](https://www.youtube.com/watch?v=4PymccvinIo)
 - [Deploy A Hono API to Render, fly.io, Vercel and Cloudflare Workers](https://www.youtube.com/watch?v=QDgdUtd6ZRs)
 - [Announcing Deno 2](https://www.youtube.com/watch?v=d35SlRgVxT8)
 - [How a simple mistake left Arc Browser wide open to hackers](https://www.youtube.com/watch?v=QINoB1_OXUk)
-- [Evan You | Keynote: Vite and the Future of JavaScript Tooling | ViteConf 2024](https://www.youtube.com/watch?v=EKvvptbTx6k)
 <!-- YOUTUBE:END -->
 
 
