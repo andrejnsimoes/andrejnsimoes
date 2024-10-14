@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Types of React Components](https://teklinks.andrejnsimoes.com/2024/10/types-of-react-components.html)
+- [Enhancing The New York Times Web Performance with React 18](https://teklinks.andrejnsimoes.com/2024/10/enhancing-new-york-times-web.html)
+- [Self-Hosting NextJS on Fly.io Guide](https://teklinks.andrejnsimoes.com/2024/10/self-hosting-nextjs-on-flyio-guide.html)
+- [Why I Prefer WebStorm Over Visual Studio Code for Web Development](https://teklinks.andrejnsimoes.com/2024/10/why-i-prefer-webstorm-over-visual.html)
 - [Unleash JavaScript&#39;s Potential with Functional Programming](https://teklinks.andrejnsimoes.com/2024/10/unleash-javascripts-potential-with.html)
-- [A Local-First Case Study](https://teklinks.andrejnsimoes.com/2024/10/a-local-first-case-study.html)
-- [OpenAI Introduces Swarm, a Framework for Building Multi-Agent Systems](https://teklinks.andrejnsimoes.com/2024/10/openai-introduces-swarm-framework-for.html)
-- [A New Era of Writing Code](https://teklinks.andrejnsimoes.com/2024/10/a-new-era-of-writing-code.html)
-- [Open Source Alternatives to Google Photos that Can be Self Hosted](https://teklinks.andrejnsimoes.com/2024/10/open-source-alternatives-to-google.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
