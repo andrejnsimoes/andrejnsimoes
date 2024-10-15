@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Serverless servers and the challenge of new React architecture](https://teklinks.andrejnsimoes.com/2024/10/serverless-servers-and-challenge-of-new.html)
+- [Liskov’s Gun: The parallel evolution of React and Web Components](https://teklinks.andrejnsimoes.com/2024/10/liskovs-gun-parallel-evolution-of-react.html)
 - [Types of React Components](https://teklinks.andrejnsimoes.com/2024/10/types-of-react-components.html)
 - [Enhancing The New York Times Web Performance with React 18](https://teklinks.andrejnsimoes.com/2024/10/enhancing-new-york-times-web.html)
 - [Self-Hosting NextJS on Fly.io Guide](https://teklinks.andrejnsimoes.com/2024/10/self-hosting-nextjs-on-flyio-guide.html)
-- [Why I Prefer WebStorm Over Visual Studio Code for Web Development](https://teklinks.andrejnsimoes.com/2024/10/why-i-prefer-webstorm-over-visual.html)
-- [Unleash JavaScript&#39;s Potential with Functional Programming](https://teklinks.andrejnsimoes.com/2024/10/unleash-javascripts-potential-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
