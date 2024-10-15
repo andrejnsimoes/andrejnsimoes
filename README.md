@@ -48,8 +48,8 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [How to build with AI today: Artificial Intelligence Overview](https://www.youtube.com/watch?v=Uf01NlscI0k)
 - [Making over $130,000/mo as an AI specialist with Andy Walters](https://www.youtube.com/watch?v=gpAimnWg_v8)
 - [Does Deno 2 really uncomplicate JavaScript?](https://www.youtube.com/watch?v=8IHhvkaVqVE)
+- [Is One the ultimate React and React Native Framework?](https://www.youtube.com/watch?v=NtwffmEFTJw)
 - [Next Gen Fullstack React with TanStack](https://www.youtube.com/watch?v=4PymccvinIo)
-- [Deploy A Hono API to Render, fly.io, Vercel and Cloudflare Workers](https://www.youtube.com/watch?v=QDgdUtd6ZRs)
 <!-- YOUTUBE:END -->
 
 
