@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [Rslib - Federating npm packages](https://www.youtube.com/watch?v=V4p5DfiZylU)
+- [Will Manifest V3 Kill Chrome?](https://www.youtube.com/watch?v=D9meVUnrqz4)
 - [How to test dynamic content in Playwright with API mocking](https://www.youtube.com/watch?v=kvGszYAYQ6M)
 - [How to build with AI today: Artificial Intelligence Overview](https://www.youtube.com/watch?v=Uf01NlscI0k)
 - [Making over $130,000/mo as an AI specialist with Andy Walters](https://www.youtube.com/watch?v=gpAimnWg_v8)
-- [Does Deno 2 really uncomplicate JavaScript?](https://www.youtube.com/watch?v=8IHhvkaVqVE)
 <!-- YOUTUBE:END -->
 
 
