@@ -49,7 +49,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [Rslib - Federating npm packages](https://www.youtube.com/watch?v=V4p5DfiZylU)
 - [Will Manifest V3 Kill Chrome?](https://www.youtube.com/watch?v=D9meVUnrqz4)
 - [A Field Guide to Reliability Engineering at Zalando • Heinrich Hartmann • GOTO 2024](https://www.youtube.com/watch?v=VAgT7CY572U)
-- [How to test dynamic content in Playwright with API mocking](https://www.youtube.com/watch?v=kvGszYAYQ6M)
+- [Scalability Simply Explained in 10 Minutes](https://www.youtube.com/watch?v=EWS_CIxttVw)
 <!-- YOUTUBE:END -->
 
 
