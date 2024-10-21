@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Folder Structure in 5 Steps](https://teklinks.andrejnsimoes.com/2024/10/react-folder-structure-in-5-steps-2022.html)
+- [How Microsoft Edge Is Replacing React With Web Components](https://teklinks.andrejnsimoes.com/2024/10/how-microsoft-edge-is-replacing-react.html)
 - [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://teklinks.andrejnsimoes.com/2024/10/announcing-voidzero-next-generation.html)
 - [How to convert CommonJS to ESM](https://teklinks.andrejnsimoes.com/2024/10/how-to-convert-commonjs-to-esm.html)
 - [It&#39;s hard to write code for computers, but it&#39;s even harder to write code for humans](https://teklinks.andrejnsimoes.com/2024/10/its-hard-to-write-code-for-computers.html)
-- [Optimizing SPA load times with async chunks preloading](https://teklinks.andrejnsimoes.com/2024/10/optimizing-spa-load-times-with-async.html)
-- [Google Chrome’s uBlock Origin phaseout has begun](https://teklinks.andrejnsimoes.com/2024/10/google-chromes-ublock-origin-phaseout.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
