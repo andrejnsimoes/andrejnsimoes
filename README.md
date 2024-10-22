@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The New One React Framework with Nate Wienert](https://www.youtube.com/watch?v=S1ChQuvQGCM)
 - [What I Discovered When I Compared React and NextJS for Astro 5&#39;s Server Islands](https://www.youtube.com/watch?v=rCkhCG7n8sA)
 - [Rslib - Federating npm packages](https://www.youtube.com/watch?v=V4p5DfiZylU)
 - [Will Manifest V3 Kill Chrome?](https://www.youtube.com/watch?v=D9meVUnrqz4)
 - [A Field Guide to Reliability Engineering at Zalando • Heinrich Hartmann • GOTO 2024](https://www.youtube.com/watch?v=VAgT7CY572U)
-- [Scalability Simply Explained in 10 Minutes](https://www.youtube.com/watch?v=EWS_CIxttVw)
 <!-- YOUTUBE:END -->
 
 
