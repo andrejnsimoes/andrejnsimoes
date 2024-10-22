@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Liskov’s Gun: The parallel evolution of React and Web Components](https://teklinks.andrejnsimoes.com/2024/10/liskovs-gun-parallel-evolution-of-react_22.html)
 - [Build A Static RSS Reader To Fight Your Inner FOMO](https://teklinks.andrejnsimoes.com/2024/10/build-static-rss-reader-to-fight-your.html)
 - [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://teklinks.andrejnsimoes.com/2024/10/why-im-skeptical-of-rewriting.html)
 - [Are Playwright and Vitest ready to replace Jest?](https://teklinks.andrejnsimoes.com/2024/10/are-playwright-and-vitest-ready-to.html)
 - [React Folder Structure in 5 Steps](https://teklinks.andrejnsimoes.com/2024/10/react-folder-structure-in-5-steps-2022.html)
-- [How Microsoft Edge Is Replacing React With Web Components](https://teklinks.andrejnsimoes.com/2024/10/how-microsoft-edge-is-replacing-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
