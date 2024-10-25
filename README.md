@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Scalable Solution for Hosting Multiple Micro-Frontend Applications with Git Submodules and AWS](https://teklinks.andrejnsimoes.com/2024/10/nx-module-federation-scalable-solution.html)
+- [In the future using top-level await might be a BC break in Node](https://teklinks.andrejnsimoes.com/2024/10/in-future-using-top-level-await-might.html)
+- [The story of web framework Hono, from the creator of Hono](https://teklinks.andrejnsimoes.com/2024/10/the-story-of-web-framework-hono-from.html)
 - [Liskov’s Gun: The parallel evolution of React and Web Components](https://teklinks.andrejnsimoes.com/2024/10/liskovs-gun-parallel-evolution-of-react_22.html)
 - [Build A Static RSS Reader To Fight Your Inner FOMO](https://teklinks.andrejnsimoes.com/2024/10/build-static-rss-reader-to-fight-your.html)
-- [Why I’m skeptical of rewriting JavaScript tools in “faster” languages](https://teklinks.andrejnsimoes.com/2024/10/why-im-skeptical-of-rewriting.html)
-- [Are Playwright and Vitest ready to replace Jest?](https://teklinks.andrejnsimoes.com/2024/10/are-playwright-and-vitest-ready-to.html)
-- [React Folder Structure in 5 Steps](https://teklinks.andrejnsimoes.com/2024/10/react-folder-structure-in-5-steps-2022.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
