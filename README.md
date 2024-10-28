@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Knowledge-as-a-service: The future of community business models](https://teklinks.andrejnsimoes.com/2024/10/knowledge-as-service-future-of.html)
+- [Tales of Performance Engineering](https://teklinks.andrejnsimoes.com/2024/10/tales-of-performance-engineering.html)
 - [A Scalable Solution for Hosting Multiple Micro-Frontend Applications with Git Submodules and AWS](https://teklinks.andrejnsimoes.com/2024/10/nx-module-federation-scalable-solution.html)
 - [In the future using top-level await might be a BC break in Node](https://teklinks.andrejnsimoes.com/2024/10/in-future-using-top-level-await-might.html)
 - [The story of web framework Hono, from the creator of Hono](https://teklinks.andrejnsimoes.com/2024/10/the-story-of-web-framework-hono-from.html)
-- [Liskov’s Gun: The parallel evolution of React and Web Components](https://teklinks.andrejnsimoes.com/2024/10/liskovs-gun-parallel-evolution-of-react_22.html)
-- [Build A Static RSS Reader To Fight Your Inner FOMO](https://teklinks.andrejnsimoes.com/2024/10/build-static-rss-reader-to-fight-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
