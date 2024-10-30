@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [JavaScript performance is weird... Write scientifically faster code with benchmarking](https://www.youtube.com/watch?v=_pWA4rbzvIg)
+- [Why Angular Signals Are A Game-Changer for State Management](https://www.youtube.com/watch?v=nw0mfN7P5rY)
 - [JavaScript framework reinvents itself… Did &quot;runes&quot; just ruin Svelte?](https://www.youtube.com/watch?v=aYyZUDFZTrM)
 - [ECMAScript Modules in Deno](https://www.youtube.com/watch?v=cTFBiwYY3vs)
 - [Svelte 5 Is Like React, But Better](https://www.youtube.com/watch?v=31CyquY8RNE)
-- [Next.js 15 is here! Does it fix Next 14?](https://www.youtube.com/watch?v=Igt89sDaboE)
-- [The New One React Framework with Nate Wienert](https://www.youtube.com/watch?v=S1ChQuvQGCM)
 <!-- YOUTUBE:END -->
 
 
