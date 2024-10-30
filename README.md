@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How we shrunk our Javascript monorepo git size by 94%](https://teklinks.andrejnsimoes.com/2024/10/how-we-shrunk-our-javascript-monorepo.html)
+- [Stop Building the Wrong Tools: How Developer Surveys Transformed Our Focus](https://teklinks.andrejnsimoes.com/2024/10/stop-building-wrong-tools-how-developer.html)
+- [Architectural Metapatterns](https://teklinks.andrejnsimoes.com/2024/10/architectural-metapatterns.html)
 - [Knowledge-as-a-service: The future of community business models](https://teklinks.andrejnsimoes.com/2024/10/knowledge-as-service-future-of.html)
 - [Tales of Performance Engineering](https://teklinks.andrejnsimoes.com/2024/10/tales-of-performance-engineering.html)
-- [A Scalable Solution for Hosting Multiple Micro-Frontend Applications with Git Submodules and AWS](https://teklinks.andrejnsimoes.com/2024/10/nx-module-federation-scalable-solution.html)
-- [In the future using top-level await might be a BC break in Node](https://teklinks.andrejnsimoes.com/2024/10/in-future-using-top-level-await-might.html)
-- [The story of web framework Hono, from the creator of Hono](https://teklinks.andrejnsimoes.com/2024/10/the-story-of-web-framework-hono-from.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
