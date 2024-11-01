@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Coding apps with English](https://www.youtube.com/watch?v=_ze1FvvLq3o)
+- [Backward Compatibility with Node.js and npm](https://www.youtube.com/watch?v=QPLchkJ7eas)
 - [JavaScript performance is weird... Write scientifically faster code with benchmarking](https://www.youtube.com/watch?v=_pWA4rbzvIg)
 - [Why Angular Signals Are A Game-Changer for State Management](https://www.youtube.com/watch?v=nw0mfN7P5rY)
 - [JavaScript framework reinvents itself… Did &quot;runes&quot; just ruin Svelte?](https://www.youtube.com/watch?v=aYyZUDFZTrM)
-- [ECMAScript Modules in Deno](https://www.youtube.com/watch?v=cTFBiwYY3vs)
-- [Svelte 5 Is Like React, But Better](https://www.youtube.com/watch?v=31CyquY8RNE)
 <!-- YOUTUBE:END -->
 
 
