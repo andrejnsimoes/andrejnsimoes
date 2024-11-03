@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Islands Architecture – Preact](https://teklinks.andrejnsimoes.com/2024/11/simplifying-islands-architecture-preact.html)
+- [How to successfully adopt serverless in large organizations](https://teklinks.andrejnsimoes.com/2024/11/how-to-successfully-adopt-serverless-in.html)
+- [State of Cloud Security](https://teklinks.andrejnsimoes.com/2024/11/state-of-cloud-security.html)
 - [Incremental adoption of micro-frontends with Cloudflare Workers](https://teklinks.andrejnsimoes.com/2024/10/incremental-adoption-of-micro-frontends.html)
 - [How to Build an Image Search Application With OpenAI CLIP &amp; PostgreSQL in JavaScript](https://teklinks.andrejnsimoes.com/2024/10/how-to-build-image-search-application.html)
-- [Engineering Managers&#39; Guide to Effective Annual Feedback](https://teklinks.andrejnsimoes.com/2024/10/engineering-managers-guide-to-effective.html)
-- [How we shrunk our Javascript monorepo git size by 94%](https://teklinks.andrejnsimoes.com/2024/10/how-we-shrunk-our-javascript-monorepo.html)
-- [Stop Building the Wrong Tools: How Developer Surveys Transformed Our Focus](https://teklinks.andrejnsimoes.com/2024/10/stop-building-wrong-tools-how-developer.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
