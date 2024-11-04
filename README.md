@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [my local, AI Voice Assistant &lpar;I replaced Alexa!!&rpar;](https://www.youtube.com/watch?v=XvbVePuP7NY)
 - [Coding apps with English](https://www.youtube.com/watch?v=_ze1FvvLq3o)
 - [Backward Compatibility with Node.js and npm](https://www.youtube.com/watch?v=QPLchkJ7eas)
 - [JavaScript performance is weird... Write scientifically faster code with benchmarking](https://www.youtube.com/watch?v=_pWA4rbzvIg)
 - [Why Angular Signals Are A Game-Changer for State Management](https://www.youtube.com/watch?v=nw0mfN7P5rY)
-- [Build A Tesla Car Configurator | Tailwind &amp; Vanilla JavaScript](https://www.youtube.com/watch?v=ui0PmJtKGhQ)
 <!-- YOUTUBE:END -->
 
 
