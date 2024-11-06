@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building My Resume in HTML using Eleventy](https://teklinks.andrejnsimoes.com/2024/11/building-my-resume-in-html-using.html)
+- [How headless components became the future for building UI libraries](https://teklinks.andrejnsimoes.com/2024/11/how-headless-components-became-future.html)
+- [Why Code Security Matters - Even in Hardened Environments](https://teklinks.andrejnsimoes.com/2024/11/why-code-security-matters-even-in.html)
+- [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://teklinks.andrejnsimoes.com/2024/11/the-trimodal-nature-of-software.html)
 - [I just tested Google vs ChatGPT search — and I’m shocked by the results](https://teklinks.andrejnsimoes.com/2024/11/i-just-tested-google-vs-chatgpt-search.html)
-- [The most effective ways to improve Core Web Vitals](https://teklinks.andrejnsimoes.com/2024/11/the-most-effective-ways-to-improve-core.html)
-- [Doing support makes you a better engineer](https://teklinks.andrejnsimoes.com/2024/11/doing-support-makes-you-better-engineer.html)
-- [Simplifying Islands Architecture – Preact](https://teklinks.andrejnsimoes.com/2024/11/simplifying-islands-architecture-preact.html)
-- [How to successfully adopt serverless in large organizations](https://teklinks.andrejnsimoes.com/2024/11/how-to-successfully-adopt-serverless-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
