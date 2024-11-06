@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [From PNPM Monorepo to Fast CI](https://www.youtube.com/watch?v=zX-1tpqUG5c)
+- [Jason Miller | Scaling Vite at Shopify | ViteConf 2024](https://www.youtube.com/watch?v=YcT2yP0nmm0)
 - [my local, AI Voice Assistant &lpar;I replaced Alexa!!&rpar;](https://www.youtube.com/watch?v=XvbVePuP7NY)
 - [Coding apps with English](https://www.youtube.com/watch?v=_ze1FvvLq3o)
 - [Backward Compatibility with Node.js and npm](https://www.youtube.com/watch?v=QPLchkJ7eas)
-- [JavaScript performance is weird... Write scientifically faster code with benchmarking](https://www.youtube.com/watch?v=_pWA4rbzvIg)
 <!-- YOUTUBE:END -->
 
 
