@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How WebSockets cost us $1M on our AWS bill](https://teklinks.andrejnsimoes.com/2024/11/how-websockets-cost-us-1m-on-our-aws.html)
+- [HTML Form Validation is heavily underused](https://teklinks.andrejnsimoes.com/2024/11/html-form-validation-is-heavily.html)
+- [A Friendly Introduction to Container Queries](https://teklinks.andrejnsimoes.com/2024/11/a-friendly-introduction-to-container.html)
 - [Building My Resume in HTML using Eleventy](https://teklinks.andrejnsimoes.com/2024/11/building-my-resume-in-html-using.html)
 - [How headless components became the future for building UI libraries](https://teklinks.andrejnsimoes.com/2024/11/how-headless-components-became-future.html)
-- [Why Code Security Matters - Even in Hardened Environments](https://teklinks.andrejnsimoes.com/2024/11/why-code-security-matters-even-in.html)
-- [The Trimodal Nature of Software Engineering Salaries in the Netherlands and Europe](https://teklinks.andrejnsimoes.com/2024/11/the-trimodal-nature-of-software.html)
-- [I just tested Google vs ChatGPT search — and I’m shocked by the results](https://teklinks.andrejnsimoes.com/2024/11/i-just-tested-google-vs-chatgpt-search.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
