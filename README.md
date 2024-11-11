@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Map of Sync](https://teklinks.andrejnsimoes.com/2024/11/a-map-of-sync.html)
+- [Create a Full-Stack App With Go and React](https://teklinks.andrejnsimoes.com/2024/11/create-full-stack-app-with-go-and-react.html)
+- [How to Create an AI-Powered Newsletter Aggregator with React and AI Agents](https://teklinks.andrejnsimoes.com/2024/11/how-to-create-ai-powered-newsletter.html)
 - [How WebSockets cost us $1M on our AWS bill](https://teklinks.andrejnsimoes.com/2024/11/how-websockets-cost-us-1m-on-our-aws.html)
 - [HTML Form Validation is heavily underused](https://teklinks.andrejnsimoes.com/2024/11/html-form-validation-is-heavily.html)
-- [A Friendly Introduction to Container Queries](https://teklinks.andrejnsimoes.com/2024/11/a-friendly-introduction-to-container.html)
-- [Building My Resume in HTML using Eleventy](https://teklinks.andrejnsimoes.com/2024/11/building-my-resume-in-html-using.html)
-- [How headless components became the future for building UI libraries](https://teklinks.andrejnsimoes.com/2024/11/how-headless-components-became-future.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
