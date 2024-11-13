@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [StackBlitz achieves $4M ARR in 4 weeks for their AI web development platform with Claude](https://teklinks.andrejnsimoes.com/2024/11/stackblitz-achieves-4m-arr-in-4-weeks.html)
+- [How Bun supports V8 APIs without using V8 &lpar;part 2&rpar;](https://teklinks.andrejnsimoes.com/2024/11/how-bun-supports-v8-apis-without-using.html)
+- [How We Built the BFCM 2023 Globe](https://teklinks.andrejnsimoes.com/2024/11/how-we-built-bfcm-2023-globe.html)
 - [Automation Platform v2: Improving Conversational AI at Airbnb](https://teklinks.andrejnsimoes.com/2024/11/automation-platform-v2-improving.html)
 - [Centering things: a solved problem?](https://teklinks.andrejnsimoes.com/2024/11/centering-things-solved-problem.html)
-- [Being a Responsible Developer in the Age of AI Hype](https://teklinks.andrejnsimoes.com/2024/11/being-responsible-developer-in-age-of.html)
-- [A Map of Sync](https://teklinks.andrejnsimoes.com/2024/11/a-map-of-sync.html)
-- [Create a Full-Stack App With Go and React](https://teklinks.andrejnsimoes.com/2024/11/create-full-stack-app-with-go-and-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
