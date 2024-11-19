@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Svelte 5: In Action | Build A Tasks App](https://www.youtube.com/watch?v=uSWMvDPpG0k)
 - [Create Forms 500% Faster With This Shadcn Tool](https://www.youtube.com/watch?v=iR63Ac2hum0)
 - [The Module Federation Revolution with Zack Jackson from @ByteDance](https://www.youtube.com/watch?v=7soy7UZ17r4)
 - [Build a Real-Time WebSocket Application](https://www.youtube.com/watch?v=FC4IrkHEg4A)
 - [Tanstack Start vs NextJS - Server Functions Battle](https://www.youtube.com/watch?v=Iun1DE_oHG0)
-- [TC39: How signals work, adding signals to the JavaScript programming language](https://www.youtube.com/watch?v=kwQx1xWQIfQ)
 <!-- YOUTUBE:END -->
 
 
