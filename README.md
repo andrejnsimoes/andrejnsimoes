@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Will we care about frameworks in the future?](https://teklinks.andrejnsimoes.com/2024/11/will-we-care-about-frameworks-in-future.html)
+- [Self-contained Executable Programs with Deno Compile](https://teklinks.andrejnsimoes.com/2024/11/self-contained-executable-programs-with.html)
+- [Exploring DORA: 9 Steps on the Path to Compliance](https://teklinks.andrejnsimoes.com/2024/11/exploring-dora-9-steps-on-path-to.html)
 - [React useCallback&lpar;&rpar; - A complete guide](https://teklinks.andrejnsimoes.com/2024/11/react-usecallback-complete-guide.html)
 - [Validating your react-intl applications](https://teklinks.andrejnsimoes.com/2024/11/validating-your-react-intl-applications.html)
-- [Next.js to htmx — A Real World Example](https://teklinks.andrejnsimoes.com/2024/11/nextjs-to-htmx-real-world-example.html)
-- [Build a Database App with Drizzle ORM and Deno](https://teklinks.andrejnsimoes.com/2024/11/build-database-app-with-drizzle-orm-and.html)
-- [Using Shadcn UI without a Tailwind Config File](https://teklinks.andrejnsimoes.com/2024/11/using-shadcn-ui-without-tailwind-config.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
