@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Typed Linting Needs TypeScript Today](https://teklinks.andrejnsimoes.com/2024/11/why-typed-linting-needs-typescript-today.html)
+- [How to Set Up Next.js 15 for Production in 2024](https://teklinks.andrejnsimoes.com/2024/11/how-to-set-up-nextjs-15-for-production.html)
+- [The Journey of ClearBank From Start-Up To Scale-Up](https://teklinks.andrejnsimoes.com/2024/11/the-journey-of-clearbank-from-start-up.html)
 - [Will we care about frameworks in the future?](https://teklinks.andrejnsimoes.com/2024/11/will-we-care-about-frameworks-in-future.html)
 - [Self-contained Executable Programs with Deno Compile](https://teklinks.andrejnsimoes.com/2024/11/self-contained-executable-programs-with.html)
-- [Exploring DORA: 9 Steps on the Path to Compliance](https://teklinks.andrejnsimoes.com/2024/11/exploring-dora-9-steps-on-path-to.html)
-- [React useCallback&lpar;&rpar; - A complete guide](https://teklinks.andrejnsimoes.com/2024/11/react-usecallback-complete-guide.html)
-- [Validating your react-intl applications](https://teklinks.andrejnsimoes.com/2024/11/validating-your-react-intl-applications.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
