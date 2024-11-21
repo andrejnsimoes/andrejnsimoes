@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Talk to ChatGPT on a Phone Call](https://teklinks.andrejnsimoes.com/2024/11/talk-to-chatgpt-on-phone-call.html)
+- [Importing a frontend Javascript library without a build system](https://teklinks.andrejnsimoes.com/2024/11/importing-frontend-javascript-library.html)
+- [When is the right time to share our excitement about new web features?](https://teklinks.andrejnsimoes.com/2024/11/when-is-right-time-to-share-our.html)
 - [Why Typed Linting Needs TypeScript Today](https://teklinks.andrejnsimoes.com/2024/11/why-typed-linting-needs-typescript-today.html)
 - [How to Set Up Next.js 15 for Production in 2024](https://teklinks.andrejnsimoes.com/2024/11/how-to-set-up-nextjs-15-for-production.html)
-- [The Journey of ClearBank From Start-Up To Scale-Up](https://teklinks.andrejnsimoes.com/2024/11/the-journey-of-clearbank-from-start-up.html)
-- [Will we care about frameworks in the future?](https://teklinks.andrejnsimoes.com/2024/11/will-we-care-about-frameworks-in-future.html)
-- [Self-contained Executable Programs with Deno Compile](https://teklinks.andrejnsimoes.com/2024/11/self-contained-executable-programs-with.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
