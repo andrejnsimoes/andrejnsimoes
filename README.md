@@ -49,7 +49,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [Svelte 5: In Action | Build A Tasks App](https://www.youtube.com/watch?v=uSWMvDPpG0k)
 - [Angular v19 Developer Event](https://www.youtube.com/watch?v=JvkX2_46gUY)
 - [Create Forms 500% Faster With This Shadcn Tool](https://www.youtube.com/watch?v=iR63Ac2hum0)
-- [The Module Federation Revolution with Zack Jackson from @ByteDance](https://www.youtube.com/watch?v=7soy7UZ17r4)
+- [AI as Software Architect assistant by Avraham Poupko &lpar;#GSAS24&rpar;](https://www.youtube.com/watch?v=gxMmvXE0JUU)
 <!-- YOUTUBE:END -->
 
 
