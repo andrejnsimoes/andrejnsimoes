@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [To Dare or not to Dare: the MVA Dilemma](https://teklinks.andrejnsimoes.com/2024/11/to-dare-or-not-to-dare-mva-dilemma.html)
+- [Meet Angular v19](https://teklinks.andrejnsimoes.com/2024/11/meet-angular-v19.html)
+- [Fast, Reliable Serverless: From 50 minutes to 50 seconds a year of downtime on AWS](https://teklinks.andrejnsimoes.com/2024/11/fast-reliable-serverless-from-50.html)
 - [Importing a frontend Javascript library without a build system](https://teklinks.andrejnsimoes.com/2024/11/importing-frontend-javascript-library.html)
 - [Talk to ChatGPT on a Phone Call](https://teklinks.andrejnsimoes.com/2024/11/talk-to-chatgpt-on-phone-call.html)
-- [When is the right time to share our excitement about new web features?](https://teklinks.andrejnsimoes.com/2024/11/when-is-right-time-to-share-our.html)
-- [Why Typed Linting Needs TypeScript Today](https://teklinks.andrejnsimoes.com/2024/11/why-typed-linting-needs-typescript-today.html)
-- [How to Set Up Next.js 15 for Production in 2024](https://teklinks.andrejnsimoes.com/2024/11/how-to-set-up-nextjs-15-for-production.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
