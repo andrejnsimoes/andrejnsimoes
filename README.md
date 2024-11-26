@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Real-World Forecasting with Deep Learning: How We Do It at Wix](https://teklinks.andrejnsimoes.com/2024/11/real-world-forecasting-with-deep.html)
+- [Building React Forms with Ease Using React Hook Form, Zod and Shadcn](https://teklinks.andrejnsimoes.com/2024/11/building-react-forms-with-ease-using.html)
+- [Uncontrolled or controlled: A matter of perspective](https://teklinks.andrejnsimoes.com/2024/11/uncontrolled-or-controlled-matter-of.html)
 - [To Dare or not to Dare: the MVA Dilemma](https://teklinks.andrejnsimoes.com/2024/11/to-dare-or-not-to-dare-mva-dilemma.html)
 - [Meet Angular v19](https://teklinks.andrejnsimoes.com/2024/11/meet-angular-v19.html)
-- [Fast, Reliable Serverless: From 50 minutes to 50 seconds a year of downtime on AWS](https://teklinks.andrejnsimoes.com/2024/11/fast-reliable-serverless-from-50.html)
-- [Importing a frontend Javascript library without a build system](https://teklinks.andrejnsimoes.com/2024/11/importing-frontend-javascript-library.html)
-- [Talk to ChatGPT on a Phone Call](https://teklinks.andrejnsimoes.com/2024/11/talk-to-chatgpt-on-phone-call.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
