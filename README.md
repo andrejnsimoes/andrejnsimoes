@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [OpenAI is lying to you](https://www.youtube.com/watch?v=Wl44OMJBXWw)
 - [Angular 19 is a BEAST of a release!](https://www.youtube.com/watch?v=B18LKRW617Q)
 - [Svelte 5: In Action | Build A Tasks App](https://www.youtube.com/watch?v=uSWMvDPpG0k)
 - [Angular v19 Developer Event](https://www.youtube.com/watch?v=JvkX2_46gUY)
 - [Create Forms 500% Faster With This Shadcn Tool](https://www.youtube.com/watch?v=iR63Ac2hum0)
-- [AI as Software Architect assistant by Avraham Poupko &lpar;#GSAS24&rpar;](https://www.youtube.com/watch?v=gxMmvXE0JUU)
 <!-- YOUTUBE:END -->
 
 
