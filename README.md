@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why am I writing a JavaScript toolchain in Zig?](https://teklinks.andrejnsimoes.com/2024/12/why-am-i-writing-javascript-toolchain.html)
+- [Designing &lpar;and Evolving&rpar; a New Web Performance Score](https://teklinks.andrejnsimoes.com/2024/12/designing-and-evolving-new-web.html)
+- [What We Learned Migrating From Webpack to Vite](https://teklinks.andrejnsimoes.com/2024/12/what-we-learned-migrating-from-webpack.html)
 - [Vitest vs. Jest](https://teklinks.andrejnsimoes.com/2024/12/vitest-vs-jest.html)
 - [Why TanStack Start is Ditching Adapters](https://teklinks.andrejnsimoes.com/2024/12/why-tanstack-start-is-ditching-adapters.html)
-- [React Scan](https://teklinks.andrejnsimoes.com/2024/12/react-scan.html)
-- [The Tragedy of Running an Old Node Project](https://teklinks.andrejnsimoes.com/2024/11/the-tragedy-of-running-old-node-project.html)
-- [Why do developers love clean code but hate writing documentation?](https://teklinks.andrejnsimoes.com/2024/11/why-do-developers-love-clean-code-but.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
