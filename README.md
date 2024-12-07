@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Sam Altman&#39;s new $200 ChatGPT has a big Elon problem...](https://www.youtube.com/watch?v=Sf4WqHBCYSY)
+- [Custom dropdowns just got a whole lot easier &lpar;finally!&rpar;](https://www.youtube.com/watch?v=MA9WAHEEfGM)
+- [Why AI is making software dev skills more valuable, not less](https://www.youtube.com/watch?v=FXjf9OQGAlY)
+- [Vite 6 is important, here&#39;s why](https://www.youtube.com/watch?v=yT4DWBWm6DM)
 - [Is AI progress slowing down?](https://www.youtube.com/watch?v=Wl44OMJBXWw)
-- [Angular 19 is a BEAST of a release!](https://www.youtube.com/watch?v=B18LKRW617Q)
-- [Svelte 5: In Action | Build A Tasks App](https://www.youtube.com/watch?v=uSWMvDPpG0k)
-- [Angular v19 Developer Event](https://www.youtube.com/watch?v=JvkX2_46gUY)
-- [12 Logging BEST Practices in 12 minutes](https://www.youtube.com/watch?v=I2mWnh66Bkg)
 <!-- YOUTUBE:END -->
 
 
