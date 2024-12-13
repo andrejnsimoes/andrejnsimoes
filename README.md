@@ -47,9 +47,9 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 <!-- YOUTUBE:START -->
 - [Sam Altman&#39;s new $200 ChatGPT has a big Elon problem...](https://www.youtube.com/watch?v=Sf4WqHBCYSY)
 - [Custom dropdowns just got a whole lot easier &lpar;finally!&rpar;](https://www.youtube.com/watch?v=MA9WAHEEfGM)
+- [An Honest Review of TanStack vs Next.js](https://www.youtube.com/watch?v=D27AfH0pSp8)
 - [Why AI is making software dev skills more valuable, not less](https://www.youtube.com/watch?v=FXjf9OQGAlY)
 - [Vite 6 is important, here&#39;s why](https://www.youtube.com/watch?v=yT4DWBWm6DM)
-- [Is AI progress slowing down?](https://www.youtube.com/watch?v=Wl44OMJBXWw)
 <!-- YOUTUBE:END -->
 
 
