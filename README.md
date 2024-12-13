@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The 70% problem: Hard truths about AI-assisted coding](https://teklinks.andrejnsimoes.com/2024/12/the-70-problem-hard-truths-about-ai.html)
+- [Reflections on managing state](https://teklinks.andrejnsimoes.com/2024/12/reflections-on-managing-state.html)
+- [Using Transformers.js for AI in the Browser](https://teklinks.andrejnsimoes.com/2024/12/using-transformersjs-for-ai-in-browser.html)
+- [How To Improve INP: React⚛️](https://teklinks.andrejnsimoes.com/2024/12/how-to-improve-inp-react.html)
 - [Why we switched to Astro &lpar;and why it might interest you&rpar;](https://teklinks.andrejnsimoes.com/2024/12/why-we-switched-to-astro-and-why-it.html)
-- [React Data Fetching Patterns](https://teklinks.andrejnsimoes.com/2024/12/react-data-fetching-patterns.html)
-- [Why am I writing a JavaScript toolchain in Zig?](https://teklinks.andrejnsimoes.com/2024/12/why-am-i-writing-javascript-toolchain.html)
-- [Designing &lpar;and Evolving&rpar; a New Web Performance Score](https://teklinks.andrejnsimoes.com/2024/12/designing-and-evolving-new-web.html)
-- [What We Learned Migrating From Webpack to Vite](https://teklinks.andrejnsimoes.com/2024/12/what-we-learned-migrating-from-webpack.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
