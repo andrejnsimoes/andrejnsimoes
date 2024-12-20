@@ -49,7 +49,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [Email Magic Link Login with Next.js and NextAuth](https://www.youtube.com/watch?v=75AVkg85aOQ)
 - [AWS re:Invent 2024 - The ideal micro-frontends platform &lpar;ARC325&rpar;](https://www.youtube.com/watch?v=J_y4-haLf8s)
 - [Sam Altman&#39;s new $200 ChatGPT has a big Elon problem...](https://www.youtube.com/watch?v=Sf4WqHBCYSY)
-- [Custom dropdowns just got a whole lot easier &lpar;finally!&rpar;](https://www.youtube.com/watch?v=MA9WAHEEfGM)
+- [Finally.... But it&#39;s exciting!](https://www.youtube.com/watch?v=WHKvhMKV_-0)
 <!-- YOUTUBE:END -->
 
 
