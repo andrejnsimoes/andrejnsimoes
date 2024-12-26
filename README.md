@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The Best Tech Jobs for 2025: High Demand &amp; High Pay](https://www.youtube.com/watch?v=fZmQ_aPXJAM)
 - [8 Most Important System Design Concepts You Should Know](https://www.youtube.com/watch?v=BTjxUS_PylA)
 - [Zero Sync Makes Local First Easy](https://www.youtube.com/watch?v=hAxdOUgjctk)
 - [Agentic RAG Explained](https://www.youtube.com/watch?v=MYPDsV_825U)
 - [Next.js + NextAuth - Email Magic Link Login | Local Testing with Mailhog](https://www.youtube.com/watch?v=75AVkg85aOQ)
-- [AWS re:Invent 2024 - The ideal micro-frontends platform &lpar;ARC325&rpar;](https://www.youtube.com/watch?v=J_y4-haLf8s)
 <!-- YOUTUBE:END -->
 
 
