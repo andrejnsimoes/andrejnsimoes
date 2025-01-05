@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [How to start a React Project in 2024](https://teklinks.andrejnsimoes.com/2024/12/how-to-start-react-project-in-2024.html)
-- [Exploring the Core Concepts of Node.js Readable Streams](https://teklinks.andrejnsimoes.com/2024/12/exploring-core-concepts-of-nodejs.html)
-- [An Interactive Guide to CSS Grid](https://teklinks.andrejnsimoes.com/2024/12/an-interactive-guide-to-css-grid.html)
-- [Four approaches to creating a specialized LLM](https://teklinks.andrejnsimoes.com/2024/12/four-approaches-to-creating-specialized.html)
-- [Tech predictions for 2025 and beyond](https://teklinks.andrejnsimoes.com/2024/12/tech-predictions-for-2025-and-beyond.html)
+- [Sweet Suspense](https://teklinks.andrejnsimoes.com/2024/12/sweet-suspense.html)
+- [It’s not what you know, it’s how you know you know it](https://teklinks.andrejnsimoes.com/2024/12/its-not-what-you-know-its-how-you-know.html)
+- [Publishing a simple client-side JavaScript package to npm with GitHub Actions](https://teklinks.andrejnsimoes.com/2024/12/publishing-simple-client-side.html)
+- [Dependencies vs. devDependencies for JavaScript apps](https://teklinks.andrejnsimoes.com/2024/12/dependencies-vs-devdependencies-for.html)
+- [It&#39;s Okay to Code on Nights and Weekends](https://teklinks.andrejnsimoes.com/2024/12/its-okay-to-code-on-nights-and-weekends.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
