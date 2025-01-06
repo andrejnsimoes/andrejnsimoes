@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [My 2024 AI Engineer Roadmap List](https://teklinks.andrejnsimoes.com/2025/01/my-2024-ai-engineer-roadmap-list.html)
+- [Message Queues in System Design](https://teklinks.andrejnsimoes.com/2025/01/message-queues-in-system-design.html)
+- [Your Lodash Tutorial: How To Import Lodash Libraries](https://teklinks.andrejnsimoes.com/2025/01/your-lodash-tutorial-how-to-import.html)
 - [Sweet Suspense](https://teklinks.andrejnsimoes.com/2024/12/sweet-suspense.html)
 - [It’s not what you know, it’s how you know you know it](https://teklinks.andrejnsimoes.com/2024/12/its-not-what-you-know-its-how-you-know.html)
-- [Publishing a simple client-side JavaScript package to npm with GitHub Actions](https://teklinks.andrejnsimoes.com/2024/12/publishing-simple-client-side.html)
-- [Dependencies vs. devDependencies for JavaScript apps](https://teklinks.andrejnsimoes.com/2024/12/dependencies-vs-devdependencies-for.html)
-- [It&#39;s Okay to Code on Nights and Weekends](https://teklinks.andrejnsimoes.com/2024/12/its-okay-to-code-on-nights-and-weekends.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
