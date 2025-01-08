@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Formatting dates and times in JavaScript with Temporal and the Internationalization API](https://teklinks.andrejnsimoes.com/2025/01/formatting-dates-and-times-in.html)
+- [Can LLMs write better code if you keep asking them to “write better code”?](https://teklinks.andrejnsimoes.com/2025/01/can-llms-write-better-code-if-you-keep.html)
+- [Things we learned about LLMs in 2024](https://teklinks.andrejnsimoes.com/2025/01/things-we-learned-about-llms-in-2024.html)
 - [My 2024 AI Engineer Roadmap List](https://teklinks.andrejnsimoes.com/2025/01/my-2024-ai-engineer-roadmap-list.html)
 - [Message Queues in System Design](https://teklinks.andrejnsimoes.com/2025/01/message-queues-in-system-design.html)
-- [Your Lodash Tutorial: How To Import Lodash Libraries](https://teklinks.andrejnsimoes.com/2025/01/your-lodash-tutorial-how-to-import.html)
-- [Sweet Suspense](https://teklinks.andrejnsimoes.com/2024/12/sweet-suspense.html)
-- [It’s not what you know, it’s how you know you know it](https://teklinks.andrejnsimoes.com/2024/12/its-not-what-you-know-its-how-you-know.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
