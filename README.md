@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How to Run Playwright Test in &quot;Parallel,&quot; &quot;Serial,&quot; or &quot;Default&quot; Mode](https://www.youtube.com/watch?v=8NIm1QCUXE0)
 - [17 weird new tech products at CES 2025 you need right now...](https://www.youtube.com/watch?v=mBFf-aYoV6Q)
 - [FASTER JavaScript In 2025 With Sets](https://www.youtube.com/watch?v=zSeGG-SCm8s)
 - [The amazing, but unsettling future of technology...](https://www.youtube.com/watch?v=v4H2fTgHGuc)
 - [Rolldown is here, can it save Vite?](https://www.youtube.com/watch?v=IDe1zVWoX94)
-- [The Best Tech Jobs for 2025: High Demand &amp; High Pay](https://www.youtube.com/watch?v=fZmQ_aPXJAM)
 <!-- YOUTUBE:END -->
 
 
