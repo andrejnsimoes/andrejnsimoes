@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Benchmarking Is a Mess](https://teklinks.andrejnsimoes.com/2025/01/javascript-benchmarking-is-mess.html)
+- [You don&#39;t need Next.js](https://teklinks.andrejnsimoes.com/2025/01/you-dont-need-nextjs.html)
+- [React Router 6 Tutorial](https://teklinks.andrejnsimoes.com/2025/01/react-router-6-tutorial.html)
 - [An Unreasonable Amount of Time](https://teklinks.andrejnsimoes.com/2025/01/an-unreasonable-amount-of-time.html)
 - [Open Letter: Let&#39;s stop supply chain attack](https://teklinks.andrejnsimoes.com/2025/01/open-letter-lets-stop-supply-chain.html)
-- [What we learned copying all the best code assistants](https://teklinks.andrejnsimoes.com/2025/01/what-we-learned-copying-all-best-code.html)
-- [Formatting dates and times in JavaScript with Temporal and the Internationalization API](https://teklinks.andrejnsimoes.com/2025/01/formatting-dates-and-times-in.html)
-- [Can LLMs write better code if you keep asking them to “write better code”?](https://teklinks.andrejnsimoes.com/2025/01/can-llms-write-better-code-if-you-keep.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
