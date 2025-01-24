@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [This free Chinese AI just crushed OpenAI&#39;s $200 o1 model...](https://www.youtube.com/watch?v=-2k1rcRzsLA)
 - [The Complete Guide to Modern React in 2025](https://www.youtube.com/watch?v=bHEdQWEtyKY)
 - [Talk: Nx 101 - From Local Development to CI](https://www.youtube.com/watch?v=z6g536kziMA)
 - [Git &amp; GitHub Crash Course 2025](https://www.youtube.com/watch?v=vA5TTz6BXhY)
 - [How to Run Playwright Test in &quot;Parallel,&quot; &quot;Serial,&quot; or &quot;Default&quot; Mode](https://www.youtube.com/watch?v=8NIm1QCUXE0)
-- [17 weird new tech products at CES 2025 you need right now...](https://www.youtube.com/watch?v=mBFf-aYoV6Q)
 <!-- YOUTUBE:END -->
 
 
