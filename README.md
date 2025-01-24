@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-Driven Prototyping: v0, Bolt, and Lovable Compared](https://teklinks.andrejnsimoes.com/2025/01/ai-driven-prototyping-v0-bolt-and.html)
+- [Resolving an unusual wifi issue](https://teklinks.andrejnsimoes.com/2025/01/resolving-unusual-wifi-issue.html)
+- [Architecture is a game of constraint satisfaction.](https://teklinks.andrejnsimoes.com/2025/01/architecture-is-game-of-constraint.html)
 - [Revealed: React&#39;s experimental animations API](https://teklinks.andrejnsimoes.com/2025/01/revealed-reacts-experimental-animations.html)
 - [Five years of React Native at Shopify](https://teklinks.andrejnsimoes.com/2025/01/five-years-of-react-native-at-shopify.html)
-- [Introducing TanStack Start](https://teklinks.andrejnsimoes.com/2025/01/introducing-tanstack-start.html)
-- [Things we learned about LLMs in 2024](https://teklinks.andrejnsimoes.com/2025/01/things-we-learned-about-llms-in-2024_14.html)
-- [Refactoring with Codemods to Automate API Changes](https://teklinks.andrejnsimoes.com/2025/01/refactoring-with-codemods-to-automate.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
