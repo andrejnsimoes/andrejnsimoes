@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Build Instantly Loading Apps with Deno and Qwik](https://www.youtube.com/watch?v=tJDvGci8UJE)
+- [Javascript&#39;s New Pipeline Operator Is Awesome!](https://www.youtube.com/watch?v=k4xuEl6TmT4)
 - [OpenAI is terrified &lpar;there&#39;s finally a great open source LLM&rpar;](https://www.youtube.com/watch?v=by9PUlqtJlM)
 - [This free Chinese AI just crushed OpenAI&#39;s $200 o1 model...](https://www.youtube.com/watch?v=-2k1rcRzsLA)
 - [The Complete Guide to Modern React in 2025](https://www.youtube.com/watch?v=bHEdQWEtyKY)
-- [Talk: Nx 101 - From Local Development to CI](https://www.youtube.com/watch?v=z6g536kziMA)
-- [Git &amp; GitHub Crash Course 2025](https://www.youtube.com/watch?v=vA5TTz6BXhY)
 <!-- YOUTUBE:END -->
 
 
