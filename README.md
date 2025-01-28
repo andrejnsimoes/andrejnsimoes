@@ -48,7 +48,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble?](https://www.youtube.com/watch?v=Nl7aCUsWykg)
 - [Build Instantly Loading Apps with Deno and Qwik](https://www.youtube.com/watch?v=tJDvGci8UJE)
 - [Javascript&#39;s New Pipeline Operator Is Awesome!](https://www.youtube.com/watch?v=k4xuEl6TmT4)
-- [OpenAI is terrified &lpar;there&#39;s finally a great open source LLM&rpar;](https://www.youtube.com/watch?v=by9PUlqtJlM)
+- [Deepseek R1 Is Really, Really Good](https://www.youtube.com/watch?v=by9PUlqtJlM)
 - [Deepseek-R1 Engineer: POWERFUL AI Coding Agent Can do ANYTHING! &lpar;Opensource&rpar;](https://www.youtube.com/watch?v=4HIQzhGsTMQ)
 <!-- YOUTUBE:END -->
 
