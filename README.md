@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [TypeScript Monorepos Done Right!](https://www.youtube.com/watch?v=D9D8KNffyBk)
 - [Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble?](https://www.youtube.com/watch?v=Nl7aCUsWykg)
 - [Build Instantly Loading Apps with Deno and Qwik](https://www.youtube.com/watch?v=tJDvGci8UJE)
 - [Javascript&#39;s New Pipeline Operator Is Awesome!](https://www.youtube.com/watch?v=k4xuEl6TmT4)
 - [Deepseek R1 Is Really, Really Good](https://www.youtube.com/watch?v=by9PUlqtJlM)
-- [Deepseek-R1 Engineer: POWERFUL AI Coding Agent Can do ANYTHING! &lpar;Opensource&rpar;](https://www.youtube.com/watch?v=4HIQzhGsTMQ)
 <!-- YOUTUBE:END -->
 
 
