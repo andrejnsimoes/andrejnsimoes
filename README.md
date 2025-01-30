@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Deepseek AI with React, Tanstack Start and Ollama](https://www.youtube.com/watch?v=iEg7MyXSrU0)
 - [ChatGPT Vs DeepSeek VS Qwen 2.5 Max: Who Wins?](https://www.youtube.com/watch?v=ePfLSyzi538)
 - [TypeScript Monorepos Done Right!](https://www.youtube.com/watch?v=D9D8KNffyBk)
 - [DeepSeek is a Game Changer for AI - Computerphile](https://www.youtube.com/watch?v=gY4Z-9QlZ64)
 - [Big Tech in panic mode... Did DeepSeek R1 just pop the AI bubble?](https://www.youtube.com/watch?v=Nl7aCUsWykg)
-- [Build Instantly Loading Apps with Deno and Qwik](https://www.youtube.com/watch?v=tJDvGci8UJE)
 <!-- YOUTUBE:END -->
 
 
