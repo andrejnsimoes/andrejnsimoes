@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Driven Prototyping: v0, Bolt, and Lovable Compared](https://teklinks.andrejnsimoes.com/2025/01/ai-driven-prototyping-v0-bolt-and.html)
-- [Resolving an unusual wifi issue](https://teklinks.andrejnsimoes.com/2025/01/resolving-unusual-wifi-issue.html)
-- [Architecture is a game of constraint satisfaction.](https://teklinks.andrejnsimoes.com/2025/01/architecture-is-game-of-constraint.html)
-- [Revealed: React&#39;s experimental animations API](https://teklinks.andrejnsimoes.com/2025/01/revealed-reacts-experimental-animations.html)
-- [Five years of React Native at Shopify](https://teklinks.andrejnsimoes.com/2025/01/five-years-of-react-native-at-shopify.html)
+- [Picking a state management library for a React app used by millions &lpar;and why we went with MobX&rpar;](https://teklinks.andrejnsimoes.com/2025/01/picking-state-management-library-for.html)
+- [Client state management, sync engines, and Foundry](https://teklinks.andrejnsimoes.com/2025/01/client-state-management-sync-engines.html)
+- [Introducing Swark: Automatic Architecture Diagrams from Code](https://teklinks.andrejnsimoes.com/2025/01/introducing-swark-automatic.html)
+- [Developer Productivity in 2025: More AI, but Mixed Results](https://teklinks.andrejnsimoes.com/2025/01/developer-productivity-in-2025-more-ai.html)
+- [Building effective agents](https://teklinks.andrejnsimoes.com/2025/01/building-effective-agents_28.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
