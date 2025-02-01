@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The modern way to write JavaScript servers](https://teklinks.andrejnsimoes.com/2025/02/the-modern-way-to-write-javascript.html)
+- [🚀 Setting Up Ollama &amp; Running DeepSeek R1 Locally for a Powerful RAG System](https://teklinks.andrejnsimoes.com/2025/02/setting-up-ollama-running-deepseek-r1.html)
+- [Relatively New Things You Should Know about HTML Heading Into 2025](https://teklinks.andrejnsimoes.com/2025/02/relatively-new-things-you-should-know.html)
 - [Picking a state management library for a React app used by millions &lpar;and why we went with MobX&rpar;](https://teklinks.andrejnsimoes.com/2025/01/picking-state-management-library-for.html)
 - [Client state management, sync engines, and Foundry](https://teklinks.andrejnsimoes.com/2025/01/client-state-management-sync-engines.html)
-- [Introducing Swark: Automatic Architecture Diagrams from Code](https://teklinks.andrejnsimoes.com/2025/01/introducing-swark-automatic.html)
-- [Developer Productivity in 2025: More AI, but Mixed Results](https://teklinks.andrejnsimoes.com/2025/01/developer-productivity-in-2025-more-ai.html)
-- [Building effective agents](https://teklinks.andrejnsimoes.com/2025/01/building-effective-agents_28.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
