@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Temporal is coming](https://teklinks.andrejnsimoes.com/2025/02/javascript-temporal-is-coming.html)
+- [Why all developers should adopt a safety-critical mindset](https://teklinks.andrejnsimoes.com/2025/02/why-all-developers-should-adopt-safety.html)
+- [So, you want to push a web platform feature?](https://teklinks.andrejnsimoes.com/2025/02/so-you-want-to-push-web-platform-feature.html)
+- [Five years of React Native at Shopify](https://teklinks.andrejnsimoes.com/2025/02/five-years-of-react-native-at-shopify.html)
 - [The modern way to write JavaScript servers](https://teklinks.andrejnsimoes.com/2025/02/the-modern-way-to-write-javascript.html)
-- [🚀 Setting Up Ollama &amp; Running DeepSeek R1 Locally for a Powerful RAG System](https://teklinks.andrejnsimoes.com/2025/02/setting-up-ollama-running-deepseek-r1.html)
-- [Relatively New Things You Should Know about HTML Heading Into 2025](https://teklinks.andrejnsimoes.com/2025/02/relatively-new-things-you-should-know.html)
-- [Picking a state management library for a React app used by millions &lpar;and why we went with MobX&rpar;](https://teklinks.andrejnsimoes.com/2025/01/picking-state-management-library-for.html)
-- [Client state management, sync engines, and Foundry](https://teklinks.andrejnsimoes.com/2025/01/client-state-management-sync-engines.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
