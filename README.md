@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Speed Trifecta: 11ty, Brotli 11, and CSS Fingerprinting](https://teklinks.andrejnsimoes.com/2025/02/the-speed-trifecta-11ty-brotli-11-and.html)
+- [Demystifying DeepSeek](https://teklinks.andrejnsimoes.com/2025/02/demystifying-deepseek.html)
+- [AI and cognitive offloading: sharing the thinking process with machines](https://teklinks.andrejnsimoes.com/2025/02/ai-and-cognitive-offloading-sharing.html)
 - [JavaScript Temporal is coming](https://teklinks.andrejnsimoes.com/2025/02/javascript-temporal-is-coming.html)
 - [Why all developers should adopt a safety-critical mindset](https://teklinks.andrejnsimoes.com/2025/02/why-all-developers-should-adopt-safety.html)
-- [So, you want to push a web platform feature?](https://teklinks.andrejnsimoes.com/2025/02/so-you-want-to-push-web-platform-feature.html)
-- [Five years of React Native at Shopify](https://teklinks.andrejnsimoes.com/2025/02/five-years-of-react-native-at-shopify.html)
-- [The modern way to write JavaScript servers](https://teklinks.andrejnsimoes.com/2025/02/the-modern-way-to-write-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
