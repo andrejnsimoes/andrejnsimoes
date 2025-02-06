@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding `any`s with Linting and TypeScript](https://teklinks.andrejnsimoes.com/2025/02/avoiding-anys-with-linting-and.html)
+- [How long is a second in JavaScript?](https://teklinks.andrejnsimoes.com/2025/02/how-long-is-second-in-javascript.html)
+- [How I brought LCP down to under 350 ms for Google-referred users on my website](https://teklinks.andrejnsimoes.com/2025/02/how-i-brought-lcp-down-to-under-350-ms.html)
 - [The Speed Trifecta: 11ty, Brotli 11, and CSS Fingerprinting](https://teklinks.andrejnsimoes.com/2025/02/the-speed-trifecta-11ty-brotli-11-and.html)
 - [Demystifying DeepSeek](https://teklinks.andrejnsimoes.com/2025/02/demystifying-deepseek.html)
-- [AI and cognitive offloading: sharing the thinking process with machines](https://teklinks.andrejnsimoes.com/2025/02/ai-and-cognitive-offloading-sharing.html)
-- [JavaScript Temporal is coming](https://teklinks.andrejnsimoes.com/2025/02/javascript-temporal-is-coming.html)
-- [Why all developers should adopt a safety-critical mindset](https://teklinks.andrejnsimoes.com/2025/02/why-all-developers-should-adopt-safety.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
