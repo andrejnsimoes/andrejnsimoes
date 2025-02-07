@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Copilot gets Cursor&#39;s killer feature: Agent Mode](https://www.youtube.com/watch?v=zIejF3IGtWk)
 - [Google finally shipped some fire…](https://www.youtube.com/watch?v=k9xbh9LUYn0)
 - [STOP Using Recoil, Use This Instead!](https://www.youtube.com/watch?v=QepeuHTxiLo)
 - [o3-mini is really good &lpar;but does it beat deepseek?&rpar;](https://www.youtube.com/watch?v=d-VjcaRyo40)
 - [the ONLY way to run Deepseek...](https://www.youtube.com/watch?v=7TR-FLWNVHY)
-- [Deepseek AI with React, Tanstack Start and Ollama](https://www.youtube.com/watch?v=iEg7MyXSrU0)
 <!-- YOUTUBE:END -->
 
 
