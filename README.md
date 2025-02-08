@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Query - The Bad Parts](https://teklinks.andrejnsimoes.com/2025/02/react-query-bad-parts.html)
 - [Epoch Semantic Versioning](https://teklinks.andrejnsimoes.com/2025/02/epoch-semantic-versioning_18.html)
 - [Oracle justified its JavaScript trademark with Node.js—now it wants that ignored](https://teklinks.andrejnsimoes.com/2025/02/oracle-justified-its-javascript_7.html)
 - [How engineering teams can thrive in 2025](https://teklinks.andrejnsimoes.com/2025/02/how-engineering-teams-can-thrive-in-2025.html)
 - [Avoiding `any`s with Linting and TypeScript](https://teklinks.andrejnsimoes.com/2025/02/avoiding-anys-with-linting-and.html)
-- [How long is a second in JavaScript?](https://teklinks.andrejnsimoes.com/2025/02/how-long-is-second-in-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
