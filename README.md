@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Announcing ES Module Shims 2.0](https://teklinks.andrejnsimoes.com/2025/02/announcing-es-module-shims-20_99.html)
+- [The Principles of Durable Execution Explained](https://teklinks.andrejnsimoes.com/2025/02/the-principles-of-durable-execution.html)
+- [How LLMs are secretly reshaping the code of tomorrow, and what to do about it](https://teklinks.andrejnsimoes.com/2025/02/how-llms-are-secretly-reshaping-code-of.html)
 - [React Query - The Bad Parts](https://teklinks.andrejnsimoes.com/2025/02/react-query-bad-parts.html)
 - [Epoch Semantic Versioning](https://teklinks.andrejnsimoes.com/2025/02/epoch-semantic-versioning_18.html)
-- [Oracle justified its JavaScript trademark with Node.js—now it wants that ignored](https://teklinks.andrejnsimoes.com/2025/02/oracle-justified-its-javascript_7.html)
-- [How engineering teams can thrive in 2025](https://teklinks.andrejnsimoes.com/2025/02/how-engineering-teams-can-thrive-in-2025.html)
-- [Avoiding `any`s with Linting and TypeScript](https://teklinks.andrejnsimoes.com/2025/02/avoiding-anys-with-linting-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
