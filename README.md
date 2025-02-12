@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial: publishing ESM-based npm packages with TypeScript](https://teklinks.andrejnsimoes.com/2025/02/tutorial-publishing-esm-based-npm.html)
 - [Single Responsibility Principle in React: The Art of Component Focus](https://teklinks.andrejnsimoes.com/2025/02/single-responsibility-principle-in.html)
 - [There are a lot of ways to break up long tasks in JavaScript.](https://teklinks.andrejnsimoes.com/2025/02/there-are-lot-of-ways-to-break-up-long.html)
 - [Software Design: What went wrong?](https://teklinks.andrejnsimoes.com/2025/02/software-design-what-went-wrong_45.html)
 - [Vite with TypeScript](https://teklinks.andrejnsimoes.com/2025/02/vite-with-typescript_10.html)
-- [Differences between ESLint and TypeScript](https://teklinks.andrejnsimoes.com/2025/02/differences-between-eslint-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
