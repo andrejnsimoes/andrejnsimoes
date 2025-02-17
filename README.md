@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [From Rust to TypeScript: A New Chapter for Prisma ORM](https://teklinks.andrejnsimoes.com/2025/02/from-rust-to-typescript-new-chapter-for.html)
 - [You should not use URLPattern to route HTTP requests on the server](https://teklinks.andrejnsimoes.com/2025/02/you-should-not-use-urlpattern-to-route.html)
 - [Move on to ESM-only](https://teklinks.andrejnsimoes.com/2025/02/move-on-to-esm-only.html)
 - [Things people get wrong about Electron](https://teklinks.andrejnsimoes.com/2025/02/things-people-get-wrong-about-electron.html)
 - [Building a semantic movie search demo with pgvector and Next.js](https://teklinks.andrejnsimoes.com/2025/02/building-semantic-movie-search-demo.html)
-- [Monorepos in JavaScript &amp; TypeScript](https://teklinks.andrejnsimoes.com/2025/02/monorepos-in-javascript-typescript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
