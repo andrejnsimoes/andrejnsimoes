@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Why I rebuilt ProseMirror’s renderer in React](https://teklinks.andrejnsimoes.com/2025/02/why-i-rebuilt-prosemirrors-renderer-in.html)
+- [How React Router works under the hood](https://teklinks.andrejnsimoes.com/2025/02/how-react-router-works-under-hood.html)
+- [The End of Programming as We Know It](https://teklinks.andrejnsimoes.com/2025/02/the-end-of-programming-as-we-know-it.html)
 - [From Rust to TypeScript: A New Chapter for Prisma ORM](https://teklinks.andrejnsimoes.com/2025/02/from-rust-to-typescript-new-chapter-for.html)
 - [You should not use URLPattern to route HTTP requests on the server](https://teklinks.andrejnsimoes.com/2025/02/you-should-not-use-urlpattern-to-route.html)
-- [Move on to ESM-only](https://teklinks.andrejnsimoes.com/2025/02/move-on-to-esm-only.html)
-- [Things people get wrong about Electron](https://teklinks.andrejnsimoes.com/2025/02/things-people-get-wrong-about-electron.html)
-- [Building a semantic movie search demo with pgvector and Next.js](https://teklinks.andrejnsimoes.com/2025/02/building-semantic-movie-search-demo.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
