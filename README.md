@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [Grok 3: This NEW AI Just Broke The Internet... 🤯](https://www.youtube.com/watch?v=qKX0zdLix60)
+- [We Just Made Your LLM Way Smarter!](https://www.youtube.com/watch?v=RNilYmJJzdk)
 - [I built an AI supercomputer with 5 Mac Studios](https://www.youtube.com/watch?v=Ju0ndy2kwlw)
 - [TanStack Offers A Fantastic Replacement For Create React App](https://www.youtube.com/watch?v=10J6RyMOxN0)
 - [Copilot gets Cursor&#39;s killer feature: Agent Mode](https://www.youtube.com/watch?v=zIejF3IGtWk)
-- [Google finally shipped some fire…](https://www.youtube.com/watch?v=k9xbh9LUYn0)
 <!-- YOUTUBE:END -->
 
 
