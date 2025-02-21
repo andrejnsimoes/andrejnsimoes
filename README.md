@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Now is the Best Time to Learn Deno](https://www.youtube.com/watch?v=lToTMeemSmE)
+- [STOP designing scrollable modals — do this instead!](https://www.youtube.com/watch?v=vPNfW5toer8)
 - [Grok 3: This NEW AI Just Broke The Internet... 🤯](https://www.youtube.com/watch?v=qKX0zdLix60)
 - [We Just Made Your LLM Way Smarter!](https://www.youtube.com/watch?v=RNilYmJJzdk)
 - [I built an AI supercomputer with 5 Mac Studios](https://www.youtube.com/watch?v=Ju0ndy2kwlw)
-- [TanStack Offers A Fantastic Replacement For Create React App](https://www.youtube.com/watch?v=10J6RyMOxN0)
-- [Copilot gets Cursor&#39;s killer feature: Agent Mode](https://www.youtube.com/watch?v=zIejF3IGtWk)
 <!-- YOUTUBE:END -->
 
 
