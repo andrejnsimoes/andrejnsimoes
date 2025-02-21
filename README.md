@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing Data Is An Art - We Should Treat It Like One](https://teklinks.andrejnsimoes.com/2025/02/visualizing-data-is-art-we-should-treat.html)
+- [How to harness APIs and AI for intelligent automation](https://teklinks.andrejnsimoes.com/2025/02/how-to-harness-apis-and-ai-for.html)
 - [How your morning coffee is changing the structure of your brain](https://teklinks.andrejnsimoes.com/2025/02/how-your-morning-coffee-is-changing.html)
 - [The React data-table I always wanted](https://teklinks.andrejnsimoes.com/2025/02/the-react-data-table-i-always-wanted.html)
 - [ESLint now officially supports linting of CSS](https://teklinks.andrejnsimoes.com/2025/02/eslint-now-officially-supports-linting.html)
-- [Why I rebuilt ProseMirror’s renderer in React](https://teklinks.andrejnsimoes.com/2025/02/why-i-rebuilt-prosemirrors-renderer-in.html)
-- [How React Router works under the hood](https://teklinks.andrejnsimoes.com/2025/02/how-react-router-works-under-hood.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
