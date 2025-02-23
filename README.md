@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Responding to Prime&#39;s take about frontend frameworks](https://www.youtube.com/watch?v=U8L_KOQmDj4)
 - [Now is the Best Time to Learn Deno](https://www.youtube.com/watch?v=lToTMeemSmE)
 - [STOP designing scrollable modals — do this instead!](https://www.youtube.com/watch?v=vPNfW5toer8)
 - [Grok 3: This NEW AI Just Broke The Internet... 🤯](https://www.youtube.com/watch?v=qKX0zdLix60)
 - [We Just Made Your LLM Way Smarter!](https://www.youtube.com/watch?v=RNilYmJJzdk)
-- [I built an AI supercomputer with 5 Mac Studios](https://www.youtube.com/watch?v=Ju0ndy2kwlw)
 <!-- YOUTUBE:END -->
 
 
