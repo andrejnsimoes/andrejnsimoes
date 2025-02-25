@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The State of AI in the Cloud 2025](https://teklinks.andrejnsimoes.com/2025/02/the-state-of-ai-in-cloud-2025.html)
+- [My Experience as a Designer Working at Bit](https://teklinks.andrejnsimoes.com/2025/02/my-experience-as-designer-working-at-bit.html)
+- [Automated architecture diagrams](https://teklinks.andrejnsimoes.com/2025/02/automated-architecture-diagrams.html)
 - [When Imperfect Systems are Good, Actually: Bluesky&#39;s Lossy Timelines](https://teklinks.andrejnsimoes.com/2025/02/when-imperfect-systems-are-good.html)
 - [Svelte 5 is not Javascript](https://teklinks.andrejnsimoes.com/2025/02/svelte-5-is-not-javascript.html)
-- [Visualizing Data Is An Art - We Should Treat It Like One](https://teklinks.andrejnsimoes.com/2025/02/visualizing-data-is-art-we-should-treat.html)
-- [How to harness APIs and AI for intelligent automation](https://teklinks.andrejnsimoes.com/2025/02/how-to-harness-apis-and-ai-for.html)
-- [How your morning coffee is changing the structure of your brain](https://teklinks.andrejnsimoes.com/2025/02/how-your-morning-coffee-is-changing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
