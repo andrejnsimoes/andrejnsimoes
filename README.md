@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Libraries for 2024](https://teklinks.andrejnsimoes.com/2025/02/react-libraries-for-2024.html)
+- [State of React Native 2024](https://teklinks.andrejnsimoes.com/2025/02/state-of-react-native-2024.html)
+- [Comparing local large language models for alt-text generation](https://teklinks.andrejnsimoes.com/2025/02/comparing-local-large-language-models.html)
 - [Learning web extensions](https://teklinks.andrejnsimoes.com/2025/02/learning-web-extensions.html)
 - [Migrating 160,000 Lines of Production Banking JavaScript to TypeScript with Zero Downtime](https://teklinks.andrejnsimoes.com/2025/02/migrating-160000-lines-of-production.html)
-- [The State of AI in the Cloud 2025](https://teklinks.andrejnsimoes.com/2025/02/the-state-of-ai-in-cloud-2025.html)
-- [My Experience as a Designer Working at Bit](https://teklinks.andrejnsimoes.com/2025/02/my-experience-as-designer-working-at-bit.html)
-- [Automated architecture diagrams](https://teklinks.andrejnsimoes.com/2025/02/automated-architecture-diagrams.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
