@@ -47,9 +47,9 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 <!-- YOUTUBE:START -->
 - [Deno got even better!](https://www.youtube.com/watch?v=8AGqvAgRGdc)
 - [Fix Your Slow React App With React-Scan](https://www.youtube.com/watch?v=3EnathFYgz8)
+- [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
 - [Claude 3.7 is the best model for devs.](https://www.youtube.com/watch?v=a3j4olgIjk8)
 - [Claude 3.7 Sonnet: The BEST Coding LLM Ever! &lpar;Fullly Tested&rpar; - TRULY INSANE!](https://www.youtube.com/watch?v=dSBMmRKKTx4)
-- [Responding to Prime&#39;s take about frontend frameworks](https://www.youtube.com/watch?v=U8L_KOQmDj4)
 <!-- YOUTUBE:END -->
 
 
