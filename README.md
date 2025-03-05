@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Variants of LoRA](https://teklinks.andrejnsimoes.com/2025/03/variants-of-lora.html)
+- [Truth, Lies and Progress Bars](https://teklinks.andrejnsimoes.com/2025/03/truth-lies-and-progress-bars.html)
+- [Building WebSites With LLMS](https://teklinks.andrejnsimoes.com/2025/03/building-websites-with-llms.html)
 - [Avoiding Server Component Waterfall Fetching with React 19 cache&lpar;&rpar;](https://teklinks.andrejnsimoes.com/2025/03/avoiding-server-component-waterfall.html)
 - [Subverting control with weak references](https://teklinks.andrejnsimoes.com/2025/03/subverting-control-with-weak-references.html)
-- [Rethinking Find-in-Page Accessibility: Making Hidden Text Work for Everyone](https://teklinks.andrejnsimoes.com/2025/03/rethinking-find-in-page-accessibility.html)
-- [How Core Git Developers Configure Git](https://teklinks.andrejnsimoes.com/2025/03/how-core-git-developers-configure-git.html)
-- [Making Cloudflare the best platform for building AI Agents](https://teklinks.andrejnsimoes.com/2025/03/making-cloudflare-best-platform-for.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
