@@ -48,8 +48,8 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [Get Started With The Model Context Protocol // 2-Minute Tutorial](https://www.youtube.com/watch?v=MC2BwMGFRx4)
 - [O Bun vai substituir o Vite agora? &lpar;bundler de front-end&rpar;](https://www.youtube.com/watch?v=GWMIs0vvsJg)
 - [We Just Released the MCP Server for Monorepos](https://www.youtube.com/watch?v=V2W94Sq_v6A)
+- [TikTok just released its React Native killer…](https://www.youtube.com/watch?v=-qjE8JkIVoQ)
 - [Deno got even better!](https://www.youtube.com/watch?v=8AGqvAgRGdc)
-- [Fix Your Slow React App With React-Scan](https://www.youtube.com/watch?v=3EnathFYgz8)
 <!-- YOUTUBE:END -->
 
 
