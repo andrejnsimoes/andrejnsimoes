@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Node just added TypeScript support. What does that mean for Deno?](https://teklinks.andrejnsimoes.com/2025/03/node-just-added-typescript-support-what.html)
+- [What is Model Context Protocol &lpar;MCP&rpar;? How it simplifies AI integrations compared to APIs](https://teklinks.andrejnsimoes.com/2025/03/what-is-model-context-protocol-mcp-how.html)
+- [JavaScript Fatigue Strikes Back](https://teklinks.andrejnsimoes.com/2025/03/javascript-fatigue-strikes-back.html)
 - [how to gain code execution on millions of people and hundreds of popular apps](https://teklinks.andrejnsimoes.com/2025/03/how-to-gain-code-execution-on-millions.html)
 - [Building APIs with Next.js](https://teklinks.andrejnsimoes.com/2025/03/building-apis-with-nextjs.html)
-- [What is TypeScript? An overview for JavaScript programmers](https://teklinks.andrejnsimoes.com/2025/03/what-is-typescript-overview-for.html)
-- [Announcing TanStack Form v1](https://teklinks.andrejnsimoes.com/2025/03/announcing-tanstack-form-v1.html)
-- [10 Things To Avoid in Domain-Driven Design &lpar;DDD&rpar;](https://teklinks.andrejnsimoes.com/2025/03/10-things-to-avoid-in-domain-driven.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
