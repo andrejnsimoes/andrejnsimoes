@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [Typescript Just Got 10x Faster](https://www.youtube.com/watch?v=ZlGza4oIleY)
+- [A 10x faster TypeScript](https://www.youtube.com/watch?v=pNlq-EVld70)
 - [Web Vitals Explained](https://www.youtube.com/watch?v=KY6Cr6t-cuA)
 - [Get Started With The Model Context Protocol // 2-Minute Tutorial](https://www.youtube.com/watch?v=MC2BwMGFRx4)
 - [O Bun vai substituir o Vite agora? &lpar;bundler de front-end&rpar;](https://www.youtube.com/watch?v=GWMIs0vvsJg)
-- [We Just Released the MCP Server for Monorepos](https://www.youtube.com/watch?v=V2W94Sq_v6A)
 <!-- YOUTUBE:END -->
 
 
