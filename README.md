@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Typescript Just Got 10x Faster](https://www.youtube.com/watch?v=ZlGza4oIleY)
 - [Web Vitals Explained](https://www.youtube.com/watch?v=KY6Cr6t-cuA)
 - [Get Started With The Model Context Protocol // 2-Minute Tutorial](https://www.youtube.com/watch?v=MC2BwMGFRx4)
 - [O Bun vai substituir o Vite agora? &lpar;bundler de front-end&rpar;](https://www.youtube.com/watch?v=GWMIs0vvsJg)
 - [We Just Released the MCP Server for Monorepos](https://www.youtube.com/watch?v=V2W94Sq_v6A)
-- [TikTok just released its React Native killer…](https://www.youtube.com/watch?v=-qjE8JkIVoQ)
 <!-- YOUTUBE:END -->
 
 
