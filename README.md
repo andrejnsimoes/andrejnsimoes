@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The URL is a great place to store state in React](https://teklinks.andrejnsimoes.com/2025/03/the-url-is-great-place-to-store-state.html)
+- [Introducing agents.json](https://teklinks.andrejnsimoes.com/2025/03/introducing-agentsjson.html)
 - [Beyond React.memo: Smarter Ways to Optimize Performance](https://teklinks.andrejnsimoes.com/2025/03/beyond-reactmemo-smarter-ways-to.html)
 - [Crossy Road with React Three Fiber](https://teklinks.andrejnsimoes.com/2025/03/crossy-road-with-react-three-fiber.html)
 - [How The New York Times systematically migrated from Enzyme into React Testing Library](https://teklinks.andrejnsimoes.com/2025/03/how-new-york-times-systematically.html)
-- [Angular 19.2 Is Now Available](https://teklinks.andrejnsimoes.com/2025/03/angular-192-is-now-available.html)
-- [Build Your First MCP Tool in Cursor in Just 2 Minutes](https://teklinks.andrejnsimoes.com/2025/03/build-your-first-mcp-tool-in-cursor-in.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
