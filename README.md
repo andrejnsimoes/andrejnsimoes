@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How GitHub engineers learn new codebases](https://teklinks.andrejnsimoes.com/2025/03/how-github-engineers-learn-new-codebases.html)
+- [How ECMAScript Engines Optimize Your Variables](https://teklinks.andrejnsimoes.com/2025/03/how-ecmascript-engines-optimize-your.html)
+- [Abusing SQLite to Handle Concurrency](https://teklinks.andrejnsimoes.com/2025/03/abusing-sqlite-to-handle-concurrency.html)
 - [How the Jotai Store API Is Inspired by the WeakMap API](https://teklinks.andrejnsimoes.com/2025/03/how-jotai-store-api-is-inspired-by.html)
 - [I use Cursor daily - here&#39;s how I avoid the garbage parts](https://teklinks.andrejnsimoes.com/2025/03/i-use-cursor-daily-heres-how-i-avoid.html)
-- [Astro 5.4](https://teklinks.andrejnsimoes.com/2025/03/astro-54.html)
-- [The URL is a great place to store state in React](https://teklinks.andrejnsimoes.com/2025/03/the-url-is-great-place-to-store-state.html)
-- [Introducing agents.json](https://teklinks.andrejnsimoes.com/2025/03/introducing-agentsjson.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
