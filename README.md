@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Zero to ~$40M ARR: How Bolt&#39;s pivot changed AI product development forever | Eric Simons &lpar;CEO&rpar;](https://www.youtube.com/watch?v=L22DtAHLmzs)
 - [The easiest way to build typesafe APIs](https://www.youtube.com/watch?v=ZQqXAvGEOPY)
 - [WHY NOT RUST? TypeScript is rewritten in Go...](https://www.youtube.com/watch?v=tRiIcCOhN6A)
 - [Não Use Docker Compose em Produção! Eis o Porquê](https://www.youtube.com/watch?v=LN6HQ8FGHAA)
 - [Typescript Just Got 10x Faster](https://www.youtube.com/watch?v=ZlGza4oIleY)
-- [A 10x faster TypeScript](https://www.youtube.com/watch?v=pNlq-EVld70)
 <!-- YOUTUBE:END -->
 
 
