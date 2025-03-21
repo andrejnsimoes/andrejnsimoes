@@ -45,7 +45,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons](https://www.youtube.com/watch?v=L22DtAHLmzs)
+- [Zero to ~$40M ARR: How Bolt&#39;s pivot changed AI product development forever | Eric Simons &lpar;CEO&rpar;](https://www.youtube.com/watch?v=L22DtAHLmzs)
 - [The easiest way to build typesafe APIs](https://www.youtube.com/watch?v=ZQqXAvGEOPY)
 - [WHY NOT RUST? TypeScript is rewritten in Go...](https://www.youtube.com/watch?v=tRiIcCOhN6A)
 - [Não Use Docker Compose em Produção! Eis o Porquê](https://www.youtube.com/watch?v=LN6HQ8FGHAA)
