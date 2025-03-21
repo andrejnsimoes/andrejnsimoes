@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [React Trends in 2024](https://teklinks.andrejnsimoes.com/2025/03/react-trends-in-2024_21.html)
+- [The Great ESLint v9 Migration Adventure: A Developer&#39;s Survival Guide 🧗‍♂️](https://teklinks.andrejnsimoes.com/2025/03/the-great-eslint-v9-migration-adventure.html)
+- [Next.js vs TanStack](https://teklinks.andrejnsimoes.com/2025/03/nextjs-vs-tanstack.html)
+- [Unlock exciting use cases with the Document Picture-in-Picture API](https://teklinks.andrejnsimoes.com/2025/03/unlock-exciting-use-cases-with-document.html)
 - [AI&#39;s effects on programming jobs](https://teklinks.andrejnsimoes.com/2025/03/ais-effects-on-programming-jobs.html)
-- [How to get deep traces in your Node.js backend with OTel and Deno](https://teklinks.andrejnsimoes.com/2025/03/how-to-get-deep-traces-in-your-nodejs.html)
-- [Building APIs with Next.js](https://teklinks.andrejnsimoes.com/2025/03/building-apis-with-nextjs_19.html)
-- [How GitHub engineers learn new codebases](https://teklinks.andrejnsimoes.com/2025/03/how-github-engineers-learn-new-codebases.html)
-- [How ECMAScript Engines Optimize Your Variables](https://teklinks.andrejnsimoes.com/2025/03/how-ecmascript-engines-optimize-your.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
