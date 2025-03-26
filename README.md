@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an Authorized RAG Chatbot with Oso Cloud](https://teklinks.andrejnsimoes.com/2025/03/building-authorized-rag-chatbot-with.html)
+- [My DOs and DON’Ts of Software Architecture](https://teklinks.andrejnsimoes.com/2025/03/my-dos-and-donts-of-software.html)
 - [Web Components Vs. Framework Components: What’s The Difference?](https://teklinks.andrejnsimoes.com/2025/03/web-components-vs-framework.html)
 - [Writing static websites with Vite and React](https://teklinks.andrejnsimoes.com/2025/03/writing-static-websites-with-vite-and.html)
 - [Introducing command and commandfor](https://teklinks.andrejnsimoes.com/2025/03/introducing-command-and-commandfor.html)
-- [React Trends in 2024](https://teklinks.andrejnsimoes.com/2025/03/react-trends-in-2024_21.html)
-- [The Great ESLint v9 Migration Adventure: A Developer&#39;s Survival Guide 🧗‍♂️](https://teklinks.andrejnsimoes.com/2025/03/the-great-eslint-v9-migration-adventure.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
