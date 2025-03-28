@@ -49,7 +49,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [AI Goes Shopping for You with Playwright&#39;s MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
 - [Next.js rocked by critical 9.1 level exploit...](https://www.youtube.com/watch?v=AaCnBOqyvIM)
 - [Quando usar React Query ou Server Components no Next.js](https://www.youtube.com/watch?v=kmZ0dQNQEWo)
-- [Inside Bolt: From near-death to one of the fastest-growing products in history | Eric Simons](https://www.youtube.com/watch?v=L22DtAHLmzs)
+- [Zero to ~$40M ARR: How Bolt&#39;s pivot changed AI product development forever | Eric Simons &lpar;CEO&rpar;](https://www.youtube.com/watch?v=L22DtAHLmzs)
 <!-- YOUTUBE:END -->
 
 
