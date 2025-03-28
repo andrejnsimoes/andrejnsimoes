@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Build and deploy Remote Model Context Protocol &lpar;MCP&rpar; servers to Cloudflare](https://teklinks.andrejnsimoes.com/2025/03/build-and-deploy-remote-model-context.html)
+- [Is Vite faster than Turbopack?](https://teklinks.andrejnsimoes.com/2025/03/is-vite-faster-than-turbopack.html)
+- [Node.js TSC Votes to Stop Distributing Corepack](https://teklinks.andrejnsimoes.com/2025/03/nodejs-tsc-votes-to-stop-distributing.html)
 - [Single Sign On: Our Experience with Auth0](https://teklinks.andrejnsimoes.com/2025/03/single-sign-on-our-experience-with-auth0.html)
 - [AI Trends Disrupting Software Teams](https://teklinks.andrejnsimoes.com/2025/03/ai-trends-disrupting-software-teams.html)
-- [How can on-site servers enable richer retail experiences?](https://teklinks.andrejnsimoes.com/2025/03/how-can-on-site-servers-enable-richer.html)
-- [Building an Authorized RAG Chatbot with Oso Cloud](https://teklinks.andrejnsimoes.com/2025/03/building-authorized-rag-chatbot-with.html)
-- [My DOs and DON’Ts of Software Architecture](https://teklinks.andrejnsimoes.com/2025/03/my-dos-and-donts-of-software.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
