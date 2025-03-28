@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [OpenAI’s new image generator hits different...](https://www.youtube.com/watch?v=Bt-7YiNBvLE)
 - [TanStack layouts are pretty nice](https://www.youtube.com/watch?v=2TAOEK9IgTg)
+- [AI images just got dangerously good &lpar;RIP diffusion??&rpar;](https://www.youtube.com/watch?v=bTNVqAPlw3s)
 - [AI Goes Shopping for You with Playwright&#39;s MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
 - [React Query API Design: Lessons Learned - Dominik Dorfmeister](https://www.youtube.com/watch?v=l3PxErcKeAI)
-- [Next.js rocked by critical 9.1 level exploit...](https://www.youtube.com/watch?v=AaCnBOqyvIM)
-- [Quando usar React Query ou Server Components no Next.js](https://www.youtube.com/watch?v=kmZ0dQNQEWo)
 <!-- YOUTUBE:END -->
 
 
