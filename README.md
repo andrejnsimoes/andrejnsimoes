@@ -47,9 +47,9 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 <!-- YOUTUBE:START -->
 - [TanStack layouts are pretty nice](https://www.youtube.com/watch?v=2TAOEK9IgTg)
 - [AI Goes Shopping for You with Playwright&#39;s MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
+- [React Query API Design: Lessons Learned - Dominik Dorfmeister](https://www.youtube.com/watch?v=l3PxErcKeAI)
 - [Next.js rocked by critical 9.1 level exploit...](https://www.youtube.com/watch?v=AaCnBOqyvIM)
 - [Quando usar React Query ou Server Components no Next.js](https://www.youtube.com/watch?v=kmZ0dQNQEWo)
-- [Zero to ~$40M ARR: How Bolt&#39;s pivot changed AI product development forever | Eric Simons &lpar;CEO&rpar;](https://www.youtube.com/watch?v=L22DtAHLmzs)
 <!-- YOUTUBE:END -->
 
 
