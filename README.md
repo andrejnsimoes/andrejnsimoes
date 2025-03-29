@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [OpenAI’s new image generator hits different...](https://www.youtube.com/watch?v=Bt-7YiNBvLE)
+- [Meu terminal completo &lpar;extensões, tema e config&rpar;](https://www.youtube.com/watch?v=N2ZKC3rSLzk)
 - [TanStack layouts are pretty nice](https://www.youtube.com/watch?v=2TAOEK9IgTg)
 - [AI images just got dangerously good &lpar;RIP diffusion??&rpar;](https://www.youtube.com/watch?v=bTNVqAPlw3s)
 - [AI Goes Shopping for You with Playwright&#39;s MCP Server!](https://www.youtube.com/watch?v=r3PzUlbfMXA)
-- [React Query API Design: Lessons Learned - Dominik Dorfmeister](https://www.youtube.com/watch?v=l3PxErcKeAI)
 <!-- YOUTUBE:END -->
 
 
