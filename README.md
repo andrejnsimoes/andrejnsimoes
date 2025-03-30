@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The state of the front-end and full-stack job market](https://teklinks.andrejnsimoes.com/2025/03/the-state-of-front-end-and-full-stack.html)
+- [UI Algorithms: A Tiny Undo Stack](https://teklinks.andrejnsimoes.com/2025/03/ui-algorithms-tiny-undo-stack.html)
+- [Deploying a Next.js App to Production in any server](https://teklinks.andrejnsimoes.com/2025/03/deploying-nextjs-app-to-production-in.html)
 - [Build and deploy Remote Model Context Protocol &lpar;MCP&rpar; servers to Cloudflare](https://teklinks.andrejnsimoes.com/2025/03/build-and-deploy-remote-model-context.html)
 - [Is Vite faster than Turbopack?](https://teklinks.andrejnsimoes.com/2025/03/is-vite-faster-than-turbopack.html)
-- [Node.js TSC Votes to Stop Distributing Corepack](https://teklinks.andrejnsimoes.com/2025/03/nodejs-tsc-votes-to-stop-distributing.html)
-- [Single Sign On: Our Experience with Auth0](https://teklinks.andrejnsimoes.com/2025/03/single-sign-on-our-experience-with-auth0.html)
-- [AI Trends Disrupting Software Teams](https://teklinks.andrejnsimoes.com/2025/03/ai-trends-disrupting-software-teams.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
