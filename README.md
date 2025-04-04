@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [Background jobs &amp; workflows com trigger.dev &lpar;estou usando no meu SaaS&rpar;](https://www.youtube.com/watch?v=4wlfUM3vHCg)
+- [I gave Claude root access to my server... Model Context Protocol explained](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
 - [OpenAI’s new image generator hits different...](https://www.youtube.com/watch?v=Bt-7YiNBvLE)
 - [Meu terminal completo &lpar;extensões, tema e config&rpar;](https://www.youtube.com/watch?v=N2ZKC3rSLzk)
 - [TanStack layouts are pretty nice](https://www.youtube.com/watch?v=2TAOEK9IgTg)
-- [AI images just got dangerously good &lpar;RIP diffusion??&rpar;](https://www.youtube.com/watch?v=bTNVqAPlw3s)
 <!-- YOUTUBE:END -->
 
 
