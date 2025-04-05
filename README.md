@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [I guess some request headers are more trustworthy than others.](https://teklinks.andrejnsimoes.com/2025/04/i-guess-some-request-headers-are-more.html)
+- [Minimal CSS-only blurry image placeholders](https://teklinks.andrejnsimoes.com/2025/04/minimal-css-only-blurry-image.html)
+- [Buying browser extensions for fun and profit](https://teklinks.andrejnsimoes.com/2025/04/buying-browser-extensions-for-fun-and.html)
 - [Hybrid Linters: The Best of Both Worlds](https://teklinks.andrejnsimoes.com/2025/04/hybrid-linters-best-of-both-worlds.html)
 - [Building Robust React Apps with Zustand and Immer](https://teklinks.andrejnsimoes.com/2025/04/building-robust-react-apps-with-zustand.html)
-- [How AI Agents Are Quietly Transforming Frontend Development](https://teklinks.andrejnsimoes.com/2025/04/how-ai-agents-are-quietly-transforming.html)
-- [5 GitHub Actions every maintainer needs to know](https://teklinks.andrejnsimoes.com/2025/04/5-github-actions-every-maintainer-needs.html)
-- [You should know this before choosing Next.js](https://teklinks.andrejnsimoes.com/2025/03/you-should-know-this-before-choosing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
