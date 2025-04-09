@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A practical guide to Llama Stack for Node.js developers](https://teklinks.andrejnsimoes.com/2025/04/a-practical-guide-to-llama-stack-for.html)
+- [Improving Pinterest Search Relevance Using Large Language Models](https://teklinks.andrejnsimoes.com/2025/04/improving-pinterest-search-relevance.html)
+- [Could JavaScript have synchronous await?](https://teklinks.andrejnsimoes.com/2025/04/could-javascript-have-synchronous-await.html)
 - [Postmortem on Next.js Middleware bypass](https://teklinks.andrejnsimoes.com/2025/04/postmortem-on-nextjs-middleware-bypass.html)
 - [Better web video with AV1 codec](https://teklinks.andrejnsimoes.com/2025/04/better-web-video-with-av1-codec.html)
-- [I guess some request headers are more trustworthy than others.](https://teklinks.andrejnsimoes.com/2025/04/i-guess-some-request-headers-are-more.html)
-- [Minimal CSS-only blurry image placeholders](https://teklinks.andrejnsimoes.com/2025/04/minimal-css-only-blurry-image.html)
-- [Buying browser extensions for fun and profit](https://teklinks.andrejnsimoes.com/2025/04/buying-browser-extensions-for-fun-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
