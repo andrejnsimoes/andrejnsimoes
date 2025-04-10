@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Guia completo de IA para devs com Mayk Brito | #PR](https://www.youtube.com/watch?v=I-b4ilgIxds)
+- [Why LLMs get dumb &lpar;Context Windows Explained&rpar;](https://www.youtube.com/watch?v=TeQDr4DkLYo)
+- [Meta’s Llama 4 is mindblowing… but did it cheat?](https://www.youtube.com/watch?v=P4M9wfJH-yI)
+- [VS Code &amp; Microsoft with the DOUBLE strike against Cursor!](https://www.youtube.com/watch?v=tv6vBaITBtk)
 - [Background jobs &amp; workflows com trigger.dev &lpar;estou usando no meu SaaS&rpar;](https://www.youtube.com/watch?v=4wlfUM3vHCg)
-- [I gave Claude root access to my server... Model Context Protocol explained](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
-- [OpenAI’s new image generator hits different...](https://www.youtube.com/watch?v=Bt-7YiNBvLE)
-- [Meu terminal completo &lpar;extensões, tema e config&rpar;](https://www.youtube.com/watch?v=N2ZKC3rSLzk)
-- [TanStack layouts are pretty nice](https://www.youtube.com/watch?v=2TAOEK9IgTg)
 <!-- YOUTUBE:END -->
 
 
