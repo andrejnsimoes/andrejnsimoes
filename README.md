@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Copilot code review now generally available](https://teklinks.andrejnsimoes.com/2025/04/copilot-code-review-now-generally.html)
+- [What Agentic Workflows Mean to Microservices Developers](https://teklinks.andrejnsimoes.com/2025/04/what-agentic-workflows-mean-to.html)
 - [A practical guide to Llama Stack for Node.js developers](https://teklinks.andrejnsimoes.com/2025/04/a-practical-guide-to-llama-stack-for.html)
 - [Improving Pinterest Search Relevance Using Large Language Models](https://teklinks.andrejnsimoes.com/2025/04/improving-pinterest-search-relevance.html)
 - [Could JavaScript have synchronous await?](https://teklinks.andrejnsimoes.com/2025/04/could-javascript-have-synchronous-await.html)
-- [Postmortem on Next.js Middleware bypass](https://teklinks.andrejnsimoes.com/2025/04/postmortem-on-nextjs-middleware-bypass.html)
-- [Better web video with AV1 codec](https://teklinks.andrejnsimoes.com/2025/04/better-web-video-with-av1-codec.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
