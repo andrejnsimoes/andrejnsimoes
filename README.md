@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Event versioning strategies for event-driven architectures](https://teklinks.andrejnsimoes.com/2025/04/event-versioning-strategies-for-event.html)
+- [The Software Engineering Identity Crisis](https://teklinks.andrejnsimoes.com/2025/04/the-software-engineering-identity-crisis.html)
+- [Cursor for Large Projects](https://teklinks.andrejnsimoes.com/2025/04/cursor-for-large-projects.html)
 - [React for Two Computers](https://teklinks.andrejnsimoes.com/2025/04/react-for-two-computers.html)
 - [Deno v Oracle Update 3: Fighting the JavaScript Trademark](https://teklinks.andrejnsimoes.com/2025/04/deno-v-oracle-update-3-fighting.html)
-- [React Reconciliation: The Hidden Engine Behind Your Components](https://teklinks.andrejnsimoes.com/2025/04/react-reconciliation-hidden-engine.html)
-- [More accurate DevTools performance debugging using real-world data](https://teklinks.andrejnsimoes.com/2025/04/more-accurate-devtools-performance.html)
-- [✨ How I Reduced My React Bundle Size by 30% &lpar;With Real Examples&rpar;](https://teklinks.andrejnsimoes.com/2025/04/how-i-reduced-my-react-bundle-size-by.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
