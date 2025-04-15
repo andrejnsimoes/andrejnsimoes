@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [AI Agents with Sunil Pai](https://www.youtube.com/watch?v=liGdr12-cSU)
 - [What Makes Google&#39;s A2A Protocol REALLY POWERFUL &lpar;in 12 Minutes&rpar;](https://www.youtube.com/watch?v=voaKr_JHvF4)
 - [VS Code Agent Mode Just Changed Everything](https://www.youtube.com/watch?v=dutyOc_cAEU)
 - [Guia completo de IA para devs com Mayk Brito | #PR](https://www.youtube.com/watch?v=I-b4ilgIxds)
 - [Why LLMs get dumb &lpar;Context Windows Explained&rpar;](https://www.youtube.com/watch?v=TeQDr4DkLYo)
-- [Meta’s Llama 4 is mindblowing… but did it cheat?](https://www.youtube.com/watch?v=P4M9wfJH-yI)
 <!-- YOUTUBE:END -->
 
 
