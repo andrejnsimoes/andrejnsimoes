@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [Ryan Dahl demos tips to debug JavaScript &lpar;2025&rpar;](https://www.youtube.com/watch?v=u8FnYa31iek)
+- [The Only 3 Videos You Need to Get Started with MCP!](https://www.youtube.com/watch?v=YRfOiB0Im64)
 - [AI Agents with Sunil Pai](https://www.youtube.com/watch?v=liGdr12-cSU)
 - [What Makes Google&#39;s A2A Protocol REALLY POWERFUL &lpar;in 12 Minutes&rpar;](https://www.youtube.com/watch?v=voaKr_JHvF4)
 - [VS Code Agent Mode Just Changed Everything](https://www.youtube.com/watch?v=dutyOc_cAEU)
-- [Guia completo de IA para devs com Mayk Brito | #PR](https://www.youtube.com/watch?v=I-b4ilgIxds)
 <!-- YOUTUBE:END -->
 
 
