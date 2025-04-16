@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Tech hiring: is this an inflection point?](https://teklinks.andrejnsimoes.com/2025/04/tech-hiring-is-this-inflection-point.html)
+- [Using GenAI as a learning tool, not a crutch](https://teklinks.andrejnsimoes.com/2025/04/using-genai-as-learning-tool-not-crutch.html)
 - [Event versioning strategies for event-driven architectures](https://teklinks.andrejnsimoes.com/2025/04/event-versioning-strategies-for-event.html)
 - [The Software Engineering Identity Crisis](https://teklinks.andrejnsimoes.com/2025/04/the-software-engineering-identity-crisis.html)
 - [Cursor for Large Projects](https://teklinks.andrejnsimoes.com/2025/04/cursor-for-large-projects.html)
-- [React for Two Computers](https://teklinks.andrejnsimoes.com/2025/04/react-for-two-computers.html)
-- [Deno v Oracle Update 3: Fighting the JavaScript Trademark](https://teklinks.andrejnsimoes.com/2025/04/deno-v-oracle-update-3-fighting.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
