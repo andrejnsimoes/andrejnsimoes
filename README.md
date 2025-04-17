@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Fastify + React is 7x Faster than Next.js April 9, 2025](https://teklinks.andrejnsimoes.com/2025/04/fastify-react-is-7x-faster-than-nextjs.html)
+- [Open-source AI: Are younger developers leading the way?](https://teklinks.andrejnsimoes.com/2025/04/open-source-ai-are-younger-developers.html)
+- [Tauri vs. Electron: performance, bundle size, and the real trade-offs](https://teklinks.andrejnsimoes.com/2025/04/tauri-vs-electron-performance-bundle.html)
 - [Tech hiring: is this an inflection point?](https://teklinks.andrejnsimoes.com/2025/04/tech-hiring-is-this-inflection-point.html)
 - [Using GenAI as a learning tool, not a crutch](https://teklinks.andrejnsimoes.com/2025/04/using-genai-as-learning-tool-not-crutch.html)
-- [Event versioning strategies for event-driven architectures](https://teklinks.andrejnsimoes.com/2025/04/event-versioning-strategies-for-event.html)
-- [The Software Engineering Identity Crisis](https://teklinks.andrejnsimoes.com/2025/04/the-software-engineering-identity-crisis.html)
-- [Cursor for Large Projects](https://teklinks.andrejnsimoes.com/2025/04/cursor-for-large-projects.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
