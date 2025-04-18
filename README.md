@@ -47,7 +47,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 <!-- YOUTUBE:START -->
 - [OpenAI launches &quot;genius&quot; o4 model with a programming CLI tool...](https://www.youtube.com/watch?v=O-Vu-DMIU40)
 - [TUTORIAL: como automatizar tarefas com IA + n8n | Mayk Brito](https://www.youtube.com/watch?v=5tlce5Oq8wQ)
-- [Ryan Dahl&#39;s tips to debug JavaScript in 2025](https://www.youtube.com/watch?v=u8FnYa31iek)
+- [Ryan Dahl on Deno and OpenTelemetry](https://www.youtube.com/watch?v=u8FnYa31iek)
 - [The Only 3 Videos You Need to Get Started with MCP!](https://www.youtube.com/watch?v=YRfOiB0Im64)
 - [AI Agents with Sunil Pai](https://www.youtube.com/watch?v=liGdr12-cSU)
 <!-- YOUTUBE:END -->
