@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [n8n + MCP: Build and Automate Anything! Run ALL Your AI Locally - LLMs, AI Agents! &lpar;Opensource&rpar;](https://www.youtube.com/watch?v=DUE56G0fF5s)
 - [OpenAI launches &quot;genius&quot; o4 model with a programming CLI tool...](https://www.youtube.com/watch?v=O-Vu-DMIU40)
 - [TUTORIAL: como automatizar tarefas com IA + n8n | Mayk Brito](https://www.youtube.com/watch?v=5tlce5Oq8wQ)
 - [Ryan Dahl on Deno and OpenTelemetry](https://www.youtube.com/watch?v=u8FnYa31iek)
 - [The Only 3 Videos You Need to Get Started with MCP!](https://www.youtube.com/watch?v=YRfOiB0Im64)
-- [AI Agents with Sunil Pai](https://www.youtube.com/watch?v=liGdr12-cSU)
 <!-- YOUTUBE:END -->
 
 
