@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding how Vite deals with your node_modules](https://teklinks.andrejnsimoes.com/2025/04/understanding-how-vite-deals-with-your.html)
+- [How to Build an Agent](https://teklinks.andrejnsimoes.com/2025/04/how-to-build-agent.html)
+- [Avoid the State Synchronization Trap](https://teklinks.andrejnsimoes.com/2025/04/avoid-state-synchronization-trap.html)
 - [The new Cookie Store API](https://teklinks.andrejnsimoes.com/2025/04/the-new-cookie-store-api.html)
 - [Why does JSON have commas?](https://teklinks.andrejnsimoes.com/2025/04/why-does-json-have-commas.html)
-- [Chopped: AI Edition - Building a Meal Planner](https://teklinks.andrejnsimoes.com/2025/04/chopped-ai-edition-building-meal-planner.html)
-- [Fastify + React is 7x Faster than Next.js April 9, 2025](https://teklinks.andrejnsimoes.com/2025/04/fastify-react-is-7x-faster-than-nextjs.html)
-- [Open-source AI: Are younger developers leading the way?](https://teklinks.andrejnsimoes.com/2025/04/open-source-ai-are-younger-developers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
