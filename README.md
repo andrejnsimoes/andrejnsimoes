@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [JSX Over The Wire](https://teklinks.andrejnsimoes.com/2025/04/jsx-over-wire.html)
+- [How Rolldown Works: Module Loading, Dependency Graphs, and Optimization Explained](https://teklinks.andrejnsimoes.com/2025/04/how-rolldown-works-module-loading.html)
+- [AI Index 2025: State of AI in 10 Charts](https://teklinks.andrejnsimoes.com/2025/04/ai-index-2025-state-of-ai-in-10-charts.html)
 - [Understanding how Vite deals with your node_modules](https://teklinks.andrejnsimoes.com/2025/04/understanding-how-vite-deals-with-your.html)
 - [How to Build an Agent](https://teklinks.andrejnsimoes.com/2025/04/how-to-build-agent.html)
-- [Avoid the State Synchronization Trap](https://teklinks.andrejnsimoes.com/2025/04/avoid-state-synchronization-trap.html)
-- [The new Cookie Store API](https://teklinks.andrejnsimoes.com/2025/04/the-new-cookie-store-api.html)
-- [Why does JSON have commas?](https://teklinks.andrejnsimoes.com/2025/04/why-does-json-have-commas.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
