@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Impossible Components](https://teklinks.andrejnsimoes.com/2025/05/impossible-components.html)
+- [Why Do We Have a Cache-Control Request Header?](https://teklinks.andrejnsimoes.com/2025/05/why-do-we-have-cache-control-request.html)
+- [How to Think About Time](https://teklinks.andrejnsimoes.com/2025/05/how-to-think-about-time.html)
 - [Robust Data Fetching Architecture For Complex React/Next.js Apps](https://teklinks.andrejnsimoes.com/2025/05/robust-data-fetching-architecture-for.html)
 - [RSC for Astro Developers](https://teklinks.andrejnsimoes.com/2025/05/rsc-for-astro-developers.html)
-- [Copilot ask, edit, and agent modes: What they do and when to use them](https://teklinks.andrejnsimoes.com/2025/05/copilot-ask-edit-and-agent-modes-what.html)
-- [Categorize Your Dependencies](https://teklinks.andrejnsimoes.com/2025/05/categorize-your-dependencies.html)
-- [How Node.js Works Behind the Scenes](https://teklinks.andrejnsimoes.com/2025/05/how-nodejs-works-behind-scenes.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
