@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Curse of Knowing How, or; Fixing Everything](https://teklinks.andrejnsimoes.com/2025/05/the-curse-of-knowing-how-or-fixing.html)
+- [Concurrent Optimistic Updates in React Query](https://teklinks.andrejnsimoes.com/2025/05/concurrent-optimistic-updates-in-react.html)
+- [Claude Code saved us 97% of the work — then failed utterly](https://teklinks.andrejnsimoes.com/2025/05/claude-code-saved-us-97-of-workthen.html)
 - [Impossible Components](https://teklinks.andrejnsimoes.com/2025/05/impossible-components.html)
 - [Why Do We Have a Cache-Control Request Header?](https://teklinks.andrejnsimoes.com/2025/05/why-do-we-have-cache-control-request.html)
-- [How to Think About Time](https://teklinks.andrejnsimoes.com/2025/05/how-to-think-about-time.html)
-- [Robust Data Fetching Architecture For Complex React/Next.js Apps](https://teklinks.andrejnsimoes.com/2025/05/robust-data-fetching-architecture-for.html)
-- [RSC for Astro Developers](https://teklinks.andrejnsimoes.com/2025/05/rsc-for-astro-developers.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
