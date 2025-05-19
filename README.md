@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How Promises Work in JavaScript](https://teklinks.andrejnsimoes.com/2025/05/how-promises-work-in-javascript.html)
+- [Can AI Replace Software Architects? I Put 4 LLMs to the Test](https://teklinks.andrejnsimoes.com/2025/05/can-ai-replace-software-architects-i.html)
+- [Why performance optimization is hard work](https://teklinks.andrejnsimoes.com/2025/05/why-performance-optimization-is-hard.html)
 - [The Curse of Knowing How, or; Fixing Everything](https://teklinks.andrejnsimoes.com/2025/05/the-curse-of-knowing-how-or-fixing.html)
 - [Concurrent Optimistic Updates in React Query](https://teklinks.andrejnsimoes.com/2025/05/concurrent-optimistic-updates-in-react.html)
-- [Claude Code saved us 97% of the work — then failed utterly](https://teklinks.andrejnsimoes.com/2025/05/claude-code-saved-us-97-of-workthen.html)
-- [Impossible Components](https://teklinks.andrejnsimoes.com/2025/05/impossible-components.html)
-- [Why Do We Have a Cache-Control Request Header?](https://teklinks.andrejnsimoes.com/2025/05/why-do-we-have-cache-control-request.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
