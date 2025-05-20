@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [#Start using Rslib](https://teklinks.andrejnsimoes.com/2025/05/start-using-rslib.html)
+- [How Wix Uses RAG and Multi-Agent Systems to Find the Right Data Fast](https://teklinks.andrejnsimoes.com/2025/05/solving-data-discovery-at-scale-how-wix.html)
+- [Bot farms invade social media to hijack popular sentiment](https://teklinks.andrejnsimoes.com/2025/05/bot-farms-invade-social-media-to-hijack.html)
 - [How Promises Work in JavaScript](https://teklinks.andrejnsimoes.com/2025/05/how-promises-work-in-javascript.html)
 - [Can AI Replace Software Architects? I Put 4 LLMs to the Test](https://teklinks.andrejnsimoes.com/2025/05/can-ai-replace-software-architects-i.html)
-- [Why performance optimization is hard work](https://teklinks.andrejnsimoes.com/2025/05/why-performance-optimization-is-hard.html)
-- [The Curse of Knowing How, or; Fixing Everything](https://teklinks.andrejnsimoes.com/2025/05/the-curse-of-knowing-how-or-fixing.html)
-- [Concurrent Optimistic Updates in React Query](https://teklinks.andrejnsimoes.com/2025/05/concurrent-optimistic-updates-in-react.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
