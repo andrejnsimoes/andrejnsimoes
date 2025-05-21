@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Microsoft just opened the flood gates…](https://www.youtube.com/watch?v=NIgrGqmoeHs)
 - [Cline v3.15 HUGE UPDATE: Fully FREE Autonomous AI Coding Agent! &lpar;UX, Task Timeline, Prompt Cache&rpar;](https://www.youtube.com/watch?v=Y5a2VvAMZ28)
 - [Vite, Frontend Tooling, and the Future | Evan You | PodRocket](https://www.youtube.com/watch?v=YVeWo0aUduc)
 - [Agent mode tools in VS Code](https://www.youtube.com/watch?v=VePxCcF99w4)
 - [The easiest way to work with LLMs](https://www.youtube.com/watch?v=abkZuYUbx8w)
-- [n8n + MCP: Build and Automate Anything! Run ALL Your AI Locally - LLMs, AI Agents! &lpar;Opensource&rpar;](https://www.youtube.com/watch?v=DUE56G0fF5s)
 <!-- YOUTUBE:END -->
 
 
