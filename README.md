@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Iceland approved the 4-day workweek in 2019](https://teklinks.andrejnsimoes.com/2025/05/iceland-approved-4-day-workweek-in-2019.html)
+- [Working on Complex Systems](https://teklinks.andrejnsimoes.com/2025/05/working-on-complex-systems.html)
 - [#Start using Rslib](https://teklinks.andrejnsimoes.com/2025/05/start-using-rslib.html)
 - [How Wix Uses RAG and Multi-Agent Systems to Find the Right Data Fast](https://teklinks.andrejnsimoes.com/2025/05/solving-data-discovery-at-scale-how-wix.html)
 - [Bot farms invade social media to hijack popular sentiment](https://teklinks.andrejnsimoes.com/2025/05/bot-farms-invade-social-media-to-hijack.html)
-- [How Promises Work in JavaScript](https://teklinks.andrejnsimoes.com/2025/05/how-promises-work-in-javascript.html)
-- [Can AI Replace Software Architects? I Put 4 LLMs to the Test](https://teklinks.andrejnsimoes.com/2025/05/can-ai-replace-software-architects-i.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
