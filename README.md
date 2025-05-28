@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [VS Code Copilot can now read my terminal logs! How!?](https://www.youtube.com/watch?v=Cbc9_W5J6DA)
 - [Google goes wild, again... 11 things you missed at I/O](https://www.youtube.com/watch?v=NLjnOsP_q1U)
 - [Microsoft just opened the flood gates…](https://www.youtube.com/watch?v=NIgrGqmoeHs)
 - [Cline v3.15 HUGE UPDATE: Fully FREE Autonomous AI Coding Agent! &lpar;UX, Task Timeline, Prompt Cache&rpar;](https://www.youtube.com/watch?v=Y5a2VvAMZ28)
 - [Vite, Frontend Tooling, and the Future | Evan You | PodRocket](https://www.youtube.com/watch?v=YVeWo0aUduc)
-- [Agent mode tools in VS Code](https://www.youtube.com/watch?v=VePxCcF99w4)
 <!-- YOUTUBE:END -->
 
 
