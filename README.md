@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [I think the ergonomics of generators is growing on me.](https://teklinks.andrejnsimoes.com/2025/05/i-think-ergonomics-of-generators-is.html)
+- [Announcing TypeScript Native Previews](https://teklinks.andrejnsimoes.com/2025/05/announcing-typescript-native-previews.html)
 - [A Brief History of JavaScript](https://teklinks.andrejnsimoes.com/2025/05/a-brief-history-of-javascript.html)
 - [AI Interventions to Reduce Cycle Time in Legacy Modernization](https://teklinks.andrejnsimoes.com/2025/05/ai-interventions-to-reduce-cycle-time.html)
 - [The efficiency trap: Why obsessing over AI productivity will destroy your engineering culture](https://teklinks.andrejnsimoes.com/2025/05/the-efficiency-trap-why-obsessing-over.html)
-- [Iceland approved the 4-day workweek in 2019](https://teklinks.andrejnsimoes.com/2025/05/iceland-approved-4-day-workweek-in-2019.html)
-- [Working on Complex Systems](https://teklinks.andrejnsimoes.com/2025/05/working-on-complex-systems.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
