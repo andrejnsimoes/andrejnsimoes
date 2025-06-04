@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Human coders are still better than LLMs](https://teklinks.andrejnsimoes.com/2025/06/human-coders-are-still-better-than-llms.html)
+- [Resilient Import Maps - Better Theme Development and Beyond](https://teklinks.andrejnsimoes.com/2025/06/resilient-import-maps-better-theme.html)
+- [Announcing Rolldown-Vite](https://teklinks.andrejnsimoes.com/2025/06/announcing-rolldown-vite.html)
 - [The Beauty of TanStack Router](https://teklinks.andrejnsimoes.com/2025/06/the-beauty-of-tanstack-router.html)
 - [Manual Work is a Bug](https://teklinks.andrejnsimoes.com/2025/06/manual-work-is-bug.html)
-- [GitHub for Beginners: Building a React App with GitHub Copilot](https://teklinks.andrejnsimoes.com/2025/06/github-for-beginners-building-react-app.html)
-- [I think the ergonomics of generators is growing on me.](https://teklinks.andrejnsimoes.com/2025/05/i-think-ergonomics-of-generators-is.html)
-- [Announcing TypeScript Native Previews](https://teklinks.andrejnsimoes.com/2025/05/announcing-typescript-native-previews.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
