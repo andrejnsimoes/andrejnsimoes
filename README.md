@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [A Look Into the Secrets of MCP: The New Secret Leak Source](https://teklinks.andrejnsimoes.com/2025/06/a-look-into-secrets-of-mcp-new-secret.html)
+- [Nine Emerging Developer Patterns for the AI Era](https://teklinks.andrejnsimoes.com/2025/06/nine-emerging-developer-patterns-for-ai.html)
+- [Wake up, Remix!](https://teklinks.andrejnsimoes.com/2025/06/wake-up-remix.html)
 - [Next.js Server Actions are public-facing API endpoints](https://teklinks.andrejnsimoes.com/2025/06/nextjs-server-actions-are-public-facing.html)
 - [Beyond the Gang of Four: Practical Design Patterns for Modern AI Systems](https://teklinks.andrejnsimoes.com/2025/06/beyond-gang-of-four-practical-design.html)
-- [Human coders are still better than LLMs](https://teklinks.andrejnsimoes.com/2025/06/human-coders-are-still-better-than-llms.html)
-- [Resilient Import Maps - Better Theme Development and Beyond](https://teklinks.andrejnsimoes.com/2025/06/resilient-import-maps-better-theme.html)
-- [Announcing Rolldown-Vite](https://teklinks.andrejnsimoes.com/2025/06/announcing-rolldown-vite.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
