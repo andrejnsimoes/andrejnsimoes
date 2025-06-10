@@ -45,7 +45,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [5 easy ways to write bad C code](https://www.youtube.com/watch?v=cNywlNWan9o)
+- [5 easy &lpar;but critical&rpar; memory mistakes](https://www.youtube.com/watch?v=cNywlNWan9o)
 - [Generate Missing Tests Automatically with Playwright + AI &lpar;MCP Server in Action&rpar;](https://www.youtube.com/watch?v=pwbgvbJP8KM)
 - [The 3 Ways JavaScript Frameworks Render the DOM](https://www.youtube.com/watch?v=0C-y59betmY)
 - [This Fixes Copilot’s Biggest Limitation: Terminal Awareness](https://www.youtube.com/watch?v=Cbc9_W5J6DA)
