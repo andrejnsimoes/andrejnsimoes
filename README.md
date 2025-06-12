@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The easiest way to debug your app...](https://www.youtube.com/watch?v=CENoUhC1N40)
+- [10 Years Of SolidJS: Saying No To React | Ryan Carniato | PodRocket](https://www.youtube.com/watch?v=ti8XnfFCPcs)
 - [5 easy &lpar;but critical&rpar; memory mistakes](https://www.youtube.com/watch?v=cNywlNWan9o)
 - [Generate Missing Tests Automatically with Playwright + AI &lpar;MCP Server in Action&rpar;](https://www.youtube.com/watch?v=pwbgvbJP8KM)
 - [The 3 Ways JavaScript Frameworks Render the DOM](https://www.youtube.com/watch?v=0C-y59betmY)
-- [This Fixes Copilot’s Biggest Limitation: Terminal Awareness](https://www.youtube.com/watch?v=Cbc9_W5J6DA)
-- [Google goes wild, again... 11 things you missed at I/O](https://www.youtube.com/watch?v=NLjnOsP_q1U)
 <!-- YOUTUBE:END -->
 
 
