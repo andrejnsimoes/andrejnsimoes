@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [How we built our AI code review agent for IDEs](https://teklinks.andrejnsimoes.com/2025/06/how-we-built-our-ai-code-review-agent.html)
+- [Is It JavaScript?](https://teklinks.andrejnsimoes.com/2025/06/is-it-javascript.html)
+- [Announcing Vitest 3.2](https://teklinks.andrejnsimoes.com/2025/06/announcing-vitest-32.html)
 - [Adopting Docs-as-Code at Pinterest](https://teklinks.andrejnsimoes.com/2025/06/adopting-docs-as-code-at-pinterest.html)
 - [JavaScript&#39;s upcoming Temporal API and what problems it will solve](https://teklinks.andrejnsimoes.com/2025/06/javascripts-upcoming-temporal-api-and.html)
-- [The Ingredients of a Productive Monorepo](https://teklinks.andrejnsimoes.com/2025/06/the-ingredients-of-productive-monorepo.html)
-- [A Look Into the Secrets of MCP: The New Secret Leak Source](https://teklinks.andrejnsimoes.com/2025/06/a-look-into-secrets-of-mcp-new-secret.html)
-- [Nine Emerging Developer Patterns for the AI Era](https://teklinks.andrejnsimoes.com/2025/06/nine-emerging-developer-patterns-for-ai.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
