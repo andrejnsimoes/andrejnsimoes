@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The Underestimated Power of Hot Spots and Notes in EventStorming](https://teklinks.andrejnsimoes.com/2025/06/the-underestimated-power-of-hot-spots.html)
+- [How Imports Work in RSC](https://teklinks.andrejnsimoes.com/2025/06/how-imports-work-in-rsc.html)
+- [Search Params Are State](https://teklinks.andrejnsimoes.com/2025/06/search-params-are-state.html)
 - [How we built our AI code review agent for IDEs](https://teklinks.andrejnsimoes.com/2025/06/how-we-built-our-ai-code-review-agent.html)
 - [Is It JavaScript?](https://teklinks.andrejnsimoes.com/2025/06/is-it-javascript.html)
-- [Announcing Vitest 3.2](https://teklinks.andrejnsimoes.com/2025/06/announcing-vitest-32.html)
-- [Adopting Docs-as-Code at Pinterest](https://teklinks.andrejnsimoes.com/2025/06/adopting-docs-as-code-at-pinterest.html)
-- [JavaScript&#39;s upcoming Temporal API and what problems it will solve](https://teklinks.andrejnsimoes.com/2025/06/javascripts-upcoming-temporal-api-and.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
