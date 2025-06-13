@@ -49,7 +49,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [10 Years Of SolidJS: Saying No To React | Ryan Carniato | PodRocket](https://www.youtube.com/watch?v=ti8XnfFCPcs)
 - [5 easy &lpar;but critical&rpar; memory mistakes](https://www.youtube.com/watch?v=cNywlNWan9o)
 - [Generate Missing Tests Automatically with Playwright + AI &lpar;MCP Server in Action&rpar;](https://www.youtube.com/watch?v=pwbgvbJP8KM)
-- [The 3 Ways JavaScript Frameworks Render the DOM](https://www.youtube.com/watch?v=0C-y59betmY)
+- [N8N FULL COURSE 5 HOURS &lpar;Build &amp; Automate Anything&rpar;](https://www.youtube.com/watch?v=7WsbtZwOx_U)
 <!-- YOUTUBE:END -->
 
 
