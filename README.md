@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [N8N Modo Fila: guia completo para iniciantes e avançados com Mayk Brito](https://www.youtube.com/watch?v=sPLPi-OikIA)
+- [use-mcp: 3 lines to build your React based MCP client!](https://www.youtube.com/watch?v=bYex7xr0vI4)
 - [Working with MCP servers in GitHub Copilot Agent mode](https://www.youtube.com/watch?v=ZlrQJQV14xQ)
 - [9 NEW JavaScript Features in ES2025](https://www.youtube.com/watch?v=1-cjrEMj_us)
 - [The Story of Rollup with Rich Harris](https://www.youtube.com/watch?v=azk-GuGiy3E)
-- [The easiest way to debug your app...](https://www.youtube.com/watch?v=CENoUhC1N40)
-- [10 Years Of SolidJS: Saying No To React | Ryan Carniato | PodRocket](https://www.youtube.com/watch?v=ti8XnfFCPcs)
 <!-- YOUTUBE:END -->
 
 
