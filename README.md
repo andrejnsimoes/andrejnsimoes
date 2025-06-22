@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Bringing React&#39;s  to vanilla JS](https://teklinks.andrejnsimoes.com/2025/06/bringing-reacts-to-vanilla-js.html)
+- [LangGraph for complex workflows](https://teklinks.andrejnsimoes.com/2025/06/langgraph-for-complex-workflows.html)
+- [Want to Be a Better Frontend Engineer? Try a Week On-Call](https://teklinks.andrejnsimoes.com/2025/06/want-to-be-better-frontend-engineer-try.html)
 - [Jest 30: Faster, Leaner, Better](https://teklinks.andrejnsimoes.com/2025/06/jest-30-faster-leaner-better.html)
 - [ai agents](https://teklinks.andrejnsimoes.com/2025/06/ai-agents.html)
-- [My AI Skeptic Friends Are All Nuts](https://teklinks.andrejnsimoes.com/2025/06/my-ai-skeptic-friends-are-all-nuts.html)
-- [The Underestimated Power of Hot Spots and Notes in EventStorming](https://teklinks.andrejnsimoes.com/2025/06/the-underestimated-power-of-hot-spots.html)
-- [How Imports Work in RSC](https://teklinks.andrejnsimoes.com/2025/06/how-imports-work-in-rsc.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
