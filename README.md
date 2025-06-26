@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [On How Long it Takes to Know if a Job is Right for You or Not](https://teklinks.andrejnsimoes.com/2025/06/on-how-long-it-takes-to-know-if-job-is.html)
+- [A short history of web bots and bot detection techniques](https://teklinks.andrejnsimoes.com/2025/06/a-short-history-of-web-bots-and-bot.html)
+- [JavaScript broke the web &lpar;and called it progress&rpar;](https://teklinks.andrejnsimoes.com/2025/06/javascript-broke-web-and-called-it.html)
 - [Bringing React&#39;s  to vanilla JS](https://teklinks.andrejnsimoes.com/2025/06/bringing-reacts-to-vanilla-js.html)
 - [LangGraph for complex workflows](https://teklinks.andrejnsimoes.com/2025/06/langgraph-for-complex-workflows.html)
-- [Want to Be a Better Frontend Engineer? Try a Week On-Call](https://teklinks.andrejnsimoes.com/2025/06/want-to-be-better-frontend-engineer-try.html)
-- [Jest 30: Faster, Leaner, Better](https://teklinks.andrejnsimoes.com/2025/06/jest-30-faster-leaner-better.html)
-- [ai agents](https://teklinks.andrejnsimoes.com/2025/06/ai-agents.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
