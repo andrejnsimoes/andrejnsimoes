@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [The State of React and the Community in 2025](https://teklinks.andrejnsimoes.com/2025/06/the-state-of-react-and-community-in-2025.html)
+- [`document.currentScript` is more useful than I thought.](https://teklinks.andrejnsimoes.com/2025/06/documentcurrentscript-is-more-useful.html)
+- [How does Kafka know what was the last message it processed? Deep dive into Offset Tracking](https://teklinks.andrejnsimoes.com/2025/06/how-does-kafka-know-what-was-last.html)
 - [Connect any React application to an MCP server in three lines of code](https://teklinks.andrejnsimoes.com/2025/06/connect-any-react-application-to-mcp.html)
 - [How we built our multi-agent research system](https://teklinks.andrejnsimoes.com/2025/06/how-we-built-our-multi-agent-research.html)
-- [Why you should never default to Microservices](https://teklinks.andrejnsimoes.com/2025/06/why-you-should-never-default-to.html)
-- [On How Long it Takes to Know if a Job is Right for You or Not](https://teklinks.andrejnsimoes.com/2025/06/on-how-long-it-takes-to-know-if-job-is.html)
-- [A short history of web bots and bot detection techniques](https://teklinks.andrejnsimoes.com/2025/06/a-short-history-of-web-bots-and-bot.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
