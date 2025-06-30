@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Google’s new CLI tool hits different…](https://www.youtube.com/watch?v=qqP1ucSiVkE)
 - [OpenAI is ruthless...](https://www.youtube.com/watch?v=nFoXCLi8FCc)
 - [N8N Modo Fila: guia completo para iniciantes e avançados com Mayk Brito](https://www.youtube.com/watch?v=sPLPi-OikIA)
 - [use-mcp: 3 lines to build your React based MCP client!](https://www.youtube.com/watch?v=bYex7xr0vI4)
 - [Working with MCP servers in GitHub Copilot Agent mode](https://www.youtube.com/watch?v=ZlrQJQV14xQ)
-- [9 NEW JavaScript Features in ES2025](https://www.youtube.com/watch?v=1-cjrEMj_us)
 <!-- YOUTUBE:END -->
 
 
