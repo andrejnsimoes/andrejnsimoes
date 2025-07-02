@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [Build your first MCP Server: Tutorial for Beginners.](https://www.youtube.com/watch?v=egVm_z1nnnQ)
+- [Using Claude Code to build a GitHub Actions workflow](https://www.youtube.com/watch?v=VC6dmPcin2E)
 - [Google’s new CLI tool hits different…](https://www.youtube.com/watch?v=qqP1ucSiVkE)
 - [OpenAI is ruthless...](https://www.youtube.com/watch?v=nFoXCLi8FCc)
 - [N8N Modo Fila: guia completo para iniciantes e avançados com Mayk Brito](https://www.youtube.com/watch?v=sPLPi-OikIA)
-- [use-mcp: 3 lines to build your React based MCP client!](https://www.youtube.com/watch?v=bYex7xr0vI4)
 <!-- YOUTUBE:END -->
 
 
