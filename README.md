@@ -35,11 +35,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📕 What I'm reading
 
 <!-- BLOG-POST-LIST:START -->
+- [Not an option, but a necessity: How organizations are adopting and implementing AI internally](https://teklinks.andrejnsimoes.com/2025/07/not-option-but-necessity-how.html)
+- [Remixing Shopify&#39;s Admin: How We Made It 30% Faster and AI-Ready](https://teklinks.andrejnsimoes.com/2025/07/remixing-shopifys-admin-how-we-made-it.html)
+- [Agentic Engineering in Action](https://teklinks.andrejnsimoes.com/2025/07/agentic-engineering-in-action.html)
 - [ChatGPT May Be Eroding Critical Thinking Skills](https://teklinks.andrejnsimoes.com/2025/07/chatgpt-may-be-eroding-critical.html)
 - [Proof of Human. Creating the invisible Turing Test for the Internet](https://teklinks.andrejnsimoes.com/2025/07/proof-of-human-creating-invisible.html)
-- [React Still Feels Insane And No One Is Talking About It](https://teklinks.andrejnsimoes.com/2025/07/react-still-feels-insane-and-no-one-is.html)
-- [Progressive JSON](https://teklinks.andrejnsimoes.com/2025/07/progressive-json.html)
-- [What&#39;s coming to JavaScript](https://teklinks.andrejnsimoes.com/2025/07/whats-coming-to-javascript.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 What I'm watching
