@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [This might be bigger than DeepSeek](https://www.youtube.com/watch?v=xLFkqYOUN24)
 - [Node quietly became surprisingly good...](https://www.youtube.com/watch?v=7CHgOWPx2WA)
 - [🔴 VS Code Live - Best Practices for Mastering GitHub Copilot Chat](https://www.youtube.com/watch?v=bqqZ35Mgq7k)
 - [When being over-employed goes wrong...](https://www.youtube.com/watch?v=-_6dHIPVoTM)
 - [AI Tools you should know](https://www.youtube.com/watch?v=R21LWuTAOjo)
-- [Build your first MCP Server: Tutorial for Beginners.](https://www.youtube.com/watch?v=egVm_z1nnnQ)
 <!-- YOUTUBE:END -->
 
 
