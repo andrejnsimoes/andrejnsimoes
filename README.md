@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Custom Chat Mode Will Change How You Code](https://www.youtube.com/watch?v=rE6svXzyhg0)
 - [Kent C. Dodds on MCP and the future of AI | PodRocket](https://www.youtube.com/watch?v=P0HUvnblzg0)
 - [The Missing SYSTEM Your Coding Agents Need](https://www.youtube.com/watch?v=CTMyzeKKb0o)
 - [You NEED to Use n8n RIGHT NOW!! &lpar;Free, Local, Private&rpar;](https://www.youtube.com/watch?v=ONgECvZNI3o)
 - [This might be bigger than DeepSeek](https://www.youtube.com/watch?v=xLFkqYOUN24)
-- [Node quietly became surprisingly good...](https://www.youtube.com/watch?v=7CHgOWPx2WA)
 <!-- YOUTUBE:END -->
 
 
