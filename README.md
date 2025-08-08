@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [GPT‑5 IS HERE and.....WOW](https://www.youtube.com/watch?v=wqc85X2rpEY)
 - [Usei uma IA gratuita no VSCode &lpar;Não pague mais por ferramentas de IA&rpar;](https://www.youtube.com/watch?v=xz_v6Qkefwo)
 - [Custom Chat Mode Will Change How You Code](https://www.youtube.com/watch?v=rE6svXzyhg0)
 - [Kent C. Dodds on MCP and the future of AI | PodRocket](https://www.youtube.com/watch?v=P0HUvnblzg0)
 - [The Missing SYSTEM Your Coding Agents Need](https://www.youtube.com/watch?v=CTMyzeKKb0o)
-- [You NEED to Use n8n RIGHT NOW!! &lpar;Free, Local, Private&rpar;](https://www.youtube.com/watch?v=ONgECvZNI3o)
 <!-- YOUTUBE:END -->
 
 
