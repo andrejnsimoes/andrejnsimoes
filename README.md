@@ -48,8 +48,8 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [Playwright MCP + Chrome Extension: Testing with Logged-In Profiles](https://www.youtube.com/watch?v=uE0r51pneSA)
 - [Cursor Crash Course &amp; AI Coding For Beginners](https://www.youtube.com/watch?v=5zR1ZE5aqho)
 - [Cursor Crash Course &amp; AI Coding For Beginners](https://www.youtube.com/watch?v=5zR1ZE5aqho)
-- [GPT-5 is here... Can it win back programmers?](https://www.youtube.com/watch?v=8tx2viHpgA8)
-- [GPT‑5 IS HERE and.....WOW](https://www.youtube.com/watch?v=wqc85X2rpEY)
+- [3 Amazing New TanStack Query Features!](https://www.youtube.com/watch?v=EujzNb2iu3w)
+- [Postgres 18 just dropped. Now is the best time to learn it...](https://www.youtube.com/watch?v=yIaE9lONIVI)
 <!-- YOUTUBE:END -->
 
 
