@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [Isso muda tudo: IA multimodal no navegador](https://www.youtube.com/watch?v=tWaMPHzMpEo)
+- [I Switched! Claude Code to Cursor CLI](https://www.youtube.com/watch?v=XgZ7mtbCrqk)
 - [TARS Agent: Powerful AI Operating System Can Automate ALL Computer Tasks! &lpar;Opensource&rpar;](https://www.youtube.com/watch?v=vF8FWmzRd5M)
+- [you need to learn MCP RIGHT NOW!! &lpar;Model Context Protocol&rpar;](https://www.youtube.com/watch?v=GuTcle5edjk)
 - [Playwright MCP + Chrome Extension: Testing with Logged-In Profiles](https://www.youtube.com/watch?v=uE0r51pneSA)
-- [Cursor Crash Course &amp; AI Coding For Beginners](https://www.youtube.com/watch?v=5zR1ZE5aqho)
-- [Cursor Crash Course &amp; AI Coding For Beginners](https://www.youtube.com/watch?v=5zR1ZE5aqho)
 <!-- YOUTUBE:END -->
 
 
