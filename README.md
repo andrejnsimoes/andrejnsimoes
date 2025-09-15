@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [TARS Agent: Powerful AI Operating System Can Automate ALL Computer Tasks! &lpar;Opensource&rpar;](https://www.youtube.com/watch?v=vF8FWmzRd5M)
 - [Playwright MCP + Chrome Extension: Testing with Logged-In Profiles](https://www.youtube.com/watch?v=uE0r51pneSA)
 - [Cursor Crash Course &amp; AI Coding For Beginners](https://www.youtube.com/watch?v=5zR1ZE5aqho)
 - [Cursor Crash Course &amp; AI Coding For Beginners](https://www.youtube.com/watch?v=5zR1ZE5aqho)
 - [3 Amazing New TanStack Query Features!](https://www.youtube.com/watch?v=EujzNb2iu3w)
-- [Postgres 18 just dropped. Now is the best time to learn it...](https://www.youtube.com/watch?v=yIaE9lONIVI)
 <!-- YOUTUBE:END -->
 
 
