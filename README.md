@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [3 padrões de projeto para devs: Strategy, Factory Method e Singleton](https://www.youtube.com/watch?v=QgLBfeOK6hg)
 - [Microfrontends: Cutting Through the Hype and Misconceptions &lpar;w/ Luca&rpar;](https://www.youtube.com/watch?v=-JUJ-tzcOJc)
 - [Meta&#39;s most dystopian product yet...](https://www.youtube.com/watch?v=GOejI6c0CMQ)
 - [Integrate Biome with Nx in 20 Minutes](https://www.youtube.com/watch?v=GyDYN1AdfbQ)
 - [Isso muda tudo: IA multimodal no navegador](https://www.youtube.com/watch?v=tWaMPHzMpEo)
-- [I Switched! Claude Code to Cursor CLI](https://www.youtube.com/watch?v=XgZ7mtbCrqk)
 <!-- YOUTUBE:END -->
 
 
