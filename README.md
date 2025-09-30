@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [n8n will change your life as a developer...](https://www.youtube.com/watch?v=bS9R6aCVEzw)
 - [Postman + TanStack = Amazing MCP!](https://www.youtube.com/watch?v=Aaj6Ru1Lt0k)
 - [There&#39;s a new Linux distro in town for developers...](https://www.youtube.com/watch?v=DC2p3kFjcK0)
 - [3 padrões de projeto para devs: Strategy, Factory Method e Singleton](https://www.youtube.com/watch?v=QgLBfeOK6hg)
 - [Microfrontends: Cutting Through the Hype and Misconceptions &lpar;w/ Luca&rpar;](https://www.youtube.com/watch?v=-JUJ-tzcOJc)
-- [Meta&#39;s most dystopian product yet...](https://www.youtube.com/watch?v=GOejI6c0CMQ)
 <!-- YOUTUBE:END -->
 
 
