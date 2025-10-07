@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [OpenAI just made your entire tech stack obsolete...](https://www.youtube.com/watch?v=91aH8jsG4cc)
 - [The Ultimate Biome Crash Course](https://www.youtube.com/watch?v=x5kwmIaPty8)
 - [n8n Now Runs My ENTIRE Homelab](https://www.youtube.com/watch?v=budTmdQfXYU)
 - [n8n will change your life as a developer...](https://www.youtube.com/watch?v=bS9R6aCVEzw)
 - [Postman + TanStack = Amazing MCP!](https://www.youtube.com/watch?v=Aaj6Ru1Lt0k)
-- [There&#39;s a new Linux distro in town for developers...](https://www.youtube.com/watch?v=DC2p3kFjcK0)
 <!-- YOUTUBE:END -->
 
 
