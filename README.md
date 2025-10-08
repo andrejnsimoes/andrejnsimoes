@@ -47,9 +47,9 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 <!-- YOUTUBE:START -->
 - [OpenAI just made your entire tech stack obsolete...](https://www.youtube.com/watch?v=91aH8jsG4cc)
 - [The Ultimate Biome Crash Course](https://www.youtube.com/watch?v=x5kwmIaPty8)
+- [How to build AI agents with memory](https://www.youtube.com/watch?v=sMtrelDNxIc)
 - [n8n Now Runs My ENTIRE Homelab](https://www.youtube.com/watch?v=budTmdQfXYU)
 - [n8n will change your life as a developer...](https://www.youtube.com/watch?v=bS9R6aCVEzw)
-- [Postman + TanStack = Amazing MCP!](https://www.youtube.com/watch?v=Aaj6Ru1Lt0k)
 <!-- YOUTUBE:END -->
 
 
