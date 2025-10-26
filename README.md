@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Node.js can do that?](https://www.youtube.com/watch?v=BKS4lDIhPaM)
 - [Apple and Google won’t like this...](https://www.youtube.com/watch?v=qJle6Bki4Og)
 - [How to make vibe coding not suck…](https://www.youtube.com/watch?v=PLKrSVuT-Dg)
 - [Bun v1.3 is here](https://www.youtube.com/watch?v=tk7qTNW5g0c)
 - [OpenAI just made your entire tech stack obsolete...](https://www.youtube.com/watch?v=91aH8jsG4cc)
-- [I Will Never Use Prettier or ESLint Again](https://www.youtube.com/watch?v=x5kwmIaPty8)
 <!-- YOUTUBE:END -->
 
 
