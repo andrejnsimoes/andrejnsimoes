@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Learn the basics of Google Antigravity](https://www.youtube.com/watch?v=nTOVIGsqCuY)
 - [I fixed Zustand&#39;s BIGGEST problem](https://www.youtube.com/watch?v=gXz-lLIJbMI)
 - [Node.js can do that?](https://www.youtube.com/watch?v=BKS4lDIhPaM)
 - [Apple and Google won’t like this...](https://www.youtube.com/watch?v=qJle6Bki4Og)
 - [How to make vibe coding not suck…](https://www.youtube.com/watch?v=PLKrSVuT-Dg)
-- [Bun v1.3 is here](https://www.youtube.com/watch?v=tk7qTNW5g0c)
 <!-- YOUTUBE:END -->
 
 
