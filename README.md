@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [I&#39;ll never use n8n the same......](https://www.youtube.com/watch?v=s96JeuuwLzc)
 - [Como eu uso o Cursor para front-end &lpar;do Figma ao código&rpar;](https://www.youtube.com/watch?v=7_4GjIJNZCo)
 - [Live coding: TanStack Start](https://www.youtube.com/watch?v=xeyzYG3OUl0)
 - [Learn the basics of Google Antigravity](https://www.youtube.com/watch?v=nTOVIGsqCuY)
 - [I fixed Zustand&#39;s BIGGEST problem](https://www.youtube.com/watch?v=gXz-lLIJbMI)
-- [Node.js can do that?](https://www.youtube.com/watch?v=BKS4lDIhPaM)
 <!-- YOUTUBE:END -->
 
 
