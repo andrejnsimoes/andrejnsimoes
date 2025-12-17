@@ -45,7 +45,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [I Love This NEW Tanstack AI Library](https://www.youtube.com/watch?v=quoNVa88XfE)
+- [NEW Tanstack AI Library is Amazing!](https://www.youtube.com/watch?v=quoNVa88XfE)
 - [5 engineering anti-patterns that limit your career](https://www.youtube.com/watch?v=bhR0c3n7uZA)
 - [I&#39;ll never use n8n the same......](https://www.youtube.com/watch?v=s96JeuuwLzc)
 - [Como eu uso o Cursor para front-end &lpar;do Figma ao código&rpar;](https://www.youtube.com/watch?v=7_4GjIJNZCo)
