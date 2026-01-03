@@ -45,7 +45,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [What is a Passkey? - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
+- [How Passkeys Work - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
 - [TanStack, TanStack Start, and what&#39;s coming next | Tanner Linsley | PodRocket](https://www.youtube.com/watch?v=UKzEqXTcYr8)
 - [NEW Tanstack AI Library is Amazing!](https://www.youtube.com/watch?v=quoNVa88XfE)
 - [5 engineering anti-patterns that limit your career](https://www.youtube.com/watch?v=bhR0c3n7uZA)
