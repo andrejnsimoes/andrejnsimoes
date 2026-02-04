@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [AI mistakes you&#39;re probably making](https://www.youtube.com/watch?v=Jcuig8vhmx4)
+- [OpenCode setup: Beginner’s Crash course](https://www.youtube.com/watch?v=8toBNmRDO90)
 - [A brief history of programming...](https://www.youtube.com/watch?v=9uW6B9LPntY)
 - [My Honest Thoughts on AI and the Job Market in 2026](https://www.youtube.com/watch?v=CFI1ZnlHEFM)
 - [How Passkeys Work - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
-- [TanStack, TanStack Start, and what&#39;s coming next | Tanner Linsley | PodRocket](https://www.youtube.com/watch?v=UKzEqXTcYr8)
 <!-- YOUTUBE:END -->
 
 
