@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [The wild rise of OpenClaw...](https://www.youtube.com/watch?v=ssYt09bCgUY)
 - [AI mistakes you&#39;re probably making](https://www.youtube.com/watch?v=Jcuig8vhmx4)
 - [OpenCode setup: Beginner’s Crash course](https://www.youtube.com/watch?v=8toBNmRDO90)
 - [A brief history of programming...](https://www.youtube.com/watch?v=9uW6B9LPntY)
 - [My Honest Thoughts on AI and the Job Market in 2026](https://www.youtube.com/watch?v=CFI1ZnlHEFM)
-- [How Passkeys Work - Computerphile](https://www.youtube.com/watch?v=xYfiOnufBSk)
 <!-- YOUTUBE:END -->
 
 
