@@ -48,8 +48,8 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
 - [9 AI Concepts Explained in 7 minutes: AI Agents, RAGs, Tokenization, RLHF, Diffusion, LoRA...](https://www.youtube.com/watch?v=nVnxG10D5W0)
 - [The wild rise of OpenClaw...](https://www.youtube.com/watch?v=ssYt09bCgUY)
+- [My top 6 tips &amp; ways of using Claude Code efficiently](https://www.youtube.com/watch?v=WwdIYp5fuxY)
 - [AI mistakes you&#39;re probably making](https://www.youtube.com/watch?v=Jcuig8vhmx4)
-- [OpenCode setup: Beginner’s Crash course](https://www.youtube.com/watch?v=8toBNmRDO90)
 <!-- YOUTUBE:END -->
 
 
