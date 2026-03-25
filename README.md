@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Claude Code Tutorial - Build Apps 10x Faster with AI](https://www.youtube.com/watch?v=IuyVVtr1uhY)
 - [Conductor vs Superset vs cmux](https://www.youtube.com/watch?v=YfvuNUi8Hco)
 - [I almost quit YouTube....](https://www.youtube.com/watch?v=dbMXi9q78Tk)
 - [10 open source tools that feel illegal...](https://www.youtube.com/watch?v=Ukt2gVz25PQ)
 - [9 AI Concepts Explained in 7 minutes: AI Agents, RAGs, Tokenization, RLHF, Diffusion, LoRA...](https://www.youtube.com/watch?v=nVnxG10D5W0)
-- [The wild rise of OpenClaw...](https://www.youtube.com/watch?v=ssYt09bCgUY)
 <!-- YOUTUBE:END -->
 
 
