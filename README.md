@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Cursor ditches VS Code, but not everyone is happy...](https://www.youtube.com/watch?v=JSuS-zXMVwE)
 - [Tragic mistake... Anthropic leaks Claude’s source code](https://www.youtube.com/watch?v=mBHRPeg8zPU)
 - [Millions of JS devs just got penetrated by a RAT…](https://www.youtube.com/watch?v=o7NYXvYohYk)
 - [Claude Code Tutorial - Build Apps 10x Faster with AI](https://www.youtube.com/watch?v=IuyVVtr1uhY)
 - [Conductor vs Superset vs cmux](https://www.youtube.com/watch?v=YfvuNUi8Hco)
-- [I almost quit YouTube....](https://www.youtube.com/watch?v=dbMXi9q78Tk)
 <!-- YOUTUBE:END -->
 
 
