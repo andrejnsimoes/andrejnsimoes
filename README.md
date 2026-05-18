@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [AI Memory: Stop Building Stateless Agents](https://www.youtube.com/watch?v=whyz0m302ZI)
 - [The Best Local Agentic Coding Workflow &lpar;Complete Guide&rpar;](https://www.youtube.com/watch?v=UngVdAsQEiU)
 - [It Is Finally Happening](https://www.youtube.com/watch?v=c1cBGW_zoyQ)
 - [I finally found a use case for OpenClaw…](https://www.youtube.com/watch?v=FM5-R4VPArw)
 - [Claude Mythos is too dangerous for public consumption...](https://www.youtube.com/watch?v=d3Qq-rkp_to)
-- [Cursor ditches VS Code, but not everyone is happy...](https://www.youtube.com/watch?v=JSuS-zXMVwE)
 <!-- YOUTUBE:END -->
 
 
