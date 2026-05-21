@@ -45,7 +45,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [I&#39;m switching to Hermes &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
+- [you need to use Hermes RIGHT NOW!! &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
 - [AI Memory: Stop Building Stateless Agents](https://www.youtube.com/watch?v=whyz0m302ZI)
 - [The Best Local Agentic Coding Workflow &lpar;Complete Guide&rpar;](https://www.youtube.com/watch?v=UngVdAsQEiU)
 - [It Is Finally Happening](https://www.youtube.com/watch?v=c1cBGW_zoyQ)
