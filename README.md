@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Claude Code Crash Course For Developers](https://www.youtube.com/watch?v=C2GpeepcmYs)
 - [All 17 TanStack Projects In ONE App!](https://www.youtube.com/watch?v=J4kzovOTNKw)
 - [/handoff is the best skill of all time](https://www.youtube.com/watch?v=_WXc3gA8K6E)
 - [you need to use Hermes RIGHT NOW!! &lpar;goodbye OpenClaw!!&rpar;](https://www.youtube.com/watch?v=QQEgIo4Juxg)
 - [AI Memory: Stop Building Stateless Agents](https://www.youtube.com/watch?v=whyz0m302ZI)
-- [The Best Local Agentic Coding Workflow &lpar;Complete Guide&rpar;](https://www.youtube.com/watch?v=UngVdAsQEiU)
 <!-- YOUTUBE:END -->
 
 
