@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [My AI Tech Stack](https://www.youtube.com/watch?v=Jxq0CQk2rb0)
 - [Hermes Agent just reached Fable level… Mixture Of Agents](https://www.youtube.com/watch?v=40ikbH0Ba-g)
 - [Claude Code Crash Course For Developers](https://www.youtube.com/watch?v=C2GpeepcmYs)
 - [Matt Pocock’s Agentic Engineering Workflow &lpar;just copy him&rpar;](https://www.youtube.com/watch?v=nQwJVHCtDDY)
 - [All 17 TanStack Projects In ONE App!](https://www.youtube.com/watch?v=J4kzovOTNKw)
-- [/handoff is the best skill of all time](https://www.youtube.com/watch?v=_WXc3gA8K6E)
 <!-- YOUTUBE:END -->
 
 
