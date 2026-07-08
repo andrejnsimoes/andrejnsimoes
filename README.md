@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [He&#39;s right, LLM Knowledge Bases are incredible.](https://www.youtube.com/watch?v=cxdjY_42lHA)
+- [12 Important Concepts In the Age of AI Software Development](https://www.youtube.com/watch?v=IJ-FAcYq_08)
 - [My AI Tech Stack](https://www.youtube.com/watch?v=Jxq0CQk2rb0)
 - [Hermes Agent just reached Fable level… Mixture Of Agents](https://www.youtube.com/watch?v=40ikbH0Ba-g)
 - [Claude Code Crash Course For Developers](https://www.youtube.com/watch?v=C2GpeepcmYs)
-- [Matt Pocock’s Agentic Engineering Workflow &lpar;just copy him&rpar;](https://www.youtube.com/watch?v=nQwJVHCtDDY)
-- [All 17 TanStack Projects In ONE App!](https://www.youtube.com/watch?v=J4kzovOTNKw)
 <!-- YOUTUBE:END -->
 
 
