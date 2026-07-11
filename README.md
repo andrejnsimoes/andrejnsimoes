@@ -46,7 +46,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [I Let Claude Fable 5 Run a Business Alone for 6 Days](https://www.youtube.com/watch?v=x-hI_k2JFRc)
-- [He&#39;s right, LLM Knowledge Bases are incredible.](https://www.youtube.com/watch?v=cxdjY_42lHA)
+- [The Obsidian heads were right.](https://www.youtube.com/watch?v=cxdjY_42lHA)
 - [12 Important Concepts In the Age of AI Software Development](https://www.youtube.com/watch?v=IJ-FAcYq_08)
 - [My AI Tech Stack](https://www.youtube.com/watch?v=Jxq0CQk2rb0)
 - [Hermes Agent just reached Fable level… Mixture Of Agents](https://www.youtube.com/watch?v=40ikbH0Ba-g)
