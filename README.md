@@ -46,10 +46,10 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 
 <!-- YOUTUBE:START -->
 - [OpenAI is so back... GPT 5.6 Sol first look](https://www.youtube.com/watch?v=URKml8lgw8Y)
+- [What Top 1% of Agentic Engineers Do Differently](https://www.youtube.com/watch?v=EWk9PBbKqzc)
 - [I Let Claude Fable 5 Run a Business Alone for 6 Days](https://www.youtube.com/watch?v=x-hI_k2JFRc)
+- [New Skills! v1.1 brings /wayfinder, /research, /implement, /to-spec, /to-tickets](https://www.youtube.com/watch?v=A8mokin_YOs)
 - [The Obsidian heads were right.](https://www.youtube.com/watch?v=cxdjY_42lHA)
-- [12 Important Concepts In the Age of AI Software Development](https://www.youtube.com/watch?v=IJ-FAcYq_08)
-- [My AI Tech Stack](https://www.youtube.com/watch?v=Jxq0CQk2rb0)
 <!-- YOUTUBE:END -->
 
 
