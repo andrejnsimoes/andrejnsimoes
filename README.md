@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [OpenAI is so back... GPT 5.6 Sol first look](https://www.youtube.com/watch?v=URKml8lgw8Y)
 - [I Let Claude Fable 5 Run a Business Alone for 6 Days](https://www.youtube.com/watch?v=x-hI_k2JFRc)
 - [The Obsidian heads were right.](https://www.youtube.com/watch?v=cxdjY_42lHA)
 - [12 Important Concepts In the Age of AI Software Development](https://www.youtube.com/watch?v=IJ-FAcYq_08)
 - [My AI Tech Stack](https://www.youtube.com/watch?v=Jxq0CQk2rb0)
-- [Hermes Agent just reached Fable level… Mixture Of Agents](https://www.youtube.com/watch?v=40ikbH0Ba-g)
 <!-- YOUTUBE:END -->
 
 
