@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Open-weight AI just hit 2.8 trillion parameters…](https://www.youtube.com/watch?v=YP73B9D20V4)
 - [First loops, now software factories? I can&#39;t keep up...](https://www.youtube.com/watch?v=ucWRQ1yf6HE)
 - [herdr is a must use](https://www.youtube.com/watch?v=2CR9tDNAzB0)
 - [OpenAI is so back... GPT 5.6 Sol first look](https://www.youtube.com/watch?v=URKml8lgw8Y)
 - [What Top 1% of Agentic Engineers Do Differently](https://www.youtube.com/watch?v=EWk9PBbKqzc)
-- [I Let Claude Fable 5 Run a Business Alone for 6 Days](https://www.youtube.com/watch?v=x-hI_k2JFRc)
 <!-- YOUTUBE:END -->
 
 
