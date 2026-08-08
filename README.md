@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [I barely review the code anymore after I added these skills](https://www.youtube.com/watch?v=7ktaOZqeCmI)
 - [Here&#39;s why I like Pi](https://www.youtube.com/watch?v=o8-EgQhqdU0)
 - [Programmer tests Claude vs GPT vs Grok: I&#39;m surprised!](https://www.youtube.com/watch?v=oc-ZdBP_Lqo)
 - [Open-weight AI just hit 2.8 trillion parameters…](https://www.youtube.com/watch?v=YP73B9D20V4)
 - [First loops, now software factories? I can&#39;t keep up...](https://www.youtube.com/watch?v=ucWRQ1yf6HE)
-- [herdr is a must use](https://www.youtube.com/watch?v=2CR9tDNAzB0)
 <!-- YOUTUBE:END -->
 
 
