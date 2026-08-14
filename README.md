@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
 - [your home router STILL SUCKS!! &lpar;use OPNsense instead&rpar;](https://www.youtube.com/watch?v=a3RI4DjFBzw)
 - [Self-hosted Cloudflare?](https://www.youtube.com/watch?v=G-v1hkQ8Sf8)
 - [A Better Way to Build Software with AI &lpar;Full Tutorial &amp; Workflow&rpar;](https://www.youtube.com/watch?v=L4g6GGLzAyo)
 - [I barely review the code anymore after I added these skills](https://www.youtube.com/watch?v=7ktaOZqeCmI)
-- [Ex-NASA dev reveals his Agentic Engineering Workflow](https://www.youtube.com/watch?v=xgkjtF89-44)
 <!-- YOUTUBE:END -->
 
 
