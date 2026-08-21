@@ -49,7 +49,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
 - [From Chrome DevTools to AI Engineering, with Addy Osmani](https://www.youtube.com/watch?v=2fyPnxKu8ZM)
 - [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
-- [your home router STILL SUCKS!! &lpar;use OPNsense instead&rpar;](https://www.youtube.com/watch?v=a3RI4DjFBzw)
+- [Your Router Might Be Hacked… Here’s What To Do](https://www.youtube.com/watch?v=a3RI4DjFBzw)
 <!-- YOUTUBE:END -->
 
 
