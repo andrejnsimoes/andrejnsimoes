@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501](https://www.youtube.com/watch?v=NYFGCESmikA)
+- [Qwen3.8 27B is something else..](https://www.youtube.com/watch?v=3WbXyUolFA0)
 - [You need to switch to Linux RIGHT NOW!!](https://www.youtube.com/watch?v=9SDkU5VDQEQ)
 - [Meet Pi: The Minimalist, Self-Modifying Coding Agent](https://www.youtube.com/watch?v=RKHaecOi0CA)
 - [The summer Math fell to the machines...](https://www.youtube.com/watch?v=iuZPTE5qsJY)
-- [From Chrome DevTools to AI Engineering, with Addy Osmani](https://www.youtube.com/watch?v=2fyPnxKu8ZM)
-- [This new startup can query anywhere you&#39;ve been...](https://www.youtube.com/watch?v=E7la7-dtfVM)
 <!-- YOUTUBE:END -->
 
 
