@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [My Agentic Engineering Workflow &lpar;after 6,775 sessions&rpar;](https://www.youtube.com/watch?v=c9nRxEy1kUY)
 - [Secret to 10x productivity with AI agents: Why most companies fail | DHH and Lex Fridman](https://www.youtube.com/watch?v=GQjVGFYei9M)
 - [OpenClaw Went Viral. Meet the Maintainers Building and Securing It.](https://www.youtube.com/watch?v=5VSwaUXtPIE)
 - [DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding &amp; Linux | Lex Fridman Podcast #501](https://www.youtube.com/watch?v=NYFGCESmikA)
 - [Qwen3.8 27B is something else..](https://www.youtube.com/watch?v=3WbXyUolFA0)
-- [Omarchy Quattro Release ⟡ Cursor Tries to Replace Github ⟡ Grokbot Doesn’t Suck ⌁ Syntax Weekly ⌁](https://www.youtube.com/watch?v=EGv6INolB2c)
 <!-- YOUTUBE:END -->
 
 
