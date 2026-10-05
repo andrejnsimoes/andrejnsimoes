@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [New Skills! v1.3 brings /pr, /implement-spec, and /retro](https://www.youtube.com/watch?v=BsJGo1wFTvQ)
 - [The one OpenAI announcement that can actually make you money...](https://www.youtube.com/watch?v=No-JPdFvYWU)
 - [Stop treating Opus 5.5 like the other AI models](https://www.youtube.com/watch?v=51Eb4EtGqrI)
 - [You MUST learn and use Effect now!](https://www.youtube.com/watch?v=tT_JLVgJiyw)
 - [I built the same game with Astra and Fable 5.1... only one was fun](https://www.youtube.com/watch?v=2Xiljy4xzbc)
-- [5 open source tools that replaced my $320/mo AI stack...](https://www.youtube.com/watch?v=Y5rSSvXfL4g)
 <!-- YOUTUBE:END -->
 
 
