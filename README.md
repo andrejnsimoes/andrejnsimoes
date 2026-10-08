@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [A $6.3 billion open-weight model just got embarrassed by the French...](https://www.youtube.com/watch?v=WrCjAAl9okA)
 - [The state of the tech industry in 2026 - LDX3 New York](https://www.youtube.com/watch?v=Ru99FGJ_yuE)
 - [PewDiePie is setting AI free... and OpenAI is furious](https://www.youtube.com/watch?v=_5p1_TNSWqQ)
 - [New Skills! v1.3 brings /pr, /implement-spec, and /retro](https://www.youtube.com/watch?v=BsJGo1wFTvQ)
 - [The one OpenAI announcement that can actually make you money...](https://www.youtube.com/watch?v=No-JPdFvYWU)
-- [DHH has gone completely off the rails...](https://www.youtube.com/watch?v=OuNKBjuV7A4)
 <!-- YOUTUBE:END -->
 
 
