@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [Matt Pocock: The Most Valuable Skill to Learn in the Age of AI](https://www.youtube.com/watch?v=Z8lf5oWKfj0)
 - [You need to check out Pi Durable](https://www.youtube.com/watch?v=BLRReTwV8Fc)
+- [Stop coding, build Software Factories instead](https://www.youtube.com/watch?v=ZHOmBeMNbnc)
+- [How Warp Builds Warp using Warp Factories](https://www.youtube.com/watch?v=KoK2v5JHSeQ)
 - [A $6.3 billion open-weight model just got embarrassed by the French...](https://www.youtube.com/watch?v=WrCjAAl9okA)
-- [The state of the tech industry in 2026 - LDX3 New York](https://www.youtube.com/watch?v=Ru99FGJ_yuE)
-- [PewDiePie is setting AI free... and OpenAI is furious](https://www.youtube.com/watch?v=_5p1_TNSWqQ)
-- [New Skills! v1.3 brings /pr, /implement-spec, and /retro](https://www.youtube.com/watch?v=BsJGo1wFTvQ)
 <!-- YOUTUBE:END -->
 
 
