@@ -45,11 +45,11 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [How to Build an AI Software Factory That Ships Faster](https://www.youtube.com/watch?v=XUEfIxkdT2Q)
 - [How to 3D Model your entire house](https://www.youtube.com/watch?v=JGQCcCzuS88)
 - [I Gave Claude Code Control of My TV](https://www.youtube.com/watch?v=i0ytu6k8uac)
 - [Matt Pocock: The Most Valuable Skill to Learn in the Age of AI](https://www.youtube.com/watch?v=Z8lf5oWKfj0)
 - [You need to check out Pi Durable](https://www.youtube.com/watch?v=BLRReTwV8Fc)
-- [The runtime wars are over... and Node won](https://www.youtube.com/watch?v=l3L_lETiSzc)
 <!-- YOUTUBE:END -->
 
 
