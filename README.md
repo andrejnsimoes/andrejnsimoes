@@ -47,7 +47,7 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 <!-- YOUTUBE:START -->
 - [Software factories are missing this](https://www.youtube.com/watch?v=XUEfIxkdT2Q)
 - [my office is complete](https://www.youtube.com/watch?v=JGQCcCzuS88)
-- [I Gave Claude Code Control of My TV](https://www.youtube.com/watch?v=i0ytu6k8uac)
+- [I Built My Own TV Operating System With Claude Code](https://www.youtube.com/watch?v=i0ytu6k8uac)
 - [Matt Pocock: The Most Valuable Skill to Learn in the Age of AI](https://www.youtube.com/watch?v=Z8lf5oWKfj0)
 - [You need to check out Pi Durable](https://www.youtube.com/watch?v=BLRReTwV8Fc)
 <!-- YOUTUBE:END -->
