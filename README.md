@@ -4,13 +4,20 @@ Frontend engineer who likes the hard parts of the browser: real-time voice, apps
 
 **Last 3 years, roughly in order:**
 
-- 📞 **Real-time voice in the browser** — a WebRTC softphone and its SDK: call controls, ringing and device handling, headset button support (hold/unhold), disconnect/reconnect recovery, and running inside Citrix/VDI
-- 🧩 **Micro-frontends at scale** — Nx monorepo plus a module-federated shell that hosts dozens of apps in one workspace; later moved the SDK to a Vite/ESM build and prototyped scoped SDK connections per module
-- 🎨 **Design systems & accessibility** — contributing to a React Aria–based component library, with a focus on WCAG-compliant components
-- 🖥️ **Desktop & notifications** — Electron app releases, OS notifications with click-to-focus, a headless agent status bar
-- 📈 **Observability** — Dynatrace dashboards and custom metrics, so production issues show up on a graph before they show up in a ticket
-- 🚢 **Release & CI hygiene** — release-please, Dependabot guardrails, Node 18 → 22 migrations, Snyk, faster pipelines
-- 🤖 **Agentic engineering** — a multi-agent workflow platform (spec → plan → implement → PR) and reusable agent skills, like automated merge-risk assessment
+- 📞 **Real-time voice in the browser**
+  - a WebRTC softphone and its SDK: call controls, ringing and device handling, headset button support (hold/unhold), disconnect/reconnect recovery, and running inside Citrix/VDI
+- 🧩 **Micro-frontends at scale**
+  - Nx monorepo plus a module-federated shell that hosts dozens of apps in one workspace; later moved the SDK to a Vite/ESM build and prototyped scoped SDK connections per module
+- 🎨 **Design systems & accessibility**
+  - contributing to a React Aria–based component library, with a focus on WCAG-compliant components
+- 🖥️ **Desktop & notifications**
+  - Electron app releases, OS notifications with click-to-focus, a headless agent status bar
+- 📈 **Observability**
+  - Dynatrace dashboards and custom metrics, so production issues show up on a graph before they show up in a ticket
+- 🚢 **Release & CI hygiene**
+  - release-please, Dependabot guardrails, Node 18 → 22 migrations, Snyk, faster pipelines
+- 🤖 **Agentic engineering**
+  - a multi-agent workflow platform (spec → plan → implement → PR) and reusable agent skills, like automated merge-risk assessment
 
 Currently exploring: agent skills as a team baseline, LLM-maintained docs, and how to tell whether an AI-generated PR is actually safe to merge.
 
@@ -26,11 +33,8 @@ Currently exploring: agent skills as a team baseline, LLM-maintained docs, and h
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![React Aria](https://img.shields.io/badge/React_Aria-E1251B?logo=adobe&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
-![Nx](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-1C78C0?logo=webpack&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
