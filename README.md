@@ -1,34 +1,42 @@
-### Hi there 🙂👋
-I am a passionate Frontend Engineer dedicated to leveraging cutting-edge technologies to provide innovative solutions for challenging problems. With years of experience, I specialize in architecting and developing thoroughly tested web applications and have a proven track record of building teams from the ground up.
+### Hi there 👋 I'm André
 
-I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend developers, and system architects. The constant learning and dynamic interactions with various teams are both engaging and rewarding.
+Frontend engineer who likes the hard parts of the browser: real-time voice, apps that host other apps, and design systems people can actually use. Lately I've been building the tooling that lets AI agents ship code alongside us.
 
-### Connect with me:
+**Last 3 years, roughly in order:**
 
-[<img align="left" alt="teklinks.andrejnsimoes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="andrejnsimoes | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="andrejnsimoes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📞 **Real-time voice in the browser** — a WebRTC softphone and its SDK: call controls, ringing and device handling, headset button support (hold/unhold), disconnect/reconnect recovery, and running inside Citrix/VDI
+- 🧩 **Micro-frontends at scale** — Nx monorepo plus a module-federated shell that hosts dozens of apps in one workspace; later moved the SDK to a Vite/ESM build and prototyped scoped SDK connections per module
+- 🎨 **Design systems & accessibility** — contributing to a React Aria–based component library, with a focus on WCAG-compliant components
+- 🖥️ **Desktop & notifications** — Electron app releases, OS notifications with click-to-focus, a headless agent status bar
+- 📈 **Observability** — Dynatrace dashboards and custom metrics, so production issues show up on a graph before they show up in a ticket
+- 🚢 **Release & CI hygiene** — release-please, Dependabot guardrails, Node 18 → 22 migrations, Snyk, faster pipelines
+- 🤖 **Agentic engineering** — a multi-agent workflow platform (spec → plan → implement → PR) and reusable agent skills, like automated merge-risk assessment
 
-<br />
+Currently exploring: agent skills as a team baseline, LLM-maintained docs, and how to tell whether an AI-generated PR is actually safe to merge.
 
-### Languages and Tools:
+### Connect with me
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
-<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" />][website]
+[<img align="left" alt="X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-<br />
+
+### Tools I use daily
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![React Aria](https://img.shields.io/badge/React_Aria-E1251B?logo=adobe&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-1C78C0?logo=webpack&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?logo=dynatrace&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=anthropic&logoColor=white)
 
 ---
 
@@ -52,7 +60,6 @@ I thrive on close collaboration with UI/UX and marketing teams, DevOps, backend 
 - [China just dropped a new frontier model... and nobody can explain how](https://www.youtube.com/watch?v=G_em1hHPnXY)
 <!-- YOUTUBE:END -->
 
-
 [website]: https://teklinks.andrejnsimoes.com
-[twitter]: https://twitter.com/andrejnsimoes
+[twitter]: https://x.com/andrejnsimoes
 [linkedin]: https://linkedin.com/in/andrejnsimoes
