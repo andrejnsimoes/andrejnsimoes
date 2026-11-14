@@ -58,10 +58,10 @@ Currently exploring: agent skills as a team baseline, LLM-maintained docs, and h
 
 <!-- YOUTUBE:START -->
 - [Build a Better Software Factory with Claude Code](https://www.youtube.com/watch?v=RiaTyJ2POVo)
+- [Elephant-Goldfish vs Spec Kit, OpenSpec &amp; Superpowers](https://www.youtube.com/watch?v=6loAUS0TXOc)
 - [Everything announced at the Github Universe Keynote](https://www.youtube.com/watch?v=XPnpzSA8RlI)
 - [Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)
 - [How to evaluate your WebMCP tools](https://www.youtube.com/watch?v=2jb6D2yhdis)
-- [why EVERYONE is copying this](https://www.youtube.com/watch?v=Ck7wB7pdebQ)
 <!-- YOUTUBE:END -->
 
 [website]: https://teklinks.andrejnsimoes.com
