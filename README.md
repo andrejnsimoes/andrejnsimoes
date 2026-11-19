@@ -57,11 +57,11 @@ Currently exploring: agent skills as a team baseline, LLM-maintained docs, and h
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
+- [I&#39;m gonna miss coding](https://www.youtube.com/watch?v=TDoXk7o3rxs)
 - [Watch me ship a 21,000-line feature with mattpocock/skills](https://www.youtube.com/watch?v=jVBlkOF8sHk)
 - [Build a Better Software Factory with Claude Code](https://www.youtube.com/watch?v=RiaTyJ2POVo)
 - [Elephant-Goldfish vs Spec Kit, OpenSpec &amp; Superpowers](https://www.youtube.com/watch?v=6loAUS0TXOc)
 - [Everything announced at the Github Universe Keynote](https://www.youtube.com/watch?v=XPnpzSA8RlI)
-- [Did the AI bubble just pop?](https://www.youtube.com/watch?v=nEaJMdM1djM)
 <!-- YOUTUBE:END -->
 
 [website]: https://teklinks.andrejnsimoes.com
