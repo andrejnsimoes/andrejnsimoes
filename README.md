@@ -57,11 +57,11 @@ Currently exploring: agent skills as a team baseline, LLM-maintained docs, and h
 ### 📺 What I'm watching
 
 <!-- YOUTUBE:START -->
-- [I&#39;m gonna miss coding](https://www.youtube.com/watch?v=TDoXk7o3rxs)
-- [Watch me ship a 21,000-line feature with mattpocock/skills](https://www.youtube.com/watch?v=jVBlkOF8sHk)
-- [Build a Better Software Factory with Claude Code](https://www.youtube.com/watch?v=RiaTyJ2POVo)
-- [Elephant-Goldfish vs Spec Kit, OpenSpec &amp; Superpowers](https://www.youtube.com/watch?v=6loAUS0TXOc)
-- [Everything announced at the Github Universe Keynote](https://www.youtube.com/watch?v=XPnpzSA8RlI)
+- [The End of Code Review](https://www.youtube.com/watch?v=UA3qEfR11zM)
+- [Opus just lost to the last company you&#39;d expect...](https://www.youtube.com/watch?v=jP9yjEDlc4k)
+- [TypeScript Crash Course 2027: Everything You Need To Know](https://www.youtube.com/watch?v=NNS4a9_nY44)
+- [Build the Workshop Before the Software Factory — Armin Ronacher, Earendil](https://www.youtube.com/watch?v=JNexz3Tbiu8)
+- [How to choose between DevTools CLI and MCP for coding agents](https://www.youtube.com/watch?v=CnAxiSFQ9GY)
 <!-- YOUTUBE:END -->
 
 [website]: https://teklinks.andrejnsimoes.com
